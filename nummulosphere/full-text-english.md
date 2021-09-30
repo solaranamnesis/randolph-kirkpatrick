@@ -38,4 +38,8 @@ The waters of the ocean receded, either by evaporation or by being whisked off b
 
 *) For simplification, no mention is made above of "transition" rocks between primitive and secondary or Floetz.
 
+So far, then, according to the opinion prevailing at that time, the earth's crust owed its origin solely to the agency of water, from which it had been chemically and mechanically precipitated.
+
+A totally different view had been slowly maturing, however, and presently began to make its influence felt.
+
 ...
