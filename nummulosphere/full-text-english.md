@@ -24,4 +24,6 @@ Huxley was fond of saying there seemed to be no limit to the possibilities of Na
 
 The significance of the newly found facts will best be shown by means of a brief survey of certain matters of geological history. 
 
+##### Neptune _versus_ Pluto
+
 ...
