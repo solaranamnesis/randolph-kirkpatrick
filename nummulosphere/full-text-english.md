@@ -10,4 +10,6 @@
 
 (Done into English Prose by S. H. Butcher and A. Lang.)
 
+London: Printed by William Clowes and Sons, Limited, Duke Street, Stamford Street, S.E., and Great Windmill Street. W
+
 ...
