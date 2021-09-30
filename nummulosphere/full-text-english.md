@@ -14,4 +14,6 @@ London: Printed by William Clowes and Sons, Limited, Duke Street, Stamford Stree
 
 #### Introduction
 
+"What is wanted is, in fact, the skilled eye guided by a brain. _Hence the need of a long and patient training of the sense of sight_, attentive and reasoning observation of the phenomena to which it is directed, perfect sincerity, the entire abandonment of preconceived ideas, all united to a passionate love for science and truth." "A Day in the Moon," by the Abbé Th. Moreux, Director of the Bourges Observatory. [Transl.]
+
 ...
