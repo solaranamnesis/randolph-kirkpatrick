@@ -18,4 +18,6 @@ London: Printed by William Clowes and Sons, Limited, Duke Street, Stamford Stree
 
 The foundations on which the stately edifice of modern geological science is supported are to a certain extent unsound, though easily to be made secure.
 
+A discovery, and one, too, of a very simple nature, has recently been made, which will inevitably bring about a revolution in our ideas concerning the nature and origin of by far the greater part of the planetary crust, and will modify our conceptions even of cosmic evolution. The discovery referred to is that of the organic origin of igneous rocks and meteorites.
+
 ...
