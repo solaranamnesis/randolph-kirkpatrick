@@ -26,4 +26,8 @@ The significance of the newly found facts will best be shown by means of a brief
 
 ##### Neptune _versus_ Pluto
 
+In many parts of the world,* a traveller journeying from the coast or the plains, preferably along the course of a river, to some great range of mountains, will probably first meet with mud-flats, sands and gravels. On reaching the hills and outer zone of the mountain-massif, the rocks will perhaps be found arranged in more or less horizontal layers of shales, sandstones, conglomerates, limestones, etc., all of them evidently being hardened sediments or precipitates which, had formerly been laid down in water. The rocks forming the core of the mountain chain will be in steeply inclined layers of dense, finely-crystalline texture or in coarsely-crystalline unstratified masses. Lastly, active or extinct volcanoes, the sources of congealed rivers of once-molten rock, may be met with; and rocks resembling the volcanic will be seen as dykes or layers (sills) among the sedimentary rocks. Obviously the softer and looser sediments on the plains would be more recent than the more compact strata of sedimentary rocks higher up, the latter, again, being less ancient than the very dense crystalline rocks which they partly overlap on the flanks of the mountains. 
+
+*) See Appendix, Note F.
+
 ...
