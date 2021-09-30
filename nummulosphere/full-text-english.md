@@ -34,4 +34,8 @@ Werner (1749-1817), the renowned professor of mineralogy at the mining school of
 
 The waters of the ocean receded, either by evaporation or by being whisked off by some comet or other heavenly body, or possibly by disappearing into an excavation* in the globe. All the primitive layers being in place, the sedimentary strata now became deposited, mainly by _mechanical_ but partly by chemical means, in the agitated waters.* Volcanic eruptions were merely superficial recent and local phenomena due to combustion of deposits of coal or bitumen, the lava being a water-formed rock altered by heat.
 
+*) Behälter, a reservoir.
+
+*) For simplification, no mention is made above of "transition" rocks between primitive and secondary or Floetz.
+
 ...
