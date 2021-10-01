@@ -124,13 +124,13 @@ The whole slide shows nothing else than nummulitic shell structure throughout.
 
 The photos were originally taken to show light and dark areas with continuity of structure throughout light and dark, thereby showing the light spaces could hardly be former polyp tubes filled in with calcite. Figs. 1, 2, represent each an area of 0.5 mm. (1/50 of an inch). Owing to the remarkable character of repetition on a continually increasing or diminishing scale, nummulitic structure has somewhat the same aspect under very low or very high powers. A very small area highly magnified may reveal a surprising amount of structure. Fig. 2 shows strands of curved marginal cord passing from side to side and "septa" of spirodisk from above downwards. Notice in central part of lower half of Fig. 2 a well-defined broad oval ring lying sideways. In the interior of the right end of the oval are six or seven very well-defined little disks in succession round the bend. Arches, bands and disks visible over the field.
 
-[Plate 5: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5-FigureA.png)
+[Plate 5: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5-FigureA.png) — Permian concretions (Fulwell) and Devonian Stromatoporoids compared. Permian concretions in elevation and trans-section. Devonian of Buchel [Buechel]. About natural size.
 
-[Plate 5: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5-FigureB.png)
+[Plate 5: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5-FigureB.png) — Permian concretions (Fulwell) and Devonian Stromatoporoids compared. Permian concretions in elevation and trans-section. Devonian of Buchel. About natural size.
 
-[Plate 5: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5-FigureC.png)
+[Plate 5: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5-FigureC.png) — Permian concretions (Fulwell) and Devonian Stromatoporoids compared. The Stromatoporoid _Idiostroma oculatum_. Devonian of Buchel. About natural size.
 
-[Plate 5: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5-FigureD.png)
+[Plate 5: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5-FigureD.png) — Permian concretions (Fulwell) and Devonian Stromatoporoids compared. The Stromatoporoid _Idiostroma oculatum_. Devonian of Buchel. About natural size.
 
 [Plate 5A: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5A-FigureA.png)
 
