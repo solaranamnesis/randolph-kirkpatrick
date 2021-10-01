@@ -274,23 +274,27 @@ _Note_. — This plate is one of the most interesting of the set. The sections w
 
 _Note regarding Fig. "E," as marked on plate_. — E is the right half of the divided figure, and E' the left half (marked E on plate). See guide diagram.
 
-[Plate 24: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureA.png)
+[Plate 24: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureA.png) — Growing root-tip of bean, stained with iron-haematoxylin. X 2500. At lower end of the great nucleus in B is a rouleau of three large spirodisks obliquely on edge.
 
-[Plate 24: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureB.png)
+[Plate 24: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureB.png) — Growing root-tip of bean, stained with iron-haematoxylin. X 2500. At lower end of the great nucleus in B is a rouleau of three large spirodisks obliquely on edge.
 
-[Plate 24: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureC.png)
+[Plate 24: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureC.png) — Growing root-tip of bean, stained with iron-haematoxylin. X 1500. Some of these figures show fairly well the spirodiscoid structure both in nucleus and cytoplasm.
 
-[Plate 24: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureD.png)
+[Plate 24: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureD.png) — Growing root-tip of bean, stained with iron-haematoxylin. X 1500. Some of these figures show fairly well the spirodiscoid structure both in nucleus and cytoplasm.
 
-[Plate 24: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureE.png)
+[Plate 24: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureE.png) — Growing root-tip of bean, stained with iron-haematoxylin. X 1500. Some of these figures show fairly well the spirodiscoid structure both in nucleus and cytoplasm.
 
-[Plate 24: Figure F](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureF.png)
+[Plate 24: Figure F](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureF.png) — Growing root-tip of bean, stained with iron-haematoxylin. X 1500. Some of these figures show fairly well the spirodiscoid structure both in nucleus and cytoplasm.
 
-[Plate 24: Figure G](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureG.png)
+[Plate 24: Figure G](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureG.png) — Growing root-tip of bean, stained with iron-haematoxylin. X 1500. Some of these figures show fairly well the spirodiscoid structure both in nucleus and cytoplasm.
 
-[Plate 24: Figure H](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureH.png)
+[Plate 24: Figure H](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureH.png) — Ganglion cells of grey matter of human brain. X 1500. The pictures are far too dark (and not so good as the negatives). The spirodisk structure is clearly visible in the preparations, for which I have to thank Dr. R. S. Trevor of the Pathological Laboratory, St. George's Hospital.
 
-[Plate 24: Figure J](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureJ.png)
+[Plate 24: Figure J](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureJ.png) — Ganglion cells of grey matter of human brain. X 1500. The pictures are far too dark (and not so good as the negatives). The spirodisk structure is clearly visible in the preparations, for which I have to thank Dr. R. S. Trevor of the Pathological Laboratory, St. George's Hospital.
+
+_Note_. — The above figures are best viewed under a strong light, and with a lens magnifying only 2 diameters (about 6-inch focus). 
+
+If the pictures fail to convince — though C-G are fairly good — it is only necessary to examine, under oil immersion, any vegetable or animal cells or tissues to learn that the physical basis of life has a spirodiscoid structure.
 
 [Figure 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig2.png)
 
