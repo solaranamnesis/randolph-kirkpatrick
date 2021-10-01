@@ -326,7 +326,7 @@ If the pictures fail to convince — though C-G are fairly good — it is only n
 
 [Figure 14](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig14.png) — _Globigerina bulloides_, 175x. (From photo.)
 
-[Figure 15](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig15.png) —
+[Figure 15](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig15.png) — A-E. Various species of nummulites small and large, whole and in perpendicular and transverse section. (After d'Archiac and de la Harpe.) A. _N. variolaria_, nat. size. B. _N. curvispira_, 4x. C. _N. curvispira_, _a_, _b_, _d_, nat. size; _c_, 4x; _e_, 2x; in various aspects. This species really megalospheric phase of _N. gizehensis_. D. _N. guettardi_, _a_, _b_, _c_, nat. size; _d_, 4x. E. _N. gizehensis_ in microspheric phase. _a_, _b_, shell nat. size. _c_ alar prolongations on peripheral part of surface of an interior coil of spiral lamina, 4x. F. _N. (Operculina) murchisoni_, with only a few rapidly-widening turns of spira, _a_, nat. size, _b_, trans. sect., 2x.
 
 [Figure 16](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig16.png) —
 
