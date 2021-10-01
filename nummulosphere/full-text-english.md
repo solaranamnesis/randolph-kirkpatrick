@@ -46,6 +46,16 @@ Thirty years before the rise of the Wernerian doctrines, the great French invest
 
 The curious black columnar rock called "Basalt" — the name given to it by Pliny — was known to exist in various parts of Europe, at Giants' Causeway, and Fingal's Cave. Sometimes the rock forms the flat summit of a hill, and sometimes is sandwiched between layers of sedimentary rock. What was the origin of this mysterious black vitreous or very finely crystalline columnar rock, so different from the shales, sandstones and limestones? Certainly basalt had some resemblance to lava, yet apparently there were no traces of volcanic action where basalt was found, especially no remains of cones or craters. Lava was porous and full of cavities, and basalt homogeneous; and, further, lava was supposed not to be columnar. Guettard looked upon basalt as an aqueous rock that had been deposited from water by crystallization, and even twenty years after his discovery of the extinct volcanoes he defended this view. Geikie* comments on the whimsical circumstance of one and the same man being the parent of two diametrically opposed schools — the Neptunists and Vulcanists.
 
+In 1763 Desmarest visited Auvergne, and discovered unmistakable lava-flows showing distinct columnar structure. He realized at once that he had found the answer to the riddle of the origin of basalt, viz., that the rock was volcanic. He unravelled with wonderful skill the complicated tangle of phenomena displayed before him. In the most recent eruptions the lava-streams were still connected with the craters whence they had flowed, and scoriae remained. In the case of older lava-flows the cones and ashes had all been washed away, and the lava cut into by deep valleys. Lava which, perhaps, had once flowed down into some ancient valley now capped high hills or plateaux. Lastly, the oldest lava was buried beneath piles of sedimentary strata.
+
+Desmarest traced all these great changes to the ceaseless operation of the agencies of denudation. It was now easy to account for the isolated masses and patches of basalt found in localities whence all other traces of volcanic action had disappeared.
+
+In spite of Desmarest's splendid work a fierce controversy arose concerning the origin of basalt, the upholders of the theory of aqueous origin being termed Neptunists and the believers in the volcanic origin Vulcanists. The visits of some of Werner's most distinguished disciples, for instance von Buch and d'Aubuisson, to Auvergne, and the perplexities that assailed them, recall the story of Balaam. They came, perhaps, to curse, but went away bestowing approval on the Vulcanists.
+
+So far as basalt was concerned, the views of the Neptunists gradually became discredited; but a still greater defeat was in store for them.*
+
+Werner ignored the existence of great subterranean forces. The mountains were simply huge heaps of matter deposited in situ from the ocean.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
