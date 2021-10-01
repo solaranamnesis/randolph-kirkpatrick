@@ -218,11 +218,11 @@ Careful study will show the ridged band of a "marginal cord" like a spirally wou
 
 [Plate 18: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate18-FigureB.png)
 
-[Plate 19: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate19-FigureA.png)
+[Plate 19: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate19-FigureA.png) — Section of "Wold Cottage" meteorite, X 4. To left of middle of upper half of picture is a well-marked coil of marginal cord about two inches across and in slightly oblique perspective. Right half of coil shows (like a motor-car tyre) a curve from above down and also from side to side; parallel ridges well seen, also parts of septa across breadth, and spirodisks of which the whole shell is built. Within and nearly concentric with above coil is a smaller one near centre of the shell; and without and nearly concentric a much larger and less clearly denned marginal cord. The field where not too dark is crowded with nummulitic, including spirodisk structure (see, for instance, double band of disks crossing a marginal cord, just above centre of lower border of photograph).
 
-[Plate 19: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate19-FigureB.png)
+[Plate 19: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate19-FigureB.png) — Section of Ensisheim meteorite, X 4. Nummulitic structure is abundant, but less clear than in the "Wold Cottage" meteorite.
 
-[Plate 19: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate19-FigureC.png)
+[Plate 19: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate19-FigureC.png) — Dresden syenite. Section showing portions of broad band-like coils of marginal cord and also septa. X 95.
 
 [Plate 20: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureA.png)
 
