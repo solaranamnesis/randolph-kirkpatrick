@@ -180,7 +180,7 @@ The photos were originally taken to show light and dark areas with continuity of
 
 [Plate 13: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate13-FigureB.png) — Section of Melbourn Rock (Middle Chalk) to show circular and oval "spheres," 65x. These "bodies" are simply clarified areas in nummulitic rock. The areas are usually discoidal, and not spheres either whole or in section. Nummulitic structure exists in the clear spaces, and can often be traced from light to dark areas. (See also Pl. 23 Fig. H.)
 
-[Plate 13: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate13-FigureC.png) — Weathered surface of a lump of _Eozoon canadense_, i.e. of a mass of very ancient nummulites. Natural size. The external form and inner structure of the nummulites in various aspects are visible to unaided eye, or under lens X 3. They are best seen in lower half of picture, where one or two might almost serve for descriptions of species.
+[Plate 13: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate13-FigureC.png) — Weathered surface of a lump of _Eozoon canadense_, i.e. of a mass of very ancient nummulites. Natural size. The external form and inner structure of the nummulites in various aspects are visible to unaided eye, or under lens 3x. They are best seen in lower half of picture, where one or two might almost serve for descriptions of species.
 
 [Plate 14: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate14-FigureA.png)
 
@@ -192,105 +192,105 @@ The photos were originally taken to show light and dark areas with continuity of
 
 [Plate 14: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate14-FigureE.png)
 
-[Plate 15: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate15-FigureA.png) — Section of Clee Hill diorite by transmitted light, X 4. Coils of marginal cord, with septa of a nummulite. Parallel lines of cord with bands across, and dishes between septa are visible with a lens.
+[Plate 15: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate15-FigureA.png) — Section of Clee Hill diorite by transmitted light, 4x. Coils of marginal cord, with septa of a nummulite. Parallel lines of cord with bands across, and dishes between septa are visible with a lens.
 
-[Plate 15: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate15-FigureB.png) — _Nummulites laevigata_ (from Selsey). Perpendicular section (ground down), X 20. Showing two marginal cords, also septa.
+[Plate 15: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate15-FigureB.png) — _Nummulites laevigata_ (from Selsey). Perpendicular section (ground down), 20x. Showing two marginal cords, also septa.
 
-[Plate 15: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate15-FigureC.png) — Dresden syenite, X 60. Same view of a nummulite as in Fig. B.
+[Plate 15: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate15-FigureC.png) — Dresden syenite, 60x. Same view of a nummulite as in Fig. B.
 
-[Plate 16: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate16-FigureA.png) — Stavropol meteorite. Section X 5, viewed by transmitted light.
+[Plate 16: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate16-FigureA.png) — Stavropol meteorite. Section 5x, viewed by transmitted light.
 
-[Plate 16: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate16-FigureB.png) — The same, X 10. (The central squarish black patch and two large white ones easily compare with the same in Fig. A.) Concentric — radial shell-structure and spirodiscoid structure fairly clear.
+[Plate 16: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate16-FigureB.png) — The same, 10x. (The central squarish black patch and two large white ones easily compare with the same in Fig. A.) Concentric — radial shell-structure and spirodiscoid structure fairly clear.
 
-[Plate 16: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate16-FigureC.png) — A centre of a coil, X 95. (It is not certain whether this centre is that of a shell or of a spirodisk.) The furrowed band of marginal cord with coils winding at slightly different planes, with septa astride, and with smaller spirodisk structure is absolutely clear and indubitable after a little careful study with a lens.
+[Plate 16: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate16-FigureC.png) — A centre of a coil, 95x. (It is not certain whether this centre is that of a shell or of a spirodisk.) The furrowed band of marginal cord with coils winding at slightly different planes, with septa astride, and with smaller spirodisk structure is absolutely clear and indubitable after a little careful study with a lens.
 
-[Plate 16: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate16-FigureD.png) — Centre of C, X 1100.
+[Plate 16: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate16-FigureD.png) — Centre of C, 1100x.
 
 _Note_. — The Stavropol meteorite is a flat brick-shaped object about 5 by 4 inches in area and 2 inches thick. It was seen to fall on March 24 (o.s.), 1857, at 5 P.M. by a man working on a farm, and at a distance of about eighty yards, at Stavropol in the Caucasus. The specimen is in the Petrograd Museum. See H. Abich., Bull. Acad. Imp. Sci. St. Pétersbourg, tom. ii. 1860, p. 407. The photographs are those of a section made from a fragment in the British Museum (Nat. Hist.).
 
-[Plate 17: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate17-FigureA.png) — Section of Snake River Basalt, X 10. Showing a slightly wider area than in Pl. 14 A.
+[Plate 17: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate17-FigureA.png) — Section of Snake River Basalt, 10x. Showing a slightly wider area than in Pl. 14 A.
 
 Careful study will show the ridged band of a "marginal cord" like a spirally wound motor-car tyre, with "septa" across. For guide to centre of coil see diagram.
 
-[Plate 17: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate17-FigureB.png) — Mica X 3 1/2. This wonderful photograph is crammed with details of nummulitic structure. The mica film was flaked off a thick block of dark amber-coloured Himalayan mica given to me by the great mica firm of Messrs. Wiggins. I have detected nummulitic structures even in the most transparent varieties of mineral by using the highest powers, but here the shell structure can be seen with a lens X 3. Spiral coils of marginal cord with septa and alars and spirodiscoid structures in all these are present over the whole field.
+[Plate 17: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate17-FigureB.png) — Mica 3½x. This wonderful photograph is crammed with details of nummulitic structure. The mica film was flaked off a thick block of dark amber-coloured Himalayan mica given to me by the great mica firm of Messrs. Wiggins. I have detected nummulitic structures even in the most transparent varieties of mineral by using the highest powers, but here the shell structure can be seen with a lens 3x. Spiral coils of marginal cord with septa and alars and spirodiscoid structures in all these are present over the whole field.
 
 [Plate 18: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate18-FigureA.png)
 
 [Plate 18: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate18-FigureB.png)
 
-[Plate 19: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate19-FigureA.png) — Section of "Wold Cottage" meteorite, X 4. To left of middle of upper half of picture is a well-marked coil of marginal cord about two inches across and in slightly oblique perspective. Right half of coil shows (like a motor-car tyre) a curve from above down and also from side to side; parallel ridges well seen, also parts of septa across breadth, and spirodisks of which the whole shell is built. Within and nearly concentric with above coil is a smaller one near centre of the shell; and without and nearly concentric a much larger and less clearly denned marginal cord. The field where not too dark is crowded with nummulitic, including spirodisk structure (see, for instance, double band of disks crossing a marginal cord, just above centre of lower border of photograph).
+[Plate 19: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate19-FigureA.png) — Section of "Wold Cottage" meteorite, 4x. To left of middle of upper half of picture is a well-marked coil of marginal cord about two inches across and in slightly oblique perspective. Right half of coil shows (like a motor-car tyre) a curve from above down and also from side to side; parallel ridges well seen, also parts of septa across breadth, and spirodisks of which the whole shell is built. Within and nearly concentric with above coil is a smaller one near centre of the shell; and without and nearly concentric a much larger and less clearly denned marginal cord. The field where not too dark is crowded with nummulitic, including spirodisk structure (see, for instance, double band of disks crossing a marginal cord, just above centre of lower border of photograph).
 
-[Plate 19: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate19-FigureB.png) — Section of Ensisheim meteorite, X 4. Nummulitic structure is abundant, but less clear than in the "Wold Cottage" meteorite.
+[Plate 19: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate19-FigureB.png) — Section of Ensisheim meteorite, 4x. Nummulitic structure is abundant, but less clear than in the "Wold Cottage" meteorite.
 
-[Plate 19: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate19-FigureC.png) — Dresden syenite. Section showing portions of broad band-like coils of marginal cord and also septa. X 95.
+[Plate 19: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate19-FigureC.png) — Dresden syenite. Section showing portions of broad band-like coils of marginal cord and also septa. 95x.
 
-[Plate 20: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureA.png) — Diatom ooze (_Challenger_, St. 157 Southern Ocean, 1950 fms.). Crushed fragment in balsam, X 65. It can be said with entire certainty that the six or seven circular, oval or (U-shaped bands are parts of septa or marginal cords of nummulite shells (and not Radiolaria). The structure is obscured by the numerous Diatoms. When the eye is trained, it becomes possible to detect abundant spirodiscoid structure throughout. X 65.
+[Plate 20: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureA.png) — Diatom ooze (_Challenger_, St. 157 Southern Ocean, 1950 fms.). Crushed fragment in balsam, 65x. It can be said with entire certainty that the six or seven circular, oval or (U-shaped bands are parts of septa or marginal cords of nummulite shells (and not Radiolaria). The structure is obscured by the numerous Diatoms. When the eye is trained, it becomes possible to detect abundant spirodiscoid structure throughout. 65x.
 
-[Plate 20: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureB.png) — Red Clay (_Challenger_, St. 165, 2600 fms.). Crushed fragment in balsam X 260. In lighter areas nummulitic structure is visible. (The poor results in this figure led to the making of the excellent sections, of which photos are shown in Pl. 21 Figs. C, D.)
+[Plate 20: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureB.png) — Red Clay (_Challenger_, St. 165, 2600 fms.). Crushed fragment in balsam 260x. In lighter areas nummulitic structure is visible. (The poor results in this figure led to the making of the excellent sections, of which photos are shown in Pl. 21 Figs. C, D.)
 
-[Plate 20: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureC.png) — Section of a hard chalk from Missenden, X 4. The whole field is full of nummulitic structure, viz., spiral coils of cord and the septa, but it is very difficult to make out. When magnified 12 diameters the section shows Globigerina and "spheres."
+[Plate 20: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureC.png) — Section of a hard chalk from Missenden, 4x. The whole field is full of nummulitic structure, viz., spiral coils of cord and the septa, but it is very difficult to make out. When magnified 12 diameters the section shows Globigerina and "spheres."
 
-[Plate 20: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureD.png) — Small diamond from Transvaal, X 4. Showing nummulitic structure.
+[Plate 20: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureD.png) — Small diamond from Transvaal, 4x. Showing nummulitic structure.
 
-[Plate 20: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureE.png) — The same diamond X 260. Portions of marginal cord, septa, and spirodisks are visible to the trained eye, especially above centre of lower edge of picture.
+[Plate 20: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureE.png) — The same diamond 260x. Portions of marginal cord, septa, and spirodisks are visible to the trained eye, especially above centre of lower edge of picture.
 
-[Plate 21: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate21-FigureA.png) — Section of rotten trachyte permeated with sulphur from interior of upper crater of Tenerife, X 4 1/2. The coils of a much-blasted nummulite in perpendicular section are visible to the trained vision. The rock section has a pale reddish tinge, the red being much more apparent in sections.
+[Plate 21: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate21-FigureA.png) — Section of rotten trachyte permeated with sulphur from interior of upper crater of Tenerife, 4½x. The coils of a much-blasted nummulite in perpendicular section are visible to the trained vision. The rock section has a pale reddish tinge, the red being much more apparent in sections.
 
-[Plate 21: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate21-FigureB.png) — The same X 450. Every particle of the rock section shows nummulitic structure. The portion here selected shows part of a coil of marginal cord. The part figured was chosen to compare with Tschermak's figure of the section of Seres meteorite showing antler-like crystal with a wedge of olivine (biologically, part of marginal cord and septum). In addition there are septa and spirodiscoid structures.
+[Plate 21: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate21-FigureB.png) — The same 450x. Every particle of the rock section shows nummulitic structure. The portion here selected shows part of a coil of marginal cord. The part figured was chosen to compare with Tschermak's figure of the section of Seres meteorite showing antler-like crystal with a wedge of olivine (biologically, part of marginal cord and septum). In addition there are septa and spirodiscoid structures.
 
-[Plate 21: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate21-FigureC.png) — Section of Red Clay (_Challenger_, St. 165, 2600 fms.). Showing portion of a nummulite, X 10. Best viewed by making left border the lower. Curved series of circular disks seen across the field. Patient study with lens affords a wonderful revelation.
+[Plate 21: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate21-FigureC.png) — Section of Red Clay (_Challenger_, St. 165, 2600 fms.). Showing portion of a nummulite, 10x. Best viewed by making left border the lower. Curved series of circular disks seen across the field. Patient study with lens affords a wonderful revelation.
 
-[Plate 21: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate21-FigureD.png) — The same X 260. Shows coiled disk-structure, i.e. miniature marginal cord and septa.
+[Plate 21: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate21-FigureD.png) — The same 260x. Shows coiled disk-structure, i.e. miniature marginal cord and septa.
 
 _Note_. — This plate is one of the most interesting of the set. The sections were made from red clay and rotten trachyte hardened in balsam. The trachyte would have become red clay if it had fallen into the ocean. Red Clay comes from one universal deposit of mineralized nummulites. The "clay" may have been erupted from a submarine deep-seated part of the deposit, or from a supra-marine or upheaved area of the deposit, or lastly from the disintegrated surface of the deposit _in situ_.
 
-[Plate 22: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate22-FigureA.png) — Section of Radiolarian Chert, X 10. The figure within white square is shown magnified in B.
+[Plate 22: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate22-FigureA.png) — Section of Radiolarian Chert, 10x. The figure within white square is shown magnified in B.
 
-[Plate 22: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate22-FigureB.png) — One of the Radiolaria, X 450. Figs. A, B, are not needed here, and would have been deleted had it not been inconvenient to do so.
+[Plate 22: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate22-FigureB.png) — One of the Radiolaria, 450x. Figs. A, B, are not needed here, and would have been deleted had it not been inconvenient to do so.
 
-[Plate 22: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate22-FigureC.png) — Polished surface of Mazapil meteorite, X 5. The fine dotted or granular markings distinct from lines of the section or from cracks are here and there arranged in circular groups or defined curved bands.
+[Plate 22: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate22-FigureC.png) — Polished surface of Mazapil meteorite, 5x. The fine dotted or granular markings distinct from lines of the section or from cracks are here and there arranged in circular groups or defined curved bands.
 
-[Plate 22: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate22-FigureD.png) — The same as C, but X 175. Photographed by reflected light. Here the organic and nummulitic structure is unmistakably apparent to the trained eye. (Use of lens X 3 desirable.)
+[Plate 22: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate22-FigureD.png) — The same as C, but 175x. Photographed by reflected light. Here the organic and nummulitic structure is unmistakably apparent to the trained eye. (Use of lens X 3 desirable.)
 
-[Plate 22: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate22-FigureE.png) — Surface of Jamestown meteorite, X 5. Showing outlines of nummulitic structure, X 5.
+[Plate 22: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate22-FigureE.png) — Surface of Jamestown meteorite, 5x. Showing outlines of nummulitic structure, 5x.
 
-[Plate 22: Figure F](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate22-FigureF.png) — Section of chalk (Upper chalk, Haling). Showing nummulitic structure, X 450. It is very difficult to secure good definition partly owing to halation. Fig. F, though poor, will well repay study. The negative was the best of many attempts.
+[Plate 22: Figure F](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate22-FigureF.png) — Section of chalk (Upper chalk, Haling). Showing nummulitic structure, 450x. It is very difficult to secure good definition partly owing to halation. Fig. F, though poor, will well repay study. The negative was the best of many attempts.
 
-[Plate 23: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureA.png) — _Nummulites laevigata_. Vertical section. Inter-pillar area of spiral lamina, showing the tubulated-striated appearance, and faint traces of spirodiscoid structure. X 260.
+[Plate 23: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureA.png) — _Nummulites laevigata_. Vertical section. Inter-pillar area of spiral lamina, showing the tubulated-striated appearance, and faint traces of spirodiscoid structure. 260x.
 
-[Plate 23: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureB.png) — _N. laevigata_. Section of a pillar showing faint traces of spirodiscoid structure in the supposed glassy structureless calcite. X 1500.
+[Plate 23: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureB.png) — _N. laevigata_. Section of a pillar showing faint traces of spirodiscoid structure in the supposed glassy structureless calcite. 1500x.
 
-[Plate 23: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureC.png) — _N. laevigata_. Horizontal aspect of spiral lamina showing orifices of tubules. X 260.
+[Plate 23: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureC.png) — _N. laevigata_. Horizontal aspect of spiral lamina showing orifices of tubules. 260x.
 
-[Plate 23: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureD.png) — As in C, but X 1100. Showing dotted granular structure and traces of spirodiscoid structure between tubules.
+[Plate 23: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureD.png) — As in C, but 1100x. Showing dotted granular structure and traces of spirodiscoid structure between tubules.
 
-[Plate 23: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureE.png) — Ehrenberg's granulated disklets from chalk, showing rings (the latter seen to be beaded under power of 350). X 275. Fig. E'. Other (smaller) examples of E, showing the beaded rings as solid disks (spirodisks). X 2000.
+[Plate 23: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureE.png) — Ehrenberg's granulated disklets from chalk, showing rings (the latter seen to be beaded under power of 350). 275x. Fig. E'. Other (smaller) examples of E, showing the beaded rings as solid disks (spirodisks). 2000x.
 
-[Plate 23: Figure F](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureF.png) — "Morpholiths" such as shown in Fig. 5, p. 50; really a mass of spirodisks. X 2500.
+[Plate 23: Figure F](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureF.png) — "Morpholiths" such as shown in Fig. 5, p. 50; really a mass of spirodisks. 2500x.
 
-[Plate 23: Figure G](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureG.png) — Two "canals" in Eozoon, showing granular serpentine to contain nummulitic structure continuous with similar fainter structure in the calcite. X 450.
+[Plate 23: Figure G](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureG.png) — Two "canals" in Eozoon, showing granular serpentine to contain nummulitic structure continuous with similar fainter structure in the calcite. 450x.
 
-[Plate 23: Figure H](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureH.png) — Melbourn Rock, showing "spheres" X 450. The edge of lowest sphere shows banded cord. Very careful study with lens X 3 will reveal other coils and "septa," i.e. this "sphere" is a spirodisk.
+[Plate 23: Figure H](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureH.png) — Melbourn Rock, showing "spheres" 450x. The edge of lowest sphere shows banded cord. Very careful study with lens X 3 will reveal other coils and "septa," i.e. this "sphere" is a spirodisk.
 
 _Note regarding Fig. "E," as marked on plate_. — E is the right half of the divided figure, and E' the left half (marked E on plate). See guide diagram.
 
-[Plate 24: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureA.png) — Growing root-tip of bean, stained with iron-haematoxylin. X 2500. At lower end of the great nucleus in B is a rouleau of three large spirodisks obliquely on edge.
+[Plate 24: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureA.png) — Growing root-tip of bean, stained with iron-haematoxylin. 2500x. At lower end of the great nucleus in B is a rouleau of three large spirodisks obliquely on edge.
 
-[Plate 24: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureB.png) — Growing root-tip of bean, stained with iron-haematoxylin. X 2500. At lower end of the great nucleus in B is a rouleau of three large spirodisks obliquely on edge.
+[Plate 24: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureB.png) — Growing root-tip of bean, stained with iron-haematoxylin. 2500x. At lower end of the great nucleus in B is a rouleau of three large spirodisks obliquely on edge.
 
-[Plate 24: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureC.png) — Growing root-tip of bean, stained with iron-haematoxylin. X 1500. Some of these figures show fairly well the spirodiscoid structure both in nucleus and cytoplasm.
+[Plate 24: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureC.png) — Growing root-tip of bean, stained with iron-haematoxylin. 1500x. Some of these figures show fairly well the spirodiscoid structure both in nucleus and cytoplasm.
 
-[Plate 24: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureD.png) — Growing root-tip of bean, stained with iron-haematoxylin. X 1500. Some of these figures show fairly well the spirodiscoid structure both in nucleus and cytoplasm.
+[Plate 24: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureD.png) — Growing root-tip of bean, stained with iron-haematoxylin. 1500x. Some of these figures show fairly well the spirodiscoid structure both in nucleus and cytoplasm.
 
-[Plate 24: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureE.png) — Growing root-tip of bean, stained with iron-haematoxylin. X 1500. Some of these figures show fairly well the spirodiscoid structure both in nucleus and cytoplasm.
+[Plate 24: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureE.png) — Growing root-tip of bean, stained with iron-haematoxylin. 1500x. Some of these figures show fairly well the spirodiscoid structure both in nucleus and cytoplasm.
 
-[Plate 24: Figure F](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureF.png) — Growing root-tip of bean, stained with iron-haematoxylin. X 1500. Some of these figures show fairly well the spirodiscoid structure both in nucleus and cytoplasm.
+[Plate 24: Figure F](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureF.png) — Growing root-tip of bean, stained with iron-haematoxylin. 1500x. Some of these figures show fairly well the spirodiscoid structure both in nucleus and cytoplasm.
 
-[Plate 24: Figure G](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureG.png) — Growing root-tip of bean, stained with iron-haematoxylin. X 1500. Some of these figures show fairly well the spirodiscoid structure both in nucleus and cytoplasm.
+[Plate 24: Figure G](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureG.png) — Growing root-tip of bean, stained with iron-haematoxylin. 1500. Some of these figures show fairly well the spirodiscoid structure both in nucleus and cytoplasm.
 
-[Plate 24: Figure H](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureH.png) — Ganglion cells of grey matter of human brain. X 1500. The pictures are far too dark (and not so good as the negatives). The spirodisk structure is clearly visible in the preparations, for which I have to thank Dr. R. S. Trevor of the Pathological Laboratory, St. George's Hospital.
+[Plate 24: Figure H](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureH.png) — Ganglion cells of grey matter of human brain. 1500x. The pictures are far too dark (and not so good as the negatives). The spirodisk structure is clearly visible in the preparations, for which I have to thank Dr. R. S. Trevor of the Pathological Laboratory, St. George's Hospital.
 
-[Plate 24: Figure J](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureJ.png) — Ganglion cells of grey matter of human brain. X 1500. The pictures are far too dark (and not so good as the negatives). The spirodisk structure is clearly visible in the preparations, for which I have to thank Dr. R. S. Trevor of the Pathological Laboratory, St. George's Hospital.
+[Plate 24: Figure J](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureJ.png) — Ganglion cells of grey matter of human brain. 1500x. The pictures are far too dark (and not so good as the negatives). The spirodisk structure is clearly visible in the preparations, for which I have to thank Dr. R. S. Trevor of the Pathological Laboratory, St. George's Hospital.
 
 _Note_. — The above figures are best viewed under a strong light, and with a lens magnifying only 2 diameters (about 6-inch focus). 
 
