@@ -118,7 +118,7 @@ _Note_. Plates 2C, 2D, 2E and 11 were done and printed off at an early period of
 
 [Plate 3B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate3-Figure.png) — _Stromatopora concentrica_, Goldfuss. Peroy Highley, del et lith. C. Hodges & Son. imp
 
-[Plate 4: Figures 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure1.png), [2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure2.png), [3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure3.png), [and 4](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure4.png) — _Stromatopora concentrica_. All from a slide in Nicholson's collection (P. 5869) figured in his monograph Pl. 11, Fig. 16. Figs. 1, 2 are from the marked areas shown in Fig. 29 on p. 226. A lens 3x should be used. All X 260.
+[Plate 4: Figures 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure1.png), [2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure2.png), [3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure3.png), [and 4](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure4.png) — _Stromatopora concentrica_. All from a slide in Nicholson's collection (P. 5869) figured in his monograph Pl. 11, Fig. 16. Figs. 1, 2 are from the marked areas shown in Fig. 29 on p. 226. A lens 3x should be used. All 260x.
 
 The whole slide shows nothing else than nummulitic shell structure throughout.
 
