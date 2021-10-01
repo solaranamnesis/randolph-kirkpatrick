@@ -56,7 +56,7 @@ A totally different view had been slowly maturing, however, and presently began 
 
 [Plate 1: Figure 5](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure5.png) Another patch with much larger "tubes," X 60. The "Girvanella" here forms a small speck in the midst of a coil of a nummulite, and is just visible under a lens X 10 when section is held up to light. Dark patch — hardly in Girvanella condition — in lower right corner shows fairly well a minute nummulitic spiral disk.
 
-[Plate 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2-Figure.png)
+[Plate 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2-Figure.png) A specimen of _Eozoon canadense_ or the Dawn Animal. Reduced two-thirds. [By viewing the above figure at some distance, or by holding up in front of a light to eliminate the aggressive banded pattern, it is possible to see here and there faint circular and oval outlines of shells.]
 
 [Plate 2A: Figures A-D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2A-Figures.png)
 
