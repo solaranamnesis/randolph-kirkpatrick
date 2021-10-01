@@ -132,13 +132,13 @@ The photos were originally taken to show light and dark areas with continuity of
 
 [Plate 5: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5-FigureD.png) — Permian concretions (Fulwell) and Devonian Stromatoporoids compared. The Stromatoporoid _Idiostroma oculatum_. Devonian of Buchel. About natural size.
 
-[Plate 5A: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5A-FigureA.png)
+[Plate 5A: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5A-FigureA.png) — _Loftusia persica_, whole and in section. All natural size.
 
-[Plate 5A: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5A-FigureB.png)
+[Plate 5A: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5A-FigureB.png) — _Loftusia persica_, whole and in section. All natural size.
 
-[Plate 5A: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5A-FigureC.png)
+[Plate 5A: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5A-FigureC.png) — Syringosphaeria, a Karakoram stone. All natural size.
 
-[Plate 5A: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5A-FigureD.png)
+[Plate 5A: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5A-FigureD.png) — Parkeria. All natural size.
 
 [Plate 6: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate6-FigureA.png)
 
