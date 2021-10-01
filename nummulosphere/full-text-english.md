@@ -114,9 +114,9 @@ _Note_. Plates 2C, 2D, 2E and 11 were done and printed off at an early period of
 
 *) Recently I have found that the photograph from which Fig. 39 was taken shows a nummulite very plainly when magnified only three diameters.
 
-[Plate 3A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate3-Figure1.png)
+[Plate 3A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate3-Figure1.png) — "_Stromatopora concentrica_ Var. Colliculata." Specimens collected by the author at Gerolstein. One-third natural size.
 
-[Plate 3B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate3-Figure.png)
+[Plate 3B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate3-Figure.png) — _Stromatopora concentrica_, Goldfuss. Peroy Highley, del et lith. C. Hodges & Son. imp
 
 [Plate 4: Figure 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure1.png)
 
