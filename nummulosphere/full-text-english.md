@@ -328,7 +328,7 @@ If the pictures fail to convince — though C-G are fairly good — it is only n
 
 [Figure 15](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig15.png) — A-E. Various species of nummulites small and large, whole and in perpendicular and transverse section. (After d'Archiac and de la Harpe.) A. _N. variolaria_, nat. size. B. _N. curvispira_, 4x. C. _N. curvispira_, _a_, _b_, _d_, nat. size; _c_, 4x; _e_, 2x; in various aspects. This species really megalospheric phase of _N. gizehensis_. D. _N. guettardi_, _a_, _b_, _c_, nat. size; _d_, 4x. E. _N. gizehensis_ in microspheric phase. _a_, _b_, shell nat. size. _c_ alar prolongations on peripheral part of surface of an interior coil of spiral lamina, 4x. F. _N. (Operculina) murchisoni_, with only a few rapidly-widening turns of spira, _a_, nat. size, _b_, trans. sect., 2x.
 
-[Figure 16](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig16.png) —
+[Figure 16](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig16.png) — Diagram of a nummulite to show perpendicular and transverse sections in one view. _a_, outer coil of shell; _b_, _b'_, _b''_, three preceding coils; _c_, septa; _d_, aperture in septum: _e_, alar prolongations; _f_, edges of spiral lamina, _f'_ surface of final coil (same as _a_); _g_, marginal cord, _g'_, g''_ vessels in septa and walls; _h_, central chamber.
 
 [Figure 17](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig17.png) —
 
