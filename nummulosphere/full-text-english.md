@@ -60,6 +60,16 @@ So far as basalt was concerned, the views of the Neptunists gradually became dis
 
 Werner ignored the existence of great subterranean forces. The mountains were simply huge heaps of matter deposited _in situ_ from the ocean.
 
+James Hutton (1726-1797), whom Geikie calls the "Father of Modern Geology," arrived at conclusions wholly different from the Wernerian. The folding, crumpling and uplifting of strata, which in some cases must necessarily* at one time have been horizontal, filled his mind with the idea of great upheaving forces. 
+
+*) For how could highly-inclined strata composed of water-worn pebbles have been deposited in nearly vertical sheets?
+
+He clearly perceived the contest between the upheaving and the more obvious wearing-down agencies. Water was one of the tools which cut valleys in the uplifted masses and ultimately ground down the latter wholly into gravel, sand and mud. The sediments became hardened into rocks by heat and pressure, and again upheaved. He regarded granite and basalt as materials emanating from the molten interior of the earth. Great was his delight when he discovered in Glen Tilt veins from a mass of red granite penetrating the black schist and the limestone, thereby proving the granite had once been molten and that it was not " primitive " in its relation to the other rocks.* Not only, then, was basalt related to volcanic lava, but even granite was formerly a molten rock of a similar nature, the coarsely crystalline texture being due to slow cooling under great pressure.
+
+*) Hutton, "Theory of the Earth," vol. 3. p. 13.
+
+Huttonians were termed "Plutonists" and were regarded by Neptunists as a more extreme section of Vulcanists. Gradually the Plutonists, now including Vulcanists, prevailed, and granite basalt and their like universally came to be termed "Igneous Rocks."
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
