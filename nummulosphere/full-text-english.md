@@ -44,7 +44,7 @@ A totally different view had been slowly maturing, however, and presently began 
 
 ...
 
-#### List of Plates and Figures
+#### List of Plates, Guide Diagrams, and Figures
  
 [Plate 1: Figure 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure1.png) — Fragment of Diatom ooze, X 5 (_Challenger_), Southern Ocean St. 157, 1950 fms. This ooze (in the dried state) is a powdery mass of nummulites crammed with microscopic plankton skeletons, chiefly Diatoms. The faint circular or oval outlines of the nummulites are about 25 mm. (an inch) in diameter in the photo, i.e. about 5 mm. (1/5 inch) nat. size. [Nummulitic structure can be seen better in sections of this ooze hardened in balsam.]
 
@@ -256,21 +256,23 @@ _Note_. — This plate is one of the most interesting of the set. The sections w
 
 [Plate 22: Figure F](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate22-FigureF.png) — Section of chalk (Upper chalk, Haling). Showing nummulitic structure, X 450. It is very difficult to secure good definition partly owing to halation. Fig. F, though poor, will well repay study. The negative was the best of many attempts.
 
-[Plate 23: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureA.png)
+[Plate 23: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureA.png) — _Nummulites laevigata_. Vertical section. Inter-pillar area of spiral lamina, showing the tubulated-striated appearance, and faint traces of spirodiscoid structure. X 260.
 
-[Plate 23: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureB.png)
+[Plate 23: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureB.png) — _N. laevigata_. Section of a pillar showing faint traces of spirodiscoid structure in the supposed glassy structureless calcite. X 1500.
 
-[Plate 23: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureC.png)
+[Plate 23: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureC.png) — _N. laevigata_. Horizontal aspect of spiral lamina showing orifices of tubules. X 260.
 
-[Plate 23: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureD.png)
+[Plate 23: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureD.png) — As in C, but X 1100. Showing dotted granular structure and traces of spirodiscoid structure between tubules.
 
-[Plate 23: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureE.png)
+[Plate 23: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureE.png) — Ehrenberg's granulated disklets from chalk, showing rings (the latter seen to be beaded under power of 350). X 275. Fig. E'. Other (smaller) examples of E, showing the beaded rings as solid disks (spirodisks). X 2000.
 
-[Plate 23: Figure F](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureF.png)
+[Plate 23: Figure F](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureF.png) — "Morpholiths" such as shown in Fig. 5, p. 50; really a mass of spirodisks. X 2500.
 
-[Plate 23: Figure G](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureG.png)
+[Plate 23: Figure G](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureG.png) — Two "canals" in Eozoon, showing granular serpentine to contain nummulitic structure continuous with similar fainter structure in the calcite. X 450.
 
-[Plate 23: Figure H](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureH.png)
+[Plate 23: Figure H](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureH.png) — Melbourn Rock, showing "spheres" X 450. The edge of lowest sphere shows banded cord. Very careful study with lens X 3 will reveal other coils and "septa," i.e. this "sphere" is a spirodisk.
+
+_Note regarding Fig. "E," as marked on plate_. — E is the right half of the divided figure, and E' the left half (marked E on plate). See guide diagram.
 
 [Plate 24: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureA.png)
 
