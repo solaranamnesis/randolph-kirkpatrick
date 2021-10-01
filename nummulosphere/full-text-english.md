@@ -384,7 +384,9 @@ If the pictures fail to convince — though C-G are fairly good — it is only n
 
 [Figure 41](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig41.png) — _Solenopora compacta_ 10x. From Ordoxvician limestone, Craighead (R. 475, N.H.M.). Nummulitic pattern faintly visible over whole field beneath dominant patterns.
 
-[Figure 42](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig42.png) — _Girvanella problematica_. From Nicholson's Girvan material. A, Two marginal cords, also a pillar, 260x. B, disk structure from same section, 65x.
+[Figure 42a](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig42a.png) — _Girvanella problematica_. From Nicholson's Girvan material. A, Two marginal cords, also a pillar, 260x. B, disk structure from same section, 65x.
+
+[Figure 42b](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig42b.png) — _Girvanella problematica_. From Nicholson's Girvan material. A, Two marginal cords, also a pillar, 260x. B, disk structure from same section, 65x.
 
 [Proteus](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Proteus-Figure.png) —
 "So might I  
