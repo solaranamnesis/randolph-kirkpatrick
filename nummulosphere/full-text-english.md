@@ -176,11 +176,11 @@ The photos were originally taken to show light and dark areas with continuity of
 
 [Plate 12: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate12-FigureC.png) — Dresden syenite, X 4. Nummulitic structure rather muzzy and confused, but abundant. In lower third marginal cords passing down obliquely from left to right with septa across. Within centre of right edge of photo, 3 mm. below lower edge of C, a disk 3 mm. across and with cogged rim, also three little dotted circles to left of disk. A disk in oblique perspective, 6 mm. diam., with left lower rim blacked out, is visible 18 mm. above centre of picture.
 
-[Plate 13: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate13-FigureA.png)
+[Plate 13: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate13-FigureA.png) — Section of Totternhoe Stone (Lower Chalk), X 110. A curved band of marginal cord with septa extends from side to side across middle of field. (Picture too dark, and not equal to negative. It has been difficult to get good results from photos of any of the chalks.)
 
-[Plate 13: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate13-FigureB.png)
+[Plate 13: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate13-FigureB.png) — Section of Melbourn Rock (Middle Chalk) to show circular and oval "spheres," X 65. These "bodies" are simply clarified areas in nummulitic rock. The areas are usually discoidal, and not spheres either whole or in section. Nummulitic structure exists in the clear spaces, and can often be traced from light to dark areas. (See also Pl. 23 Fig. H.)
 
-[Plate 13: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate13-FigureC.png)
+[Plate 13: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate13-FigureC.png) — Weathered surface of a lump of _Eozoon canadense_, i.e. of a mass of very ancient nummulites. Natural size. The external form and inner structure of the nummulites in various aspects are visible to unaided eye, or under lens X 3. They are best seen in lower half of picture, where one or two might almost serve for descriptions of species.
 
 [Plate 14: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate14-FigureA.png)
 
