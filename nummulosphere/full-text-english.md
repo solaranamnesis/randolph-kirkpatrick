@@ -192,11 +192,11 @@ The photos were originally taken to show light and dark areas with continuity of
 
 [Plate 14: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate14-FigureE.png)
 
-[Plate 15: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate15-FigureA.png)
+[Plate 15: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate15-FigureA.png) — Section of Clee Hill diorite by transmitted light, X 4. Coils of marginal cord, with septa of a nummulite. Parallel lines of cord with bands across, and dishes between septa are visible with a lens.
 
-[Plate 15: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate15-FigureB.png)
+[Plate 15: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate15-FigureB.png) — _Nummulites laevigata_ (from Selsey). Perpendicular section (ground down), X 20. Showing two marginal cords, also septa.
 
-[Plate 15: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate15-FigureC.png)
+[Plate 15: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate15-FigureC.png) — Dresden syenite, X 60. Same view of a nummulite as in Fig. B.
 
 [Plate 16: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate16-FigureA.png)
 
