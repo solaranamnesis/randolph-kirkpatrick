@@ -118,13 +118,11 @@ _Note_. Plates 2C, 2D, 2E and 11 were done and printed off at an early period of
 
 [Plate 3B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate3-Figure.png) — _Stromatopora concentrica_, Goldfuss. Peroy Highley, del et lith. C. Hodges & Son. imp
 
-[Plate 4: Figure 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure1.png)
+[Figures 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure1.png), [2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure2.png), [3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure3.png) and [4](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure4.png). _Stromatopora concentrica_. All from a slide in Nicholson's collection (P. 5869) figured in his monograph Pl. 11, Fig. 16. Figs. 1, 2 are from the marked areas shown in Fig. 29 on p. 226. A lens X 3 should be used. All X 260.
 
-[Plate 4: Figure 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure2.png)
+The whole slide shows nothing else than nummulitic shell structure throughout.
 
-[Plate 4: Figure 3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure3.png)
-
-[Plate 4: Figure 4](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure4.png)
+The photos were originally taken to show light and dark areas with continuity of structure throughout light and dark, thereby showing the light spaces could hardly be former polyp tubes filled in with calcite. Figs. 1, 2, represent each an area of 5 mm. (1/50 of an inch). Owing to the remarkable character of repetition on a continually increasing or diminishing scale, nummulitic structure has somewhat the same aspect under very low or very high powers. A very small area highly magnified may reveal a surprising amount of structure. Fig. 2 shows strands of curved marginal cord passing from side to side and "septa" of spirodisk from above downwards. Notice in central part of lower half of Fig. 2 a well-defined broad oval ring lying sideways. In the interior of the right end of the oval are six or seven very well-defined little disks in succession round the bend. Arches, bands and disks visible over the field.
 
 [Plate 5: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5-FigureA.png)
 
