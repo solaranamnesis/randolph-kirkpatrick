@@ -43,3 +43,15 @@ So far, then, according to the opinion prevailing at that time, the earth's crus
 A totally different view had been slowly maturing, however, and presently began to make its influence felt.
 
 ...
+
+#### List of Figures
+
+[Figure 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure1.png)
+
+[Figure 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure2.png)
+
+[Figure 3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure3.png)
+
+[Figure 4](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure4.png)
+
+[Figure 5](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure5.png)
