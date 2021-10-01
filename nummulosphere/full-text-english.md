@@ -140,11 +140,11 @@ The photos were originally taken to show light and dark areas with continuity of
 
 [Plate 5A: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5A-FigureD.png) — Parkeria. All natural size.
 
-[Plate 6: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate6-FigureA.png)
+[Plate 6: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate6-FigureA.png) — Sections of Parkeria. Unpolished and polished surfaces viewed by reflected light X 4.
 
-[Plate 6: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate6-FigureB.png)
+[Plate 6: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate6-FigureB.png) — Sections of Parkeria. Unpolished and polished surfaces viewed by reflected light X 4.
 
-[Plate 6: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate6-FigureC.png)
+[Plate 6: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate6-FigureC.png) — Sections of Parkeria. Section viewed by transmitted light X 5.
 
 [Plate 11: Figure 39](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure39.png)
 
