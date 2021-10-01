@@ -146,29 +146,29 @@ The photos were originally taken to show light and dark areas with continuity of
 
 [Plate 6: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate6-FigureC.png) — Sections of Parkeria. Section viewed by transmitted light X 5.
 
-[Plate 11: Figure 39](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure39.png)
+[Plate 11: Figure 39](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure39.png) — Surface of a piece of chalk from Haling, X 5. There are portions of several nummulites visible in photo. The whole surface shows nothing but nummulitic structure, and every particle is in orderly arrangement, i.e. there is no débris. A marginal cord with septa curves round lower left corner within radius of 18 mm. Above middle of lower border are embracing gothic arches and a septum of shell in trans. section. (Lens X 3 necessary for seeing details.)
 
-[Plate 11: Figure 40](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure40.png)
+[Plate 11: Figure 40](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure40.png) — Surface of flint, X 8. As in Fig. 39, but silicified. Nummulitic structure faintly visible over whole field. A marginal cord with septa curves upward obliquely in projection from left of centre of lower edge of photo to right of centre of upper edge.
 
-[Plate 11: Figure 41](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure41.png)
+[Plate 11: Figure 41](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure41.png) — _Eozoon canadense_, banded structure, X 4. Nummulitic structure is traceable both in light and dark bands, but with difficulty.
 
-[Plate 11: Figure 42](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure42.png)
+[Plate 11: Figure 42](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure42.png) — From section of Eozoon, and wrongly described in Nummulosphere Part 1 as a small nummulite shell. The dark gibbous area is really only a minute particle, 0.1 mm. in diameter, of a nummulite. The area shows disk structure especially along straight edge, and also septa astride of cord along upper left edge. X 250.
 
-[Plate 11: Figure 43](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure43.png)
+[Plate 11: Figure 43](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure43.png) — Rough surface of Cornish granite showing part of a marginal cord and embracing alar; also spirodisks single and in series. X 4. (Photo seen better reversed.)
 
-[Plate 11: Figure 44](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure44.png)
+[Plate 11: Figure 44](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure44.png) — Cornish granite. In upper left corner a septum in projection with "pans-pipe" rim, rising from banded cord; at lower left corner of photo part of another cord; disks fairly plentiful. X 65.
 
-[Plate 11: Figure 45](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure45.png)
+[Plate 11: Figure 45](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure45.png) — Cornish granite. A broad band of marginal cord extending across from S.E. to N.W. corner with two septa across and in projection; disks well shown. X 110. (Low-power lens should be used.)
 
-[Plate 11: Figure 46](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure46.png)
+[Plate 11: Figure 46](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure46.png) — Monte Somma bomb. Part of vitrified septum. For long a mystery to me, at first taken for Globigerina! Series of faint circles visible in projection round rim of large circle above. X 110.
 
-[Plate 11: Figure 47](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure47.png)
+[Plate 11: Figure 47](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure47.png) — Cornish granite. Good spirodisk in oblique projection in lower right corner. Lower of three radiating bands is probably the edge of a layer of spiral lamina. X 110.
 
-[Plate 11: Figure 48](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure48.png)
+[Plate 11: Figure 48](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure48.png) — Banded trachyte. Surface X 1/2.
 
-[Plate 11: Figure 49](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure49.png)
+[Plate 11: Figure 49](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure49.png) — Radiolarian in Barbados earth heated to white hot slag condition. X 500.
 
-[Plate 11: Figure 50](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure50.png)
+[Plate 11: Figure 50](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure50.png) — One of several dark spots in a section of glass bead made by melting Barbados earth in electric furnace. Useless figure; better seen in Plate 2. E, Fig. 21.
 
 [Plate 12: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate12-FigureA.png)
 
