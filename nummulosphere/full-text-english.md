@@ -248,6 +248,40 @@ A totally different view had been slowly maturing, however, and presently began 
 
 [Plate 22: Figure F](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate22-FigureF.png)
 
+[Plate 23: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureA.png)
+
+[Plate 23: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureB.png)
+
+[Plate 23: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureC.png)
+
+[Plate 23: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureD.png)
+
+[Plate 23: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureE.png)
+
+[Plate 23: Figure F](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureF.png)
+
+[Plate 23: Figure G](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureG.png)
+
+[Plate 23: Figure H](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureH.png)
+
+[Plate 24: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureA.png)
+
+[Plate 24: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureB.png)
+
+[Plate 24: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureC.png)
+
+[Plate 24: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureD.png)
+
+[Plate 24: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureE.png)
+
+[Plate 24: Figure F](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureF.png)
+
+[Plate 24: Figure G](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureG.png)
+
+[Plate 24: Figure H](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureH.png)
+
+[Plate 24: Figure J](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-FigureJ.png)
+
 [Figure 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig2.png)
 
 [Figure 3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig3.png)
