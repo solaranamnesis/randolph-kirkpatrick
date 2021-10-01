@@ -170,11 +170,11 @@ The photos were originally taken to show light and dark areas with continuity of
 
 [Plate 11: Figure 50](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure50.png) — One of several dark spots in a section of glass bead made by melting Barbados earth in electric furnace. Useless figure; better seen in Plate 2. E, Fig. 21.
 
-[Plate 12: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate12-FigureA.png)
+[Plate 12: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate12-FigureA.png) — Section of Portland oolite, X 3 1/2. Concentric beaded bands of marginal cord and radial alars and septa of nummulites faintly visible over the whole field, but seen best in right half of upper left quadrant. The granules follow to a considerable extent the lines of nummulitic structure. (Low power lens necessary.)
 
-[Plate 12: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate12-FigureB.png)
+[Plate 12: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate12-FigureB.png) — Section of Schlern dolomite, X 4. Marginal cord and septa of a nummulite. Many hours of the closest scrutiny are necessary to trace the nummulitic structure in this apparently structureless confusion. (Owing to increased experience since Plate 12 was done, I would now have little difficulty in rendering obvious the nummulitic nature of dolomite.)
 
-[Plate 12: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate12-FigureC.png)
+[Plate 12: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate12-FigureC.png) — Dresden syenite, X 4. Nummulitic structure rather muzzy and confused, but abundant. In lower third marginal cords passing down obliquely from left to right with septa across. Within centre of right edge of photo, 3 mm. below lower edge of C, a disk 3 mm. across and with cogged rim, also three little dotted circles to left of disk. A disk in oblique perspective, 6 mm. diam., with left lower rim blacked out, is visible 18 mm. above centre of picture.
 
 [Plate 13: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate13-FigureA.png)
 
