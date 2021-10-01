@@ -310,11 +310,11 @@ If the pictures fail to convince — though C-G are fairly good — it is only n
 
 "_Eozoon_" was once a mass of nummulite shells like any lump of Tertiary nummulitic limestone say of Biarritz or Egypt. The living top layer shells would show what "_Eozoon_" was like in life.
 
-[Figure 8](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig8.png) —
+[Figure 8](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig8.png) — Diagram of cliff at Hopunwaara, Finland. _Ka_, limestone; _Sa_, sahlite; _Se_, _Eozoon_; _Fe_, iron ore; _R_, Granite; _Gl._, mica-schist; N, S, north, south; _m_, metres. After O. Trüstedt.
 
-[Figure 9](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig9.png) —
+[Figure 9](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig9.png) — A grain of sand from Brighton, Sussex, showing the nummulitic disk structure. 100x.
 
-[Figure 10](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig10.png) —
+[Figure 10](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig10.png) — Nummulitic structure in diamond. A, marginal cord and pillar. B, disk-structure. C, portion of marginal cord, and of three rows of disks in perspective. All 1300x.
 
 [Figure 11](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig11.png) —
 
