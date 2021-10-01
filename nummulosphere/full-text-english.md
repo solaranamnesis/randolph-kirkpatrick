@@ -46,25 +46,25 @@ A totally different view had been slowly maturing, however, and presently began 
 
 #### List of Plates and Figures
  
-[Plate 1: Figure 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure1.png) Fragment of Diatom ooze, X 5 (_Challenger_), Southern Ocean St. 157, 1950 fms. This ooze (in the dried state) is a powdery mass of nummulites crammed with microscopic plankton skeletons, chiefly Diatoms. The faint circular or oval outlines of the nummulites are about 25 mm. (an inch) in diameter in the photo, i.e. about 5 mm. (1/5 inch) nat. size. [Nummulitic structure can be seen better in sections of this ooze hardened in balsam.]
+[Plate 1: Figure 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure1.png) — Fragment of Diatom ooze, X 5 (_Challenger_), Southern Ocean St. 157, 1950 fms. This ooze (in the dried state) is a powdery mass of nummulites crammed with microscopic plankton skeletons, chiefly Diatoms. The faint circular or oval outlines of the nummulites are about 25 mm. (an inch) in diameter in the photo, i.e. about 5 mm. (1/5 inch) nat. size. [Nummulitic structure can be seen better in sections of this ooze hardened in balsam.]
 
-[Plate 1: Figure 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure2.png) Fragment of Red Clay, _Challenger_ St. 165, 2600 fms., X 5 and 8, showing faint traces of nummulites. See Plate 21, Fig. C, D.
+[Plate 1: Figure 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure2.png) — Fragment of Red Clay, _Challenger_ St. 165, 2600 fms., X 5 and 8, showing faint traces of nummulites. See Plate 21, Fig. C, D.
 
-[Plate 1: Figure 3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure3.png) Fragment of Red Clay, _Challenger_ St. 165, 2600 fms., X 5 and 8, showing faint traces of nummulites. See Plate 21, Fig. C, D.
+[Plate 1: Figure 3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure3.png) — Fragment of Red Clay, _Challenger_ St. 165, 2600 fms., X 5 and 8, showing faint traces of nummulites. See Plate 21, Fig. C, D.
 
-[Plate 1: Figure 4](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure4.png) "_Girvanella problematica_" (from Nicholson's "type"), X 260. This "labyrinthine-tubular" pattern forms a dark patch in the midst of clear calcite. The whole section clear and opaque consists of nummulite shell-structure throughout. Coils of band-like furrowed marginal cord are very obscurely discernible, the outermost forming a broad oval band. Here and there indications of fan-like septa are visible; also spiral disk structure.
+[Plate 1: Figure 4](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure4.png) — "_Girvanella problematica_" (from Nicholson's "type"), X 260. This "labyrinthine-tubular" pattern forms a dark patch in the midst of clear calcite. The whole section clear and opaque consists of nummulite shell-structure throughout. Coils of band-like furrowed marginal cord are very obscurely discernible, the outermost forming a broad oval band. Here and there indications of fan-like septa are visible; also spiral disk structure.
 
-[Plate 1: Figure 5](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure5.png) Another patch with much larger "tubes," X 60. The "Girvanella" here forms a small speck in the midst of a coil of a nummulite, and is just visible under a lens X 10 when section is held up to light. Dark patch — hardly in Girvanella condition — in lower right corner shows fairly well a minute nummulitic spiral disk.
+[Plate 1: Figure 5](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure5.png) — Another patch with much larger "tubes," X 60. The "Girvanella" here forms a small speck in the midst of a coil of a nummulite, and is just visible under a lens X 10 when section is held up to light. Dark patch — hardly in Girvanella condition — in lower right corner shows fairly well a minute nummulitic spiral disk.
 
 [Plate 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2-Figure.png) A specimen of _Eozoon canadense_ or the Dawn Animal. Reduced two-thirds. [By viewing the above figure at some distance, or by holding up in front of a light to eliminate the aggressive banded pattern, it is possible to see here and there faint circular and oval outlines of shells.]
 
-[Plate 2A: Figures A-D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2A-Figures.png) Portions of Nummulites in Eozoon. Drawn from a section of _Eozoon canadense_. A, C X 30; B, D X 90. A — Centre of a shell showing several planes (in horizontal aspect). B — Fragment of marginal cord, alars and pillars. C — Two bands of marginal cord and radial alars. D — Portions of marginal cord.
+[Plate 2A: Figures A-D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2A-Figures.png) — Portions of Nummulites in Eozoon. Drawn from a section of _Eozoon canadense_. A, C X 30; B, D X 90. A — Centre of a shell showing several planes (in horizontal aspect). B — Fragment of marginal cord, alars and pillars. C — Two bands of marginal cord and radial alars. D — Portions of marginal cord.
 
-[Plate 2B: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2B-FigureA.png) _Nummulites gizehensis_, microspheric form, perpendicular section through central median (splitting) plane X 4. [The megalospheric phase of _N. gizehensis_ is _N. curvispira_, shown in Fig. 28, a-e.] All from Great Pyramid of Gizeh [Giza].
+[Plate 2B: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2B-FigureA.png) — _Nummulites gizehensis_, microspheric form, perpendicular section through central median (splitting) plane X 4. [The megalospheric phase of _N. gizehensis_ is _N. curvispira_, shown in Fig. 28, a-e.] All from Great Pyramid of Gizeh [Giza].
 
-[Plate 2B: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2B-FigureB.png) Transverse section of a shell, willow pattern X 6.
+[Plate 2B: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2B-FigureB.png) — Transverse section of a shell, willow pattern X 6.
 
-[Plate 2B: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2B-FigureC.png) Megalospheric shells of a related species, central median plane X 10.
+[Plate 2B: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2B-FigureC.png) — Megalospheric shells of a related species, central median plane X 10.
 
 [Plate 2C: Figure 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure1.png)
 
