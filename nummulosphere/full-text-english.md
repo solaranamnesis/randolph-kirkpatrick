@@ -108,9 +108,9 @@ A totally different view had been slowly maturing, however, and presently began 
 
 [Figure 26](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig26.png)
 
-[Figure 27a](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig27a.png)
+[Figure 27a](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig27-a.png)
 
-[Figure 27b](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig27b.png)
+[Figure 27b](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig27-b.png)
 
 [Figure 28](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig28.png)
 
