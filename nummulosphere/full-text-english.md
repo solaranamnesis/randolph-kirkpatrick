@@ -180,6 +180,16 @@ A totally different view had been slowly maturing, however, and presently began 
 
 [Plate 13: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate13-FigureC.png)
 
+[Plate 14: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate14-FigureA.png)
+
+[Plate 14: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate14-FigureB.png)
+
+[Plate 14: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate14-FigureC.png)
+
+[Plate 14: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate14-FigureD.png)
+
+[Plate 14: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate14-FigureE.png)
+
 [Figure 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig2.png)
 
 [Figure 3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig3.png)
