@@ -68,23 +68,23 @@ A totally different view had been slowly maturing, however, and presently began 
 
 _Note_. Plates 2C, 2D, 2E and 11 were done and printed off at an early period of the work. They include several useless photographs which could not well be eliminated later.
 
-[Plate 2C: Figure 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure1.png) Nummulitid pillars and chambers of Orthophragmina pratti, X 110. Figure of no value here.
+[Plate 2C: Figure 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure1.png) — Nummulitid pillars and chambers of Orthophragmina pratti, X 110. Figure of no value here.
 
-[Plate 2C: Figure 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure2.png) Section of Cornish Granite, X 65. Portion of a nummulite in horizontal aspect, showing region of central median plane. Section shows 3 furrowed marginal cords sloping down from west to east, and septa and alar prolongations at right angles to them. The lowest furrowed cord just above lower edge of photo shows over the middle an inverted V- or U-like septum about 20 mm. high, and the slit-like orifice of same just above cord. Note circular areas of dotted disks astride of cord, also convexity of cord from side to side. To see dotted circles or disks a lens X 3 should be used, but photo will bear magnification of 10. After careful inspection, the picture (especially lower third) will be found to be crowded with details of organic structure.
+[Plate 2C: Figure 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure2.png) — Section of Cornish Granite, X 65. Portion of a nummulite in horizontal aspect, showing region of central median plane. Section shows 3 furrowed marginal cords sloping down from west to east, and septa and alar prolongations at right angles to them. The lowest furrowed cord just above lower edge of photo shows over the middle an inverted V- or U-like septum about 20 mm. high, and the slit-like orifice of same just above cord. Note circular areas of dotted disks astride of cord, also convexity of cord from side to side. To see dotted circles or disks a lens X 3 should be used, but photo will bear magnification of 10. After careful inspection, the picture (especially lower third) will be found to be crowded with details of organic structure.
 
-[Plate 2C: Figure 3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure3.png) "Wold Cottage" meteorite. Portions of marginal cord with remains of septa astride, lying obliquely in lower half of photo. Compare with Fig. 2. X 260.
+[Plate 2C: Figure 3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure3.png) — "Wold Cottage" meteorite. Portions of marginal cord with remains of septa astride, lying obliquely in lower half of photo. Compare with Fig. 2. X 260.
 
-[Plate 2C: Figure 4](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure4.png) Particle from "Wold Cottage," at one time mistaken by me for Radiolarian; but is part of end of bundle of fine tubules; similar pattern later seen _in situ_ in Tertiary nummulite shells. X 1500.
+[Plate 2C: Figure 4](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure4.png) — Particle from "Wold Cottage," at one time mistaken by me for Radiolarian; but is part of end of bundle of fine tubules; similar pattern later seen _in situ_ in Tertiary nummulite shells. X 1500.
 
-[Plate 2C: Figure 5](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure5.png) Supposed Radiolarian! Really a particle of nummulitic structure, neck of "bottle" being a crystal. X 450.
+[Plate 2C: Figure 5](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure5.png) — Supposed Radiolarian! Really a particle of nummulitic structure, neck of "bottle" being a crystal. X 450.
 
-[Plate 2C: Figure 6](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure6.png) Cornish granite. Two areas of broken down disk structure. X 260.
+[Plate 2C: Figure 6](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure6.png) — Cornish granite. Two areas of broken down disk structure. X 260.
 
-[Plate 2C: Figure 7](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure7.png) Supposed Diatoms in granite! Really nummulitic particles. Fig. 7 X 2000. Fig. 8 X 1500.
+[Plate 2C: Figure 7](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure7.png) — Supposed Diatoms in granite! Really nummulitic particles. Fig. 7 X 2000. Fig. 8 X 1500.
 
-[Plate 2C: Figure 8](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure8.png) Supposed Diatoms in granite! Really nummulitic particles. Fig. 7 X 2000. Fig. 8 X 1500.
+[Plate 2C: Figure 8](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure8.png) — Supposed Diatoms in granite! Really nummulitic particles. Fig. 7 X 2000. Fig. 8 X 1500.
 
-[Plate 2C: Figure 9](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure9.png) Chantonnay meteorite. Two parallel sets of dots (upper very faint) astride furrowed cord. Highly magnified.
+[Plate 2C: Figure 9](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure9.png) — Chantonnay meteorite. Two parallel sets of dots (upper very faint) astride furrowed cord. Highly magnified.
 
 [Plate 2D: Figure 10](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2D-Figure10.png)
 
