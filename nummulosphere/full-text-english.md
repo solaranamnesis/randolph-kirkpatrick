@@ -316,13 +316,15 @@ If the pictures fail to convince — though C-G are fairly good — it is only n
 
 [Figure 10](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig10.png) — Nummulitic structure in diamond. A, marginal cord and pillar. B, disk-structure. C, portion of marginal cord, and of three rows of disks in perspective. All 1300x.
 
-[Figure 11](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig11.png) —
+[Figure 10A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig10a.png) — Diagrammatic figures illustrating the spirodiscoid character of the minute structure of the nummulite skeleton or shell. [See p. 161.] I. Spirodisk in horizontal, and II., in vertical aspect. Each figure shows three orders of dimensions, viz., _a_, _b_, _c_, like, say, a cog-wheel with cog themselves cogged. If, again, _c_ were enlarged it also would show spirodisks with descending orders of size down to the limits of microscopic vision.
 
-[Figure 12](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig12.png) —
+[Figure 11](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig11.png) — Shells of foraminifera. A, _Rotalia_. B, _Nodosaria_. C, _Lagena_. D, _Miliolina_. E, _Textularia_. A, C, D, E 30x. B 15x
 
-[Figure 13](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig13.png) —
+[Figure 12](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig12.png) — _Polystomella crispa_, about 50x. A, exterior. B, end view showing V-shaped row of pores in final septum. C, section of shell showing septa.
 
-[Figure 14](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig14.png) —
+[Figure 13](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig13.png) — _Polystomella crispa_ with numerous pseudopods, about 50x. After Lister. [Rows of dots on shell are incorrectly copied. They should be bars or streaks.]
+
+[Figure 14](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig14.png) — _Globigerina bulloides_, 175x. (From photo.)
 
 [Figure 15](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig15.png) —
 
