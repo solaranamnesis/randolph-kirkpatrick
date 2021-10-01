@@ -360,6 +360,18 @@ If the pictures fail to convince — though C-G are fairly good — it is only n
 
 [Figure 29](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig29.png) — _Stromatopora concentrica_. Marked areas shown in photos on Plate 4. 18x.
 
+[Figure 30](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig30.png) — _Labechia conferta_. (P. 5984. 264 f. N.H.M.) Showing "vesicular" structure. 18x.
+
+[Figure 31](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig31.png) — From slide of _Stromatopora concentrica_. Part of nummulite in transverse section, showing willow pattern, the spiral lamina and pillars; 100x.
+
+[Figure 32](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig32.png) — Fulwell concretion resembling Parkeria. ⅔ nat. size.
+
+[Figure 33](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig33.png) — _Loftusia persica_. Half of section, 3x.
+
+[Figure 34](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig34.png) — Portland oolite. From photo of rough surface of piece of rock. 3x.
+
+[Figure 35](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig35.png) — Some remarkable lithomorphs. _a_, Cyclocrinus, 4x; _b_, section of Coelosphaeridium, 2x; _c_, section of Cyclocrinus, 2.5x; _d_, lids of Cyclocrinus 8x; _e_, ditto, another pattern, 12.5x; _f_, Silurian limestone of Estland, showing sections of three specimens in contact, without radials (N.H.M., Bather), nat. size; _g_, _h_, _Ischadites murchisoni_, rough copy after Rauff; _i_, Parkeria, with conical axial body; _j_, Fulwell concretion, section showing central concentric and peripheral radial-tubular structure, ½x, after G. Abbott. Figs. _a_-_e_, after Dr. Stolley.
+
 [Proteus](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Proteus-Figure.png) —
 "So might I  
 Have sight of Proteus rising from the sea." "Proteus gerôn halios nêmertês" — "Proteus, the ancient one of the sea, whose testimony is true," or "Old sea-tell-truth."
