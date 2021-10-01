@@ -344,20 +344,22 @@ If the pictures fail to convince — though C-G are fairly good — it is only n
 
 [Figure 23a](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig23-a.png) — Transverse sections of nummulites showing layers of spiral lamina with pillar and inter-pillar bands. A. _N. scabra_, 24x. B. _N. deshayesi_, 28x. _p_, pillar areas. After d'Archiac.
 
-[Figure 23b](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig23-b.png) —
+[Figure 23b](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig23-b.png) — Transverse sections of nummulites showing layers of spiral lamina with pillar and inter-pillar bands. A. _N. scabra_, 24x. B. _N. deshayesi_, 28x. _p_, pillar areas. After d'Archiac.
 
-[Figure 24](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig24.png) —
+[Figure 24](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig24.png) — Snake River basalt. Fragment of marginal cord of a nummulite. 100x.
 
-[Figure 25](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig25.png) —
+[Figure 25](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig25.png) — Cornish granite. Portion of nummulite in transverse aspect. 65x.
 
-[Figure 26](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig26.png) —
+[Figure 26](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig26.png) — Stavropol meteorite. Transverse aspect and section of a nummulite showing spiral lamina. 85x.
 
-[Figure 27a](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig27-a.png) —
+[Figure 27a](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig27-a.png) — _Stromatoporella eifeliensis_. A, horizontal, B, vertical section, showing network. 3x.
 
-[Figure 27b](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig27-b.png) —
+[Figure 27b](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig27-b.png) — _Stromatoporella eifeliensis_. A, horizontal, B, vertical section, showing network. 3x.
 
-[Figure 28](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig28.png) —
+[Figure 28](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig28.png) — _Clathrodictyon striatellum_. If page be held slanting and at a distance, coils of a broad spiral band of a shell will be dimly seen. 10x.
 
-[Figure 29](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig29.png) —
+[Figure 29](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig29.png) — _Stromatopora concentrica_. Marked areas shown in photos on Plate 4. 18x.
 
 [Proteus](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Proteus-Figure.png) —
+"So might I  
+Have sight of Proteus rising from the sea." "Proteus gerôn halios nêmertês" "Proteus, the ancient one of the sea, whose testimony is true," or "Old sea-tell-truth."
