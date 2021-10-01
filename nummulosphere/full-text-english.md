@@ -316,7 +316,7 @@ If the pictures fail to convince — though C-G are fairly good — it is only n
 
 [Figure 10](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig10.png) — Nummulitic structure in diamond. A, marginal cord and pillar. B, disk-structure. C, portion of marginal cord, and of three rows of disks in perspective. All 1300x.
 
-[Figure 10A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig10a.png) — Diagrammatic figures illustrating the spirodiscoid character of the minute structure of the nummulite skeleton or shell. [See p. 161.] I. Spirodisk in horizontal, and II., in vertical aspect. Each figure shows three orders of dimensions, viz., _a_, _b_, _c_, like, say, a cog-wheel with cog themselves cogged. If, again, _c_ were enlarged it also would show spirodisks with descending orders of size down to the limits of microscopic vision.
+[Figure 10A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig10-a.png) — Diagrammatic figures illustrating the spirodiscoid character of the minute structure of the nummulite skeleton or shell. [See p. 161.] I. Spirodisk in horizontal, and II., in vertical aspect. Each figure shows three orders of dimensions, viz., _a_, _b_, _c_, like, say, a cog-wheel with cog themselves cogged. If, again, _c_ were enlarged it also would show spirodisks with descending orders of size down to the limits of microscopic vision.
 
 [Figure 11](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig11.png) — Shells of foraminifera. A, _Rotalia_. B, _Nodosaria_. C, _Lagena_. D, _Miliolina_. E, _Textularia_. A, C, D, E 30x. B 15x
 
