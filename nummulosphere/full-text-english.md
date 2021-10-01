@@ -250,7 +250,7 @@ _Note_. — This plate is one of the most interesting of the set. The sections w
 
 [Plate 22: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate22-FigureC.png) — Polished surface of Mazapil meteorite, 5x. The fine dotted or granular markings distinct from lines of the section or from cracks are here and there arranged in circular groups or defined curved bands.
 
-[Plate 22: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate22-FigureD.png) — The same as C, but 175x. Photographed by reflected light. Here the organic and nummulitic structure is unmistakably apparent to the trained eye. (Use of lens X 3 desirable.)
+[Plate 22: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate22-FigureD.png) — The same as C, but 175x. Photographed by reflected light. Here the organic and nummulitic structure is unmistakably apparent to the trained eye. (Use of lens 3x desirable.)
 
 [Plate 22: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate22-FigureE.png) — Surface of Jamestown meteorite, 5x. Showing outlines of nummulitic structure, 5x.
 
@@ -270,7 +270,7 @@ _Note_. — This plate is one of the most interesting of the set. The sections w
 
 [Plate 23: Figure G](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureG.png) — Two "canals" in Eozoon, showing granular serpentine to contain nummulitic structure continuous with similar fainter structure in the calcite. 450x.
 
-[Plate 23: Figure H](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureH.png) — Melbourn Rock, showing "spheres" 450x. The edge of lowest sphere shows banded cord. Very careful study with lens X 3 will reveal other coils and "septa," i.e. this "sphere" is a spirodisk.
+[Plate 23: Figure H](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureH.png) — Melbourn Rock, showing "spheres" 450x. The edge of lowest sphere shows banded cord. Very careful study with lens 3x will reveal other coils and "septa," i.e. this "sphere" is a spirodisk.
 
 _Note regarding Fig. "E," as marked on plate_. — E is the right half of the divided figure, and E' the left half (marked E on plate). See guide diagram.
 
