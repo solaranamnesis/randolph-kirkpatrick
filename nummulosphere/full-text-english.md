@@ -118,7 +118,7 @@ _Note_. Plates 2C, 2D, 2E and 11 were done and printed off at an early period of
 
 [Plate 3B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate3-Figure.png) — _Stromatopora concentrica_, Goldfuss. Peroy Highley, del et lith. C. Hodges & Son. imp
 
-[Plate 4: Figures 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure1.png), [2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure2.png), [3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure3.png), [and 4](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure4.png) — _Stromatopora concentrica_. All from a slide in Nicholson's collection (P. 5869) figured in his monograph Pl. 11, Fig. 16. Figs. 1, 2 are from the marked areas shown in Fig. 29 on p. 226. A lens 3x should be used. All 260x.
+[Plate 4: Figures 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure1.png), [2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure2.png), [3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure3.png), [and 4](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure4.png) — _Stromatopora concentrica_. All from a slide in Nicholson's collection (P. 5869) figured in his monograph Plate 11, Fig. 16. Figs. 1, 2 are from the marked areas shown in Fig. 29 on p. 226. A lens 3x should be used. All 260x.
 
 The whole slide shows nothing else than nummulitic shell structure throughout.
 
@@ -178,7 +178,7 @@ The photos were originally taken to show light and dark areas with continuity of
 
 [Plate 13: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate13-FigureA.png) — Section of Totternhoe Stone (Lower Chalk), 110x. A curved band of marginal cord with septa extends from side to side across middle of field. (Picture too dark, and not equal to negative. It has been difficult to get good results from photos of any of the chalks.)
 
-[Plate 13: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate13-FigureB.png) — Section of Melbourn Rock (Middle Chalk) to show circular and oval "spheres," 65x. These "bodies" are simply clarified areas in nummulitic rock. The areas are usually discoidal, and not spheres either whole or in section. Nummulitic structure exists in the clear spaces, and can often be traced from light to dark areas. (See also Pl. 23 Fig. H.)
+[Plate 13: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate13-FigureB.png) — Section of Melbourn Rock (Middle Chalk) to show circular and oval "spheres," 65x. These "bodies" are simply clarified areas in nummulitic rock. The areas are usually discoidal, and not spheres either whole or in section. Nummulitic structure exists in the clear spaces, and can often be traced from light to dark areas. (See also Plate 23 Fig. H.)
 
 [Plate 13: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate13-FigureC.png) — Weathered surface of a lump of _Eozoon canadense_, i.e. of a mass of very ancient nummulites. Natural size. The external form and inner structure of the nummulites in various aspects are visible to unaided eye, or under lens 3x. They are best seen in lower half of picture, where one or two might almost serve for descriptions of species.
 
@@ -208,7 +208,7 @@ The photos were originally taken to show light and dark areas with continuity of
 
 _Note_. — The Stavropol meteorite is a flat brick-shaped object about 5 by 4 inches in area and 2 inches thick. It was seen to fall on March 24 (o.s.), 1857, at 5 P.M. by a man working on a farm, and at a distance of about eighty yards, at Stavropol in the Caucasus. The specimen is in the Petrograd Museum. See H. Abich., Bull. Acad. Imp. Sci. St. Pétersbourg, tom. ii. 1860, p. 407. The photographs are those of a section made from a fragment in the British Museum (Nat. Hist.).
 
-[Plate 17: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate17-FigureA.png) — Section of Snake River Basalt, 10x. Showing a slightly wider area than in Pl. 14 A.
+[Plate 17: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate17-FigureA.png) — Section of Snake River Basalt, 10x. Showing a slightly wider area than in Plate 14 A.
 
 Careful study will show the ridged band of a "marginal cord" like a spirally wound motor-car tyre, with "septa" across. For guide to centre of coil see diagram.
 
@@ -226,7 +226,7 @@ Careful study will show the ridged band of a "marginal cord" like a spirally wou
 
 [Plate 20: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureA.png) — Diatom ooze (_Challenger_, St. 157 Southern Ocean, 1950 fms.). Crushed fragment in balsam, 65x. It can be said with entire certainty that the six or seven circular, oval or (U-shaped bands are parts of septa or marginal cords of nummulite shells (and not Radiolaria). The structure is obscured by the numerous Diatoms. When the eye is trained, it becomes possible to detect abundant spirodiscoid structure throughout. 65x.
 
-[Plate 20: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureB.png) — Red Clay (_Challenger_, St. 165, 2600 fms.). Crushed fragment in balsam 260x. In lighter areas nummulitic structure is visible. (The poor results in this figure led to the making of the excellent sections, of which photos are shown in Pl. 21 Figs. C, D.)
+[Plate 20: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureB.png) — Red Clay (_Challenger_, St. 165, 2600 fms.). Crushed fragment in balsam 260x. In lighter areas nummulitic structure is visible. (The poor results in this figure led to the making of the excellent sections, of which photos are shown in Place 21 Figs. C, D.)
 
 [Plate 20: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureC.png) — Section of a hard chalk from Missenden, 4x. The whole field is full of nummulitic structure, viz., spiral coils of cord and the septa, but it is very difficult to make out. When magnified 12 diameters the section shows Globigerina and "spheres."
 
