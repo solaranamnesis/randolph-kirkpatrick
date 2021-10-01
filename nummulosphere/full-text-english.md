@@ -362,4 +362,4 @@ If the pictures fail to convince — though C-G are fairly good — it is only n
 
 [Proteus](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Proteus-Figure.png) —
 "So might I  
-Have sight of Proteus rising from the sea." "Proteus gerôn halios nêmertês" "Proteus, the ancient one of the sea, whose testimony is true," or "Old sea-tell-truth."
+Have sight of Proteus rising from the sea." "Proteus gerôn halios nêmertês" — "Proteus, the ancient one of the sea, whose testimony is true," or "Old sea-tell-truth."
