@@ -42,6 +42,10 @@ So far, then, according to the opinion prevailing at that time, the earth's crus
 
 A totally different view had been slowly maturing, however, and presently began to make its influence felt.
 
+Thirty years before the rise of the Wernerian doctrines, the great French investigator Guettard discovered the extinct volcanoes of Central France. In 1752, in the course of a journey in the Auvergne district, he noticed the mile-stones were made of a black stone which, from its resemblance to samples of rock from Vesuvius, he recognized as volcanic. Proceeding on his way he found even the villages were built of this stone, and presently discovered the cones, craters and lava-flows of long-extinct volcanoes. Evidently the now peaceful countryside had once been the scene of great volcanic eruptions.
+
+The curious black columnar rock called "Basalt" — the name given to it by Pliny — was known to exist in various parts of Europe, at Giants' Causeway, and Fingal's Cave. Sometimes the rock forms the flat summit of a hill, and sometimes is sandwiched between layers of sedimentary rock. What was the origin of this mysterious black vitreous or very finely crystalline columnar rock, so different from the shales, sandstones and limestones? Certainly basalt had some resemblance to lava, yet apparently there were no traces of volcanic action where basalt was found, especially no remains of cones or craters. Lava was porous and full of cavities, and basalt homogeneous; and, further, lava was supposed not to be columnar. Guettard looked upon basalt as an aqueous rock that had been deposited from water by crystallization, and even twenty years after his discovery of the extinct volcanoes he defended this view. Geikie* comments on the whimsical circumstance of one and the same man being the parent of two diametrically opposed schools — the Neptunists and Vulcanists.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
