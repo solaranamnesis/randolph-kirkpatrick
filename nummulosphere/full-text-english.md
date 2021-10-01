@@ -224,15 +224,15 @@ Careful study will show the ridged band of a "marginal cord" like a spirally wou
 
 [Plate 19: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate19-FigureC.png) — Dresden syenite. Section showing portions of broad band-like coils of marginal cord and also septa. X 95.
 
-[Plate 20: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureA.png)
+[Plate 20: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureA.png) — Diatom ooze (_Challenger_, St. 157 Southern Ocean, 1950 fms.). Crushed fragment in balsam, X 65. It can be said with entire certainty that the six or seven circular, oval or (U-shaped bands are parts of septa or marginal cords of nummulite shells (and not Radiolaria). The structure is obscured by the numerous Diatoms. When the eye is trained, it becomes possible to detect abundant spirodiscoid structure throughout. X 65.
 
-[Plate 20: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureB.png)
+[Plate 20: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureB.png) — Red Clay (_Challenger_, St. 165, 2600 fms.). Crushed fragment in balsam X 260. In lighter areas nummulitic structure is visible. (The poor results in this figure led to the making of the excellent sections, of which photos are shown in Pl. 21 Figs. C, D.)
 
-[Plate 20: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureC.png)
+[Plate 20: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureC.png) — Section of a hard chalk from Missenden, X 4. The whole field is full of nummulitic structure, viz., spiral coils of cord and the septa, but it is very difficult to make out. When magnified 12 diameters the section shows Globigerina and "spheres."
 
-[Plate 20: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureD.png)
+[Plate 20: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureD.png) — Small diamond from Transvaal, X 4. Showing nummulitic structure.
 
-[Plate 20: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureE.png)
+[Plate 20: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureE.png) — The same diamond X 260. Portions of marginal cord, septa, and spirodisks are visible to the trained eye, especially above centre of lower edge of picture.
 
 [Plate 21: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate21-FigureA.png)
 
