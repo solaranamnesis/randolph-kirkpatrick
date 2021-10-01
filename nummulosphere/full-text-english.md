@@ -96,6 +96,16 @@ In spite of very careful search, I am at present unable to produce indubitable e
 
 *) Benthos — organisms living at the bottom; plankton — those living at or below the surface of the water. A benthoplankton ooze or rock is one made of a mixture of benthos and plankton skeletons. Igneous rocks are here described as benthoplankton, even though no plankton skeletons persist, because the evidence is in favour of the theory that part of the silica of those rocks is derived from plankton organisms. Benthos, plankton, and benthoplankton are used either as adjectives or substantives.
 
+Looking back over the history narrated above, it is now easy to detect the fatal flaw in the "Plutonic mail."*
+
+*) Playfair's "Illustrations," p. 279. Adopting the analogy used by the illustrious Dr. Playfair, it may now be said with truth that the Neptunian scale-armour is absolutely impenetrable to the prongs of Plutonian pitchforks. 
+
+When the fallacy of Werner's coal-combustion theory of volcanoes was detected,* lava came to be regarded as an "igneous" rock of deep origin and not as a heated superficial aqueous rock. One variety of the "igneous" theory — for there are several — is clearly stated by Whitney and Wadsworth in their memoir on the igneous rocks: "The original crust of the earth must have been azoic, if we adopt the views held by the large majority of geologists that our globe has cooled down from a former condition of igneous fluidity. The volcanic and eruptive rocks must necessarily be azoic _because they have come from the heated interior of the globe, reaching the surface in a melted condition_. We do not, however, designate the eruptive and volcanic rocks as "Azoic"; the fact that they are necessarily in this condition is assumed as something self-evident."* The Neptunian theory of the aqueous origin of basalt though correct was obviously a pure guess. Neptunists, for instance, defended with incredible obstinacy the view that basalt had been deposited from water in the place where it was found (Appendix, Note A). Plutonists, on the other hand, were right concerning the ascent of basalt as a molten magma; but their denial of the aqueous origin of the rock has, for over a hundred years, falsified scientific speculation concerning the real nature of the planetary crust (Appendix, Note P).
+
+*) For it soon became impossible to escape seeing the identity of the Auvergne lava and basalt. In this district basalt lies on granite, below which no Wernerian could imagine coal to exist. Here, then, were volcanic rocks remote from burning coalfields.
+
+*) Bull. Mus. Comp. Zool. Harvard, 1884, 7. p. 534. J. D. Whitney and M. E. Wadsworth, "The Azoic System."
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
