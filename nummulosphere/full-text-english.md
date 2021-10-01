@@ -44,14 +44,70 @@ A totally different view had been slowly maturing, however, and presently began 
 
 ...
 
-#### List of Figures
+#### List of Plates and Figures
 
-[Figure 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure1.png)
+[Plate 1: Figure 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure1.png)
 
-[Figure 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure2.png)
+[Plate 1: Figure 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure2.png)
 
-[Figure 3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure3.png)
+[Plate 1: Figure 3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure3.png)
 
-[Figure 4](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure4.png)
+[Plate 1: Figure 4](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure4.png)
 
-[Figure 5](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure5.png)
+[Plate 1: Figure 5](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure5.png)
+
+[Figure 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig2.png)
+
+[Figure 3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig3.png)
+
+[Figure 4](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig4.png)
+
+[Figure 5](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig5.png)
+
+[Figure 6](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig6.png)
+
+[Figure 7](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig7.png)
+
+[Figure 8](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig8.png)
+
+[Figure 9](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig9.png)
+
+[Figure 10](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig10.png)
+
+[Figure 11](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig11.png)
+
+[Figure 12](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig12.png)
+
+[Figure 13](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig13.png)
+
+[Figure 14](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig14.png)
+
+[Figure 15](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig15.png)
+
+[Figure 16](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig16.png)
+
+[Figure 17](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig17.png)
+
+[Figure 18](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig18.png)
+
+[Figure 19](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig19.png)
+
+[Figure 20](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig20.png)
+
+[Figure 21](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig21.png)
+
+[Figure 22](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig22.png)
+
+[Figure 23](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig23.png)
+
+[Figure 24](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig24.png)
+
+[Figure 25](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig25.png)
+
+[Figure 26](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig26.png)
+
+[Figure 27](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig27.png)
+
+[Figure 28](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig28.png)
+
+[Figure 29](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig29.png)
