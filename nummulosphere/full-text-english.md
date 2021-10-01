@@ -60,11 +60,11 @@ A totally different view had been slowly maturing, however, and presently began 
 
 [Plate 2A: Figures A-D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2A-Figures.png) Portions of Nummulites in Eozoon. Drawn from a section of _Eozoon canadense_. A, C X 30; B, D X 90. A — Centre of a shell showing several planes (in horizontal aspect). B — Fragment of marginal cord, alars and pillars. C — Two bands of marginal cord and radial alars. D — Portions of marginal cord.
 
-[Plate 2B: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2B-FigureA.png)
+[Plate 2B: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2B-FigureA.png) _Nummulites gizehensis_, microspheric form, perpendicular section through central median (splitting) plane X 4. [The megalospheric phase of _N. gizehensis_ is _N. curvispira_, shown in Fig. 28, a-e.] All from Great Pyramid of Gizeh [Giza].
 
-[Plate 2B: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2B-FigureB.png)
+[Plate 2B: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2B-FigureB.png) Transverse section of a shell, willow pattern X 6.
 
-[Plate 2B: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2B-FigureC.png)
+[Plate 2B: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2B-FigureC.png) Megalospheric shells of a related species, central median plane X 10.
 
 [Plate 2C: Figure 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure1.png)
 
