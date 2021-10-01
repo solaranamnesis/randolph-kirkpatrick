@@ -330,19 +330,19 @@ If the pictures fail to convince — though C-G are fairly good — it is only n
 
 [Figure 16](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig16.png) — Diagram of a nummulite to show perpendicular and transverse sections in one view. _a_, outer coil of shell; _b_, _b'_, _b''_, three preceding coils; _c_, septa; _d_, aperture in septum: _e_, alar prolongations; _f_, edges of spiral lamina, _f'_ surface of final coil (same as _a_); _g_, marginal cord, _g'_, g''_ vessels in septa and walls; _h_, central chamber.
 
-[Figure 17](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig17.png) —
+[Figure 17](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig17.png) — Diagram of imaginary shell with a few wide-apart coils. A., coiled up; B, uncoiled. To help to explain continuous embracing spiral, spiral lamina, marginal cord.
 
-[Figure 18](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig18.png) —
+[Figure 18](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig18.png) — A. _N. planulata_ showing a furrowed "marginal cord" or edge of last coil but one; a septum; and slit-like orifice between lower edge of septum and marginal cord of preceding coil, 25x. B, C, E, shells 2x; D, nat. size. Shells whole and in section. After d'Archiac.
 
-[Figure 19](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig19.png) —
+[Figure 19](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig19.png) — Portion of outer convex surface of marginal cord. 260x.
 
-[Figure 20](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig20.png) —
+[Figure 20](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig20.png) — Transverse section of marginal cord bounded on each side by the striated inter-pillar areas. 260x.
 
-[Figure 21](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig21.png) —
+[Figure 21](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig21.png) — Transverse section (willow pattern) of part of shell of _N. laevigata_, 10x. After Carpenter. _a_, rows of pillars in section in spiral lamina, _a'_ ends of pillars forming granules on surface of successive coils of spiral lamina; _b_, _b'_, septa of chambers; _c_ marginal cord; _d_, orifice in each septum; _e_, canals.
 
-[Figure 22](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig22.png) —
+[Figure 22](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig22.png) — Transverse section of _Nummulites laevigata_ showing light pillar and dark inter-pillar bands. 25x.
 
-[Figure 23a](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig23-a.png) —
+[Figure 23a](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig23-a.png) — Transverse sections of nummulites showing layers of spiral lamina with pillar and inter-pillar bands. A. _N. scabra_, 24x. B. _N. deshayesi_, 28x. _p_, pillar areas. After d'Archiac.
 
 [Figure 23b](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig23-b.png) —
 
