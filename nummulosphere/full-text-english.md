@@ -58,7 +58,31 @@ A totally different view had been slowly maturing, however, and presently began 
 
 [Plate 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2-Figure.png)
 
-[Plate 2A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2A-Figures.png)
+[Plate 2A: Figures A-D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2A-Figures.png)
+
+[Plate 2B: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2B-FigureA.png)
+
+[Plate 2B: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2B-FigureB.png)
+
+[Plate 2B: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2B-FigureC.png)
+
+[Plate 2C: Figure 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure1.png)
+
+[Plate 2C: Figure 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure2.png)
+
+[Plate 2C: Figure 3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure3.png)
+
+[Plate 2C: Figure 4](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure4.png)
+
+[Plate 2C: Figure 5](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure5.png)
+
+[Plate 2C: Figure 6](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure6.png)
+
+[Plate 2C: Figure 7](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure7.png)
+
+[Plate 2C: Figure 8](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure8.png)
+
+[Plate 2C: Figure 9](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure9.png)
 
 [Figure 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig2.png)
 
