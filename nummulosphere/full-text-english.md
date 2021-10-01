@@ -234,13 +234,15 @@ Careful study will show the ridged band of a "marginal cord" like a spirally wou
 
 [Plate 20: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate20-FigureE.png) — The same diamond X 260. Portions of marginal cord, septa, and spirodisks are visible to the trained eye, especially above centre of lower edge of picture.
 
-[Plate 21: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate21-FigureA.png)
+[Plate 21: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate21-FigureA.png) — Section of rotten trachyte permeated with sulphur from interior of upper crater of Tenerife, X 4 1/2. The coils of a much-blasted nummulite in perpendicular section are visible to the trained vision. The rock section has a pale reddish tinge, the red being much more apparent in sections.
 
-[Plate 21: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate21-FigureB.png)
+[Plate 21: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate21-FigureB.png) — The same X 450. Every particle of the rock section shows nummulitic structure. The portion here selected shows part of a coil of marginal cord. The part figured was chosen to compare with Tschermak's figure of the section of Seres meteorite showing antler-like crystal with a wedge of olivine (biologically, part of marginal cord and septum). In addition there are septa and spirodiscoid structures.
 
-[Plate 21: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate21-FigureC.png)
+[Plate 21: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate21-FigureC.png) — Section of Red Clay (_Challenger_, St. 165, 2600 fms.). Showing portion of a nummulite, X 10. Best viewed by making left border the lower. Curved series of circular disks seen across the field. Patient study with lens affords a wonderful revelation.
 
-[Plate 21: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate21-FigureD.png)
+[Plate 21: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate21-FigureD.png) — The same X 260. Shows coiled disk-structure, i.e. miniature marginal cord and septa.
+
+_Note_. — This plate is one of the most interesting of the set. The sections were made from red clay and rotten trachyte hardened in balsam. The trachyte would have become red clay if it had fallen into the ocean. Red Clay comes from one universal deposit of mineralized nummulites. The "clay" may have been erupted from a submarine deep-seated part of the deposit, or from a supra-marine or upheaved area of the deposit, or lastly from the disintegrated surface of the deposit _in situ_.
 
 [Plate 22: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate22-FigureA.png)
 
