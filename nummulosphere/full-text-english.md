@@ -58,7 +58,7 @@ A totally different view had been slowly maturing, however, and presently began 
 
 [Plate 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2-Figure.png) A specimen of _Eozoon canadense_ or the Dawn Animal. Reduced two-thirds. [By viewing the above figure at some distance, or by holding up in front of a light to eliminate the aggressive banded pattern, it is possible to see here and there faint circular and oval outlines of shells.]
 
-[Plate 2A: Figures A-D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2A-Figures.png)
+[Plate 2A: Figures A-D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2A-Figures.png) Portions of Nummulites in Eozoon. Drawn from a section of _Eozoon canadense_. A, C X 30; B, D X 90. A — Centre of a shell showing several planes (in horizontal aspect). B — Fragment of marginal cord, alars and pillars. C — Two bands of marginal cord and radial alars. D — Portions of marginal cord.
 
 [Plate 2B: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2B-FigureA.png)
 
