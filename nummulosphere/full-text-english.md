@@ -208,9 +208,11 @@ The photos were originally taken to show light and dark areas with continuity of
 
 _Note_. — The Stavropol meteorite is a flat brick-shaped object about 5 by 4 inches in area and 2 inches thick. It was seen to fall on March 24 (o.s.), 1857, at 5 P.M. by a man working on a farm, and at a distance of about eighty yards, at Stavropol in the Caucasus. The specimen is in the Petrograd Museum. See H. Abich., Bull. Acad. Imp. Sci. St. Pétersbourg, tom. ii. 1860, p. 407. The photographs are those of a section made from a fragment in the British Museum (Nat. Hist.).
 
-[Plate 17: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate17-FigureA.png)
+[Plate 17: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate17-FigureA.png) — Section of Snake River Basalt, X 10. Showing a slightly wider area than in Pl. 14 A.
 
-[Plate 17: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate17-FigureB.png)
+Careful study will show the ridged band of a "marginal cord" like a spirally wound motor-car tyre, with "septa" across. For guide to centre of coil see diagram.
+
+[Plate 17: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate17-FigureB.png) — Mica X 3 1/2. This wonderful photograph is crammed with details of nummulitic structure. The mica film was flaked off a thick block of dark amber-coloured Himalayan mica given to me by the great mica firm of Messrs. Wiggins. I have detected nummulitic structures even in the most transparent varieties of mineral by using the highest powers, but here the shell structure can be seen with a lens X 3. Spiral coils of marginal cord with septa and alars and spirodiscoid structures in all these are present over the whole field.
 
 [Plate 18: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate18-FigureA.png)
 
