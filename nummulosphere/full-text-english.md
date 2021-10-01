@@ -64,11 +64,23 @@ James Hutton (1726-1797), whom Geikie calls the "Father of Modern Geology," arri
 
 *) For how could highly-inclined strata composed of water-worn pebbles have been deposited in nearly vertical sheets?
 
-He clearly perceived the contest between the upheaving and the more obvious wearing-down agencies. Water was one of the tools which cut valleys in the uplifted masses and ultimately ground down the latter wholly into gravel, sand and mud. The sediments became hardened into rocks by heat and pressure, and again upheaved. He regarded granite and basalt as materials emanating from the molten interior of the earth. Great was his delight when he discovered in Glen Tilt veins from a mass of red granite penetrating the black schist and the limestone, thereby proving the granite had once been molten and that it was not " primitive " in its relation to the other rocks.* Not only, then, was basalt related to volcanic lava, but even granite was formerly a molten rock of a similar nature, the coarsely crystalline texture being due to slow cooling under great pressure.
+He clearly perceived the contest between the upheaving and the more obvious wearing-down agencies. Water was one of the tools which cut valleys in the uplifted masses and ultimately ground down the latter wholly into gravel, sand and mud. The sediments became hardened into rocks by heat and pressure, and again upheaved. He regarded granite and basalt as materials emanating from the molten interior of the earth. Great was his delight when he discovered in Glen Tilt veins from a mass of red granite penetrating the black schist and the limestone, thereby proving the granite had once been molten and that it was not "primitive" in its relation to the other rocks.* Not only, then, was basalt related to volcanic lava, but even granite was formerly a molten rock of a similar nature, the coarsely crystalline texture being due to slow cooling under great pressure.
 
 *) Hutton, "Theory of the Earth," vol. 3. p. 13.
 
 Huttonians were termed "Plutonists" and were regarded by Neptunists as a more extreme section of Vulcanists. Gradually the Plutonists, now including Vulcanists, prevailed, and granite basalt and their like universally came to be termed "Igneous Rocks."
+
+Neptunists became almost extinct, a few isolated cases being regarded as "eccentric."
+
+Now comes a strange event in the history of natural science,* viz., the discovery beyond the faintest shadow of doubt that the Neptunian theory is right after all. The so-called igneous rocks are of aqueous origin. They are marine formations, so far as I have observed, and fossiliferous throughout.
+
+*) Attempts have been made to prove on petrological grounds the purely aqueous origin of igneous rocks. I would especially call attention to "Essai sur la genèse et l'évolution des roches," 1912, by A. Vialay. I doubt if this learned treatise would ever have any effect against the Plutonian stronghold. The proof, however, that igneous rocks are fossiliferous is unanswerable, unless indeed we are to assume the existence of a Plutonic fauna living in an "inflamèd sea" with shores of "burning marl" (Milton, "Paradise Lost").
+
+During the summer of 1912, in the hope of solving a problem presented by a remarkable sponge, I was led to investigate certain fossils called Stromatoporoids and Eozoon (see Chapters 3 and 10).
+
+After a prolonged controversy Eozoon had been finally accepted by the scientific world as a mineral of purely mineral origin. Dr. Carpenter, however, had regarded it as a gigantic reef-forming Foraminiferan.
+
+One day I found in one of Dr. Carpenter's sections something which I took to be a small coiled nummulite shell situated in one of the supposed chambers of the Eozoon. I concluded Dr. Carpenter was right in his theory of organic origin.
 
 ...
 
