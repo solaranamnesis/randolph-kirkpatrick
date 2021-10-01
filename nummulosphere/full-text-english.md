@@ -86,19 +86,19 @@ _Note_. Plates 2C, 2D, 2E and 11 were done and printed off at an early period of
 
 [Plate 2C: Figure 9](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2C-Figure9.png) — Chantonnay meteorite. Two parallel sets of dots (upper very faint) astride furrowed cord. Highly magnified.
 
-[Plate 2D: Figure 10](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2D-Figure10.png)
+[Plate 2D: Figure 10](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2D-Figure10.png) — Section of Eozoon, poor but showing in upper lighter part of photo a portion of a broad curved band of marginal cord with bases of septa across, and (under lens X 3) disk structures. X 175.
 
-[Plate 2D: Figure 11](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2D-Figure11.png)
+[Plate 2D: Figure 11](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2D-Figure11.png) — Cornish granite. Three marginal cords passing obliquely downwards from left to right and alars at right angles. I can see better by reversing figure. The curve of a broad ridged marginal cord can be followed from middle of the then right edge near circular patch. With lens X 3 circular granular disks are clearly visible lying across cord, also faintly two fan-like septa with semicircular edge in oblique projection, X 65.
 
-[Plate 2D: Figure 12](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2D-Figure12.png)
+[Plate 2D: Figure 12](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2D-Figure12.png) — Cornish granite. Rhomboidal felspar crystal to left of centre shows 1/8 inch (3 mm.) above middle of lower left border and well between two parallel dark streaks a spiral rim (1 mm. diam.) with cog-like light and dark flecks. On left are two much larger concentric rims with radial "septa" and "alars." The upper dark streak, nearly tangential to inner of these, stabs five septa, X 3. Lens necessary.
 
-[Plate 2D: Figure 13](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2D-Figure13.png)
+[Plate 2D: Figure 13](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2D-Figure13.png) — Cornish granite. Photo poor but showing about centre of photo in oblique-vertical perspective three coils (respectively 2, 4 and 9 mm. in diameter) of central part of a shell; also radial septa ; second coil like a thick-rimmed ring. X 6.
 
-[Plate 2D: Figure 14](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2D-Figure14.png)
+[Plate 2D: Figure 14](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2D-Figure14.png) — Denmark granite. Showing two marginal cords passing obliquely from left to right and two embracing alars, also septa and disk-structure. X 95.
 
-[Plate 2D: Figure 15](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2D-Figure15.png)
+[Plate 2D: Figure 15](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2D-Figure15.png) — Denmark granite. Two coils of marginal cord; and septa and alars. X 95.
 
-[Plate 2D: Figure 16](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2D-Figure16.png)
+[Plate 2D: Figure 16](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2D-Figure16.png) — Surface of Denmark granite showing faint outlines of several shells. X 4.
 
 [Plate 2E: Figure 17](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2E-Figure17.png)
 
