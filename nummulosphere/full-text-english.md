@@ -206,7 +206,7 @@ The photos were originally taken to show light and dark areas with continuity of
 
 [Plate 16: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate16-FigureD.png) — Centre of C, X 1100.
 
-_Note_. — The Stavropol meteorite is a flat brick-shaped object about 5 by 4 inches in area and 2 inches thick. It was seen to fall on March 24 (o.s.), 1857, at 5 P.M. by a man working on a farm, and at a distance of about eighty yards, at Stavropol in the Caucasus. The specimen is in the Petrograd Museum. See H. Abich., Bull. Acad. Imp. Sci. St. Petersbourg, tom. ii. 1860, p. 407. The photographs are those of a section made from a fragment in the British Museum (Nat. Hist.).
+_Note_. — The Stavropol meteorite is a flat brick-shaped object about 5 by 4 inches in area and 2 inches thick. It was seen to fall on March 24 (o.s.), 1857, at 5 P.M. by a man working on a farm, and at a distance of about eighty yards, at Stavropol in the Caucasus. The specimen is in the Petrograd Museum. See H. Abich., Bull. Acad. Imp. Sci. St. Pétersbourg, tom. ii. 1860, p. 407. The photographs are those of a section made from a fragment in the British Museum (Nat. Hist.).
 
 [Plate 17: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate17-FigureA.png)
 
