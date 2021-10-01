@@ -341,3 +341,5 @@ A totally different view had been slowly maturing, however, and presently began 
 [Figure 28](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig28.png)
 
 [Figure 29](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig29.png)
+
+[Proteus](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Proteus-Figure.png)
