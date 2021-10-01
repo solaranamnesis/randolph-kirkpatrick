@@ -198,13 +198,15 @@ The photos were originally taken to show light and dark areas with continuity of
 
 [Plate 15: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate15-FigureC.png) — Dresden syenite, X 60. Same view of a nummulite as in Fig. B.
 
-[Plate 16: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate16-FigureA.png)
+[Plate 16: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate16-FigureA.png) — Stavropol meteorite. Section X 5, viewed by transmitted light.
 
-[Plate 16: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate16-FigureB.png)
+[Plate 16: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate16-FigureB.png) — The same, X 10. (The central squarish black patch and two large white ones easily compare with the same in Fig. A.) Concentric — radial shell-structure and spirodiscoid structure fairly clear.
 
-[Plate 16: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate16-FigureC.png)
+[Plate 16: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate16-FigureC.png) — A centre of a coil, X 95. (It is not certain whether this centre is that of a shell or of a spirodisk.) The furrowed band of marginal cord with coils winding at slightly different planes, with septa astride, and with smaller spirodisk structure is absolutely clear and indubitable after a little careful study with a lens.
 
-[Plate 16: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate16-FigureD.png)
+[Plate 16: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate16-FigureD.png) — Centre of C, X 1100.
+
+_Note_. — The Stavropol meteorite is a flat brick-shaped object about 5 by 4 inches in area and 2 inches thick. It was seen to fall on March 24 (o.s.), 1857, at 5 P.M. by a man working on a farm, and at a distance of about eighty yards, at Stavropol in the Caucasus. The specimen is in the Petrograd Museum. See H. Abich., Bull. Acad. Imp. Sci. St. Petersbourg, tom. ii. 1860, p. 407. The photographs are those of a section made from a fragment in the British Museum (Nat. Hist.).
 
 [Plate 17: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate17-FigureA.png)
 
