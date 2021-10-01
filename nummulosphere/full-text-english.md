@@ -100,17 +100,19 @@ _Note_. Plates 2C, 2D, 2E and 11 were done and printed off at an early period of
 
 [Plate 2D: Figure 16](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2D-Figure16.png) — Surface of Denmark granite showing faint outlines of several shells. X 4.
 
-[Plate 2E: Figure 17](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2E-Figure17.png)
+[Plate 2E: Figure 17](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2E-Figure17.png) "Wold Cottage" meteorite. The lighter circular area about an inch in diameter against upper part of right edge of photo shows beautifully the spiro-discoid structure, i.e. coils of miniature "marginal cord" with radial "septa" and "alars" in plane vertical to "parent" spiral. X 260.
 
-[Plate 2E: Figure 18](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2E-Figure18.png)
+[Plate 2E: Figure 18](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2E-Figure18.png) Barbotan meteorite. Fragment of much-blasted nummulite. Orientation better found by making left border the lower. About centre is curved rim with circular lines of ridges and with bands across. Around left half are three or four septa and alars passing across a second cord near left upper corner. X 65.
 
-[Plate 2E: Figure 19](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2E-Figure19.png)
+[Plate 2E: Figure 19](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2E-Figure19.png) "Wold Cottage" meteorite. Sections of portions of three nummulites. Below and to right trans. section showing striated gothic edge of spiral lamina, also coil of marginal cord in oblique projection. In lower left quadrant a shell in perp. sect., and in upper left one in trans. sect. X 6.
 
-[Plate 2E: Figure 20](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2E-Figure20.png)
+[Plate 2E: Figure 20](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2E-Figure20.png) "Wold Cottage." Dark patch. Poor, but showing traces of disk structure. X 2500.
 
-[Plate 2E: Figure 21](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2E-Figure21.png)
+[Plate 2E: Figure 21](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2E-Figure21.png) Barbados Earth boiled at temp, of 1700° C to form a glass. Certain dark specks in the glass show distinct traces of nummulitic structure that have escaped solution. X 2500. (Barbados Earth is a deposit of siliceous nummulites rich in still undissolved Radiolaria.)
 
-[Plate 2E: Figure 22](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2E-Figure22.png)
+[Plate 2E: Figure 22](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2E-Figure22.png) _Receptaculites neptuni_,* showing continuity of nummulitic structure in light and dark areas. The photo is from section shown on p. 254, fig. 38. Light and dark areas have precisely the same nummulitic structure; also there are disks partly on light partly on dark side of sharp dividing line. X 110.
+
+*) Recently I have found that the photograph from which Fig. 39 was taken shows a nummulite very plainly when magnified only three diameters.
 
 [Plate 3A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate3-Figure1.png)
 
