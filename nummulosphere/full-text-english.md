@@ -296,64 +296,66 @@ _Note_. — The above figures are best viewed under a strong light, and with a l
 
 If the pictures fail to convince — though C-G are fairly good — it is only necessary to examine, under oil immersion, any vegetable or animal cells or tissues to learn that the physical basis of life has a spirodiscoid structure.
 
-[Figure 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig2.png)
+[Figure 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig2.png) — Nearly transverse but slightly oblique section of a nummulite, showing striated spiral lamina (4 layers) and central plane. From Totternhoe stone (middle chalk), 65x.
 
-[Figure 3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig3.png)
+[Figure 3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig3.png) — Chalk from Rügen, powdered in water. Showing granulated "disks," "rings," and ultimate granules mixed with known Foraminifera, etc., 300x diam. After Ehrenberg. Abhand. Akad. Berlin, 1838, Plate 4 Fig. 3.
 
-[Figure 4](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig4.png)
+[Figure 4](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig4.png) — Disk-like granulated "morpholiths" from chalk of Antilebanon. A, in different aspects. B, fragments 300x. After Ehrenberg. "Mikrogeol." 1854, Plate 25 Fig. 2. B. 16. Probably figure on right in A is a coccolith.
 
-[Figure 5](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig5.png)
+[Figure 5](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig5.png) — Powdered chalk of Rügen macerated in water. A, granulated "disklets" and "rings," and "granules," 300x. B, the same, 1000x. After Ehrenberg ("Mikrogeologie," Plate 30. Fig. B).
 
-[Figure 6](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig6.png)
+[Figure 6](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig6.png) — _Eozoon canadense_. Polished slab showing white and green bands. 2x. Traces of nummulitic shell structure very faintly visible in places.
 
-[Figure 7](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig7.png)
+[Figure 7](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig7.png) — Diagram of section of _Eozoon_ as it was supposed to be in life. After Dawson and Carpenter. _a_, chambers of shell full of protoplasm (now green bands of serpentine); _b_, finely tubulated "true wall," best seen at upper part of figure where there is no additional calcite; _c_, pseudopods; _d_, supplementary or additional deposit of calcite forming the white bands; _e_, canals in the white bands.
 
-[Figure 8](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig8.png)
+"_Eozoon_" was once a mass of nummulite shells like any lump of Tertiary nummulitic limestone say of Biarritz or Egypt. The living top layer shells would show what "_Eozoon_" was like in life.
 
-[Figure 9](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig9.png)
+[Figure 8](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig8.png) —
 
-[Figure 10](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig10.png)
+[Figure 9](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig9.png) —
 
-[Figure 11](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig11.png)
+[Figure 10](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig10.png) —
 
-[Figure 12](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig12.png)
+[Figure 11](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig11.png) —
 
-[Figure 13](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig13.png)
+[Figure 12](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig12.png) —
 
-[Figure 14](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig14.png)
+[Figure 13](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig13.png) —
 
-[Figure 15](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig15.png)
+[Figure 14](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig14.png) —
 
-[Figure 16](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig16.png)
+[Figure 15](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig15.png) —
 
-[Figure 17](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig17.png)
+[Figure 16](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig16.png) —
 
-[Figure 18](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig18.png)
+[Figure 17](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig17.png) —
 
-[Figure 19](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig19.png)
+[Figure 18](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig18.png) —
 
-[Figure 20](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig20.png)
+[Figure 19](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig19.png) —
 
-[Figure 21](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig21.png)
+[Figure 20](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig20.png) —
 
-[Figure 22](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig22.png)
+[Figure 21](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig21.png) —
 
-[Figure 23a](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig23-a.png)
+[Figure 22](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig22.png) —
 
-[Figure 23b](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig23-b.png)
+[Figure 23a](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig23-a.png) —
 
-[Figure 24](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig24.png)
+[Figure 23b](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig23-b.png) —
 
-[Figure 25](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig25.png)
+[Figure 24](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig24.png) —
 
-[Figure 26](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig26.png)
+[Figure 25](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig25.png) —
 
-[Figure 27a](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig27-a.png)
+[Figure 26](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig26.png) —
 
-[Figure 27b](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig27-b.png)
+[Figure 27a](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig27-a.png) —
 
-[Figure 28](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig28.png)
+[Figure 27b](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig27-b.png) —
 
-[Figure 29](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig29.png)
+[Figure 28](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig28.png) —
 
-[Proteus](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Proteus-Figure.png)
+[Figure 29](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig29.png) —
+
+[Proteus](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Proteus-Figure.png) —
