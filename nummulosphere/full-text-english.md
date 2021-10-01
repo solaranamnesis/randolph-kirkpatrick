@@ -372,6 +372,20 @@ If the pictures fail to convince — though C-G are fairly good — it is only n
 
 [Figure 35](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig35.png) — Some remarkable lithomorphs. _a_, Cyclocrinus, 4x; _b_, section of Coelosphaeridium, 2x; _c_, section of Cyclocrinus, 2.5x; _d_, lids of Cyclocrinus 8x; _e_, ditto, another pattern, 12.5x; _f_, Silurian limestone of Estland, showing sections of three specimens in contact, without radials (N.H.M., Bather), nat. size; _g_, _h_, _Ischadites murchisoni_, rough copy after Rauff; _i_, Parkeria, with conical axial body; _j_, Fulwell concretion, section showing central concentric and peripheral radial-tubular structure, ½x, after G. Abbott. Figs. _a_-_e_, after Dr. Stolley.
 
+[Figure 36](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig36.png) — _Receptaculites reticulatus_. Silurian, Niagara group. (P. 6514, N.H.M.) 1⅓x.
+
+[Figure 37](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig37.png) — Ischadites, Wenlock limestone. (P. 4232, N.H.M.) 1⅓x
+
+[Figure 38](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig38.png) — _Receptaculites neptuni_ 4x. Near Gerolstein. Author's collection.
+
+[Figure 39](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig39.png) — _R. neptuni_ 3.5x. Author's collection. See photo from this, Plate 2 E 22, and Fig. 40. 
+
+[Figure 40](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig40.png) — _Receptaculites neptuni_. Transverse section of nummulite 250x; from section shown in Fig. 39.
+
+[Figure 41](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig41.png) — _Solenopora compacta_ 10x. From Ordoxvician limestone, Craighead (R. 475, N.H.M.). Nummulitic pattern faintly visible over whole field beneath dominant patterns.
+
+[Figure 42](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig42.png) — _Girvanella problematica_. From Nicholson's Girvan material. A, Two marginal cords, also a pillar, 260x. B, disk structure from same section, 65x.
+
 [Proteus](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Proteus-Figure.png) —
 "So might I  
 Have sight of Proteus rising from the sea." "Proteus gerôn halios nêmertês" — "Proteus, the ancient one of the sea, whose testimony is true," or "Old sea-tell-truth."
