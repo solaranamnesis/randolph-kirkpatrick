@@ -280,6 +280,20 @@ Radiolarian Ooze | 2894 | 2.3 | Indian Ocean and Pacific
 Pteropod Ooze | 1044 | 0.4 | South Atlantic  
 Red Clay | 2730 | 51.5 | Eastern Pacific chiefly, Atlantic, and Indian Ocean  
 
+*) Nummulites are abundantly present in Globigerina and Diatom-oozes. In Nummulosphere 1 I unnecessarily suggested adding the designation "palaeonummulitic" to the names in use. The nummulites in the above oozes are probably derived from subaerial and submarine eruptions. In depths greater than 2700 fms. calcareous plankton dust is dissolved, and the clayey surface of the probably universal nummulitic deposit is left bare.
+
+*) See Appendix, Note L.
+
+The results of the _Challenger_ dredgings so far as concerned the first three deposits in the above list did not come as a surprise, for scientific men were already familiar with Globigerina- and Diatomaceous oozes and with fossil "oceanic" deposits of Radiolaria; but the "capital discovery" — to use Huxley's expression — that at a mean depth of 2730 fathoms and over an area of 51.5 millions of square miles there existed a deposit of red clay, was something wholly new and unexpected. At first the clay was thought to be the finest detritus of the land, but this hypothesis was soon found to be untenable.
+
+A remarkable feature about the deposit was the almost entire absence of shells of pelagic Foraminifera, which were abundant in neighbouring areas of less depth, and which flourished at the surface of the ocean above the Red Clay. The absence of the shells was attributed to their being dissolved in the course of their very slow descent in the greatest depths.*
+
+*) Dittmar considered sea-water to be the chief dissolving agency of calcareous skeletons, the carbonic acid being apparently already held up. Murray believed carbonic acid derived from decomposing organic matter inside the shells to be an additional dissolving agency ("_Challenger_ Narrative," 1. p. 981). Possibly, too, carbonic acid, however formed, would gravitate slowly to the deepest troughs; but if so, the amount is not sufficient to prevent or to destroy life.
+
+Sir Wyville Thomson* came to the conclusion that Red Clay was the residue or ash of the calcareous organisms left after the removal of the carbonate of lime. When samples of Globigerina ooze were carefully washed and treated with weak acid, after the carbonate of lime had been removed there remained a small residue of reddish mud composed of silicate of alumina. Huxley, who accepted provisionally Wyville Thomson's theory, writes:* "So long as the Globigerinae collected at the surface have not been demonstrated to contain the elements of clay, the _Challenger_ hypothesis, as I may term it, must be accepted with reserve and provisionally, but, at present, I cannot but think that it is more probable than any other suggestion that has been made. Accepting it provisionally, we arrive at the remarkable result that all the chief known constituents of the crust of the earth may have formed part of living bodies; that they may be the "ash" of protoplasm, ...." Wyville Thomson's theory was incorrect, the fallacy in it having arisen owing to the omission to wash the samples of Globigerina ooze with _sufficient_ care before dissolving them in acid. There is no clay residue to be got from clean pelagic shells gathered from the surface. The residue from shells lying on the bottom is simply that which has permeated them from the surrounding clay. Murray ("Deep-Sea Deposits," footnote p. 190) states that Wyville Thomson himself gave up the idea that the calcareous shells contained silicate of alumina.
+
+*)
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
