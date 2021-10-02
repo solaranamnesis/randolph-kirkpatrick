@@ -374,6 +374,36 @@ _Postscript_. — My first preparations of Red Clay, Globigerina Ooze, Diatom Oo
 
 _Note_. — Referring to the quotation from Bloxam on p. 41. In the contest between liquid and solid, notwithstanding the great solvent powers of water, yet the balance apparently leans towards solidification. Not only have the rocks of the earth's crust been abstracted from solution, but the minerals composing them are not rarely hydrated, as in the case of the serpentines for example.
 
+#### Chapter 2
+
+##### Chalk and Flint, and other Limestones
+
+A great chapter of the history of the world is written in the chalk. Few passages in the history of man can be supported by such an overwhelming mass of direct and indirect evidence as that which testifies to the truth of the fragment of the history of the globe which I hope to enable you to read.... Let me add, that few chapters of human history have a more profound significance for ourselves. I weigh my words well when I assert, that the man who should know the true history of the bit of chalk which every carpenter carries about in his breeches pocket, though ignorant of all other history, is likely, if he will think his knowledge out to its ultimate results, to have a truer, and therefore a better, conception of this wonderful universe, and of man's relation to it, than the most learned student who is deep-read in the records of humanity and ignorant of those of Nature. — "On a Piece of Chalk." Huxley.
+
+Huxley's eloquent testimony concerning the value of a knowledge of chalk would, perhaps, have been even more emphatic had he known that the history of this rock was essentially an epitome of the history of the earth's crust as a whole: and, further, that "a piece of chalk" was fundamentally identical in its nature and origin with granite lava and meteorites, probably with many shooting stars, and possibly with some comets. For chalk is an old sea-bottom composed of skeletons of benthos and plankton organisms, the planetary crust is a still more ancient benthoplankton sea-bottom, and meteorites are now found to be lumps of ancient benthoplankton rock.
+
+Lastly, astronomers point out the existence of relationships between meteorites, shooting stars and certain comets.
+
+Pure chalk is mainly an accumulation of calcareous and siliceous skeletons of marine organisms. The greatest recorded thickness of the deposit is 1831 feet at Kharkov in Russia. The Chalk Ocean, according to an estimate of Dr. W. Fraser Hume, covered an area of 500,000 square miles, extending across Europe in a north and south direction from Sweden to Nice, and east and west from Scotland to Uralsk.
+
+In very high chalk cliffs marked differences can generally be seen in the character of the rock at different levels. Usually the upper part shows numerous parallel lines of flints, lower down the flints are fewer, and at the lowest part absent. These divisions were described respectively as "Chalk with flints," "Chalk with few flints," and "Chalk without flints." This classification was soon found to be unworkable, for sometimes flints are abundant in the middle division and absent in the upper. (Appendix, Note N.)
+
+Although the flints-classification broke down, yet more than ever as knowledge increased was the chalk found to be quite other than a mere homogeneous mass. The devoted labours of geologists, especially of Hébert and Ch. Barrois, brought to light numerous successive zones of distinct faunas, recognizable to a greater or less degree over the whole area of the Chalk Ocean floor.
+
+No less than eleven of these zones, with subsidiary ones, are now accepted, each being named after some predominant fossil, e.g. _Holaster planus_ zone, Terebratulina zone, etc. The zones are distributed in three main divisions, known in England as Lower, Middle, and Upper Chalk, the Middle Chalk being marked off from the other two by bands of hard nodular rock (Melbourn Rock and Chalk Rock).
+
+In 1837 Lonsdale showed that Foraminifera, small but visible to the naked eye, were very abundant in chalk.
+
+In 1838 Ehrenberg* discovered the important part taken in the formation of chalk by still smaller Foraminifera scarcely visible to unaided vision.
+
+*) "Über die Bildung der Kreidefelsen und des Kreidemergels durch unsichtbare Organismen." Akad. Wiss. Berlin, 1838, p. 39.
+
+In addition, then, to the larger fossils, Chalk contains very minute ones, and these latter — Foraminifera (chiefly), Radiolaria, Diatoms, Coccospheres, etc., make up the main mass or "matrix" of the rock.
+
+At the beginning of these nummulosphere studies I had regarded chalk as a Globigerina ooze somewhat similar to that now forming over vast areas of the ocean floor. On one occasion when examining a piece of British chalk with a lens I saw something which started me on journeys to chalk-formations in all the counties of England south-east of a line from the Dorset coast to Yorkshire, for the purpose of collecting samples of Lower, Middle, and Upper Chalk, Totternhoe Stone, Melbourn Rock and Chalk Rock. Further, I read all the important memoirs on the subject dating from Ehrenberg to the present time. As a result of all this reading and investigation of material a singular impression gradually arose in my mind.
+
+The voluminous literature on chalk reminded me of a performance of Hamlet without the Prince of Denmark. All the other familiar characters of the immortal drama were present, excepting the principal one that gave the name to the play. Every now and then a mysterious figure in various guises — in reality Hamlet, though unrecognized — would appear on the scene and flit across the stage.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
