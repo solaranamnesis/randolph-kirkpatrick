@@ -225,6 +225,28 @@ To add a final quotation, Murray and Renard ("Deep-Sea Deposits, _Challenger_" p
 
 Beyond the littoral zone the ocean appeared to be tenanted solely by animals which lived by preying on each other. On land the animal-world subsists in the long run on plant-life. Hooker found that this law holds in the ocean, but the individual plants are mostly invisible. The ocean is covered with floating prairies amid which browse the Protozoa, Copepods, Salpas, etc., these in turn forming the food of marine carnivores. Since plant-life other than Bacteria and Fungi depends on sunlight, the ocean vegetation cannot live below the limit reached by the sun's rays and must necessarily be a floating flora. 
 
+Prof. V. H. Blackman ("Science of the Sea," p. 116) classes the oceanic phyto-plankton into six groups of which only one secretes silica, viz. the Diatoms. These microscopic algae are found all over the ocean, but more abundantly in waters of relatively low salinity (Castracane, "_Challenger_ Diatomaceae"). Though the group is universal, yet many genera and species are restricted to certain areas. Castracane regards temperature as the chief barrier which prevents a cosmopolitan distribution of species.
+
+Whether devoured or not, the siliceous frustules of Diatoms sink to the bottom, and in some areas, especially in the Southern Ocean, form a characteristic Diatomaceous ooze. Sometimes the frustules appear to get dissolved, for Murray and Renard ("Deep-Sea Deposits," p. 283) state: "It seems difficult to account for the absence of Diatom remains in some deposits, except on the supposition of removal by exposure to the action of sea-water."
+
+It has been proved, especially by the researches of Hinde, Sollas, and Zittel, that the flint and chert of Chalk and other limestone formations is derived mainly from the skeletons of organisms. I think it is very probable that much of the silica of those hardened and crystallized Foraminiferal deposits known as igneous rocks is likewise of organic origin.
+
+Diatoms* and one-celled plants may be compared to the base of a great pyramid of oceanic life, and there is reason to suppose this relation has held good almost from the beginning of geological time.
+
+*) Deby regards some Diatoms as pluricellular.
+
+The Diatoms themselves have persisted as simple cells undergoing division, the halves remaining physiologically independent. As Brooks points out, these simple algae have led an easy existence immersed in a nutrient fluid bathed in sunshine, whereas effort is the price of advance up the evolutionary scale.
+
+These minute siliceous algae have probably existed from near the time when the ocean was born and the sun began to shine on it perhaps millions of centuries ago. The actual frustules have not yet been found among igneous rocks, but the circumstantial evidence that the silica and silicates of those organic deposits is partly derived from Diatoms and Radiolaria is very strong.
+
+The proportion of soluble silica in sea-water is extremely small according to Murray and Irvine* one part in 200,000 to 500,000. These authors concluded that Diatoms obtained their silica from suspended clay. E. J. Allen's experiments on Diatom-culture,* apparently showing the necessity for the presence of certain vitamines in the seawater, reveal the complicated nature of the problem of metabolism in Diatoms.
+
+*) "On Silica in Seas." Proc. Roy. Soc. Edinburgh, 18, p. 236, 1891. 
+
+*) Journ. Mar. Biol. Assoc. Plymouth, 10. p. 417, 1914. 
+
+There are certain other algae that indirectly aid in the extraction of silica from the sea, viz. the zooxanthellae or "yellow cells" found in many Radiolaria. The symbiosis between the algae and their Radiolarian ally has been shown by experiment to be so effective, that the combination can be self-sufficing, the Radiolarian being able to live without capturing food.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
