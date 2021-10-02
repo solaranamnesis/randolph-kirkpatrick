@@ -558,6 +558,52 @@ The shells are best seen on finely granular fractured surfaces, especially if al
 
 "Sed calx a petrificatis." — _Linnaeus_.
 
+Calcareous formations are being built up at the present day; and right down through the ages to the Archaean Period these deposits have come into existence and have persisted as records of events in the history of Nature. In many cases we can see the mass of rock to be composed to a greater or less degree of the calcareous skeletons of organisms such as Corals, Crinoids, Mollusca, Polyzoa, the larger Foraminifera, etc., but often nothing is apparent excepting a fairly homogeneous or granular matrix.
+
+Where no fossils or only a very few are visible, even under the microscope, it becomes a difficult question to account for the presence of the carbonate of lime.
+
+The following extract from H. B. Brady's "Memoir on the Carboniferous and Permian Foraminifera," 1876, brings into relief some aspects of the problem referred to. He writes (p. 5):
+
+"Take them as a whole, the Carboniferous Limestone beds of Great Britain cannot be regarded as a Microzoic formation in quite the sense in which the term is rightly applied to many Cretaceous rocks : indeed, as a rule, they owe their origin, so far as their organic constituents are concerned, much more to animals of higher organization and larger individual dimensions, such as Crinoids and Corals than to Microzoa. So far from owing its origin, like the true Chalk, chiefly to Foraminifera; or, indeed to go further, so far from being a deposit formed directly and exclusively by the agency of animals secreting carbonate of lime, _there are considerable areas of Carboniferous Limestone in which the sea appears to have deposited its excess of mineral constituents in accordance with chemical and physical laws, without the intervention to any great extent of animal life_."
+
+"This has been brought about by a precipitation and the subsequent coalescence of the impalpable particles of amorphous precipitate into minute spheroids, the result being a concretional or oolitic limestone (often fossiliferous at the same time)... There need be no difficulty in the acceptance of a physical explanation of this sort, even by those who hold most firmly the theory that all limestones have primarily an organic origin."
+
+Recently* numerous observations and experiments on the precipitation of calcium carbonate in sea-water have been made by and under the direction of Dr. T. Wayland Vaughan. Off Florida and the Bahamas, banks of limestone are in process of formation which owe their origin entirely to chemical precipitations from sea-water through the agency of _Pseudomonas_ (_Bacterium_) _calcis_ Drew: and, further, oolitic banks, apparently due partly to the aggregation of particles of carbonate of lime round bubbles of gas, are in process of formation.
+
+*) Carnegie Institution of Washington, Year Books Nos. 11, 12, 13, 1912-1914.
+
+Again, travertines, tufas, stalactites, amygdaloids, cementation of sea-floors, etc., all show that chemical precipitation of carbonate of lime is a very common occurrence.
+
+G. Linck* states: "Oolite consists originally of a modification of carbonate of lime (Aragonite) in the formation of which organisms are not directly concerned. It is not a metabolism product of organisms."
+
+*) "Ueber Bildung der Oolithe und Rogensteine." Jenaische Zeitsch. vol. 45, p. 276. 1909.
+
+According to Van Hise,* "It is well known that it is difficult or impossible to discriminate limestones of organic or chemical origin." I would point out that the microscopic examination for nummulitic structure will be found to furnish an invaluable aid to diagnosis, though the test may be at times a little difficult to apply, as, for example, in the supposed non-fossiliferous matrix of Tyrol dolomites.
+
+*) "Treatise on Metamorphism," p. 907.
+
+As a result of the examination of numerous marine limestones of all ages, I find that, just as in Chalk, a point of fundamental importance has been overlooked. Jurassic, Triassic, Permian, Carboniferous, Devonian, Silurian, Ordovician, Cambrian and Pre-Cambrian limestones are mainly nummulitic rocks. The "matrix," whether homogeneous cannon-ball-like, pisolitic, oolitic, soft or hard, earthy or marmorized, dolomitized, silicified, silicated, or ore-enriched, will in most cases be found to consist of a mass of nummulite shells. The shells, though not easy to detect, can usually be made out with a hand lens, and the structure, especially the dotted or granulated disk-like structures, can be seen in sections under the microscope. Accordingly the carbonate of lime in all these rocks is mainly derived from organisms.
+
+The oolitic structure not uncommon in calcareous material evidently arises in many different ways. The Jurassic Oolites are nummulitic limestones with oolitic structure, and the lime is certainly derived from the nummulites which constitute the mass of the rock. The shell-structure can be best seen in weathered material from ancient buildings. In these cases the oolitic structure which masks the shells becomes more or less dissolved out. (See Chapter 12)
+
+My sections of typical hand-specimens of Schlern and Mendola dolomite from Seiss show that these lumps and presumably the huge masses from which they were detached are nummulitic limestones (See Appendix, Note C). Similarly with sections of marbles from various parts of the world kindly supplied to me by Messrs. Bingham.
+
+Summary of Chapter 2
+
+Chalk is a nummulitic limestone, formed mainly of a deposit of shells of _Nummulites_, a genus hitherto only doubtfully known to occur before the Eocene. Many writers from Ehrenberg to the present time have seen in Chalk objects named "morpholiths," "spheres," etc., the nature of which has been doubtful, but which are now found to be portions of nummulite shells, the spheres being concretionary areas. Numerous other limestones from Jurassic to Archaean are nummulitic; but the shells have escaped detection, and the carbonate of lime often has been regarded as a chemical deposit.
+
+Flint is composed mainly of nummulites in which the lime has been replaced by silica derived chiefly from organisms. The silicified shells are transparent in the interior of flint, but visible again on rough weathered surfaces. Silicified rocks of all ages (quartzites, jaspers, phthanites, etc.) may show nummulitic structure, the latter sometimes having been mistaken for Radiolaria, other Foraminifera, sponge spicules, etc. [The silicated rocks known as igneous (including also meteorites) are very ancient metamorphosed nummulitic limestones fundamentally similar to chalk.]
+
+_Postscript, Note_ 1. — I have now learned to distinguish in sections of chalk, Mendola- and Schlern-Dolomite, Jurassic oolite and Carrara marble, held up to the light and examined with a lens (3x or 10x), the larger structure of the nummulite shells, viz. the successive coils of marginal cord and the radially disposed septa and alar prolongations. Certain parallel lines in the minute particles of calcite of Carrara marble are not due to crystallization but to the organic structure of the marginal cord.
+
+I should mention that the simple skill in detecting the above-named structures in the mass of calcareous particles has only come to me at the end of a long period of painstaking observation and that some patience is necessary. The faint outlines of the spiral central coils and radial alars of perpendicular sections or aspects of shells will be the first structures to be seen. I now prefer to use a lens magnifying only 3 diameters.
+
+#### Chapter 3
+
+##### "Eozoon" or "The Dawn Animal"
+
+_The story of a double delusion._
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
