@@ -858,6 +858,58 @@ If that is so, it is reasonable to expect that some additional light may be thro
 
 ##### The Origin of the Igneous Rocks
 
+Werner and his school believed lava, basalt and granite to be minerals precipitated from a universal ocean, the heated condition of lava being supposed to be due to burning coal-fields. Desmarest showed convincingly that basalt was simply an ancient lava, and that it got into position by flowing there as a molten rock, and not by being deposited as an aqueous sediment. Hutton proved that granite likewise was a once molten rock essentially similar to lava, but deep-seated. Accordingly lava, basalt, granite and their like are termed "igneous" rocks.
+
+Some have regarded the earth as a molten globe with a solid crust, and the igneous rocks as up-wellings from the original still molten planetary magma: but according to physicists the globe must be as rigid as steel.
+
+A view still held by many is that the original planetary material deep below the crust is at a temperature above normal melting-point but remains solid on account of pressure. When, perhaps owing to crust disturbances, pressure is relieved the rock melts and rises through the crust.
+
+Some, again, have regarded igneous rocks as metamorphosed sediments. Gradations could, it was supposed, be traced from recent soft sediments, through less recent hard shales, sandstones, etc., to ancient very hard crystalline gneisses and schists, and on — by somewhat of a jump rather than a step — even to certain igneous rocks, "and thus we look in vain for the original material" (Le Conte), but it is the source of the original material that we are in search of.
+
+The theory of organic origin held from time to time by a few "eccentrics," and usually dismissed as soon as mentioned is beyond any doubt the true one.
+
+Organisms in igneous rocks have often been described (Appendix, Note G). Sometimes the supposed igneous rock is really a fossiliferous sedimentary one changed by igneous intrusions. Again the "organisms" may be "structural simulations."*
+
+*) King and Rowney 'On the Serpentine of the Lizard.' Phil. Mag. (5) 1. 1876, p. 280.
+
+Dr. Carpenter, an expert on the microscope and the highest authority on Foraminifera, mistook mineral for Foraminiferal structure in a very ancient serpentine limestone — not, it is true, an igneous rock, but containing materials akin to igneous. I, for my part, arrived at the truth almost by accident. In the course of examining certain fossils in connection with a problem in sponges, I drifted on to Eozoon, thence to the investigation of a Monte Somma (Eozonal) bomb, then to volcanic rocks in Porto Santo, and finally to igneous rocks in general. I continually found traces of nummulite shells. Although the truth was first discovered by direct observation, the fact of organic origin might have been, or rather, at the present day, might be suspected on (1) biological, (2) geological and (3) chemical grounds.
+
+1) _Biological Considerations_
+
+The earth is an ocean planet. Five-sevenths of its area is now covered by ocean, and the remaining two-sevenths has been submerged.
+
+The ocean surface is rich in a simple siliceous flora and fauna, and the ocean floor over vast areas is carpeted with benthos and plankton calcareous remains. The Diatoms and the often symbiotic silica-secreting Radiolaria exist in sunshine and nutrient fluid, and have done so for aeons past.
+
+The powers of multiplication are almost unlimited. One diatom dividing only once in twenty-four hours might have a billion descendants in a month.
+
+It is not surprising that igneous rocks have been classified according to silica-content. The skeletons of silica sink to the bottom, dissolve* there, and become diffused through calcareous deposits. The silica replaces the lime of the little fossils in the same way as in larger fossils. (See postscript on p. 110.)
+
+*) In 'Nummulosphere' 2 I wrote of siliceous skeletons forming centres whence silica was diffused, a residuum remaining as quartz. The supposed skeletons are nummulitic structures.
+
+2) _Geological Considerations_
+
+Immense accumulations of nummulite shells of Eocene age extend across N.W. Africa, Europe and Asia from Morocco to Japan.
+
+Chalk is mainly an accumulation of nummulite shells of Cretaceous age. The soluble silica derived from sponges and plankton diffuses itself down through the mass of calcareous skeletons, replacing the carbonate of lime and forming lumps and layers of "flint" (chiefly silicified nummulites).
+
+Most of the marine limestones from Eocene to Archaeozoic are nummulitic, even where macrozoic skeletons abound.
+
+In very ancient Archaeozoic limestones, owing to the heat from intrusive dykes, the silica unites with magnesia, alumina, iron, etc., to form silicates in the form of pyroxenes.
+
+The masses of pyroxene are often surrounded by a zone of banded limestone and serpentine ("Eozoon"). It is significant that these lumps and layers of silicate, which may be compared with lumps and layers of flint, have been mistaken for fragments of igneous rock projected in from intrusive magmas.* Even in Cretaceous and Jurassic limestones silica becomes silicate when heated, as in the Monte Somma bombs.
+
+*) In this instance Daubenton's name is well bestowed: "Piroxène, c'est-à-dire, hôte ou étranger dans le domaine du feu." Haüy, 'Traité de Minéralogie' 3. p. 180.
+
+Igneous rocks are very ancient highly metamorphosed nummulitic limestones from which naturally all the original calcium carbonate has gone, although a good deal of calcium and even some imprisoned carbonic acid may remain.
+
+Iddings writes: "Calcium is one of the most abundant and wide-spread elements in igneous rocks, and enters into a great variety of compounds, the commonest of which are silicates."* The presence of calcalkalic felspars constitutes one of the chief characteristics of the great "Pacific petrographical province."*
+
+*) 'Igneous Rocks' 1. p. 39. 1909.
+
+*) Iddings, 'The Origin of Igneous Rocks.' Bull. Phil. Soc., Washington, p. 183. 1895.
+
+3) _Chemical Considerations_
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
