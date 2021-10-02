@@ -30,7 +30,17 @@ London: Printed by William Clowes and Sons, Limited, Duke Street, Stamford Stree
 
 ##### [Chapter 2](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#chapter-2-1)
 
+###### [└─ Chalk and Flint, and other Limestones](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#chalk-and-flint-and-other-limestones)
+
+###### [└─ Flint](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#flint)
+
+###### [└─ On certain other Limestones](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#on-certain-other-limestones)
+
+###### [└─ Summary of Chapter 2](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#summary-of-chapter-2)
+
 ##### [Chapter 3](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#chapter-3-1)
+
+##### [List of Plates, Guide Diagrams, and Figures](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#list-of-plates-guide-diagrams-and-figures)
 
 #### Introduction
 
