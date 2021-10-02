@@ -404,6 +404,18 @@ At the beginning of these nummulosphere studies I had regarded chalk as a Globig
 
 The voluminous literature on chalk reminded me of a performance of Hamlet without the Prince of Denmark. All the other familiar characters of the immortal drama were present, excepting the principal one that gave the name to the play. Every now and then a mysterious figure in various guises — in reality Hamlet, though unrecognized — would appear on the scene and flit across the stage.
 
+_Note_. — When making a final revision I deleted Fig. 1 illustrating the nummulitic nature of chalk, owing to the figure being partly inaccurate and wholly inadequate to show what I can now see with a lens in most pieces of this rock. The following hint may help towards a realization of the strange truth that a seemingly homogeneous lump of chalk is a mass of nummulites. Imagine a lump of Eocene nummulitic limestone with small medium or large nummulites to become as soft as clay, to be pressed, later to be hardened, and, lastly, heated under pressure. There would result earthy, hard, and marmorized limestones in which the outlines of the shells would have disappeared. Soaking in accumulations of dissolved silica has resulted in silicified shell deposits, and heating and cooling have converted the latter into crystalline silicates.
+
+I had found the piece of British chalk referred to above to be a mass of "nummulite" shells. In the list of 350 species of Foraminifera of the Upper Cretaceous rocks of Great Britain given in the Survey Report there is no mention of a single genus or species belonging to the Nummulitidae, yet I found all the lithological varieties of chalk from all levels to be mainly nummulitic. The shells belong to the genus _Nummulites_.
+
+Parts of the shells can be discerned with less difficulty in samples weathered to a certain extent than in freshly broken material. The outlines are easily destroyed by being bruised or rubbed.
+
+A very considerable degree of "training of the sense of sight" is required to enable the observer to distinguish the shells in sections of chalk. The nummulitic characters are more easily seen in samples poor in Globigerina.*
+
+*) Munier-Chalmas and Schlumberger (Bull. Soc. Geol. France, (3), 13. 1885, p. 274) point out how greatly chalks differ in composition. Beds of Paris chalk rich in Foraminifera are stated to be "véritables exceptions," Bryozoa and Corals being abundant.
+
+The upper chalk from the old quarry at Haling near Croydon shows well the nummulitic element. One significant feature can soon be seen in any section of chalk under a magnification of about 450 diameters, viz., a very finely and apparently uniformly dotted appearance visible in the finely granular matrix. The dots show up as dark points each in a little circle. Here and there some of the circles are slightly larger. Gradually as the eye acquires skill, it will be found the dots are really not uniformly scattered, but are arranged in more or less circular groups and disk-like groups of groups; also in thick sections series of disks may be detected passing down obliquely in the depth. After several days of practice and much patience outlines of layers of spiral lamina, pillars, seen transversely or lengthwise, furrows of marginal cord, septa and alar prolongations, will be made out. Where the shells as a whole are masked or almost obliterated by the abundance of plankton ingredients, even then portions of disk structure are always to be seen.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
