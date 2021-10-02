@@ -454,6 +454,30 @@ Perhaps geological history will have few stranger incidents to record than the f
 
 Probably a long interval separates the Cretaceous from the Eocene nummulites. Very likely many species exist in the chalk.
 
+The methods recommended for the study of the Foraminifera of chalk are not suitable for preserving the nummulites: more damage is done in an instant of time than has been wrought by Nature in the course of millions of years. It might have been supposed that small thin-walled delicate Foraminifera would have been less resistant than large thick-walled nummulites, but this is not the case. We are advised to grate the rock into a fine powder or to macerate lumps into a paste. I cannot imagine proceedings more fatal to the integrity of nummulite shells than to grind them to powder or convert them into mud. It should be stated that Mr. Heron-Allen's methods* of maceration are excellent for the smaller Foraminifera.
+
+*) "Prolegomena," 1894, p. 12.
+
+I have not succeeded in isolating and cutting into sections the individual nummulite shells, though I visited the Sorbonne chiefly to examine Schlumberger's beautiful sections of Foraminifera and, if possible, to learn something of his technique.*
+
+*) By the great kindness of Mr. C. S. Smith, British Consul-General at Barcelona, and of Mr. F. W. Abbot, I obtained a large quantity of the Cretaceous limestone of Trago di Noguera, the wonderful Foraminifera of which had been described by Schlumberger.
+
+The above-detailed methods for showing the nummulitic characters will not leave the student in doubt for very long; these are:—
+
+1) The use of the lens, especially on weathered examples of chalk and rough flint. I can occasionally detect shell-outlines with the naked eye.
+
+2) The study of thick and thin sections (_a_) under powers of 300 to 400, showing the dotted appearance, the disks, pillars (series of disks) and perhaps the median and lateral chambers; (_b_) under powers of 3000 diameters, showing disk-structures.
+
+3) Maceration of powdered chalk in water, stained or not, under medium and high powers.
+
+The study not only of Ehrenberg's morpholiths but also of certain other mysterious objects abundant in chalk will throw light on the real nature of that rock.
+
+Thin sections of the hard bands of nodular Melbourn Rock and Chalk Rock are very rich in peculiar bodies which Jukes-Browne* refers to as "spheres." Many theories have been held to account for them. Prof. Blake thought they looked like the hollow spheres of _Orbulina universa_. Messrs. Parker and Jones suggested they were the "separate cells of _Globigerina_ and _Dentalina_, the former predominating." M. Cayeux, who has noted their extreme abundance in the chalk, refers to them as monolocular Foraminifera of the genus _Fissurina_ (_Lagena_) or _Orbulina_. In the zone of _Inoceramus labiatus_ near Rouen, he estimates the spheres to form 95 to 98 per cent. of all the Rhizopodal fauna.
+
+F. Chapman believed some of them to be Radiolaria. In others he saw a strong resemblance to the globate dermal spicules of certain sponges; "but the real nature of the majority of these calcareous spheres still remains an enigma." These mysterious bodies vary considerably in size, shape, and structure, being discoidal or oval, 0.08 mm. in diameter, with opaque centre and clear periphery, or clear throughout. Quite early in the present research I found these objects to be made up of nummulitic disk structures not only filling in the body but extending right across the "wall" into the surrounding matrix. I have now advanced much further, for I can see the exact position of the "spheres" in the anatomy of the nummulite shell. They occur most commonly serially along the convexity of the marginal cord and the edges of septa, also at the point where double-walled septa bifurcate within the concavity of the cord, also in the pillar-ends in the spiral lamina. Obliquely tilted disks give the _Fissurina_-aspect. Spheres, then, are clarified areas of nummulitic structure rendered glassy by becoming more calcitic or silicic owing to greater facility of diffusion of water or silica at those points. From overflow the areas may extend as in "_Saccammina carteri_" in Carboniferous deposits of nummulites. In wholly silicified deposits (Ordovician and Precambrian phthanites) the clear areas resemble Radiolaria, etc. Spheres abound in hard bands of chalk (Melbourn Rock and Chalk Rock), probably owing to increased formation of calcite or to a greater degree of dissemination of silica in disturbed or emerged zones.
+
+Barrois considered the hard bands of chalk (bancs durcis) to be due to actual emersion. Hume thought the hard nodular condition resulted from the setting up of currents owing to alteration of the level of land bordering the Chalk Sea.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
