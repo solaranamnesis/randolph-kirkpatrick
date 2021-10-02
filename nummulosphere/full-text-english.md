@@ -16,11 +16,21 @@ London: Printed by William Clowes and Sons, Limited, Duke Street, Stamford Stree
 
 ##### [Introduction](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#introduction-1)
 
-##### [Chapter 1]()
+##### [Chapter 1](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#chapter-1-1)
 
-##### [Chapter 2]()
+###### [The Ocean](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#the-ocean)
 
-##### [Chapter 3]()
+###### [The Surface of the Ocean](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#the-surface-of-the-ocean)
+
+###### [The Floor of the Ocean](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#the-floor-of-the-ocean)
+
+###### [On the Probable Former Existence of a Universal Ocean](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#on-the-probable-former-existence-of-a-universal-ocean)
+
+###### [Summary of Chapter 1](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#summary-of-chapter-1)
+
+##### [Chapter 2](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#chapter-2-1)
+
+##### [Chapter 3](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#chapter-3-1)
 
 #### Introduction
 
@@ -598,7 +608,7 @@ The oolitic structure not uncommon in calcareous material evidently arises in ma
 
 My sections of typical hand-specimens of Schlern and Mendola dolomite from Seiss show that these lumps and presumably the huge masses from which they were detached are nummulitic limestones (See Appendix, Note C). Similarly with sections of marbles from various parts of the world kindly supplied to me by Messrs. Bingham.
 
-Summary of Chapter 2
+##### Summary of Chapter 2
 
 Chalk is a nummulitic limestone, formed mainly of a deposit of shells of _Nummulites_, a genus hitherto only doubtfully known to occur before the Eocene. Many writers from Ehrenberg to the present time have seen in Chalk objects named "morpholiths," "spheres," etc., the nature of which has been doubtful, but which are now found to be portions of nummulite shells, the spheres being concretionary areas. Numerous other limestones from Jurassic to Archaean are nummulitic; but the shells have escaped detection, and the carbonate of lime often has been regarded as a chemical deposit.
 
