@@ -121,9 +121,9 @@ Marine Benthoplankton deposits
 |...└───Sediments of igneous rocks and limestones  
 |...│  
 |...└───Original deposits  
-|.......|  
+|.......│  
 |.......└───Much altered (igneous rocks)  
-|.......|  
+|.......│  
 |.......└───Not so much altered (marinelimestones)
 
 ...
