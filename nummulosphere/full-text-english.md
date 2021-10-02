@@ -184,9 +184,9 @@ _Postscript_. The irregularity in the numbering of the plates is due to the supp
 
 The original title of Part 3 viz., "Sea-Floors or Benthoplankton" (see page-headings) has been changed to "The Ocean Floor or Benthoplankton." The designation "Nummulosphere" refers to the fact that one of the concentric planetary layers (viz. the earth's "crust") is almost wholly composed of mineralized nummulites, the other zones being atmosphere, hydrosphere and centrosphere.
 
-#### Chapter 1.
+#### Chapter 1
 
-##### The Ocean.
+##### The Ocean
 
 "Ocean, the parent of all." — Iliad 14. 246.
 
@@ -198,7 +198,7 @@ To him, and even to naturalists acquainted with the wonderful richness of oceani
 
 *) Smooth tropical seas in moderate depths often seem almost as transparent as air or crystal. In Milton's grand line, "The birth of nature from the unapparent deep," the deep is the void of space.
 
-##### The Surface of the Ocean.
+##### The Surface of the Ocean
 
 If, with the aid of a water-telescope to banish reflections, we look down through the clear waters off some tropical island of the East Indies, say Java,* we may see on the sea-bottom great masses of coral, gigantic Tridacnas and huge Neptune's-Cup Sponges. All these massive constructions began life as minute soft specks of living substance, which, in the course of their growth, extracted from the sea the carbonate of lime and silica of their skeletons. It is not, however, these large organisms that we must regard as world-builders, but, rather, certain kinds of minute shells. The white sand on the floor of the submarine garden will be found to be very rich in small calcareous shells of Foraminifera. In tropical latitudes, Foraminifera sometimes form reefs and banks obstructing navigation. The boring into the Funafuti coral-atoll revealed the fact that the reef was to a considerable extent built of Foraminifera.
 
@@ -246,6 +246,24 @@ The proportion of soluble silica in sea-water is extremely small according to Mu
 *) Journ. Mar. Biol. Assoc. Plymouth, 10. p. 417, 1914. 
 
 There are certain other algae that indirectly aid in the extraction of silica from the sea, viz. the zooxanthellae or "yellow cells" found in many Radiolaria. The symbiosis between the algae and their Radiolarian ally has been shown by experiment to be so effective, that the combination can be self-sufficing, the Radiolarian being able to live without capturing food.
+
+The Diatom mud of the Antarctic forms a nutritious food for fishes and other animals. Probably the Diatoms from the surface formed part of the food supply of the nummulites that constitute the mass of the igneous rocks, the Foraminifera afterwards becoming silicated by material derived from the frustules.
+
+The Diatoms and zooxanthellae depend on sunshine. Accordingly, I was led to modify Linnaeus' designation of the rocks as "daughters of time" and to call them "daughters of the sun."*
+
+##### Summary 
+
+At the present day oceanic life depends on the 
+simple plant vegetation at the surface, and especially 
+on the Diatoms, and there is every reason to believe 
+this relation has held good almost from the 
+beginning of geological time i.e. the beginning of 
+the formation of the earth's crust. 
+
+The surface life of the ocean has been an im- 
+portant source of the silica which forms a great 
+part of the lithosphere. The planetary crust is 
+mainly a product f of the evolution of life. 
 
 ...
 
