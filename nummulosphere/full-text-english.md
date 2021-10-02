@@ -18,7 +18,7 @@ London: Printed by William Clowes and Sons, Limited, Duke Street, Stamford Stree
 
 ##### [Chapter 1](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#chapter-1-1)
 
-###### [The Ocean](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#the-ocean)
+####### [The Ocean](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#the-ocean)
 
 ###### [The Surface of the Ocean](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#the-surface-of-the-ocean)
 
