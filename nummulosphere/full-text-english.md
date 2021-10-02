@@ -726,6 +726,34 @@ W. J. Sollas and Cole* suggest that calcareous and silicatic zones might arise b
 
 *) Sci. Proc. Dublin Soc. 7. p. 124. 1891.
 
+Johnston-Lavis and Gregory regard the pyroxene lumps that often form the nucleus of the Eozoon as portions of an igneous magma that have been separated from the main source and grouted into a soft pasty limestone. From the nuclei thus deposited silicic vapours and fluids became diffused outwards, combining with the magnesium, calcium and iron to form ferromagnesian or pyroxene compounds, these being deposited in zones gradually diminishing in width. Firstly a thick band is formed, then another not so thick, and so on, till the material is used up.
+
+There are two questions involved here, viz. the origin of the pyroxene and of the zonal structure associated with that material. Nothing could at first sight seem more reasonable than the views of these writers. There are always igneous masses or intrusions in the neighbourhood of Eozoon, and the zones of Eozoon, as viewed, actually do diminish in width from centre to periphery. Notwithstanding, the derivation of Eozoon from igneous material is very improbable; and, further, possibly the zones did not originate quite in the manner suggested by Johnston-Lavis and Gregory.
+
+O. Trüstedt,* in a report on the ore-deposits of Pitkaranta, Finland, gives a picture (from a photo) of the limestone quarry of Hopunwaara. Fig. 8 below is a diagrammatic plan of the same, showing bands of "sahlit-skarn" (pyroxene), serpentine and Eozoon as they appear in the limestone. The limestone is separated from the granite by layers of mica-schist and iron-ore. 
+
+*) Bull. Comm. Geol. Finlande. No. 19, p. 214. 1907.
+
+If the lumps and bands of pyroxene had originated from the granite, one would expect the first ten metres of the limestone in the neighbourhood of the granite to be crowded with the pyroxene, but there is scarcely a trace, and none at all in the first five metres. 
+
+Prof. T. G. Bonney,* who saw Eozoon _in situ_ in the limestone at Côte St. Pierre, Quebec, figures masses of pyroxene or serpentine or of both minerals surrounded by bands of Eozoon. The conditions in the Laurentian and Hopunwaara limestones are closely similar. Prof. Sederholm, who very kindly sent me specimens of Hopunwaara limestone and of other Finland rocks, thereby supplementing a set of Eozoon, sahlit, etc., previously sent by Dr. Trüstedt, writes in a letter to me:— "The limestone is Ladogian," _i.e._ it is to be correlated with the Archaean. 
+
+*) "The Story of our Earth." 1893, p. 388, Fig. 131; also Geol. Assoc. 1895, p. 292.
+
+All the evidence goes to show that the lumps and bands of pyroxene and their surrounding zones of serpentine belong to the limestone itself, just as the lumps or bands of flint in a chalk quarry belong to the chalk. In the archaean limestone, owing to the heat from neighbouring igneous magmas, the silica has combined with the magnesium, calcium, aluminium, iron, etc., to form serpentine, loganite, etc., the silicates being precipitated in bands. Both the flint and the Eozoon are mineralized lumps or masses of nummulite shells, the silica probably being derived from organisms.
+
+The experiments of R. Liesegang ("Geologische Diffusionen") on precipitation, show the order of deposition of the "rhythmical precipitations" to be from periphery to centre. If, as is probable, the same law holds for Eozoon the fine outer bands of ferromagnesian silicates would be thrown down first. 
+
+Eozoon has been a twofold source of error. Firstly there was the mistake for which Dawson and Carpenter were chiefly responsible, that certain banded lumps of serpentine limestone were gigantic reef-like Foraminifera. After doing great service in destroying this illusion, the mineralogists and petrologists went too far and fell into error themselves. Whitney and Wadsworth* write of "the extraordinary delusion which has prevailed among palaeontologists with reference to the organic nature of Eozoon."
+
+It was a case of denying not merely the organic nature of Eozoon _qua_ Eozoon, but also an organic origin of any sort. As these authors expressly state, their "Azoic System" comprised a series of the earliest rocks which had, according to them, never been anything else than azoic. I have already given reasons for my conviction ("Nummulosphere" 1) that there is no "azoic system" accessible to investigation. Numerous later observations have confirmed this view.
+
+King and Rowney (Q.J.G.S. _l.c._ p. 216) regard Eozoon as having "existed at one time as hornblendic or augitic gneiss, and that it is primarily of sedimentary origin," i.e. an azoic sediment derived from azoic rocks. Johnston-Lavis and Gregory (_l.c._) consider Eozoon to be derived from igneous magmas, _i.e._ to be azoic.
+
+Eozoon is not an organism any more than is a lump of chalk or flint, but at the same time it resembles those objects in being of organic origin. For they are all masses of Foraminiferal shells, not much altered in the chalk, solidly silicified in the flint and silicated in zones in the "Eozoon." Seeing that Eozoon is neither a giant Foraminiferan nor an object of purely mineral origin, its story may justly be described as that of a double delusion.* As in so many controversies there were truth and error on both sides. The present theory will effect a reconciliation.
+
+*) One might have said "multiple delusion," but it is only necessary to refer here to the main points in the historic controversy.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
