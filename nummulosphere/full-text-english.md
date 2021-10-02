@@ -40,6 +40,8 @@ London: Printed by William Clowes and Sons, Limited, Duke Street, Stamford Stree
 
 ##### [Chapter 3](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#chapter-3-1)
 
+###### [└─ On the Origin of the Banded Structure in Eozoon](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#on-the-origin-of-the-banded-structure-in-eozoon)
+
 ###### [└─ Summary of Chapter 3](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#summary-of-chapter-3)
 
 ##### [Chapter 4](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#chapter-4-1)
