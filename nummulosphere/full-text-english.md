@@ -808,6 +808,56 @@ Specimens of "Eozoon" are lumps of nummulitic limestone mineralized by silicates
 
 "It is important to acquire a hospitable and intelligent preparedness to appreciate new light as it shall present itself." — _Chamberlin and Salisbury_.
 
+Scattered over the face of the world are mountains of a very peculiar nature. They are usually conical and with an open bowl-shaped cavity at or near the summit. From time to time in the course of years or centuries, lumps of hot rock, clouds of ashes, vapours and steam are shot up from the interior perhaps to a great height, and floods of molten rock well up and flow down the mountain side. The name "volcano" called after "Vulcano" or "Vulcan's stithy" in the Lipari Isles, expresses an ancient idea as to the nature of these mountains.
+
+The volcanic mountain, which is an accumulation of ejecta round a pipe leading deep beneath the surface, is not an essential feature. Sometimes the molten rock has welled up through one or many fissures in the ground. In Iceland in 1783 a great flood of lava poured out through a fissure twenty miles long and only a few feet wide in places, and submerged the country for a distance of forty miles from the source.
+
+Desmarest and Hutton showed basalt and granite to be rocks which had once been molten like lava, i.e., they were "igneous" rocks which had been pressed upwards into and, to a greater or less extent, through the earth's crust.
+
+The emission of lava through the surface is merely one feature of igneous activity, the latter consisting essentially in the ascent of molten rock into the overlying crust.
+
+With the advance of knowledge, it has become evident that by far the greater part of the planetary crust is composed of igneous rocks and of sediments mainly derived therefrom.
+
+Igneous rocks are widely and extensively distributed over the globe, and igneous phenomena have manifested themselves in all eras from the beginning of geological time up to the present.
+
+Sir A. Geikie enumerates six great epochs of igneous activity in the British Isles, viz., two Archaeozoic, two Palaeozoic and two Cainozoic, the Mesozoic era happening to fall within a period of lull.
+
+Among the more remarkable records of volcanic activity may be mentioned the lava-floods which poured out in Tertiary times over areas extending from north-west Britain and Ireland to within the Arctic Circle. The lava now forms great plateaux of basalt in N. W. Scotland, Antrim, the Hebrides, Faroe, Iceland and Southern Greenland.
+
+The great Pliocene lava-flood of Western America which Le Conte considered "among the most extraordinary in the world,"* covers an area of about 200,000 square miles, and has a thickness of from 700 to 3700 feet. The traps of the Deccan, poured out during the Cretaceous period, cover 200,000 square miles, the average thickness being about a mile.
+
+*) J. Le Conte, 'On the Great Lava-flood of the West.' American Journ. Sci., 1874, p. 167.
+
+Again, in a map, "South of the Amazon, Boué colours an area composed of rocks of this nature" — _i.e._ granitic — "as equal to that of Spain, France, Italy, part of Germany, and the British Islands, all conjoined." (Darwin, 'Origin of Species.')
+
+In the north of England, the Great Whin Sill in the carboniferous limestone is estimated by Sir A. Geikie* to cover an area of 1000 square miles and to be on an average about 90 feet thick.
+
+*) Sir A. Geikie, 'Ancient Volcanoes of Britain,' 2. p. 2. 1897.
+
+The igneous rocks forming the base of the Archaean and said to be exposed over about one-fifth of the land area of the globe are thought to be a universal formation.
+
+In a region included within the states of Colorado, Utah and Arizona there are curious isolated groups of mountains not connected with the ordinary orographic lines, and now known to have been elevated by the rising up of huge loaf-like masses of igneous rock which have failed to burst through the vast but plastic* pile of sedimentary strata formerly completely — and now partly — overlying them.* Denudation has exposed here and there the huge igneous bosses or laccolites, thereby revealing the secret of the origin of these exceptional mountains, which may in a sense be compared to aborted volcanoes.
+
+*) "The solid crust of the earth, and the solid earth if it be solid, are as plastic _in great masses_ as wax is in small." G. K. Gilbert. 'Report on the Geology of the Henry Mountains,' p. 97, 1877.
+
+*) G. K. Gilbert _l.c._; and W. Cross, 'The Laccolitic mountain groups of Colorado, Utah, and Arizona.' U.S. Geol. Survey, 14th Ann. Rep. 1892-3, 2. p. 157.
+
+The ocean floor is formed chiefly of nummulitic clay derived from igneous rocks (see Chapter 1).
+
+The igneous rocks are masses of compounds of silica, in the form of silicates, in unconformable relation with sedimentary strata.
+
+What, then, are these masses of silicates which from the beginning of the Archaean era have been bursting into and between the rocks above them, and erupting through and pouring over the surface of the land or ocean floor. What is their origin? Why have they been hot and plastic at one time in their history? and why have they shifted their position?
+
+J. D. Dana writes in 1890*: "The origin of volcanic heat, the source of lava columns beneath the volcano, the cause of the ascensive force in the lava column, are subjects on which science has various opinions and no positive knowledge." Precisely the same statement would apply to igneous phenomena of which the volcanic are but a part.
+
+*) 'Characteristics of volcanoes.' J. D. Dana, 1890, p.24.
+
+With regard to the second of the three problems referred to by Dana, I hope to demonstrate that positive knowledge is now available concerning the source and origin of igneous material.
+
+If that is so, it is reasonable to expect that some additional light may be thrown on the other two problems.
+
+##### The Origin of the Igneous Rocks
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
