@@ -474,9 +474,43 @@ The study not only of Ehrenberg's morpholiths but also of certain other mysterio
 
 Thin sections of the hard bands of nodular Melbourn Rock and Chalk Rock are very rich in peculiar bodies which Jukes-Browne* refers to as "spheres." Many theories have been held to account for them. Prof. Blake thought they looked like the hollow spheres of _Orbulina universa_. Messrs. Parker and Jones suggested they were the "separate cells of _Globigerina_ and _Dentalina_, the former predominating." M. Cayeux, who has noted their extreme abundance in the chalk, refers to them as monolocular Foraminifera of the genus _Fissurina_ (_Lagena_) or _Orbulina_. In the zone of _Inoceramus labiatus_ near Rouen, he estimates the spheres to form 95 to 98 per cent. of all the Rhizopodal fauna.
 
+*) Geological Survey, "Upper Cretaceous Rocks," vol. 2, p. 501.
+
 F. Chapman believed some of them to be Radiolaria. In others he saw a strong resemblance to the globate dermal spicules of certain sponges; "but the real nature of the majority of these calcareous spheres still remains an enigma." These mysterious bodies vary considerably in size, shape, and structure, being discoidal or oval, 0.08 mm. in diameter, with opaque centre and clear periphery, or clear throughout. Quite early in the present research I found these objects to be made up of nummulitic disk structures not only filling in the body but extending right across the "wall" into the surrounding matrix. I have now advanced much further, for I can see the exact position of the "spheres" in the anatomy of the nummulite shell. They occur most commonly serially along the convexity of the marginal cord and the edges of septa, also at the point where double-walled septa bifurcate within the concavity of the cord, also in the pillar-ends in the spiral lamina. Obliquely tilted disks give the _Fissurina_-aspect. Spheres, then, are clarified areas of nummulitic structure rendered glassy by becoming more calcitic or silicic owing to greater facility of diffusion of water or silica at those points. From overflow the areas may extend as in "_Saccammina carteri_" in Carboniferous deposits of nummulites. In wholly silicified deposits (Ordovician and Precambrian phthanites) the clear areas resemble Radiolaria, etc. Spheres abound in hard bands of chalk (Melbourn Rock and Chalk Rock), probably owing to increased formation of calcite or to a greater degree of dissemination of silica in disturbed or emerged zones.
 
 Barrois considered the hard bands of chalk (bancs durcis) to be due to actual emersion. Hume thought the hard nodular condition resulted from the setting up of currents owing to alteration of the level of land bordering the Chalk Sea.
+
+Whatever the cause, the effect has been to bring about a greater degree of dissemination of soluble silex and a greater degree of silicification of Foraminiferal structure than in ordinary chalk. It is only necessary to put a little acid on a thin section of Melbourn Rock to realize that the "spheres" owe their transparency to the fact that they are partly silicified. In ordinary chalk small defined areas have not been made glassy and, therefore, distinct; but the dotted disk structures are better seen.
+
+Certain beds of Carboniferous limestone are almost wholly composed of minute spheroidal or fusiform bodies about 3.2 mm. (⅛ inch) in diameter and frequently produced and tubular at each end. Often several of these bodies are joined end to end in a chain. The weathered surface of a limestone rich in these structures is coarsely warty. The spheroids usually have a smooth but granular wall surrounding a clear mass of colloidal silica or of crystals of calcite. Brady* considered these bodies to be Sandy Foraminifera related to a living deep-sea form described by Sars as _Saccammina spherica_. Certainly when a chain of several little fusiform globules is isolated and mounted on a slide nothing could more closely resemble an arenaceous Foraminiferan.
+
+*) Brady, ' Monograph, Carboniferous and Permian Foraminifera.' Pal. Soc., 1876.
+
+Sections of typical Saccammina limestone, however, show that the Saccammina condition is due to mineralization of areas of nummulite shells, just as in the spheres of the hard chalks. Nummulitic shell-structure can be traced in continuity from the interior through the supposed walls of the spheres to the surrounding matrix. Brady figures certain "scars" in the form of granular concentric rings on the "test" of the supposed shells (Plate 12. Fig. 7, _l.c._). These structures are coiled disk-structures. Brady's drawing shows even the circles of the smaller bundles, one of the latter being equivalent to one of Ehrenberg's disklets. I can now make out in sections viewed with a lens features of the larger anatomy of the nummulites. The chain condition is found also in Jurassic oolite; and even the produced tubular structures occur, though only rarely, probably because the points have been dissolved out. Brady speaks of extensive formations of limestones being wholly made of Saccammina. The Elfhills formation, where this pseudomorph is well developed, used to be considered a concretionary limestone.
+
+The outlines of the nummulites can be made out, but with difficulty, in lumps of the rock. The "Saccammina" condition is found in carboniferous and also in Ordovician limestones.
+
+A peculiar spherular structure exists in the rock known as malmstone or gaize, which outwardly resembles an ordinary sedimentary sandstone, and which indeed contains to a greater or less degree sedimentary particles of sand, mica, etc. The purer varieties contain, however, a large proportion of colloidal silica.
+
+My sections of this remarkable rock are from material which I collected from a pit near Devizes, and from the formation (referred to by Barrois) situated by the railway siding.
+
+The siliceous spherules or "corps globuleux " in malmstone have been taken for Radiolaria, parts of siliceous sponges, silicified oolites, etc.
+
+Some spherules resembling botryoidal structure;* and varying from 20 to 33 _μ_, were seen, under a power of 3000 diameters and low illumination, to be nummulitic spirodisks. The spherules usually show a well-defined equatorial band — the outermost coil of the disk, within which there will be lesser coils. The disks can frequently be seen to be arranged in series.
+
+Cayeux,* in his description of a siliceous gaize of Launois, has noted therein a reticulated and radiated structure. Under a high power "ce ciment présente un aspect spongieux très particulier. Le ciment n'est ici qu'un véritable squelette de silice." The appearance of spongy structure is due to the glassy layers of spiral lamina, and of radiating alars and septa of vitrified nummulites.
+
+*) L. Cayeux. "Contrib. à l'étude micrographique des terrains sédimentaires." Mém. Soc. Géol. Nord, vol. 4. 2, p. 21, 1897.
+
+The colloidal silica apparently is derived partly from organisms, and partly, according to Cayeux, from decomposition of clay.
+
+A band of flint in chalk is a layer of silicified nummulites, the silex being derived from skeletons situated in and above the once-calcareous layer.
+
+Lapparent ("Géologie" 1. p. 332, 1906) writes:— "l'origine de cette silice doit être incontestablement cherchée dans l'alteration de dépôts siliceux origin- airement superposés aux roches en question."
+
+In connection with this subject of "spheres" and siliceous "spherules," I shall refer here — rather than under "flint and chert" — to an interesting discovery concerning certain supposed Radiolaria.
+
+When I found that I had mistaken for Radiolaria and Diatoms numerous "appearances" in igneous rocks, it occurred to me that other observers might have fallen into the same error, and I find this to be the case. The very transparent disk-structures strongly suggest Radiolarian lattices and spines, but very careful inspection will reveal the real structure. L. Cayeux* described numerous genera of Radiolaria and some Foraminifera from the Pre-cambrian phthanites of Brittany. I believe all these structures to be parts of the anatomy of nummulites. During a recent visit to Brittany I collected phthanites and quartzites at Port-à-le-Duc and Ville-au-Roi-en-Maroué near Lamballe, localities whence M. Cayeux obtained his material. In my opinion, the sections show clearly that all the Radiolarian Cyrtids, Dicyrtids, etc., are different aspects of nummulitic structure. I had made the same mistake in Eozoon, where I thought I had found seven genera of Radiolaria.
 
 ...
 
