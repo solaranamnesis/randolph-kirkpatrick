@@ -530,6 +530,34 @@ Concerning the question of the relationship between Chalk and _Globigerina_ ooze
 
 *) Mém. Soc. Géol. Nord, 4. p. 521. 1897.
 
+##### Flint
+
+Although it is the carbonate of lime that chiefly strikes the eye when looking at a chalk cliff, yet the silica element is almost equally important. Even where the silica is not collected into bands of tabular flint or of nodules, there is usually a good deal of silex disseminated throughout the whole rock.
+
+Seemingly it has been clearly proved, especially by Hinde, Sollas and Zittel, that the greater part of the silex of flint and chert is derived from the siliceous skeletons of organisms, mostly Sponges in the case of chalk.
+
+The silex of Diatoms, Radiolaria and Sponges is in the form of colloidal silica or opal, and is fairly soluble in sea-water. Accordingly this silica tends to accumulate on the sea-floor and to sink down a little way in that floor until it meets a dense stratum through which it cannot easily permeate. In course of time the silica molecules replace the carbonate of lime of calcareous skeletons and become grouped in semi-crystalline and crystalline arrangement, the silica then being less soluble.
+
+Some geologists have denied the organic origin of the silica, believing it to be derived from highly charged sea-water rather than from organic remains accumulated on the sea-bottom. On the one hand there is no evidence to show that sea-water is highly charged with silica; indeed, the evidence is in the other direction, and on the other hand benthos and plankton siliceous skeletons are extremely abundant on sea-floors and often persist still undissolved in flint and chert.
+
+Dr. Hinde,* in a paper on the organic origin of chert, criticises the opinion of Professor Hull, who considered chert to be a pseudomorphic formerly-calcareous rock silicified by silica of inorganic origin. My own extremely careful observations on flint, chert, and Ordovician and Precambrian phthanites convince me that they are all silicified calcareous rocks, for in every case I can detect the original nummulites. On the other hand, direct and indirect evidence are strongly in favour of the theory of organic origin of the silica; in chalk-flint and Portland chert remains of siliceous skeletons still persist. (The supposed Radiolaria described by Hinde and Cayeux from the earlier rocks are appearances presented by the transparent nummulitic structure.) The present theory reconciles the opposing views of Dr. Hinde and Professor Hull. For flint is not a mass of dissolved siliceous skeletons. It is, as Professor Hull surmised, a mass of silicified calcareous skeletons, amidst which, it is true, there are embedded a certain average proportion of siliceous remains perhaps no greater than in any other part of the whole deposit. The calcareous skeletons are mostly nummulites, though these have not yet been generally recognized. The silica of the flint comes from the whole mass of calcareo-siliceous deposit lying between two zones of flint and including the lower zone.
+
+*) G. J. Hinde, "On the Organic Origin of the Chert of the Carboniferous Limestone Series of Ireland." Geol. Mag. (3) 4. p. 435 (1887).
+
+The successive layers of flints represent in a certain degree the material derived from successive ill-defined zones of organisms rather than from sharply defined beds. Sometimes flint is deposited along oblique fissures in the rock.
+
+When rough weathered flints are examined carefully with a lens, the surface will nearly always be seen to be made of shells of _Nummulites_. Further, even the most translucent sections of flint, under high powers and suitable illumination, will show the structure, especially the "disks" of the nummulite shells. All the light should be cut off at first, and then the faintest glimmer admitted to the field. Gradually the trained eye will see the structural features of _Nummulites_. The least excess of light completely "drowns" the details. Flints, is formed of casts of Foraminifera (Appendix, Note B). Glauconite, which is a silicate of potash and alumina, is supposed usually to result from the breaking up of clay in presence of organic matter.
+
+Concerning "Barbados Earth," see Appendix, Note M.
+
+Scattered in the chalk are nodules of iron pyrites, which often "degenerate" into powdery lumps of oxide of iron. Country people regard the nodules as "thunder-bolts." Curiously enough these marcasite nodules actually do throw a light on the origin of iron meteorites. For both objects are "ore-enriched" masses of nummulitic rock.
+
+The shells are best seen on finely granular fractured surfaces, especially if allowed to become weathered a little by exposure. The marcasite nodules have not formed in the void. The metallic salts have permeated a mass of Foraminiferal shells. Metallic Trilobites and Ammonites are familiar objects: the metallic nummulite shells on the other hand are indistinguishably massed together. I have seen the nummulitic structure in ore-deposits of iron, tin, uranium, etc.
+
+##### On certain other Limestones
+
+"Sed calx a petrificatis." — _Linnaeus_.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
