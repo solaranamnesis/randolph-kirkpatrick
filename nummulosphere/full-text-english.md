@@ -124,7 +124,11 @@ Marine Benthoplankton deposits
 |.......│  
 |.......└───Much altered (igneous rocks)  
 |.......│  
-|.......└───Not so much altered (marinelimestones)
+|.......└───Not so much altered (marine limestones)
+
+Remarks on the above table. — Marine benthoplankton deposits are mainly composed of the skeletons of unicellular organisms; in the case of non-igneous rocks, Corals Mollusca Brachiopoda Echinodermata and Algae contribute largely. Remains of fresh-water benthoplankton and of land faunas and floras are, relatively to the mass of the planetary crust, almost negligible; and, moreover, they are mixed up with sediments of marine benthoplankton. I have found nummulitic remains even in coal cinders, as well as in slates, sandstones, grits, muds, sands, etc., from many localities.
+
+The planetary crust, so far as it is accessible to observation, is composed of mineralized organic remains, the bulk of these being silicated nummulite shells. The lithosphere is veritably a silicated nummulosphere.
 
 ...
 
