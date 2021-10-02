@@ -106,6 +106,26 @@ When the fallacy of Werner's coal-combustion theory of volcanoes was detected,* 
 
 *) Bull. Mus. Comp. Zool. Harvard, 1884, 7. p. 534. J. D. Whitney and M. E. Wadsworth, "The Azoic System."
 
+Volcanoes and lava streams are heaps and masses of silicated nummulitic limestone, i.e., they are of aqueous and organic origin. All the rest of the igneous rocks are of a similar nature and origin. Seeing that these rocks and the sediments derived from them constitute the bulk of the planetary crust, it follows that the lithosphere is mainly composed of silicated nummulitic rock. It will be shown that the ocean floor is almost certainly formed of nummulitic deposits, even in areas covered with recent plankton dust.
+
+Eocene nummulitic limestones thousands of feet thick extend across north-west Africa, Europe and Asia, from Morocco and Spain to Japan, forming the middle and upper parts of great mountain-chains. This "nummulitic epoch" is not an isolated event, for nearly the whole planetary crust is made of nummulitic rocks in the form of chalk and other limestones and igneous rocks. Rocks are sometimes classified as fossiliferous and unfossiliferous, but all are fossiliferous. Again, they are classed as igneous, sedimentary and precipitated; but igneous rocks _are_ precipitated, and sedimentary rocks are precipitated rocks ground down. Really, then, there is, broadly speaking, one rock, viz., benthoplankton.
+
+The materials composing the vast bulk of the planetary crust may be classified as follows:
+
+Marine Benthoplankton deposits  
+│  
+└───Submarine, (clay surface of ancient benthoplankton deposit plus recent benthoplankton)  
+│  
+└───Supramarine or land (hardened benthoplankton deposits)  
+    │  
+    └───Sediments of igneous rocks and limestones  
+    │  
+    └───Original deposits  
+        |  
+        └───Much altered (igneous rocks)  
+        |  
+        └───Not so much altered (marinelimestones)
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
