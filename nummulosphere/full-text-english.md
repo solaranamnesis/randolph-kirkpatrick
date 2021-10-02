@@ -251,19 +251,27 @@ The Diatom mud of the Antarctic forms a nutritious food for fishes and other ani
 
 The Diatoms and zooxanthellae depend on sunshine. Accordingly, I was led to modify Linnaeus' designation of the rocks as "daughters of time" and to call them "daughters of the sun."*
 
-##### Summary 
+*) "The Nummulosphere," Part 2.
 
-At the present day oceanic life depends on the 
-simple plant vegetation at the surface, and especially 
-on the Diatoms, and there is every reason to believe 
-this relation has held good almost from the 
-beginning of geological time i.e. the beginning of 
-the formation of the earth's crust. 
+Summary 
 
-The surface life of the ocean has been an im- 
-portant source of the silica which forms a great 
-part of the lithosphere. The planetary crust is 
-mainly a product f of the evolution of life. 
+At the present day oceanic life depends on the simple plant vegetation at the surface, and especially on the Diatoms, and there is every reason to believe this relation has held good almost from the beginning of geological time i.e. the beginning of the formation of the earth's crust.
+
+The surface life of the ocean has been an important source of the silica which forms a great part of the lithosphere. The planetary crust is mainly a product* of the evolution of life.
+
+*) From a philosophical point of view, the earth's crust might be described as a by-product of the evolutionary process, psychic development being the aim.
+
+##### The Floor of the Ocean
+
+Until recent times the floor of the ocean beyond a few hundred fathoms was a region of profound mystery, and consequently men of science were in complete ignorance concerning the greater part of the surface of the planetary crust. During the last sixty years, however, human ingenuity has succeeded in surveying and charting the ocean floor almost as completely and surely as if it had been laid bare to ordinary observation.
+
+The merit of this great achievement belongs especially to the _Challenger_ Expedition (1873-76), though great credit is due to other enterprises undertaken before and since that epoch-making voyage. As a result of these explorations it is now possible to picture to the mind the submerged mountains, valleys and plains of the ocean, the weird inhabitants of the abysses and the nature of the bottom. It is this last feature that is a matter of present concern.
+
+Sir John Murray* estimates the area of the surface of the globe at 197 millions of square miles, of which dry land occupies 54 millions and the ocean 143 millions. The ocean floor is covered with muds, "oozes" and clay. Murray classes these deposits under two groups, viz. the Terrigenous, fringing the great land areas, and the Pelagic remote from land. The terrigenous deposits (littoral muds sands and gravels, coral sand and mud, volcanic sand and mud, greensand, and green red and blue muds) covering an area of 28.6 millions of square miles are more or less composed of materials derived from land.
+
+*) Scottish Geogr. Mag., 4. p. 1, 1888, and 6. p. 265, 1890. 
+
+The pelagic deposits, formed either of Red Clay or of skeletons of plankton organisms,* cover an area of 114.6 millions of square miles, and are distributed as follows:—
 
 ...
 
