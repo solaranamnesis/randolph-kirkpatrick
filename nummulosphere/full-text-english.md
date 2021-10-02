@@ -634,6 +634,78 @@ I should mention that the simple skill in detecting the above-named structures i
 
 _The story of a double delusion._
 
+The British sedimentary strata from recent to Cambrian, if piled horizontally, would at their thickest form a mass several miles high, the lower five-sixths being palaeozoic. Birds and mammals begin to appear about one-sixth of the way down from the top, reptiles and amphibia about one-third, and fishes half-way down, the lower half being invertebrates only.* The strata may be compared to the leaves of a great folio in which is written — though very imperfectly — the record of the evolution of life from the lower to the higher stages. Beneath the Cambrian are Precambrian formations of unknown thickness, chiefly crystalline, stratified, foliated or schistose rocks (gneisses and schists), some sandstones and limestones, and volcanic rocks. They are exposed mostly in North Britain and the Hebrides. No undoubted fossils have been found in them. Once it was thought the Cambrian period was coeval with the beginning of life, but now the absence of organic remains in the older rocks is attributed rather to their obliteration.
+
+*) These figures refer only to _British_ strata.
+
+Precambrian rocks are widely distributed over the world, but nowhere do they attain such enormous development as in Canada, where they cover an area of about two million square miles and attain a thickness of several tens of thousands of feet (Appendix, Note D). The accumulation of this vast series of highly metamorphosed deposits possibly required a greater time than was necessary to form the strata ranging from the Cambrian to the present. So far only a few Precambrian fossils have been recorded from the American continent, some even of these being of a doubtful nature (Appendix, Note E).
+
+Forming the base of the Precambrian in Canada is a confused assemblage of highly crystalline igneous rocks to which Sir William Logan's term "Laurentian"* is now restricted: in contact with these, in the region of the Ottawa River, there are limestones, quartzites, gneisses, metamorphosed clays and sandy-clays known as the "Grenville" series.* These sedimentary rocks are broken into by masses and dykes of "Ottawa gneiss"; the masses, notwithstanding their stratified structure, now being generally regarded as plutonic up-wellings (bathyliths) rather than as altered sediments.
+
+*) Called after the Laurentide mountains north of the river St. Lawrence.
+
+*) J. Stansfield, "Internat. Geol. Congress, Canada, 1913." Guide Book No. 3, p. 82. Bibliogr. Index, p. 115.
+
+The Laurentian and Grenville rocks belong to the most ancient era, "the Archaean." They constitute the "fundamental or basal complex."
+
+In 1858 Sir William Logan, one of the great pioneers of Canadian geology, began to suspect that certain peculiar lumps of rock found in Archaean limestone, and which had been sent in as minerals, might possibly be of organic origin. Weathered lumps showed a layered structure (Plate 2) like that of the palaeozoic stromatoporoids — which though palaeozoic had come into existence ages later.
+
+Sections revealed a banded structure consisting of alternate white and green wavy bands of calcite and serpentine (Fig. 6).
+
+Sir W. Dawson, who supported Logan's view, regarded the lumps as giant Foraminifera belonging to the nummulite family, the white zones being the walls of the chambers, and the green parts the spaces formerly filled in with living protoplasm. The white zones contained systems of branching "canals."
+
+In 1862 Logan, when on a visit to London, showed the specimens to Dr. W. B. Carpenter, the highest authority on Foraminifera. Carpenter confirmed Dawson's nummulite theory, and demonstrated that in some specimens the green spaces were lined with a definite, very finely fibrillated layer, which he regarded as the proper tubulated wall of each chamber of the shell, the white bands with their branching "canals" being the "supplementary" skeleton commonly found in nummulitid Foraminifera.
+
+In 1865, Logan, Dawson, Carpenter and Sterry Hunt* published a joint paper on _Eozoon canadense_ gen. et sp. nov. Dawson. This paper started a prolonged and stubborn controversy.
+
+*) Quart. Journ. Geol. Soc., Feb. 1865, pp. 45-71, and plates.
+
+In 1866 Professors King and Rowney* pointed out that all the structures brought forward by Carpenter as proofs of organic origin could be shown to be of a purely mineral nature and origin. The alternating zones, and the dendritic structures in the white bands were common in minerals, and the fibrillated so-called "nummuline" or "proper wall" was simply a fibrous or asbestiform variety of serpentine known as chrysotile.
+
+*) Quart. Journ. Geol. Soc., Feb. 1866, pp. 185-218, and plates.
+
+In 1878 Professor Möbius of Kiel, a high authority on Foraminifera, published a well-illustrated memoir* on Eozoon, which latter he regarded as an object of purely mineral origin.
+
+*) "Palaeontographica" 25. p. 175.
+
+In 1894 Professors H. J. Johnston-Lavis and J. W. Gregory* described certain bombs ejected from Monte Somma (Vesuvius), which have a zoned arrangement of calcite and silicates practically identical with that of "Eozoon canadense," excepting that the silicates are not hydrated into serpentines and there is no "nummuline" layer of chrysotile (fibrous serpentine). The authors considered the material of the bombs to be of Cretaceous or Jurassic age.
+
+*) Sci. Trans. Roy. Dublin Soc. (2) 5. p. 259. 1893.
+
+The problem was now considered settled. In all the chief text-books Eozoon was put down as an object of mineral origin, and science, with evident relief, pronounced its _requiescat in pace_ on the controversy. Any signs of recrudescence call forth a note of alarm — "We are threatened with a revival..."
+
+New evidence, however, renders it imperatively necessary to exhume the dawn-animal and hold a fresh inquest. This time the enquiry need only be brief, and beyond doubt the verdict will be final.
+
+Once when examining one of Carpenter's sections under the microscope I saw embedded in serpentine a very small object 0.1 mm. in diameter, which I took to be a young nummulite shell* (Plate 11. Fig. 42), and presently found several similar objects.* Further research apparently led to the discovery that a specimen of Eozoon was a mass of small "nummulite" shells. At first they seemed to me to be associated in colonies. The supposed shells, on an average about four millimetres in diameter, were present both in the green and white bands, frequently also one "shell" being half in the green and half in the white. Next I discovered in the sections under high powers "appearances" closely resembling Radiolaria and Diatoms.*
+
+*) Described, but very incorrectly, in A.M.N.H. Sept. and Oct. 1912.
+
+*) Photographed better in "Nummulosphere" 1. 1913. The photo on Plate 11 is too dark.
+
+*) "Nummulosphere" 2. 1913.
+
+Since "Nummulosphere" 2 was published I have made numerous observations on varied and abundant material, viz., Carpenter's collection, including "Eozoon" from Scotland, Ireland, and Bavaria (sent by Gümbel); a magnificent set of specimens sent to me by Mr. L. Lambe from Canada; material from Finland sent to me by Prof. J. J. Sederholm and Dr. O. Trüstedt; a typical Monte Somma bomb (Hamilton Coll. N. H. M.); also archaean limestone from the Sikhim Himalayas, very kindly obtained for me by Mr. John C. White.
+
+I have now found that the small disks visible with a hand lens, and which had been taken by me for small nummulites, are portions of nummulite shells. Further, the supposed Radiolaria and Diatoms are found to be appearances due to transparent series and groups of nummulitic disk structures viewed under high powers and in various aspects; and, lastly, the supposed microscopic shells of which I had published photographs were also merely portions of nummulitic structure.
+
+Professors King and Rowney* asked believers in the organic theory to reply without question-begging irrelevancy or reticence to eleven points, foraminiferal, mineralogical, chemical and geological.
+
+*) "An Old Chapter in the Geological Record," 1881.
+
+The organic theory has now taken on an almost entirely new aspect, and I think it will be amply sufficient to reply here to the first two points, which are the most important.
+
+Point No. 1. The existence of an _upper_ and an _under_ "proper wall" in immediate connexion with a "chamber," also frequent absence of intermediate skeleton, and frequent horizontality — instead of verticality — of tubuli to the adjacent chamber.
+
+Answer. The green bands are not chamber-spaces formerly containing protoplasm but now filled in with serpentine; there is no "proper wall" to the supposed "spaces," and there is no supplementary skeleton (in the form of white bands) between "spaces" which never existed.
+
+There _is_ a lump of limestone in which silicates have been diffused out from some central accumulation and precipitated in zones, thereby differentiating the lump from the common limestone matrix. Careful observation shows the archaean limestone to be a nummulitic deposit similar to Tertiary nummulitic limestones, but more changed owing to long subjection to metamorphosing agencies, and especially to the proximity of igneous intrusions. Even Cretaceous and Jurassic limestones give rise to silicatic Eozoonal structure when subjected to volcanic heat as in the Monte Somma bombs.
+
+Careful observation under high powers shows the nummulitic disk structure underlying fine fibrillar pattern, just as in the striated bands of spiral lamina in Tertiary nummulites. (See Chapter 8)
+
+Möbius denied the nummulitic tubulated nature of the fibrils or aciculae on the ground of their occasional great length and curved shape, and their varied direction and "non-verticality." I have now found the reply to these reasonable objections. Very frequently in sections of Eozoon long fibrous bands are met with having characters such as Möbius described. They are portions of concentric bands of furrowed marginal cord with septa astride. The cord is really a wavy almost polygonal structure, and the direction of series of disk structures varies greatly in adjacent parts. Again, in oblique sections of large shells across many successive layers of spiral lamina, there is sometimes a false appearance of fibrillar continuity.
+
+In the fine collection of serpentine minerals and rocks in the Natural History Museum there are a number of asbestiform fibrous varieties (chrysolite, metaxite) of this "protean mineral." Here the fibrous structure is a character of the mineral. I have found nummulitic structure persisting even in real asbestos, that structure being situated at any angle to the mineral fibre.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
