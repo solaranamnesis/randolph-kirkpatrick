@@ -506,11 +506,29 @@ The colloidal silica apparently is derived partly from organisms, and partly, ac
 
 A band of flint in chalk is a layer of silicified nummulites, the silex being derived from skeletons situated in and above the once-calcareous layer.
 
-Lapparent ("Géologie" 1. p. 332, 1906) writes:— "l'origine de cette silice doit être incontestablement cherchée dans l'alteration de dépôts siliceux origin- airement superposés aux roches en question."
+Lapparent ("Géologie" 1. p. 332, 1906) writes:— "l'origine de cette silice doit être incontestablement cherchée dans l'alteration de dépôts siliceux origin-airement superposés aux roches en question."
 
 In connection with this subject of "spheres" and siliceous "spherules," I shall refer here — rather than under "flint and chert" — to an interesting discovery concerning certain supposed Radiolaria.
 
 When I found that I had mistaken for Radiolaria and Diatoms numerous "appearances" in igneous rocks, it occurred to me that other observers might have fallen into the same error, and I find this to be the case. The very transparent disk-structures strongly suggest Radiolarian lattices and spines, but very careful inspection will reveal the real structure. L. Cayeux* described numerous genera of Radiolaria and some Foraminifera from the Pre-cambrian phthanites of Brittany. I believe all these structures to be parts of the anatomy of nummulites. During a recent visit to Brittany I collected phthanites and quartzites at Port-à-le-Duc and Ville-au-Roi-en-Maroué near Lamballe, localities whence M. Cayeux obtained his material. In my opinion, the sections show clearly that all the Radiolarian Cyrtids, Dicyrtids, etc., are different aspects of nummulitic structure. I had made the same mistake in Eozoon, where I thought I had found seven genera of Radiolaria.
+
+*) Cayeux, Bull. Soc. Géol. France, 22. p. 197, plate 11. 1894.
+
+Dr. H. Rauff* was right in refusing to believe in the Radiolarian nature of the very minute objects faithfully figured by Cayeux, but was mistaken in assuming them to be of an inorganic nature: the statement of Hinde and Fox also, "There is no evidence to show that they were of organic origin." must be corrected.*
+
+*) H. Rauff. Neues Jahrb. Mineralogie 1. p. 117. 1896.
+
+*) Quart. Journ. Geol. Soc., vol. 51, p. 631. 1895.
+
+In the case of very ancient formations it seems to me improbable that Radiolaria (or any other siliceous plankton) could have escaped being dissolved. Accordingly I think the Radiolaria described by David and Howchin* from Precambrian rocks of South Australia may be of the same nature as the supposed Radiolaria in the Precambrian phthanites of Brittany, i.e., that they may be nummulitic structures. We find then that eminent microgeologists have seen in some of the older rocks certain appearances which they have mistaken for Radiolaria. Precisely the same appearances will be found in igneous rocks and meteorites. Dissolved silica of plankton organisms and, perhaps, of sponges has diffused itself through the benthos deposits of nummulitic shells replacing the lime. The sections of pillars, marginal cord and chamber-walls of these mineralized shells frequently present a striking resemblance to Spumellarian and Nassellarian Radiolaria and to Diatoms.*
+
+*) Proc. Linn. Soc. N.S.W. 1896, p. 571.
+
+*) The picture on the cover of "Nummulosphere," Part 2, representing the genesis of igneous rocks, depicts plankton skeletons sinking through the water on to the heaps of nummulite shells constituting the ocean floor. The supposed plankton skeletons seen by me in igneous rocks are really parts of nummulites. Notwithstanding this error, the picture symbolizes events which have almost certainly happened. There is no doubt whatever about the nummulitic nature of igneous rocks, and in my opinion no reasonable doubt as to the source of much of the silica. It is a strange phenomenon this creation of the bulk of the earth's crust out of oceanic deposits of skeletons of benthos organisms mineralized by material derived partly from the siliceous skeletons of plankton organisms.
+
+Concerning the question of the relationship between Chalk and _Globigerina_ ooze, Cayeux* clearly demonstrates that they are very distinct, especially with regard to the conditions of depth and the characters of the Invertebrate faunas. The common presence of _Globigerina_ has sometimes led to the profound dissimilarities between the two deposits being overlooked ; and even in the Foraminiferal faunas there are essential differences. For Chalk is a nummulitic limestone, and at the present day the genus _Nummulites_ is practically extinct. The nummulites met with in _Globigerina_ ooze are silicated shells derived from subaerial or submarine eruptions.
+
+*) Mém. Soc. Géol. Nord, 4. p. 521. 1897.
 
 ...
 
