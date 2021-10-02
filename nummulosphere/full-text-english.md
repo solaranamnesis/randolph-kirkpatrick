@@ -14,7 +14,7 @@ London: Printed by William Clowes and Sons, Limited, Duke Street, Stamford Stree
 
 #### Table of Contents
 
-##### [Introduction](#introduction-1)
+##### [Introduction](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#introduction-1)
 
 ##### [Chapter 1]()
 
