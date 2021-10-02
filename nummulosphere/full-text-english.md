@@ -144,6 +144,46 @@ Dr. J. F. Bottomley, of the Thermal Syndicate, Newcastle-on-Tyne, very kindly un
 
 With the kind help of Prof. W. H. Merrett and Mr. H. M. Chappie of the Royal School of Mines, pieces of the same earth were subjected to a temperature of 1600° C. in a Meker furnace. When the oxygen was turned on the earth became glowing white hot. Just at the melting point it was cooled down and sections were cut from the resulting slag. Radiolaria are so very clearly visible that it is possible to determine the species (Plate 11, Fig. 49). The temperature of lavas varies from 900° C. to 1500° C.* The melting point of silica is 1600° C., but that of silicates depends on the composition, the basic being more easily fusible than the acid — basalt, for example, being more tractable than trachyte or granite.
 
+*) _Fide_ Prof. J. P. Iddings, "Lectures on Vulcanism," London, 1914.
+
+2) That the supposed organic remains in igneous rocks may be of accidental origin.
+
+The suggestion has been made that the skeletons said to be found by me in igneous rocks may be recent deposits or incrustations; or the rock when in a molten state may have licked up the organic remains.
+
+If a plug of granite one hundred metres long and, say, one centimetre in area, were cut out of the De Lank granite quarry in any direction, and cut into sections 0.1 mm. thick (_i.e._, into one million sections), I am justified in stating that traces of organic remains would certainly be found in every section.
+
+3) That the author has not had sufficient experience to justify him in publishing opinions on igneous rocks.
+
+It has more than once been hinted to me, and in no unfriendly manner, that I am dealing with matters beyond my special province. There is indeed an appearance of this, but in reality, so far as main issues are concerned, I am on my own ground. Knowledge of the chemical composition and mineral characters of every rock on earth avail — I will not say nothing — but very little. What is needed is some knowledge of nummulites, and practice in examining these shells with the hand-lens and compound microscope.
+
+Tow-netting and dredging in the Atlantic and Indian Ocean have familiarised me with the exceeding richness of oceanic life. During the last year and a half I have travelled over England and Wales from Sunderland to Land's End and from St. David's Head to the Norfolk coast, to examine igneous rocks and limestones _in situ_ and to collect material. With the help of colleagues I have obtained specimens and collections of minerals from many parts of the world.
+
+Lastly and chiefly, as a result of innumerable microscopic observations, I have acquired a certain degree of specialised skill. The eye has been trained to appreciate delicate structure, and to trace the various stages of degradation and alteration in nummulite shells found in igneous and other rocks from the Eocene to the Laurentian.
+
+The book is divided into four parts.
+
+In Part 1 evidence is brought together showing the strong _a priori_ reasons for believing in a theory of organic origin of igneous rocks. It is pointed out that an origin of this kind is such as might well be expected to result from the operation of the laws of nature.
+
+A chapter on the ocean is followed by one on a typical benthoplankton rock, viz., chalk. Next follows a chapter on a more changed rock of a similar nature, viz., Eozoon, and, again, one on those still more changed benthoplankton structures commonly known as igneous rocks and meteorites. In Part 2 is given a description of the genus _Nummulites_, followed by an account of the occurrence of nummulites in igneous rocks, meteorites, etc. Part 3 refers briefly to certain speculations on the origin of life.
+
+Part 4 contains a description of certain pseudomorphs commonly known as _Stromatoporoids_, _Receptaculitidae_, _Archaeocyathus_, _Girvanella_, _Loftusia_, etc.
+
+I am deeply indebted to my colleagues in the Geological, Mineralogical, and Bibliographical Departments of the Natural History Museum for much kind help. Further, I have been granted many privileges by the Museum authorities, especially in being permitted to study valuable type collections of fossils, meteorites, etc.
+
+I take this opportunity of expressing my grateful acknowledgments to Mr. L. M. Lambe, Mr. R. A. Johnston, and Mr. A. T. McKinnon, officers of the Geological Survey of Canada, who sent me at my request a magnificent set of minerals collected at Côte St. Pierre, Quebec, the classical Eozoon-ground, and transported with much difficulty to Montreal for shipment. One royal example of "Eozoon canadense" weighs over a sixth of a ton.
+
+The friendly sympathy of some who have followed my work has been a valuable aid. Geschworner G. Henriksen of Minde, Bergen, especially has endeavoured to call the attention of scientific men to the new discovery.
+
+I have been fortunate in securing the services of Mr. P. Highley. I think no one has had more experience in drawing from the microscope. He was making drawings of Eozoon for Dr. Carpenter forty years ago. Thanks are due also to Messrs. Raines, of Ealing, who have taken great pains to secure good photographic results, and to Mr. Butterworth for careful cliché work.
+
+Also I would gratefully refer here to the very patient and skilful work of Messrs. William Clowes and Sons.
+
+NOTE. Anything of scientific value in "Nummulosphere" Parts 1 and 2 is incorporated in Part 3. The first two parts, which are no longer of use, have been of the nature of stepping-stones that have helped me, in spite of much initial error, to arrive at the truths explained in the present work.
+
+_Postscript_. The irregularity in the numbering of the plates is due to the suppression of many of the earlier plates even after the latter had all been printed off.
+
+The original title of Part 3 viz., "Sea-Floors or Benthoplankton" (see page-headings) has been changed to "The Ocean Floor or Benthoplankton." The designation "Nummulosphere" refers to the fact that one of the concentric planetary layers (viz. the earth's "crust") is almost wholly composed of mineralized nummulites, the other zones being atmosphere, hydrosphere and centrosphere.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
