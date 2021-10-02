@@ -416,6 +416,44 @@ A very considerable degree of "training of the sense of sight" is required to en
 
 The upper chalk from the old quarry at Haling near Croydon shows well the nummulitic element. One significant feature can soon be seen in any section of chalk under a magnification of about 450 diameters, viz., a very finely and apparently uniformly dotted appearance visible in the finely granular matrix. The dots show up as dark points each in a little circle. Here and there some of the circles are slightly larger. Gradually as the eye acquires skill, it will be found the dots are really not uniformly scattered, but are arranged in more or less circular groups and disk-like groups of groups; also in thick sections series of disks may be detected passing down obliquely in the depth. After several days of practice and much patience outlines of layers of spiral lamina, pillars, seen transversely or lengthwise, furrows of marginal cord, septa and alar prolongations, will be made out. Where the shells as a whole are masked or almost obliterated by the abundance of plankton ingredients, even then portions of disk structure are always to be seen.
 
+There remains still another method of investigation, and a highly important one. For its use will enable students, who at present may well be sceptical concerning the revelations made in this chapter, to realize the astonishing truth that the familiar chalk is veritably a mass of nummulite shells reduced to a calcareous mud. The method referred to is that of maceration.
+
+Ehrenberg found the smallest Foraminifera of the chalk to be embedded in a matrix of still finer particles, which in the memoir already cited he describes as little granular disks.* The latter, which often appear as beaded rings,* may break down into their constituent granules. Ehrenberg concluded that as chalk had been subject to the influence of water and as the finest particles surround the small Foraminifera and are not sifted, therefore these granules must be derived from broken-down shells. He considered the particles to be concretionary bodies of an inorganic nature and to have been precipitated from the dissolved calcite of the Foraminiferal _débris_. Therefore he regarded them as "crystalloids" or "morpholiths." He found some chalks (as that of Rügen) to be half made up of this supposed inorganic material. He gives numerous figures of chalk powder macerated in water showing Foraminifera, and also morpholiths in the form of granular disks, rings and finest particles.
+
+*) These objects are figured for the first time in Poggendorf's "Annalen," vol. 39, p. 101, Plate 1. 1836.
+
+*) The ringed appearance is a purely optical effect due to the centre of the disk remaining invisible, especially in dark-field illumination. (See Plate 22; Fig. E, F.)
+
+After Huxley and Wallich had discovered coccoliths and coccospheres in the abyssal mud of the Atlantic, Sorby* concluded that Ehrenberg's crystalloids were really organic objects of the nature of coccoliths. In one respect he was right, for these crystalloids are organic structures, but Ehrenberg's Plate 30 B (cited by Sorby) shows "crystalloids" which are certainly not coccoliths. In 1873* Ehrenberg still adhered to his view that the granular disklets were inorganic, and pointed out — quite correctly — how entirely they differed from coccoliths.
+
+*) Ann. Mag. N.H., 8, p. 197. 1861.
+
+*) Akad. Wiss. Berlin, 1873, p. 361.
+
+He writes: "According to Sorby and Huxley the main constituent of the chalk — described by me in 1838 as oval granulated morpholithic scales and their still finer granular fragments, which, along with Foraminifera as larger elements, often constitute half the mass of the common chalk — consists of small concave animal shells named by them Coccospheres and Coccoliths. On the contrary, I have made it clear there is absolutely no cavity for the reception of an animal body in these chalk morpholiths in the form of granulated scales, and no air-vesicle giving evidence of a space, nor are there double shells for the inclusion of an animal. I have become ever more firmly convinced that these granular scales must be regarded as inorganic morpholithic products due to the change of double-refracting calcareous shells of Foraminifera into amorphous not doubly-refractive, peculiarly disposed (sich eigenthümlich ordnende) calcareous particles," I quote this in full, because literally these granular scales or disks furnish the clue to the problem of the nature of the earth's crust. Although Ehrenberg misinterpreted the meaning of the disks (Scheibchen), yet for a period of nearly forty years he persistently called attention to their existence. In spite of this, his observations have been either ignored or misunderstood by other investigators.
+
+Murray and Blackmail judiciously describe some of the bodies in chalk resembling Ehrenberg's crystalloids as spurious coccoliths.*
+
+*) Phil. Trans., vol. 190 (ser. B), 1898, p. 440, plate 16. fig. 4, a-b.
+
+Lohmann* thinks the crystalloids or morpholiths (Ehrenberg's Plate 30 B) may be coccoliths, but concludes that Ehrenberg's descriptions make it difficult to arrive at a definite opinion.
+
+*) "Protistenkunde," 1. p. 95, 1902.
+
+Careful microscopic examination, under very high powers, of macerated chalk powder shows the granular disks to be peculiar structures — hitherto undescribed — which go to make up the entire shell of nummulites (Chap. 8). The two disks to the left in Fig. 4A are spiral bodies with the coils nearly in one plane and with radial loops or coils ("septa") in a plane at right angles to the plane of the main coil. The disks, in fact, are to a considerable degree repetitions of the complete nummulite shell. The large disks in Fig. 5 are masses of smaller disks (Plate 23. Fig. F). The beaded "rings" are not really hollow rings but solid disk bodies, a fact which becomes evident on careful focussing (Plate 23. Fig. E, E').
+
+That the above surprising statements are correct will soon become evident to the trained observer. For any section of chalk (but preferably one not very rich in _Globigerina_) will reveal the nummulites with their coiled marginal cord, alars* and septa with granulated disks _in situ_ (Plate 22. Fig. E). The disks belong to various parts of nummulite shells.*
+
+*) Abbreviation for "alar prolongations."
+
+*) It is significant that Ehrenbefg found the "morpholiths" in Tertiary nummulitic limestone (Abhand. Akad. Berlin, 1855, p. 86). He would have seen them in powder scraped from the surface of any nummulite!
+
+Chalk, then, viewed as a general formation, is a nummulitic limestone composed of a deposit of nummulite shells, in which all the other ingredients are imbedded.
+
+Perhaps geological history will have few stranger incidents to record than the failure, after eighty years of scientific investigation, to detect the fact that chalk is mainly a deposit of nummulite shells. This failure, that has retarded the discovery of the true nature of flint, Eozoon and the igneous rocks, has not been due to lack of care on the part of very keen observers, but rather to the qualities of nummulites. The shells, formed as they are of successive layers of highly porous walls, are highly capillary and apt easily to become soaked in water and mineral solutions, to become soft and earthy or hard and crystalline, and in any case to lose their individual outlines. In purely nummulitic chalk, the shells may remain _in situ_, but where other fossils abound the mud nummulites may be pressed into cavities, or be riddled by smaller shells.
+
+Probably a long interval separates the Cretaceous from the Eocene nummulites. Very likely many species exist in the chalk.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
