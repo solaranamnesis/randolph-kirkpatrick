@@ -273,6 +273,13 @@ Sir John Murray* estimates the area of the surface of the globe at 197 millions 
 
 The pelagic deposits, formed either of Red Clay or of skeletons of plankton organisms,* cover an area of 114.6 millions of square miles, and are distributed as follows:—
 
+— | Mean depth in fathoms | Area in millions sq. miles | Distribution  
+Globigerina Ooze | 2000 | 49.5 | Atlantic chiefly, Indian Ocean, and Pacific  
+Diatomaceous Ooze* | 1477 | 10.9 | Southern Ocean chiefly  
+Radiolarian Ooze | 2894 | 2.3 | Indian Ocean and Pacific  
+Pteropod Ooze | 1044 | 0.4 | South Atlantic  
+Red Clay | 2730 | 51.5 | Eastern Pacific chiefly, Atlantic, and Indian Ocean  
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
