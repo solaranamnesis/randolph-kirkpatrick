@@ -340,11 +340,31 @@ The products of abyssal submarine eruptions are found to be of organic origin, a
 
 There is one other point to mention here. Although the bathy metric range of many species of Nummulitidae is very great, yet it is wholly certain the huge deposits of nummulites never lived where their clay models are found in depths below 2,500 fathoms. Undissolved lime has only a very precarious and limited existence in such depths. It is improbable that the living surface layer of these vast deposits of shells existed in depths below 1,000 fathoms. The ocean bottom itself affords clear evidence that over vast areas it must have sunk from a lesser depth to its present position.* 
 
+*) Certain coral reefs appear to afford evidence concerning local sinkings of the ocean floor. Assuming that the coral at the lower end of the Funafuti boring was in the position in which it grew and that it was not talus, then the Funafuti area must have sunk at least 140 fathoms.
+
 _Summary_. — The ocean floor is carpeted with terrigenous deposits in the neighbourhood of land and, in abyssal areas remote from land, with skeletons of plankton organisms, excepting in certain very deep areas where a clayey deposit is exposed owing to the failure of the calcareous remains to reach the bottom.
 
 The clay — apart from a limited amount due to subaerial eruptions — is derived partly from the decomposed surface-material of a submarine silicated nummulitic rock, and partly from deeper-seated erupted material of the same rock. The oceanic floor and land area are respectively the submerged and emerged parts of a probably universal deposit of nummulite shells — the Nummulosphere. The bulk of the emerged part of this deposit has become hardened, mineralized and crystallized, and is known as igneous rock.
 
 ##### On the Probable Former Existence of a Universal Ocean
+
+Werner believed that a universal ocean once covered the globe above the highest mountain-tops, the mountains being masses of minerals deposited from the sea _in situ_. So indeed they were, but not in Werner's sense. Werner knew little of the subterranean forces of upheaval. It never occurred to him to level the mountains below the water, so he brought the water above the mountains.
+
+The discovery of the real nature of igneous rocks strongly supports the theory of a formerly universal ocean. The land area and the oceanic area of the earth's crust are now found to be the sunk and upheaved parts of a universal deposit of mineralized nummulite shells. The abyssal ocean floor must have sunk between one and two thousand fathoms. The whole land area up to the summits of the highest mountains has been below the sea.
+
+The mean height of the land* is only 375 fathoms, the mean depth of the ocean 2080 fathoms. If the solid land were levelled beneath the ocean, the surface of the earth would be covered by an ocean with a uniform depth of two miles.
+
+*) "On the Height of the Land and the Depth of the Ocean." Sir John Murray, Scottish Geogr. Mag., p. 1, January, 1888.
+
+At the present day five-sevenths of the area of the globe is covered with ocean. The remaining two-sevenths or land area would be submerged by a rise of between one and two thousand fathoms in the ocean bed; and it must be remembered that the land has not been stationary, but has actually been submerged.
+
+Some astronomers believe the earth will in course of time become waterless like the moon. If this be so, as the earth is already very old, this drying up process may by this time have made some progress. C. L. Bloxam ("Chemistry," ed. 3, p. 39) writes: "In its chemical relations water presents this very remarkable feature, that although it is an indifferent oxide" (i.e. neither acid nor basic) "its combining tendencies extend over a wider range than those of any other compound." Many minerals hold more or less permanently in the solid state water of crystallization and of constitution.
+
+Again, living substance has extracted a vast quantity of solids from the " universal solvent" to form the planetary crust. Accordingly there was more liquid and less solid at one time than there is now, the solid kernel of the globe having been smaller to the extent of the thickness of the lithosphere, and the ocean mantle deeper.
+
+The areas of existing continents were, in primitive times, much restricted in comparison with their present size, and even those restricted areas were former sea-bottoms. The possibility, however, of existing ocean basins having been continents must not be left out of account.
+
+The solid planetary surface with its organic crust has been heaving up and down like a troubled sea: and taking the above circumstances into account it is probable that the ocean has extended over a greater area of the globe than at present, and, during the earliest period, even over the whole area.
 
 ...
 
