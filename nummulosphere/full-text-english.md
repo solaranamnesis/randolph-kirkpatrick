@@ -88,7 +88,7 @@ I found Stromatoporoids and Receptaculites, which are universally regarded as th
 
 I now turned my attention to the nummulite shells which I had seen with the aid of a hand-lens in igneous rocks, many limestones, abyssal red clays and meteorites. I found the shells belonged to the genus _Nummulites_.
 
-At the same time I discovered a singular mistake on my part. All the objects which I had taken to be skeletons of Radiolaria Diatoms and coccoliths in igneous rocks I found to be portions of nummulite shells. The peculiar nummulitic spiral-disk structures (Chapter 8), as seen in rock-sections under high powers, closely resemble plankton skeletons. After a great expenditure of time and trouble, I had collected into four octavo plates thirty-eight photos of supposed plankton skeletons in igneous rocks. Some of the pictures are very deceptive and "convincing." Space can now only be spared for a few of the smaller ones (Plate 2. C.). Other observers likewise have been deceived by these nummulitic structures in chalk, Eozoon, &c.*
+At the same time I discovered a singular mistake on my part. All the objects which I had taken to be skeletons of Radiolaria Diatoms and coccoliths in igneous rocks I found to be portions of nummulite shells. The peculiar nummulitic spiral-disk structures (Chapter 8), as seen in rock-sections under high powers, closely resemble plankton skeletons. After a great expenditure of time and trouble, I had collected into four octavo plates thirty-eight photos of supposed plankton skeletons in igneous rocks. Some of the pictures are very deceptive and "convincing." Space can now only be spared for a few of the smaller ones (Plate 2C). Other observers likewise have been deceived by these nummulitic structures in chalk, Eozoon, &c.*
 
 *) The supposed Precambrian Radiolaria figured by Cayeux (Bull. Soc. Geol. France, 22, plate 11. 1899), are, I believe, nummulitic structures. Ehrenberg ("Mikrogeologie," plate 30. B) describes parts of nummulites in the chalk of Rugen as crystalloids or morpholiths. Sorby (Ann. Mag. N. H., 1861, 8. p. 193) confuses Ehrenberg's crystalloids with coccoliths. Hahn ("Die Urzelle") makes several genera of algae and a worm out of the discoid and funnel-like parts of the pillars of the same Foraminiferan. The "spheres" of chalk have been mistaken for Radiolaria, Foraminifera, &c. (Mem. Geol. Survey, 1903, "Cretaceous," 2. p. 501). 
 
@@ -129,6 +129,20 @@ Marine Benthoplankton deposits
 Remarks on the above table. — Marine benthoplankton deposits are mainly composed of the skeletons of unicellular organisms; in the case of non-igneous rocks, Corals Mollusca Brachiopoda Echinodermata and Algae contribute largely. Remains of fresh-water benthoplankton and of land faunas and floras are, relatively to the mass of the planetary crust, almost negligible; and, moreover, they are mixed up with sediments of marine benthoplankton. I have found nummulitic remains even in coal cinders, as well as in slates, sandstones, grits, muds, sands, etc., from many localities.
 
 The planetary crust, so far as it is accessible to observation, is composed of mineralized organic remains, the bulk of these being silicated nummulite shells. The lithosphere is veritably a silicated nummulosphere.
+
+My statements concerning the igneous rocks have not yet been accepted. Some even declare it is not necessary to search these rocks in quest of organic remains, the theory of organic origin being manifestly absurd.
+
+An attitude of this kind is not surprising in view of the history of the Eozoon controversy; and countless observations have been made on rock-sections, without any trace of organic structure being detected. Yet how frequently evidences of some new truth have escaped notice till attention has been specially drawn to them!
+
+At one time it was said no organic life could exist in the great abysses of the ocean. In these sunless depths there would be no plant life, on which animal life must, in the long run, subsist; and further, animals, even if they could exist, would have to be supported by enormous cuirasses to withstand the assumed high pressure. In fact, it was physically and biologically impossible for animals to live in great depths. Actual dredging in great depths soon dispelled all these fallacies by revealing a rich abyssal fauna. A slender zoophyte dredged from 2900 fathoms in the Central Pacific almost melted on deck before the eyes of its captors. So with the theory of the existence of organic remains in igneous rocks. _Solvitur spectando_.
+
+I shall now briefly reply to certain criticisms and objections:—
+
+1) That no traces of organic remains could survive in rocks that had once been molten.
+
+Dr. J. F. Bottomley, of the Thermal Syndicate, Newcastle-on-Tyne, very kindly undertook, at my request, to melt a piece of Radiolarian earth in an electric furnace. At about 1700° C. the earth completely melted, forming when cooled a dark glassy bead. Sections of the latter show very distinct organic structures. Plate 2E, Fig. 21, shows nummulitic structure. The photo shows traces of nummulitic disk-structures.
+
+With the kind help of Prof. W. H. Merrett and Mr. H. M. Chappie of the Royal School of Mines, pieces of the same earth were subjected to a temperature of 1600° C. in a Meker furnace. When the oxygen was turned on the earth became glowing white hot. Just at the melting point it was cooled down and sections were cut from the resulting slag. Radiolaria are so very clearly visible that it is possible to determine the species (Plate 11, Fig. 49). The temperature of lavas varies from 900° C. to 1500° C.* The melting point of silica is 1600° C., but that of silicates depends on the composition, the basic being more easily fusible than the acid — basalt, for example, being more tractable than trachyte or granite.
 
 ...
 
@@ -196,7 +210,7 @@ _Note_. Plates 2C, 2D, 2E and 11 were done and printed off at an early period of
 
 [Plate 2E: Figure 20](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2E-Figure20.png) — "Wold Cottage." Dark patch. Poor, but showing traces of disk structure. 2500x.
 
-[Plate 2E: Figure 21](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2E-Figure21.png) — Barbados Earth boiled at temp, of 1700° C to form a glass. Certain dark specks in the glass show distinct traces of nummulitic structure that have escaped solution. 2500x. (Barbados Earth is a deposit of siliceous nummulites rich in still undissolved Radiolaria.)
+[Plate 2E: Figure 21](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2E-Figure21.png) — Barbados Earth boiled at temp, of 1700° C. to form a glass. Certain dark specks in the glass show distinct traces of nummulitic structure that have escaped solution. 2500x. (Barbados Earth is a deposit of siliceous nummulites rich in still undissolved Radiolaria.)
 
 [Plate 2E: Figure 22](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2E-Figure22.png) — _Receptaculites neptuni_,* showing continuity of nummulitic structure in light and dark areas. The photo is from section shown on p. 254, fig. 38. Light and dark areas have precisely the same nummulitic structure; also there are disks partly on light partly on dark side of sharp dividing line. 110x.
 
