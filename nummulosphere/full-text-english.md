@@ -12,6 +12,16 @@
 
 London: Printed by William Clowes and Sons, Limited, Duke Street, Stamford Street, S.E., and Great Windmill Street. W
 
+#### Table of Contents
+
+##### [Introduction]()
+
+##### [Chapter 1]()
+
+##### [Chapter 2]()
+
+##### [Chapter 3]()
+
 #### Introduction
 
 "What is wanted is, in fact, the skilled eye guided by a brain. _Hence the need of a long and patient training of the sense of sight_, attentive and reasoning observation of the phenomena to which it is directed, perfect sincerity, the entire abandonment of preconceived ideas, all united to a passionate love for science and truth." "A Day in the Moon," by the Abbé Th. Moreux, Director of the Bourges Observatory. [Transl.]
@@ -24,7 +34,7 @@ Huxley was fond of saying there seemed to be no limit to the possibilities of Na
 
 The significance of the newly found facts will best be shown by means of a brief survey of certain matters of geological history.
 
-##### Neptune _versus_ Pluto
+Neptune _versus_ Pluto
 
 In many parts of the world,* a traveller journeying from the coast or the plains, preferably along the course of a river, to some great range of mountains, will probably first meet with mud-flats, sands and gravels. On reaching the hills and outer zone of the mountain-massif, the rocks will perhaps be found arranged in more or less horizontal layers of shales, sandstones, conglomerates, limestones, etc., all of them evidently being hardened sediments or precipitates which, had formerly been laid down in water. The rocks forming the core of the mountain chain will be in steeply inclined layers of dense, finely-crystalline texture or in coarsely-crystalline unstratified masses. Lastly, active or extinct volcanoes, the sources of congealed rivers of once-molten rock, may be met with; and rocks resembling the volcanic will be seen as dykes or layers (sills) among the sedimentary rocks. Obviously the softer and looser sediments on the plains would be more recent than the more compact strata of sedimentary rocks higher up, the latter, again, being less ancient than the very dense crystalline rocks which they partly overlap on the flanks of the mountains.
 
