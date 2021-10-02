@@ -326,6 +326,26 @@ New facts have recently come to light showing that the vast bulk* of the emerged
 
 *) I.e. igneous rocks and their sediments and most of the marine limestones.
 
+Nature has not only helped us to understand the nature of the submerged ocean floor by pushing up above the water 54,000,000 of square miles of the crust of the globe for comparison, but by means of submarine eruptions she has provided us with materials, otherwise wholly unobtainable, from regions deep below the abyssal floor.
+
+The bulk of the land area, a great part and probably the whole of the ocean floor, and materials from deep below that floor are nummulitic.
+
+Murray and Renard write ("Deep-Sea Deposits," p. 189): "With some doubtful exceptions, it has been impossible to recognise, in the rocks of the continents, formations identical with these pelagic deposits." Leaving aside the recent plankton elements of ocean deposits and the clay derived from subaerial eruptions, the whole of the rest of the clay and Red Clay seems to me to be the decomposed part of igneous rocks identical biologically and petrologically with igneous rocks on land.
+
+The plateau of Clee Hill or a Cornish moor are fundamentally identical with the abyssal ocean floor. In all three cases there is a surface layer of decomposed nummulitic rock.
+
+Pieces of igneous rocks from quarries show all gradations from the fresh dense crystalline rock to a thick brownish surface crust that can be powdered between the fingers.
+
+The products of abyssal submarine eruptions are found to be of organic origin, and to afford proof that Red Clay is only the surface layer of a very thick deposit; but we are not dependent for our evidence on rare products got with great difficulty from the abysses of the central Pacific. Many of the volcanic islands scattered over the ocean rise from deep water. These _emerged_ submarine volcanoes are masses of nummulitic rock. A lump of rotten trachyte containing sulphur, which I took hot from the upper crater of Tenerife, is little else than a mass of fossil nummulites (Plate 21. Fig. A, B). Does it not become clear that these huge volcanic heaps of mineralized Foraminiferal deposits are simply local upheavals of a very thick universal formation?
+
+There is one other point to mention here. Although the bathy metric range of many species of Nummulitidae is very great, yet it is wholly certain the huge deposits of nummulites never lived where their clay models are found in depths below 2,500 fathoms. Undissolved lime has only a very precarious and limited existence in such depths. It is improbable that the living surface layer of these vast deposits of shells existed in depths below 1,000 fathoms. The ocean bottom itself affords clear evidence that over vast areas it must have sunk from a lesser depth to its present position.* 
+
+_Summary_. — The ocean floor is carpeted with terrigenous deposits in the neighbourhood of land and, in abyssal areas remote from land, with skeletons of plankton organisms, excepting in certain very deep areas where a clayey deposit is exposed owing to the failure of the calcareous remains to reach the bottom.
+
+The clay — apart from a limited amount due to subaerial eruptions — is derived partly from the decomposed surface-material of a submarine silicated nummulitic rock, and partly from deeper-seated erupted material of the same rock. The oceanic floor and land area are respectively the submerged and emerged parts of a probably universal deposit of nummulite shells — the Nummulosphere. The bulk of the emerged part of this deposit has become hardened, mineralized and crystallized, and is known as igneous rock.
+
+##### On the Probable Former Existence of a Universal Ocean
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
