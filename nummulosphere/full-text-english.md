@@ -718,7 +718,7 @@ Under a power of 400 diameters (16 mm., Oc. 18, a useful combination) I can now 
 
 The complicated and confused reticular aspect of the shells as viewed in transparent serpentine is due to radial and concentric layers being cut at various angles. A little training and much patience are necessary to enable the beginner to discern and piece together the nummulitic pattern. The concentric circles of furrowed cord and the radial alar prolongations are good guides to orientation in shells viewed in horizontal aspect.
 
-On the Origin of the banded structure in Eozoon
+##### On the Origin of the banded structure in Eozoon
 
 Many theories have been advocated to account for the white and green (calcareous and silicatic) zones of Eozoon. Firstly there is the organic theory, viz. that the calcareous zones were the skeleton of a Foraminiferan, the silicatic zones being in-fillings of the spaces of the shell. This theory may be finally dismissed.
 
@@ -753,6 +753,52 @@ King and Rowney (Q.J.G.S. _l.c._ p. 216) regard Eozoon as having "existed at one
 Eozoon is not an organism any more than is a lump of chalk or flint, but at the same time it resembles those objects in being of organic origin. For they are all masses of Foraminiferal shells, not much altered in the chalk, solidly silicified in the flint and silicated in zones in the "Eozoon." Seeing that Eozoon is neither a giant Foraminiferan nor an object of purely mineral origin, its story may justly be described as that of a double delusion.* As in so many controversies there were truth and error on both sides. The present theory will effect a reconciliation.
 
 *) One might have said "multiple delusion," but it is only necessary to refer here to the main points in the historic controversy.
+
+There is a vague and indefinite era in the history of the planet when geology first enters into its inheritance and astronomy withdraws.
+
+All theories of planetary origin postulate a nebula of some kind. The Laplacean and meteoritic theories assume that a hot gaseous nebula or one of clashing meteorites condensed into a molten globe on which a crust formed on cooling. The planetesimal theory postulates a nebula of solid and liquid particles all rotating in one direction round a solid central nucleus, the latter growing by accretion. In the first case the ocean would form rather by precipitation, in the second by exudation.*
+
+*)  Chamberlin and Salisbury. "Geology, Advanced Course,' 2. 1906.
+
+The part of the earth's crust that might be expected to furnish evidence concerning planetary origin would naturally be in the oldest zone, _i.e._ the archaean or "basal complex."
+
+In Canada Laurentian rocks constitute the lowest floor. Immediately over this lie the Grenville series in the Ottawa River region, and the Keewatin schists and volcanic rocks in Western Ontario.
+
+This volcanic schistose and sedimentary series overlying the Laurentian igneous rocks has been a source of perplexity to plutonists. The problem, in fact, recalls the great "Tortoise myth." Between the schist series and igneous rocks there is no intervening floor, the contact being "intrusive" and immediate.
+
+Now sediments and lavas must rest upon or flow over a firm floor of some sort. The difficulty has been met by assuming that a formerly existing floor has been dissolved in rising floods of molten magma.
+
+Perhaps the difficulties above referred to may be explained in the following manner. There was certainly a time when "Laurentia" was being built up shell by shell beneath the sea. Then came a gradual upheaval, the lower deeper-seated region of the mass having undergone the plutonic kind of crystallization. During long ages Laurentia was subject to denudation. Then came a period of partial subsidence when the Grenville limestones were deposited on the submerged Laurentian floor, along with sediments from neighbouring land. Still later there was violent disturbance which once again melted the Ottawa gneisses and injected them into the crumpled layers* of the Grenville series, the heat giving rise here and there to Eozoon structure.
+
+*) See photo of contorted Grenville limestone. Canadian Geol. Survey, 12. J. 1899, plate 4. Dawson's "oscular chimneys" in Eozoon are probably structures due to compression.
+
+The Laurentian rocks are not primeval magmas welling up from some very deep central source, but are "daughters of time," in fact old sea-floors. The Laurentian rocks are themselves permeated by intrusive dykes. So there are sea-floors under sea-floors, "deep under deep."
+
+Possibly the world is vastly older than has been usually believed.
+
+Certainly the Laurentian and igneous rocks have just as much to do with nebular hypotheses as a lump of chalk has — and just as little.
+
+The conclusion is reached that hitherto we have been studying only a thin pellicle of organic origin and have in no wise got beyond the zone of life into the azoic.
+
+King and Rowney('An Old Chapter....,' 1881) give in the course of fifty-three pages an annotated history of the Eozoon controversy, and refer to 108 papers, memoirs, etc. In fact, Eozoon has a literature of its own. Dr. Hahn ('Die Urzelle,' p. 11) writes:— "Veritably a greater riddle than Eozoon has rarely been proposed to natural philosophy." In view of the prolonged controversy what now seems so strange is the simplicity of the problem. All that is required is to examine for nummulites. It is surprising to find that it is possible to see with the naked eye the outlines of the shells on the surface of weathered blocks of Eozoon, and to trace under a weak lens a good deal of the structure. (See Plate 13. Fig. C, and Plate 14. Figs. D, E).
+
+The discovery of the nummulites confirms the theory of the mineralogists that the banding was a purely mineralogical feature, but at the same time indicates the organic origin of the carbonate of lime and the marine origin of the silica and magnesia.
+
+Seemingly the _tria regna_ have each contributed to the making of the Dawn Animal, for it is a mass of nummulites mineralized by various minerals and especially by silica probably derived partly from plants.
+
+From the point of view of rock metamorphism, Eozoon (limestone + silicate) is important as illustrating a transition-stage between ordinary limestone (limestone + silica) [Chap. 2] and igneous rocks (pure silicates) [Chap. 4]. There is a common nummulitic basis in all.
+
+Perhaps it was well that the riddle of Eozoon was not quickly solved, for in the prolonged efforts to find the answer much valuable knowledge was acquired.
+
+##### Summary of Chapter 3
+
+Specimens of "Eozoon" are lumps of nummulitic limestone mineralized by silicates deposited in zones.
+
+#### Chapter 4
+
+##### The Igneous Rocks
+
+"It is important to acquire a hospitable and intelligent preparedness to appreciate new light as it shall present itself." — _Chamberlin and Salisbury_.
 
 ...
 
