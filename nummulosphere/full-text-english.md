@@ -184,9 +184,9 @@ _Postscript_. The irregularity in the numbering of the plates is due to the supp
 
 The original title of Part 3 viz., "Sea-Floors or Benthoplankton" (see page-headings) has been changed to "The Ocean Floor or Benthoplankton." The designation "Nummulosphere" refers to the fact that one of the concentric planetary layers (viz. the earth's "crust") is almost wholly composed of mineralized nummulites, the other zones being atmosphere, hydrosphere and centrosphere.
 
-### The Nummulosphere
+#### Chapter 1.
 
-#### Chapter 1. The Ocean.
+##### The Ocean.
 
 "Ocean, the parent of all." — Iliad 14. 246.
 
@@ -199,6 +199,31 @@ To him, and even to naturalists acquainted with the wonderful richness of oceani
 *) Smooth tropical seas in moderate depths often seem almost as transparent as air or crystal. In Milton's grand line, "The birth of nature from the unapparent deep," the deep is the void of space.
 
 ##### The Surface of the Ocean.
+
+If, with the aid of a water-telescope to banish reflections, we look down through the clear waters off some tropical island of the East Indies, say Java,* we may see on the sea-bottom great masses of coral, gigantic Tridacnas and huge Neptune's-Cup Sponges. All these massive constructions began life as minute soft specks of living substance, which, in the course of their growth, extracted from the sea the carbonate of lime and silica of their skeletons. It is not, however, these large organisms that we must regard as world-builders, but, rather, certain kinds of minute shells. The white sand on the floor of the submarine garden will be found to be very rich in small calcareous shells of Foraminifera. In tropical latitudes, Foraminifera sometimes form reefs and banks obstructing navigation. The boring into the Funafuti coral-atoll revealed the fact that the reef was to a considerable extent built of Foraminifera.
+
+*) "Where seas of glass with gay reflections smile  
+Round the green coasts of Java's palmy isle."
+
+— "The Botanic Garden," Erasmus Darwin.
+
+*) "The Age of the Earth." "Funafuti: the Study of a Coral-Atoll." W J. Sollas.
+
+Nummulitic limestones many thousands of feet thick and chalk one thousand feet thick are exceedingly rich in these shells. Further, if igneous rocks are examined with sufficient care they also will be found to be built chiefly of Foraminifera in which the carbonate of lime has become replaced by silicates.
+
+For one of the sources of the silica that forms such a large proportion of the earth's crust we must look elsewhere than to the floor of the sea.
+
+Prof. W. K. Brooks in his memoir on "The Genus Salpa," when referring to the food of that pelagic Tunicate, describes the mid-ocean surface as "a living broth." This apt comparison may serve to convey some idea of the abounding life existing in and near the ocean surface. The living creatures are very small and mostly of microscopic size. Prof. Brooks gives some striking examples of the almost incredible abundance of marine life: "Salpae are often found swarming at the surface of the ocean in numbers beyond description." "The smaller species are often so abundant that for hundreds of miles any bucketful of water dipped up at random will be found to contain hundreds of them. _The food of Salpa consists of Radiolarians, Diatoms_, and other micro-organisms which float in the water. The supply of this food is unlimited." 
+
+G. Chierchia ("Viag. _Vettor Pisani_," p. 31) writes of the Atlantic: "The zone of equatorial calms is beyond measure rich in life. Sometimes the water looks as if it is coagulated, and this condition is apparent also to the touch." Concerning Copepods, G. S. Brady writes ("_Challenger_ Narrative" 1. 2. p. 843): "The sea from the Equator to the Poles supports such vast numbers of them, that it is often coloured by wide bands for many miles." They may be compared with the herbivora on land, for their food consists of Diatoms. Further, Brady says the Copepods are an important item of food for whales in Arctic seas. Accordingly these minute "sea locusts" form a link between the smallest plants and the largest animals. 
+
+Haeckel ("_Challenger_ Radiolaria") states: "Radiolaria occur in all seas of the world." "The development of Radiolaria in large masses is very remarkable, and in many parts of the ocean is so great that they play an important part in the economy of marine life." 
+
+In a classical passage, Sir Joseph Hooker ("Flora Antarctica" 1. 2. p. 505) writes: "The universal existence of such an invisible vegetation as that of the Antarctic Ocean is a truly wonderful fact, and the more from its not being accompanied by plants of a high order. During the years we spent there, I had been accustomed to regard the phenomena of life as differing totally from what obtains throughout all other latitudes; for everything living appeared to be of animal origin. The ocean swarmed with _Mollusca_, and particularly entomostracous _Crustacea_, small whales and porpoises: the sea abounded with penguins and seals, and the air with birds: the animal kingdom was ever present, the larger creatures preying on the smaller, and these again on smaller still: all seemed carnivorous. The herbivorous were not recognised, because feeding on a microscopic herbage of whose true nature I had formed an erroneous impression. It is, therefore, with no little satisfaction that I now class the _Diatomaceae_ with plants, probably maintaining in the South Polar Ocean that balance between the animal and vegetable kingdoms, which prevails over the surface of our globe.... The end these plants serve in the great scheme of nature is apparent, on inspecting the stomachs of many sea-animals."
+
+To add a final quotation, Murray and Renard ("Deep-Sea Deposits, _Challenger_" p. 281) write: "These siliceous Algae are met with everywhere in the surface and sub-surface waters of the ocean. At times they occur near the surface in enormous numbers, in great floating banks many miles in extent and several fathoms in depth." "It is ... impossible to drag a very fine tow-net through the sea-water anywhere without capturing ... these minute organisms." 
+
+Beyond the littoral zone the ocean appeared to be tenanted solely by animals which lived by preying on each other. On land the animal-world subsists in the long run on plant-life. Hooker found that this law holds in the ocean, but the individual plants are mostly invisible. The ocean is covered with floating prairies amid which browse the Protozoa, Copepods, Salpas, etc., these in turn forming the food of marine carnivores. Since plant-life other than Bacteria and Fungi depends on sunlight, the ocean vegetation cannot live below the limit reached by the sun's rays and must necessarily be a floating flora. 
 
 ...
 
