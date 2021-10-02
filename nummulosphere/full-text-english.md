@@ -117,14 +117,14 @@ Marine Benthoplankton deposits
 └───Submarine, (clay surface of ancient benthoplankton deposit plus recent benthoplankton)  
 │  
 └───Supramarine or land (hardened benthoplankton deposits)  
-|   │  
-|   └───Sediments of igneous rocks and limestones  
-|   │  
-|   └───Original deposits  
-|       |  
-|       └───Much altered (igneous rocks)  
-|       |  
-|       └───Not so much altered (marinelimestones)
+|...│  
+|...└───Sediments of igneous rocks and limestones  
+|...│  
+|...└───Original deposits  
+|.......|  
+|.......└───Much altered (igneous rocks)  
+|.......|  
+|.......└───Not so much altered (marinelimestones)
 
 ...
 
