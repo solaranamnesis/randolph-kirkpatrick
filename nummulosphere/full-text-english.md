@@ -184,6 +184,22 @@ _Postscript_. The irregularity in the numbering of the plates is due to the supp
 
 The original title of Part 3 viz., "Sea-Floors or Benthoplankton" (see page-headings) has been changed to "The Ocean Floor or Benthoplankton." The designation "Nummulosphere" refers to the fact that one of the concentric planetary layers (viz. the earth's "crust") is almost wholly composed of mineralized nummulites, the other zones being atmosphere, hydrosphere and centrosphere.
 
+### The Nummulosphere
+
+#### Chapter 1. The Ocean.
+
+"Ocean, the parent of all." — Iliad 14. 246.
+
+The words of the poet are literally true. For both the emerged land area and the submerged oceanic area of the planetary crust are almost wholly products of the ocean, and born of its substance, and life is the chief agency that has brought about this result.
+
+In the course of a long sea-voyage, the traveller in some swift, high-decked ship, though he may frequently see dim forms of fish or medusae swimming in the depths, and also flying fish, porpoises, and other marine creatures, yet is apt to get an impression of boundless areas devoid of life.
+
+To him, and even to naturalists acquainted with the wonderful richness of oceanic life, the idea of the birth of the earth's crust from "the unapparent deep"* may well seem chimerical. Nevertheless the facts relating to the surface-life of the ocean, and to the nature of the ocean-floor and of igneous rocks, all point to the oceanic and mainly organic origin of the planetary crust.
+
+*) Smooth tropical seas in moderate depths often seem almost as transparent as air or crystal. In Milton's grand line, "The birth of nature from the unapparent deep," the deep is the void of space.
+
+##### The Surface of the Ocean.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
