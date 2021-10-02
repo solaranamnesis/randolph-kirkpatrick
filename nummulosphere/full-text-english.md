@@ -18,15 +18,15 @@ London: Printed by William Clowes and Sons, Limited, Duke Street, Stamford Stree
 
 ##### [Chapter 1](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#chapter-1-1)
 
-####### [The Ocean](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#the-ocean)
+###### [└─ The Ocean](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#the-ocean)
 
-###### [The Surface of the Ocean](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#the-surface-of-the-ocean)
+###### [└─ The Surface of the Ocean](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#the-surface-of-the-ocean)
 
-###### [The Floor of the Ocean](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#the-floor-of-the-ocean)
+###### [└─ The Floor of the Ocean](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#the-floor-of-the-ocean)
 
-###### [On the Probable Former Existence of a Universal Ocean](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#on-the-probable-former-existence-of-a-universal-ocean)
+###### [└─ On the Probable Former Existence of a Universal Ocean](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#on-the-probable-former-existence-of-a-universal-ocean)
 
-###### [Summary of Chapter 1](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#summary-of-chapter-1)
+###### [└─ Summary of Chapter 1](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#summary-of-chapter-1)
 
 ##### [Chapter 2](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#chapter-2-1)
 
