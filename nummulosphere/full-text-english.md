@@ -706,6 +706,26 @@ Möbius denied the nummulitic tubulated nature of the fibrils or aciculae on the
 
 In the fine collection of serpentine minerals and rocks in the Natural History Museum there are a number of asbestiform fibrous varieties (chrysolite, metaxite) of this "protean mineral." Here the fibrous structure is a character of the mineral. I have found nummulitic structure persisting even in real asbestos, that structure being situated at any angle to the mineral fibre.
 
+Point No. 2. "The supposed 'canal-systems' have no constant correlativeness."
+
+Answer. King and Rowney are wholly right. The "canals" are due to mineralization, and are not canals at all, for they have never been hollow. Plate 23 Fig. G, shows two of these "canals." They are filled with nummulitic structure in continuity with similar but barely visible structures in the adjacent calcite. Solid serpentine "casts" of the canals etched out by acid are solid masses of nummulitic structure and not structureless infillings.
+
+Dr. Hahn ("Die Urzelle") was opposed to the nummulite theory. He writes: "The assertion that Eozoon is a Foraminiferan comes to grief with the proof that it is formed of plants." Dr. Hahn thought the existence of fibre-like and also of cup-shaped canals fatal to the Foraminiferal theory. He made many genera of algae out of the "canal-systems." (I myself at one time imagined I had found algae in Eozoon.) Dr. Hahn figures a worm with a tripartite operculum, "das erste Tier" — the ancestor of Trilobites — "which browsed on this succulent vegetation" (Whitney and Wadsworth). Some figures of the worm apparently show transverse sections of spiral lamina or cord, the operculum perhaps being a pillar-end or septum. Notwithstanding his mistakes, Dr. Hahn was nearer the truth than were some of his critics.
+
+On the weathered lumps of Eozoon I can trace with the naked eye and lens obscure outlines of large nummulites about an inch in diameter and in various aspects. Many hours of patient observation were required at first to make out the details, but I can now make out with certainty numerous details of shell structure (Plate 13. Fig. C). Sections 3x show the shells fairly well.
+
+Under a power of 400 diameters (16 mm., Oc. 18, a useful combination) I can now see with the utmost certainty abundance of nummulitic shell structure both in the serpentine and in the calcite. I had long studied my sections without seeing what is now so obvious. In fact it was a case of not seeing the wood for the trees. Any large transparent nummulite in horizontal aspect, and showing floor upon floor of spiral lamina with range upon range of band-like alar prolongations, series upon series of conical pillars, and the concentric many-furrowed marginal cord, considerably obliterated here and there, with mottled patches of serpentine and calcite, would naturally be a very complicated mass of structure. Under lower powers it is difficult to trace the continuity, and under high ones only a very small part of a shell comes into the field; for a shell an inch across, magnified 400 diameters, would cover 120 square yards. Under this power the structural outlines are clear and indubitable. The transverse aspect shows layers of spiral lamina and pillars seen lengthwise. Very high powers show abundantly the disks, especially in their transverse aspect.
+
+The complicated and confused reticular aspect of the shells as viewed in transparent serpentine is due to radial and concentric layers being cut at various angles. A little training and much patience are necessary to enable the beginner to discern and piece together the nummulitic pattern. The concentric circles of furrowed cord and the radial alar prolongations are good guides to orientation in shells viewed in horizontal aspect.
+
+On the Origin of the banded structure in Eozoon
+
+Many theories have been advocated to account for the white and green (calcareous and silicatic) zones of Eozoon. Firstly there is the organic theory, viz. that the calcareous zones were the skeleton of a Foraminiferan, the silicatic zones being in-fillings of the spaces of the shell. This theory may be finally dismissed.
+
+W. J. Sollas and Cole* suggest that calcareous and silicatic zones might arise by formation of successive layers of particles of carbonate of lime and olivine on the reef-bound shores of volcanic islands. I myself have seen on the beach of Porto Santo Island layers of calcareous grains and of dark green particles of augite sifted by gentle wave-action. In places, these sandy layers have been cemented into solid stone, of which I have specimens. The calcitic and augitic bands, however, vary in thickness irregularly, whereas the bands of Eozoon diminish regularly and serially from a base or centre.
+
+*) Sci. Proc. Dublin Soc. 7. p. 124. 1891.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
