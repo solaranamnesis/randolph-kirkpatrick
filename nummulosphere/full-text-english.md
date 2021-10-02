@@ -306,6 +306,26 @@ What, then, is the origin of the clay distributed over the ocean floor? I believ
 
 *) During the eruption of Katmai in Alaska in June, 1912, darkness prevailed for sixty hours at Kodiak Island 100 miles away from the volcano, and the fumes reached Vancouver Island, 1500 miles away, the whole country for thousands of square miles being covered with a layer of volcanic dust about a foot thick. During the Krakatoa eruption the pall of darkness extended 276 miles away from the centre, and dust fell 1800 miles away. G. C. Martin, "The recent eruption of Katmai Volcano in Alaska." National Geographical Magazine, February, 1913.
 
+Murray and Renard give many reasons for regarding submarine eruptions as a source of abyssal clay. It would be difficult on any other theory to account for the presence of vitreous lumps as large as walnuts in pelagic deposits remote from land. For these compact masses of volcanic glass could hardly have been transported either by air or water, but must have originated in the neighbourhood where they occur.
+
+Mr. James Chumley of the "Challenger Office," Edinburgh, very kindly sent me at my request a typical piece of volcanic glass from Station 293, 2025 fathoms in the centre of the Western Pacific. The nearest land is the little speck of Easter Island 800 miles away. The precious fragment, about the size of a pea, is 7 x 5 x 5 millimetres in dimensions. A black glassy part is surrounded by brown bands of palagonite. Certainly the fragment has had an organic origin, for under the microscope it is not difficult to see indubitable and abundant evidences of nummulitic structure.
+
+If — as Murray and Renard believe — this fragment has been ejected from a submarine volcano, it will afford evidence concerning the deeper parts of the ocean floor itself.
+
+The presence of air- or water-borne products of land volcanoes on the floor of the ocean is of no special interest, but momentous conclusions must be drawn if material from some deep zone of the abyssal floor is found to be of organic origin. For we should learn that the Red Clay is not a mere superficial accumulation, but the surface layer of a deposit attaining a thickness of hundreds or thousands of feet — like the igneous rocks and nummulitic limestones on the land or emerged area of the planetary crust. Subaerial and submarine eruptions seem to me inadequate as sources of the whole of the oceanic clay. Murray and Renard record that "the sounding-tube sometimes penetrated to a depth of nearly two feet in the Red Clay."
+
+Even if the deposit had only this small depth, it would be assuming a good deal to suppose that products of volcanic eruptions had been spread over an area of over 56 millions of square miles of ocean floor. The abyssal red clay areas are mostly remote from land, and probably very little air- or water-borne material would ever reach them. Even the finest land sediments would sink not very far from shore owing to the ionized condition of the seawater.* In my opinion Red Clay is partly the decomposed surface layer* of a vast formation of nummulitic so-called "igneous" rock thousands of feet thick.
+
+*) Joly, "Radio-activity and Geology," p.123.
+
+*)It is, however, of little importance for the present argument, whether the clay floor of the ocean is the decomposed original surface of the rock, like, for example, the surface of a Cornish moor, or whether that floor is made of formerly deep-seated erupted material of the same rock.
+
+As stated above, human ingenuity has only succeeded in penetrating "nearly two feet" into the deposit. What are the grounds, then, for supposing that deposit to be thousands of feet thick?
+
+New facts have recently come to light showing that the vast bulk* of the emerged or land area of the planetary crust is a deposit of nummulites. Certainly one third, and almost certainly the whole, of the oceanic area of the planetary crust is formed of a clay composed of silicated nummulites (admittedly derived in small part from land volcanoes). The difference between the emerged and submerged areas is simply one of position. Essentially and fundamentally they are identical, i.e. they are parts of a probably universal benthoplankton deposit of silicated nummulites.
+
+*) I.e. igneous rocks and their sediments and most of the marine limestones.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
