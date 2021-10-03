@@ -1027,6 +1027,22 @@ The deep-seated rocks, though at a temperature above normal melting-point would 
 
 ##### On the Chronology of Igneous Rocks
 
+Hitherto igneous rocks have not been allotted a chronological position proper to themselves. They have been regarded as primeval and beyond chronology, but nevertheless they are daughters of time. The date affixed is that of the strata into which they have been intruded, and, further, it has been the custom to regard the invaded overlying strata as older than the intrusive. Writing of the Laurentian granites, Chamberlinand Salisbury state,* "but it is now known that they are intrusive into the schist series. They are therefore younger than the latter." Now that the igneous rocks must take their place in the palaeontological series, the lower rocks will be regarded as the older and first formed.
+
+*) 'Geology, Advanced Course' 2. p. 143. 1906.
+
+An igneous rock has two dates, the first being its date of actual formation shell by shell in the ocean, and the second its time of uprising into the overlying crust.
+
+##### Summary of Chapter 4 
+
+The known crust of the earth is mainly a metamorphosed silicatic deposit of organic origin precipitated from the ocean. The deeper zones of this deposit are heated above their standard-pressure melting-points, but remain solid owing to high pressure. Crustal movements, due to shrinkage and adjustment have led to relief of pressure followed by melting, and uprise of the molten material along lines of least resistance.
+
+The cause of the heating of "igneous" rocks is now being attributed to radioactivity. Radioactive elements are disseminated throughout the earth's crust and the ocean. Seeing that the lithosphere is a product of the ocean, the uranium family of elements diffused through the earth's crust must necessarily have had a similar source. Probably chemical activity has been an important source of the heat.
+
+_Postscript, Note_ 1. — There are no authentic records of Diatom remains before the Carboniferous (Castracane). What are the reasons for assuming that the silica of igneous rocks is probably derived in part from Diatoms? Firstly, these rocks are seen to be deposits of marine shells. If the silica of the _immensely thick_ deposits did not come from the sea, where did it come from? Secondly, oceanic life at present depends on unicellular plants and especially on Diatoms, and there is no reason for assuming that a different relation held in the past.
+
+_Note_ 2. — I have seen a recent shell of _Lagena marginata_ with Diatoms completely embedded in the wall. Here we have a picture in miniature of the great planetary deposit of silicated shells. It is doubtful whether sponges were accountable for much or any of the silica during the earliest era.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
