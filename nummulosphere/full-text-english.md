@@ -1495,6 +1495,24 @@ The planetary crust is almost wholly built of "spirodisks," the smallest visible
 
 The successive layers of spiral lamina seen in a transverse section of a nummulite (Figs. 22, 23) show alternate clear and striated vertical bands. The clear bands are the "pillars," and the striated ones the "tubulated" or inter-pillar areas. Keyserling, Joly and Leymerie, and d'Archiac regarded the pillars as wide-open channels which became, rilled with calcite (_remplissage_, d'Archiac) during fossilization. Carpenter described the pillars as solid non-tubulated structures serving as wedges of support for the tubulated walls. Careful examination will show the hyaline and apparently structureless pillars to be replete with disk structures. Further, a still closer scrutiny will show the tubulated areas also to be full of disks, but here the dominating tubulated-striated pattern (Plate 23. Figs. A-D) renders their detection difficult.
 
+The conclusion reached is that the whole nummulite shell — the septa and alars, and the spiral lamina, marginal cord, pillars and inter-pillar tubulated areas, are built of "disks" having spiral and radial construction.
+
+In the inter-pillar tubulated areas the common mass of spirodiscoid structure constituting the wall is penetrated by "tubuli."
+
+If the above observations are correct, the fact of a nummulite shell being built of spirodiscoid elements is not so surprising as might appear. For when a recent and related form, such as _Polystomella crispa_, is about to undergo division, the protoplasm leaves the shell and divides up into numerous microscopic particles, and each one or pair of the latter proceeds to build a new spiral shell.
+
+A nummulite has been regarded by some as a kind of colony. E. Van den Broeck considered the successive chambers or segments as units of a colony. He asks how else can we regard the successive _Lagena_-like segments of a _Nodosaria_ (Bull. Soc. Beige Geol., 7, p. 21, 1893). Schlumberger refers to this "ancienne hypothèse" as "inadmissible" (Feuille des Jeunes Naturalists, 1896, p. 86).
+
+An examination both of vitreous and porcellanous shells (_Lagena_, _Truncatulina_, _Polystomella_, _Miliolina_, _Biloculina_, _Orbitolites_, _Alveolina_] shows that these also have a spirodisk structure. So far, photographs have not been sufficiently good for publication. Under very high powers (3,000 to 4,000 diam.) the shell-substance is seen to be very finely granular and the granules to have a spirodiscoid plan.
+
+Lastly, I firmly believe I have found the finely granular protoplasm of three of the above-named shells, of _Gromia_, and of the lobose Protozoan _Amoeba_ likewise to show the same arrangement.
+
+The fact of the earth's crust being mainly composed of spirodiscoid skeletons of (nummulitic) protoplasm may be significant from points of view other than those of systematic zoology, and may point to the possibility of a widespread spirodiscoid construction of living matter, even though it may not be possible to detect the latter. These suggestions are based on careful but insufficient observations, and are mentioned merely for the purpose of calling attention to the matter. (See Postscript, p. 1 80.)
+
+Reproduction — Students of nummulites were greatly mystified at one time at finding supposed species always in couples. _N. gizehensis_, for instance, is invarably found with _N. curvispira_, and so on with every well-known species (Plate 2. B). Generally one of the couple is considerably smaller than the other, the smaller being much more numerous. On splitting the shells the smaller are seen to have a large central chamber (Form A) and the larger a very small one (Form B). After much controversy it was discovered by Munier-Chalmas that the two forms belonged to one and the same species. Later the "dimorphism" was found to be associated with "alternation of generations." Study of nearly related living Foraminifera showed that the protoplasm of Form A (megalospheric) divides up into bi-flagellate spores pairs of which conjugate to form a cell which secretes a microspheric shell. The protoplasm of the latter forms amoebulae each one of which secretes a megalospheric shell. The division of the protoplasm may take place within the parent shell, in the interior of which the little shells will be seen (_Miliolina_), or outside the parent shell (_Polystomella_).
+
+Sometimes shells form buds, which separate from the parent at a certain stage.*
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
