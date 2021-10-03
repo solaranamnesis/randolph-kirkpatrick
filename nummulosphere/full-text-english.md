@@ -1248,6 +1248,62 @@ Meteorites are mineralized and often ore-enriched lumps of nummulitic rock which
 
 ##### Sedimentary Rocks
 
+A scene in which there is a river cutting through a gap in the chalk and flint cliffs to enter the sea represents in miniature the history of the earth's crust. For the chalk is a raised sea-bottom composed of an accumulation of calcareous and siliceous skeletons of sea-creatures. The siliceous remains have mostly dissolved, and the silica, wherever it has penetrated, has replaced the carbonate of lime of the calcareous skeletons. At the mouth of the river there are shoals of mud, and at the foot of the cliffs boulders, gravel and sand. Submarine deposits of these materials will become hardened into rocks, and perhaps in course of time elevated above the sea.
+
+Almost all the rocks which make up the crust of the earth are either accumulations of skeletons or of fragments of those skeletons.
+
+The silicated deposits of nummulites — _i.e._ the igneous rocks — have been upheaved and broken up into coarser or finer fragments and particles by the action of heat, frost and water.
+
+The conclusive proof that the sedimentary rocks are mainly derived from mineralized deposits of nummulites is established simply by examining particles of sand, mud or clay under a microscope. Portions of the shell-structure almost imperishably preserved will generally be seen (Fig. 9).
+
+Dust from a London street, mud trom the Thames, flint sand from Brighton, granite sand or clay from Cornwall, earth from the fields, volcanic sands from any part of the world, all show disk-structure of nummulite shells.* Similarly with slates, and with shales and sandstones from all horizons. A sandstone, without any apparent organic remains, is nevertheless fossiliferous throughout, only the fossils are in very small fragments. The known fossils in sedimentary rocks are buried in the débris of fossils of an earlier period or era.
+
+*) I have heard of unbelievers who would as soon expect to find nummulites in their carpet, in horse-manure, or in coal-cinders as in igneous rocks. I fear none of these materials will be found to have escaped nummulitic admixture. Dirty boots, gritty fodder and poor coal would furnish plenty of nummulitic structure in each of the materials enumerated.
+
+The crust of the earth is mainly built of minute disks, the smallest visible being 0.25 to 1 _μ_, in diameter, the disks form the nummulite shell, and nummulite shells the scaffolding of the earth's crust.
+
+_Note on gneisses and crystalline schists_. — "The question of the origin and meaning of the banded, foliated, and allied structures exhibited by crystalline rocks over large tracts of the earth's surface, is one of the oldest problems of geology, and still awaits a solution."* — A. Harker.
+
+*) 'The Problem of the Gneissic Rocks.' Trans. Hull Geol. Soc., 1906, vol. 6, p. 24.
+
+Distributed over vast areas of the earth's surface there are formations possessing characters both of sedimentary and of igneous rocks: for on the one hand they are crystalline and apparently devoid of fossils, and on the other stratified and banded in a manner suggestive of sedimentation. At one time these rocks, of which the gneisses and schists are the most typical examples, were regarded as ancient sediments laid down in water, and "metamorphosed" into a crystalline condition by the action of heat.
+
+There are many instances of sedimentary rocks becoming crystalline in the neighbourhood of intrusive igneous rocks (contact metamorphism), and it was assumed that ancient sediments extending over vast areas might similarly have become modified by subterranean heat (regional metamorphism). 
+
+In 1884 J. Lehmann* published a great work illustrated by an atlas of photographs, showing that a stratified structure was often brought about in igneous rocks as a result of pressure. Now metamorphic rocks are especially found in mountainous regions, where there has necessarily been great dislocation and pressure. Hence he concluded that metamorphic rocks might in many cases be igneous rocks modified by mechanical means.
+
+*) 'Untersuchungen über die Entstehung der altcrystallinischen Schiefergesteine,' 1884.
+
+At the present day the tendency is to judge each case on its own merits.
+
+Sir A. Geikie wrote, in his critical appreciation of Lehmann's work, "The question is attacked on all sides" ('Nature,' June 5, 1884, p. 121). There is, however, one side whence no attack has yet been delivered. I find as a matter of observation that the metamorphic rocks are replete with organic structure.* They are not only masses of crystalline minerals, but also masses of mineralized nummulites. Just as the arrangement and condition of the minerals afford evidence concerning events in the history of the rock, so likewise does the condition of the nummulitic material.
+
+*) Nummulite structure is visible in many of Lehmann's photographs, viz. 2. 3; 3. 4; 6. 3, 4; 7. 4; 9. 1; 16. 6; 21. 6; 23. 3; etc.
+
+I have not yet been able to follow this clue very far, but I believe the organic factor will yield evidence of considerable diagnostic value.
+
+In garnetiferous schist of Tyrol, for example, the nummulitic material is in a condition somewhat resembling that of slate. A section of slate transverse to the plane of cleavage shows bands and strings of rods, here and there intertwined around flat plates; the former are compressed spiral laminae. The same appearances occur in some parts of my sections of the schist, especially where the garnets are not too abundant. Accordingly these observations seem to point to the conclusion that the schist is a metamorphosed nummulitic mud.
+
+In the case of Ottawa banded gneiss, portions of a shell can be seen traversed by more than one band. The banding, at any rate, cannot here be due to sedimentation. On the other hand, mechanical pressure is probably not the only force that has been at work, but also thermal, aqueous and chemical agencies.
+
+Lastly the organic structure must be considered as one of the determining factors in mineral arrangement (see Chapter 9).
+
+Both igneous and metamorphic rocks are metamorphosed nummulitic deposits, whether primary or sedimentary. Accordingly Lyell's term "metamorphic" cannot logically be restricted to the gneisses and schists.
+
+Glauconitic Deposits — Glauconite is a granular greenish mineral now forming deposits on the ocean floor, mostly in depths of about 100 fathoms, and off bold coast lines.
+
+The green grains are either shapeless or in the form of casts of calcareous — mainly Foraminiferal — shells. The mineral is composed "of hydrous silicate of potash and of ferric oxide, containing variable quantities of alumina, ferrous oxide, magnesia and often lime."* Glauconite occurs in geological formations down to the Cambrian.
+
+*) Murray and Renard: '_Challenger_ Deep-Sea Deposits,' 1891, pp. 378-391.
+
+The most approved explanation is that the sediments of igneous rocks, especially those with potash felspar, permeate the shells as fine mud, and that the latter becomes decomposed by acid resulting from the action of organic matter.
+
+A new feature of interest about this mineral is the discovery of persisting nummulitic structure. In some beautiful casts of decalcified _Rotalia_ and _Globigerina_ from the glauconitic core of Norwich potstones, I can clearly see the dotted disks. Thus we have Cretaceous (or other) Foraminifera filled with Foraminiferal débris of the ages when the igneous rocks were formed.
+
+A. Vialay* takes a glauconitic deposit as the starting point of his evolutionary rock series, viz. ultra-basic, basic and acid. However logical the theory may be from the chemical point of view, yet actually the course of events has probably been different. For glauconite is the offspring, and not the progenitor, of igneous rocks. The learned author rightly postulates an aqueous origin for the latter. He believes their metamorphosis to have taken place _à froid_.
+
+*) A. Vialay. 'Essai sur la Genèse et l'Évolution des Roches,' 1912, p. 94.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
