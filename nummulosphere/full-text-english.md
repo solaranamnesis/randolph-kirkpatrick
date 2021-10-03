@@ -50,6 +50,10 @@ London: Printed by William Clowes and Sons, Limited, Duke Street, Stamford Stree
 
 ###### [└─ Summary of Chapter 4](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#summary-of-chapter-4)
 
+##### [Chapter 5](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#chapter-5-1)
+
+###### [└─ Summary of Chapter 5](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#summary-of-chapter-5)
+
 ##### [List of Plates, Guide Diagrams, and Figures](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#list-of-plates-guide-diagrams-and-figures-1)
 
 #### Introduction
