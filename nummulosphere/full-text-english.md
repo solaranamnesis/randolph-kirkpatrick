@@ -1304,6 +1304,26 @@ A. Vialay* takes a glauconitic deposit as the starting point of his evolutionary
 
 *) A. Vialay. 'Essai sur la Genèse et l'Évolution des Roches,' 1912, p. 94.
 
+An esteemed correspondent writes to me:— "I cannot agree with you when you speak of 'the organic origin of igneous rocks.' I think it should be the sedimentary origin of igneous rocks. If the so-called igneous rocks are largely composed of organic remains, surely they are far from exclusively made of that material." A band of chalk-flint will be found to be a mass of silicified once-calcareous fossils, these being chiefly nummulites. When that flint is ground down into sand it will still be possible to see the remains of nummulites. I find the same structure in the grains of all the sandstones I have examined. Similarly granite will be found to be a mineralized deposit of nummulite shells. The granite — sand, mud and clay also show the almost indestructible nummulitic structure. The original granite may itself be a sediment or it may be in the condition of a primary deposit. Whether the rock is primary or ground down, if I find traces of organic structure in nearly every particle — even though that structure be mineralized by silica magnesium or iron, or by alumina, which is not known to be secreted by organisms, yet I should feel justified in speaking of the organic nature and origin of the rock.
+
+No one would deny the organic origin of a silicified fossil sea-urchin; and if the fossil were broken up into small particles, these latter would not lose their claim to organic origin. Similarly with Tertiary nummulites, and similarly too with all the rest of the nummulites which make up nearly the whole of the earth's crust.
+
+That in every pinch of sand or mud from any part of the world some or frequently all of the particles should show nummulitic structure is a fact not so surprising as might appear.
+
+For aeons a simple universal rhizopodal "bathybius"* has been building a scaffolding composed almost wholly of nummulites, which have become mineralized by material derived partly from plankton. This huge deposit has been heaving up and down, and here and there elevated above the ocean surface.* Instantly Nature attacks the mass with a meteorological broom and sweeps it back again as sand, mud, etc. The igneous rocks, their sediments, and the main mass of most of the limestones are nummulitic, the proportion of preserved skeletons of later and higher organisms entombed in the sediments of igneous rocks and in limestones being very small.
+
+*) The meaning of "bathybius" here differs slightly from that of the term as originally employed. It is not a case of a continuous plasmodium of protoplasm, but of a layer of little separate masses.
+
+*) F. Ratzel ('Anthropo-Geographie,' Ed. 3, 1. p. 207) compares the ocean to a mantle seemingly with holes in it (i.e. the land). Nature is always repairing the rents. According to one estimate it would require six million years to sweep away the present land areas.
+
+A mountain range (like all the rest of the earth's crust) with a plutonic core flanked by schists, sedimentaries, intrusives and limestones, is one thing, viz. benthoplankton, in various states.
+
+#### Chapter 7
+
+##### Miscellanea
+
+_The Age of the Earth_
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
