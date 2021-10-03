@@ -1128,6 +1128,54 @@ There would be a big mass and lesser ones and tiny fragments. The large central 
 
 The meteorites "tell us of a nebula made up of meteorites out of which our planets were by agglomeration formed, and of which material they are the last ungathered remains, and they speak of times more remote, when our nebula was a cold sun."
 
+Suess* is led to regard the meteorites as planetary fragments, possibly parts of an anonymous body once occupying the gap between Mars and Jupiter.
+
+*) 'The Face of the Earth' 4. p. 543. 1909.
+
+(3) _Volcanic theories_. 
+
+Tschermak believed that meteorites have had a volcanic source on some celestial body or bodies.
+
+Sir Robert Ball wrote,* "With reference to the origin of meteorites it is difficult to speak with any degree of confidence. _Every theory of meteorites is in itself improbable_, so it seems the only course open to us is to choose that view of their origin which seems least improbable." Accordingly Ball chose the volcanic theory, and then set about to discover the most probable volcanic source. Firstly he eliminated space beyond the solar system, on account of the extreme improbability of bodies from such distances hitting such a microscopic globule as our planet. For various other reasons the sun and larger planets were excluded. The moon might have been a source, but there are no active volcanoes visible, and meteorites which would quickly traverse a distance equal to the space between us and the moon, arrive at the present time.
+
+*) 'The Story of the Heavens,' p. 359, and 'Nature,' 1879, 19. p. 493.
+
+By a process of elimination the earth was selected as the possible source. Ball points out that the probability of ejecta from the earth being again recaptured is considerable, because, assuming meteorites travel on a closed orbit round the sun, they must necessarily cross the track of the earth's orbit, and may do so at a moment when the earth is at the same point as the meteorite.
+
+Of 50,000 bombs ejected with a "3-mile power" from the planet Ceres, only one would cross the earth's orbit. Of 50,000 bombs ejected with "6-mile power" from the earth, 50,000 would cross the earth's orbit (Ball).
+
+The difficulty about terrestrial origin is the need for assuming volcanic eruptions of such terrific force that they could eject a body with an initial velocity of six miles a second. Even bombs of Krakatoa were _said_ to have had a velocity not exceeding one mile a second. A body ejected with a force below a six-mile power would fall back on to the earth, but if at a higher the earth's attraction would not be able to draw it back, and it would probably revolve round the sun in an orbit of its own. Ball supposed that during the very early stages of our planetary history there may have been much fiercer eruptions than at later epochs.
+
+Having found traces of organic structure in igneous rocks, I naturally proceeded to examine meteorites. I soon discovered evidence of the existence of similar structure in them also, and presently found what I took to be remains of Radiolaria and Diatoms. Just as in the igneous rocks, the Foraminiferal shells turned out to be nummulites and the supposed plankton remains to be parts of those shells.
+
+I have been allowed the great privilege of studying the whole of the unique collection of sections of the British Museum meteorites and have now arrived at complete certainty. Not only can I see — though with difficulty — the nummulite shells with a lens, but under higher powers can make out spiral laminae, furrowed marginal cord, septa, alar prolongations and disks so clearly that for me at any rate any further doubt is out of the question. I can trace — again with difficulty — the Foraminiferal outlines even in siderites. Rust from the great Melbourne meteorite also reveals nummulitic features.
+
+Nummulitic structure is clear enough — to my practised sight — in meteorite sections containing stone and iron, and it is only a step to the completely iron meteorites. Accordingly the true nature of meteorites is now definitely discovered. These bodies are lumps of mineralized and ore-enriched nummulitic rock. They are portions of benthoplankton sea-bottoms, in which the benthos deposit of nummulites has become silicated by silica in all probability derived from plankton organisms. In my opinion, meteorites have no more to do with nebular and prenebular theories than have lumps of chalk.
+
+The evidence is now overwhelmingly in favour of a theory of terrestrial origin. There is, it is true, some adverse evidence, but rather of a negative kind, viz., the absence of proof that a terrestrial volcano could eject a meteorite with an initial velocity of more than six miles a second. Sir Robert Ball assumed that sufficiently powerful eruptions might have occurred in some early azoic period, but the meteorites are of organic origin, therefore they were erupted after the time when the ocean had become the abode of life. Even in historic times we know of eruptions — e.g., Krakatoa, so terrific that the explosion was heard 3000 miles away. In the long course of geologic time, much greater eruptions than that of Krakatoa may have occurred. Volcanic blocks and bombs are known to be hurled miles high with great velocity. Why assume the impossibility of their being hurled to a much greater height with a much greater velocity than hitherto suspected?
+
+Dr. Otto Hahn* believed in the organic origin of meteorites, but he fails to produce any evidence in support of his theory. He mistook the chondrules of aerolites for Sponges, Corals, and Crinoids. These bodies are peculiar formations of a mineral nature, but at the same time they ow r e their characters in some measure to the structure of the underlying organic basis.
+
+*) 'Die Meteorite (Chondrite) und ihre Organismen.' 1880.
+
+Further, he considered the Widmänstatten figures of siderites to be "for the most part plant-cells and not crystals." (Appendix, Note G.)
+
+Looking back on the various theories referred to above, we may at once dismiss the accretion theories of Sorby and Arrhenius.
+
+It is very unlikely, too, that Lowell's catastrophic theory will bear the additional strain that will now have to be imposed upon it. For we would have to assume the dark or dead sun had an ocean floor carpeted with nummulites, and products of a plankton fauna and flora, etc.
+
+At the same time Lowell's ingenious theory of the catastrophic origin of the solar system is considered to be based on the laws of probability, and events such as he describes have perhaps actually happened in the universe; but the meteorites (terrestrial organic _sautés_) in our museums afford no evidence in support of that theory.
+
+When we come to the volcanic theory, we must assume that the planet whence the meteorites were shot off was the abode of life and that things were much the same as on this earth. When I am examining nummulitic structure in igneous rocks or in meteorites, I am scarcely aware of any difference, though the material, it is true, is brecciated in the case of the meteorites. The organic structure is identical in both.
+
+Meteorites contain minerals not only not known to exist on this earth, but which could not exist under ordinary conditions where water and oxygen are present. This fact, which at first sight might seem to dispose of the terrestrial theory, is by no means antagonistic. When conditions are varied in laboratory experiments, different results are obtained. In the case of meteorites Nature has performed an unusual experiment. In the course of a few seconds masses of mineral compounds (or metals) have been suddenly transferred from an environment subjected to heat and high pressure to one of intense cold and no pressure. Is it surprising that the companies of molecules suddenly thrust out of their familiar aqueous and gaseous environment have started making new alliances? Accordingly the existence in meteorites of minerals not actually known on earth is no valid argument against the terrestrial theory.
+
+On the other hand, the fact that aerolites are _mainly_ composed of pyroxene compounds, with a certain percentage of felspar and iron, is one rather in favour of an earthly origin. Prof. Judd* gives a diagram illustrating the relations between terrestrial rocks and meteorites (which last he designates extra-terrestrial). The aerolites, siderolites, and siderites closely compare respectively with enclosures in basalt, the basalt of Ovifak, Greenland, and the iron masses of Ovifak.
+
+*) 'Volcanoes,' p. 322.
+
+"The Asiderites" (aerolites without iron) "are quite identical in composition with the ultra-basic lavas of our globe" (Judd). Ultra-basic "nodules" of nearly the same composition as meteorites are found in basalt, and in the centre of volcanic bombs.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
