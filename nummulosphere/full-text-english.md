@@ -910,6 +910,43 @@ Iddings writes: "Calcium is one of the most abundant and wide-spread elements in
 
 3) _Chemical Considerations_
 
+A. Important constituents of sea-water.
+
+Chlorides and sulphates  
+└─Calcium  
+└─Magnesium  
+└─Sodium  
+└─Potassium  
+
+Oxides and silicates  
+└─Silicon  
+└─Aluminium  
+└─Iron  
+
+B. Important constituents of plankton and benthos organisms.
+
+In skeletons
+└─Silica  
+└─Calcium carbonate  
+└─Magnesium carbonate  
+
+Salts in protoplasm
+└─Iron  
+└─Sodium  
+└─Potassium  
+└─Magnesium  
+
+C. Seven oxides, the chief constituents of igneous rocks (F. W. Clarke).
+
+Silica | 59.87
+Alumina | 15.02
+Iron | 5.98
+Calcium | 4.79
+Magnesium | 4.06
+Sodium | 3.39
+Potassium | 2.93
+_Sum_ | 96.04
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
