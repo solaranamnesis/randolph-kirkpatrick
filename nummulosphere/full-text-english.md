@@ -1089,6 +1089,45 @@ On September 13, 1902, a meteorite fell at Crumlin near Belfast. The evidence gi
 
 "The stone weighs 9 lbs. 5½ oz.; it is 7½ inches long, 6½ inches wide, and 3½ inches thick. Its form is irregular and distinctly fragmental."
 
+It is curious to reflect that the idea of stones falling from the sky was at one time ridiculed by the learned as a popular superstition, the objects in question being regarded by them as ordinary volcanic ejecta. When the truth became known, meteorites were regarded with special interest, but men of science still held very divergent opinions concerning the nature and origin of these bodies.
+
+Meteorites are classed under three groups, viz. the purely metallic (siderites) composed mainly of iron alloyed with nickel, the siderolites composed of iron and stone and the aerolites or purely stony. The three groups belong to one class, for the stony pass by gradations into the purely metallic.
+
+Meteorites are covered with a thin usually black crust due to fusion of the outer surface during the passage through the air, the interior being lighter in colour. Stony meteorites are usually friable, and can almost be crumbled between the fingers; sections show a granular glassy structure, with, in many cases, peculiar aggregations of granules (chondrules) having a radiating or reticulate pattern. The chondrules are said to be due to rapid crystallization.
+
+The elements present in meteorites are the same as those known on earth, but some (e.g. phosphorus) occasionally exist in a free state, such as would be impossible under ordinary conditions on this planet.
+
+Meteorites contain well-known terrestrial minerals, viz. olivine, felspar (oligoclase), etc.; and several which are unknown on earth, viz. troilite (proto-sulphide of iron), schreibersite (phosphide of iron and nickel), etc. They also contain gases occluded within their substance, viz. carbonic acid most abundant in aerolites, carbon monoxide abundant in siderites; also hydrogen, in greater volume in the former than in the latter.
+
+The theories of origin of meteorites may roughly be grouped under three headings, viz.:
+(1) Accretion of particles.  
+(2) Fragments of a disrupted heavenly body.  
+(3) Ejecta from volcanoes existing (_a_) on cosmical bodies outside the solar system; (_b_) on bodies within the solar system (excluding the earth); and (_c_) on the earth.
+
+(1) _Accretion theories_. 
+
+Dr. H. C. Sorby* believed that particles of matter at the solar surface were collected together by gravitation, fused into masses, and ejected during violent disturbances. Meteorites, then, according to this theory were portions of the sun.
+
+*) 'Nature' 15. p. 497. 1877.
+
+Arrhenius* believes that the sun and stars by means of radiation-pressure are continually driving out small particles of cosmic "dust" into space and that these become mutually attracted, thereby in time forming larger or smaller aggregates in the shape of cosmic dust and meteorites.
+
+*) 'Worlds in the Making,' 1908. 'The Life of the Universe,' 1909.
+
+"By the action of radiation pressure small globules (spherical drops of matter) condensed in the solar atmosphere are pushed away from the sun and wander through space with velocities perhaps nearly equal to that of light. It is not improbable that the strange messengers from other worlds, the so-called meteorites, are composed of such spherules which had been driven into space. The meteorites are distinguished by an entirely peculiar structure and composition, from all the rocks and minerals known on earth, from the so-called plutonic, which have been formed by the congelation of the liquid interior of the earth, as well as from the neptunic which have been formed upon the bottom of the sea." "These little drops which are ejected and propelled by the sun will collect chiefly in the external portions of the nebulae which owe their luminescence to the electrically charged dust. In the intense cold of the nebulae the drops will condense part of these gases, in particular the hydro-carbons and carbon monoxide, upon their surface. When such masses collide with one another they will be cemented by these materials. In this way small drops of spherules will grow into meteorites, which will continue their migration through space."
+
+(2) _The "Cosmic catastrophe" theory_. 
+
+According to P. Lowell* the solar system may have begun in a catastrophic approach of two dead and dark suns, not necessarily crashing into one another, but coming sufficiently close to set up tidal stresses resulting in each sun being torn into fragments.
+
+*) 'The Evolution of Worlds.' 'Mars as the Abode of Life.'
+
+There would be a big mass and lesser ones and tiny fragments. The large central and the lesser masses would become hot and nebulous from the mutual clashings. Consequently the very small residual fragments would represent a condition of things before the origin of the nebular phase of the solar system! "These things — the meteorites — are the oldest bits of matter we may ever touch." "Here the meteorites tell us of another, an earlier stage of our solar system, one that mounts back to before even the nebula arose to which we owe our birth."
+
+"For the large body to whose dismemberment the meteorites were due can have been no other than the one whose cataclysmic shattering produced that very nebula which was for us the origin of things."
+
+The meteorites "tell us of a nebula made up of meteorites out of which our planets were by agglomeration formed, and of which material they are the last ungathered remains, and they speak of times more remote, when our nebula was a cold sun."
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
