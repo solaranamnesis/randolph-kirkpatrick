@@ -1407,6 +1407,20 @@ A short account of Foraminifera and more especially of nummulites will now be gi
 
 ##### Foraminifera
 
+If shelly sands, especially from near low-tide mark, be examined with a hand-lens, probably some tiny little shells like lilliputian Pearly Nautiluses, Florence oil-flasks, or porcelain-white millet seeds will be detected. Twenty to fifty of them could be laid in a line an inch long (Fig. 11).
+
+Naturalists first regarded some of them as minute Nautilus shells. Fig. 12 shows a section of a coiled shell, the interior being divided by a series of "septa" or partitions, each with a V-shaped row of pores or "foramina." The real Pearly Nautilus has similar partitions, but all are joined by a coiled tube or siphon. D'Orbigny (1826) called the very small shells Cephalopoda Foraminifera and the real Nautilus group Cephalopoda Siphonifera.
+
+In 1835 Dujardin collected in the mud and on seaweeds the living creatures whose empty dead shells alone had hitherto been studied. So far from the little creatures having mouth, stomach, heart, etc., he found the shells to be filled merely with a granular jelly which extended itself outwards in the form of a network of trunks and threads. The animals moved about by extending the threads or "pseudopods"* which served also as organs for the capture of food particles. He called these organisms Rhizopoda.* Later the group, now usually called Foraminifera (after d'Orbigny), was removed to the Protozoa or simplest primitive animals.
+
+*) _Pseudes_, false or resembling, _poda_ feet.
+
+*) _Rhiza_, branched, root-like, _poda_ feet.
+
+There are thousands of species, most of them very small, although some — the giants of their tribe — are over an inch in diameter. They are nearly all marine, and mostly live on the sea-bottom at all depths from shallow water to the abysses. A few species live floating on the surface of the ocean, the commonest of these being _Globigerina bulloides_. Over an area of 49 million square miles and at depths of about 2,000 fathoms the ocean floor is carpeted with a pinkish-white mud called _Globigerina_ ooze, chiefly composed of shells which have rained down from the surface.
+
+The skeletons of Foraminifera are mostly made of carbonate of lime, but some are built of agglutinated sandy or other foreign particles. The essential feature is not so much the skeleton as the nature of the body itself with its branching network of pseudopods.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
