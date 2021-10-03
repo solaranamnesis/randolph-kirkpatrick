@@ -1371,6 +1371,40 @@ In specimens of graphite mixed with Wollastonite rock (silicate of calcium) I am
 
 _Infra-Nummulosphere_.
 
+Darwin wished for "some doubly rich millionaire who would take it into his head to have borings made in some of the Pacific and Indian atolls, and bring home cores for slicing from a depth of 500 to 600 feet."
+
+Thanks to the enterprise of Profs. Sollas and David a boring of this kind was actually accomplished, and with very successful results. A still greater or at least more difficult enterprise would be to bore or run a shaft through the nummulosphere down to the really plutonic or azoic zone below the domain of Neptune.
+
+Although the accumulated pile of sedimentary strata at maximum would be many miles thick, perhaps the average depth of the earth's crust if uniformly spread would not be very great. The lowest Archaean formations — the fundamental gneiss, granite gneiss and the gneiss of Finland, N.W. Scotland, central Europe and Canada — are undoubtedly of organic origin. The place to choose for the boring should obviously be in the floor or sides of some depression where these most ancient rocks are exposed.
+
+If all difficulties, such as those arising from temperature or from a possible up-welling of lava, could be overcome what might we expect to find? From the nature of its formation particle by particle on the sea-floor, the known crust of the earth is a heterogeneous mixture. Possibly the sub-crustal region would be more homogeneous. The term "crust" is here limited to the oceanic deposits, whatever is lower being a "zone." Prof. Milne (Recent advances in Seismology. P.R.S. [A] 77, p. 369, 1906) estimates that there is an outer zone of rock thirty miles thick resembling that of the surface. The nummulosphere crust would constitute only a fraction of this zone, for the dissolving powers of the ocean are not unlimited — an old anti-Wernerian argument.
+
+_The Nummulosphere in Arts and Crafts_. 
+
+Apart from recent organic substances, most of the materials used in the arts have a nummulitic origin, and it is surprising to what an extent the nummulitic structure persists.
+
+Architecture, sculpture, and painting depend on nummulitic material in the form of igneous rocks, limestones, sandstones, and clays.
+
+The terracotta and the bricks and slates of the Natural History Museum are found by observation to be replete with nummulitic structure. The materials of the Greek marble statuary and of the basaltic monsters from Easter Island also have a common origin. Sections of most of the jewels, of jade ornaments, of soapstone images, of crockery and porcelain, and of a meerschaum pipe, have all revealed a nummulitic groundwork. Nummulitic structure can be detected without much difficulty in oil paintings, the pigments of which are volcanic clays. I made a preparation of rust from an old iron saucepan, and found the ubiquitous nummulitic structure.
+
+"The cloud-capp'd towers, the gorgeous palaces, the solemn temples," and the crust of "the great globe itself" _were_ once dissolved — in the sea.
+
+#### Part 2
+
+##### The Direct Evidence
+
+In the preceding chapters, facts concerning organic life at the surface and on the floor of the ocean during present and past times have been brought forward to show that an organic origin of the planetary crust is rather what we should expect to find.
+
+Detailed investigation now confirms this expectation by revealing the fact that the lithosphere is mainly composed of a mineralized deposit of Foraminiferal shells belonging to the genus _Nummulites_, the deposit being either "primary" (i.e., as originally accumulated) or detrital.
+
+The more recent primary deposits (Cainozoic to Archaeozoic) — either unaltered, or silicified into flints, gaizes, phthanites, etc. — are composed chiefly of calcium carbonate or silica, wholly or partly of organic origin. In the more ancient deposits, commonly known as igneous rocks, the silica has entered into combination with various bases, viz., oxides of Al. Ca. Mg. K. Na. Fe. — derived from the ocean partly through the agency of living matter — to form silicates. Chemical activity has been favoured by high temperature, possibly due in greater or less degree to the storing-up of heat derived from radio-active sources.
+
+A short account of Foraminifera and more especially of nummulites will now be given. A chapter on the generally known and fairly well-preserved nummulites of the Eocene period will be followed by one on the nummulites of igneous rocks and meteorites. Pre-Eocene nummulitic limestones from Mesozoic to basal Archaeozoic have already been referred to in Chapters 2 and 3.
+
+#### Chapter 8
+
+##### Foraminifera
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
