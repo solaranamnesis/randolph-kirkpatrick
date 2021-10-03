@@ -1457,6 +1457,16 @@ The shells have the singular and convenient characteristic of splitting into two
 
 There is a central chamber either extremely small and invisible to the naked eye, or fairly large and easily visible.
 
+A section through the central median plane is called "perpendicular," as in the case of a coin standing on edge, and cloven in half between the faces.
+
+When a shell is broken in half like a biscuit, the section is termed "transverse." A transverse section through the centre reveals the so-called willow-pattern, in the form of a series of apparently separate pointed ovals one within another, the ovals being the broken edges of the coils of the continuous spiral.
+
+What makes a nummulite so puzzling at first sight is its apparently circular outline. How can there be embracing _spiral_ coils in a circular disk? As a matter of fact the disk is not circular. Although it is almost impossible to see it, the apex of the V-shaped terminal opening of the last coil projects a little beyond the margin of the preceding coil, and the embracing arms of that V extend to the centre.
+
+Let there be imagined an embracing-spiral shell with only a few wide-apart coils, and with the embracing arch of the terminal opening high and well-separated from the margin of the preceding coil (Fig. 17 A). If such a shell, placed on edge and with the mouth upwards, could be unrolled, a double or bent lamina, V- or U-shaped in section, would result; the flaps would be low and close together at the beginning (small central coil), gradually becoming higher and wider apart towards the end (final coil and edge of mouth) (Fig. 18 B). The V-shaped spirally-coiled lamina is termed the Spiral Lamina, the edge at the bend being known as the Marginal Cord.
+
+A model illustrating the spiral lamina, septa, etc., can be made from a clock spring by bending diamond-shaped segments of variously-coloured papers round the successive coils, and bringing the points to the centre. Pieces of card shaped like a V with a broad apex can be inserted between the coils to represent septa and alar prolongations or "alars." The spring itself represents the marginal cord; but in the shell the width increases gradually from the innermost to the outermost coil.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
