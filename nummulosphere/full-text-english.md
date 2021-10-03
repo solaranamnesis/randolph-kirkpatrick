@@ -947,6 +947,86 @@ Sodium | 3.39
 Potassium | 2.93  
 _Sum_ | 96.04  
 
+_Remarks on the above tables_. — A. — Composition of sea-water. Silica occurs either uncombined or in combination with alumina, the silicate of alumina being finely suspended.
+
+"Iron, easily detected directly" (Dittmar).
+
+"Aluminium: in alumina" (Dittmar).
+
+With the exception of gases fixed from the atmosphere there is reason to believe that everything solid comes from the sea. The igneous rocks are oceanic silicated deposits of nummulites, and the silica and silicate of alumina carried down from them by rivers return to their original source.
+
+B. — Constituents of plankton and benthos organisms. Silica. According to Murray and Irvine* the silica-secreting organisms get that material, not from silica, which is only present in minute quantities, but from silicate of alumina finely suspended. Their culture-experiments showed that Diatoms flourished when fine clay was added. Amorphous silica was useless, but silicic acid jelly nutritious. At the present day the mechanically suspended silicate of alumina appears to be a fine sediment derived from igneous rocks. There was certainly a time when there were no igneous rocks, and probably an era when there were neither land nor rivers nor sediment. Did the first silica-secreting organisms get their silica from finely suspended silicate of alumina?
+
+*) Proc. Roy. Soc. Edinburgh, 18. p. 237, 1890-1.
+
+Magnesium. Analysis of shells of two representatives of Nummulitidae contained 5 per cent, of magnesium carbonate (Brady). (Probably some of the magnesium in limestones is derived from calcareous algae.) (See also Appendix Note H.)
+
+Willstätter* has shown that magnesium is present in chlorophyll, and not iron, as usually believed.
+
+*) R. Willstätter. In Liebig's 'Annalen d. Chemie,' vol. 350, p. 65, 1906.
+
+C. — Constituents of igneous rocks. All the constituents enumerated are present in the sea, and all except alumina are found in benthos and plankton organisms. The alumina may have been directly deposited from the sea. [The history of the discovery of the composition of Acantharia skeletons leads me to hazard the suggestion that possibly some of the 15.02 per cent, of alumina in igneous rocks may be due to an extinct race of plankton organisms. Acantharia skeletons were first thought tobe organic ('Acanthin,' Haeckel). Then Shevyakov believed them to be made of a double silicate of aluminium and calcium, and finally Bütschli discovered they were composed of sulphate of strontium. Who would have suspected these wonderful skeletons, which bear impress of the effect of aeons of evolution, to be composed of sulphate of strontium!]
+
+_Metamorphism_
+
+According to Aristotle we understand a thing when we see the cause of it. A knowledge of the origin of the igneous rocks and of the manner of accumulation of the materials composing them will throw light on problems of metamorphism. Igneous rocks are oceanic deposits of nummulites mineralized by silica, magnesium, aluminium, etc.
+
+At the beginning of the chain there are sunlight, protoplasm and the minerals of the sea, and at the end a crystalline mass of silicates. What are the intervening links?
+
+Limestones and silica (chalk and flint) may be indicated as the second link, and limestone with silicates (Eozoon) as the third. In link No. 3, heat of intrusive magmas has caused the silica to combine with magnesium, aluminium, iron, etc., to produce silicates* in the form of pyroxene: the peripheral banding is a mere detail. In the final stage, if limestone had been present, the carbonic acid would have gone and the calcium would have combined with the seven other chief oxides which form the crystalline mass of silicates. Limestone may have been replaced long before the igneous stage as in flint, phthanite, etc. The existence of silica-aluminium and ferro-magnesian groups of silicates is attributed to magmatic differentiation.
+
+*) At first sight glauconite seems to be one of the silicates outside the igneous rock group, but perhaps this mineral should be regarded as an altered product of igneous rocks.
+
+_Magmatic differentiation_
+
+It may well seem incredible to a petrologist unfamiliar with biology and palaeontology that sunshine and living matter could be the parents of such a heterogeneous progeny as the igneous rocks. Yet the origin and metamorphoses of the bentho-plankton deposits known as "igneous rocks" are traceable. For some reason these very ancient mineralized organic deposits have become heated even above melting point. Chemical changes have thereby become greatly facilitated. The silicic acid with its four grades of acidity* has formed various compounds with the chief bases mentioned above. When the hot solid mass of silicates (or oxides) becomes liquid, the solid containing-walls constitute a reservoir. If the magma is pressed up through the overlying crust and through the surface it will flow out as a lava, with or without explosions and the formation of a cone of solid ejecta.
+
+*) Ortho-, meta-, poly-, and di-silicic acid.
+
+A certain sequence has been discovered in the character of the lavas erupted during successive phases in the "life-history" of a volcano.
+
+"The general succession is from a rock of average composition through less silicious and more silicious ones to rocks extremely low in silica and others extremely high in silica — that is, the series commences with a mean and ends with extremes."* At Porto Santo, for instance, the black heavy basalt low in silica (basic) is covered by the pale-coloured light trachyte high in silica (acid). Both rocks must have come from the same reservoir. The chief differentiating cause is said to be temperature. The magma near the walls of the reservoir and its conduits is cooler than that in the centre.
+
+*) Iddings. Bull. Phil. Soc. Washington, 12. p. 145. 1892.
+
+"The chemical differentiation of igneous magmas, which appears to be due to so simple a cause as temperature in different parts of the magma, leads to an endless series of variations" (Iddings _l.c._ p. 164).
+
+Igneous rocks of any particular district, however much they may differ from each other, yet generally show what Iddings terms a "consanguinity." Further, groups of districts forming some great "petrographical province" possess certain characteristics distinguishing them from the rocks of other provinces. Finally the igneous rocks as a whole are regarded by some eminent authorities as derivatives from some great primeval common magma.
+
+Seeing that an oceanic organic deposit is parent of the igneous rocks, it is not surprising that traces of their common origin are discernible.
+
+Variations in rate of cooling give rise to great differences in texture. Granite, rhyolite and an obsidian may have precisely the same chemical composition, but in the case of the volcanic glass the magma has cooled and set so quickly that the molecules have become fixed in position before they could marshal themselves in crystalline order. The slow-cooling granite, on the other hand, is a crystalline mass.
+
+##### On the Source of the Heat of Molten Rocks
+
+The interior of the earth must be in an intensely heated condition. Hot and boiling rocks, forced up from below, can actually be seen accumulating in heaps and pouring out in floods over the surface; and further, it is found that the temperature rises on an average 1° C. for every 32 metres of vertical descent into the earth.
+
+This heat continually flowing out from within has naturally been regarded as part of the original stock of a cooling planet. The sky is crowded with glowing-hot bodies, and perhaps the earth was once in a similar condition. Even so, it does not follow that the heat _now_ escaping must be accounted for in this way.
+
+When Lord Kelvin attempted to calculate the age of the earth on the basis of its having been a once-glowing but gradually cooling mass, he arrived at an estimate of 20 to 40 million years. The geologists protested that the time was wholly inadequate to account for the vast accumulation of sedimentary strata. The biologists, too, though ready "to set their clock" in accordance with Lord Kelvin's estimate if compelled to do so, were nevertheless inclined to suspect some flaw in his calculation.
+
+Within the last twenty years a source of energy wholly unsuspected, but yet omnipresent, has been brought to light, viz., radioactivity.
+
+Prof. Joly writes concerning the new science of radioactivity: "First definitely opened up in 1898 by Mme. and M. Curie, when polonium and radium were discovered, to-day we are in possession of established views in contradiction to the tenets of centuries."* It has been found that uranium is the parent of a series of substances, of which radium is one. The unstable atoms of these elements are undergoing disintegration and discharging energy, part of the latter being manifested as heat. Radioactive substances are universally distributed in the crust of the earth and in the ocean, but in varying amount. They are more abundant in igneous rocks than in sedimentary, in red clay than in _Globigerina_ ooze, in the land than in the ocean.
+
+*) Joly. 'Radioactivity and Geology,' p. 1. 1909.
+
+According to authorities who have studied the problems relating to the effects of radioactivity in geology, this form of energy is a source of the heat of the deep-seated igneous rocks.
+
+The scaffolding of the earth's crust was formed in the ocean and out of seawater. Accordingly the general prevalence of radioactive matter in igneous rocks and in sediments derived from them, is what might be expected. The uranium entering the ocean along with the sediments from igneous rocks has only comeback to its original source. Prof. Joly estimates that io 6 tonnes of radioactive substances have been received and again precipitated on to the ocean floor in the course of geological time. He writes:* "Presumably all this radioactive material has been at one time in solution or suspension in the ocean, whose waters, for all that we could have anticipated, might have possessed a content of radium some fifty times greater than the figures appear to indicate."
+
+*) 'On the Radium-Content of Sea-Water.' Phil. Mag. (6) 18. p. 407. 1909.
+
+The discovery of the origin and history of igneous rocks will lead, I believe, to a revival of the theory of chemical activity as an important source of the heat that has melted those rocks. Lord Kelvin preferred the view that "the earth is merely a warm chemically inert body." The inert masses of silicates constituting the igneous rocks, however, were at one time benthoplankton mixtures of silicic acid, alkalies, alkaline earths, oxides of iron, phosphates, sulphates, etc. The older and deeper zones of this mixture would be buried beneath a thick pile of strata and permeated with water and mineral solutions. A spark may set a forest ablaze. Heat arising locally in the deposit would hasten chemical activities all round, leading to ever-increasing accumulations of heat. The inert silicates of igneous rocks are the end term of a long series of changes, and may be compared to a spent conflagration.
+
+Limestone seems inert, but the heat of a magma will cause the silica to combine with magnesium, etc., to form silicates as in the Canadian, Finland and Vesuvian "Eozoon"; and the heat of a kiln will make lime quick, the latter giving out heat when slaked.
+
+##### On the Ascent of Molten Magmas
+
+The deep-seated rocks, though at a temperature above normal melting-point would be solid owing to high pressure. Relief of pressure would cause them to melt and move in the direction of least resistance. If, as is stated, the nucleus of the earth contract more than the crust, the latter, owing to adjustment to a smaller radius, will be thrown into folds. The ascent of molten rocks through the overlying crust is characteristic of sinking areas; (Geikie).
+
+##### On the Chronology of Igneous Rocks
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
@@ -1051,7 +1131,7 @@ The photos were originally taken to show light and dark areas with continuity of
 
 [Plate 6: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate6-FigureC.png) — Sections of Parkeria. Section viewed by transmitted light 5x.
 
-[Plate 11: Figure 39](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure39.png) — Surface of a piece of chalk from Haling, 5x. There are portions of several nummulites visible in photo. The whole surface shows nothing but nummulitic structure, and every particle is in orderly arrangement, i.e. there is no débris. A marginal cord with septa curves round lower left corner within radius of 18 mm. Above middle of lower border are embracing gothic arches and a septum of shell in trans. section. (Lens 3x necessary for seeing details.)
+[Plate 11: Figure 39](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure39.png) — Surface of a piece of chalk from Haling, 5x. There are portions of several nummulites visible in photo. The whole surface shows nothing but nummulitic structure, and every particle is in orderly arrangement, _i.e._ there is no débris. A marginal cord with septa curves round lower left corner within radius of 18 mm. Above middle of lower border are embracing gothic arches and a septum of shell in trans. section. (Lens 3x necessary for seeing details.)
 
 [Plate 11: Figure 40](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure40.png) — Surface of flint, 8x. As in Fig. 39, but silicified. Nummulitic structure faintly visible over whole field. A marginal cord with septa curves upward obliquely in projection from left of centre of lower edge of photo to right of centre of upper edge.
 
