@@ -1045,6 +1045,50 @@ _Postscript, Note_ 1. — There are no authentic records of Diatom remains befor
 
 _Note_ 2. — I have seen a recent shell of _Lagena marginata_ with Diatoms completely embedded in the wall. Here we have a picture in miniature of the great planetary deposit of silicated shells. It is doubtful whether sponges were accountable for much or any of the silica during the earliest era.
 
+#### Chapter 5
+
+##### Meteorites
+
+"We cannot but agree with the common opinion which regards meteorites as fragments broken from larger masses, and we cannot be satisfied without trying to imagine what were the antecedents of those masses." — Lord Kelvin.
+
+"For there is almost as good a trade in exposing cosmogonies as in constructing them. But no special opprobrium attaches to failure, because everybody has failed, from Laplace down, or up, as you are pleased to consider." — P. Lowell.
+
+Every now and again a strange and startling event happens; suddenly in the midst of a great light followed by a loud detonation something falls out of the sky and strikes the earth. No wonder such objects have been regarded with awe and veneration, and that temples have been built to enshrine these visible and tangible messengers from the invisible powers. The thunderbolt was the special appanage of high Jove. A stone in the temple of Apollo at Delphi, and also "Diana of the Ephesians" were probably sky stones. In B.C. 204 a black stone which had long been worshipped as Cybele the mother of the gods was removed from Phrygia to Rome with great ceremony, the guardians of the Sybilline Books having decreed that its presence was necessary for the safety of Rome.
+
+In the wall of the Kaaba at Mecca is a sacred stone which for ages has been the omphalos of the Mohammedan world. According to scientific travellers the stone is probably a meteorite. Mohammed alleged it was a gift from the Angel Gabriel.
+
+At the present day these rare and wonderful sky stones are the special objects of pride of our great Museums.
+
+The evidence that meteorites have fallen from the heavens is now clear, as the following narratives, selected from many, may show.
+
+"The oldest undoubted sky-stone still preserved is that which was long suspended by a chain from the vault of the choir of the parish church of Ensisheim in Elsass, and is now kept in the Rathhaus of that town. The following is a translated extract from a document which was preserved in the church:— 'On the 16th of November, 1492, a singular miracle happened: for between 11 and 12 in the forenoon, with a loud crash of thunder and a prolonged noise heard afar off, there fell in the town of Ensisheim a stone weighing 260 lbs. It was seen by a child to strike the ground in a field near the canton called Gisgaud, where it made a hole more than five feet deep. It was taken to the church as being a miraculous object. The noise was heard so distinctly at Lucerne, Villing and many other places, that in each of them it was thought that some houses had fallen. King Maximilian, who was then at Ensisheim, had the stone carried to the castle: after breaking off two pieces, one for the Duke Sigismund of Austria, and the other for himself, he forbade further damage, and ordered the stone to be suspended in the parish church.'"*
+
+*) Copied from an 'Introduction to the Study of Meteorites,' 10th Edition, 1908. British Museum (Natural History), pp. 19, 22.
+
+Again,
+
+"About three o'clock in the afternoon of December 13, 1795, a labourer working near Wold Cottage, a few miles from Scarborough, in Yorkshire,* was terrified to see a stone fall about ten yards from where he was standing. The stone, weighing 56 lbs., was found to have gone through 12 inches of soil and 6 inches of solid chalk rock. No thunder, lightning, or luminous meteor accompanied the fall; but in the adjacent villages there was heard an explosion likened by the inhabitants to the firing of guns at sea, while in two of them the sounds were so distinct of something singular passing through the air towards Wold Cottage, that five or six people went to see if anything extraordinary had happened to the house or grounds. No stone presenting the same characters was known in the district. The stone is preserved in the Museum Collection."*
+
+*) 'Nature,' Oct. 9, 1902, p. 578.
+
+*) Copied from 'An Introduction to the Study of Meteorites,' 10th Edition, 1908. British Museum (Natural History), pp. 19, 22.
+
+On September 13, 1902, a meteorite fell at Crumlin near Belfast. The evidence given below was gathered by Sir L. Fletcher on the spot and within about a fortnight of the occurrence.*
+
+*) 'Nature,' Oct. 9, 1902, p. 578.
+
+"At 10:30 A.M. on September 13, which was a cloudy morning, W. John Adams, who is in the employment of Mr. Walker at Crosshill farm, was gathering apples from a tree on the edge of the cornfield and near the house; he was startled by a noise of such a character that he thought it was due to the bursting of the boiler at the mill, which is about a mile to the south and situated near Crumlin railway station."
+
+*) Copied from 'An Introduction to the Study of Meteorites,' 10th Edition, 1908. British Museum (Natural History), pp. 19, 22.
+
+"Another loud noise like that of escaping steam, was followed by the sound as of an object striking the ground near by, and a cloud of dust immediately arose above the standing corn at a spot only twenty yards away from where he was at work. Adams ran through the corn towards the cloud of dust and found a hole in the soil; whereupon he hurried to the farmyard for a spade, and within a quarter of an hour of the fall had extracted a black, dense stone, which had penetrated the soil to the depth of one and a half feet and had been stopped by impact against a much larger terrestrial stone."
+
+"The black stone was hot and, according to Mr. Walker, was still warm to the touch even an hour later. There was a sulphurous odour. Two other men were working at a haystack twenty yards further away from the hole made by the stone and also heard the sounds."
+
+"The detonation was remarked at places five miles to the north, nine miles to the east, eleven miles to the south east, thirteen miles S.S.W. by south. Mrs. Walker said that some of the hearers had taken the sound to herald the arrival of the Day of Judgment."
+
+"The stone weighs 9 lbs. 5½ oz.; it is 7½ inches long, 6½ inches wide, and 3½ inches thick. Its form is irregular and distinctly fragmental."
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
