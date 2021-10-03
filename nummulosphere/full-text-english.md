@@ -925,12 +925,12 @@ Oxides and silicates
 
 B. Important constituents of plankton and benthos organisms.
 
-In skeletons
+In skeletons  
 └─Silica  
 └─Calcium carbonate  
 └─Magnesium carbonate  
 
-Salts in protoplasm
+Salts in protoplasm  
 └─Iron  
 └─Sodium  
 └─Potassium  
@@ -938,14 +938,14 @@ Salts in protoplasm
 
 C. Seven oxides, the chief constituents of igneous rocks (F. W. Clarke).
 
-Silica | 59.87
-Alumina | 15.02
-Iron | 5.98
-Calcium | 4.79
-Magnesium | 4.06
-Sodium | 3.39
-Potassium | 2.93
-_Sum_ | 96.04
+Silica | 59.87  
+Alumina | 15.02  
+Iron | 5.98  
+Calcium | 4.79  
+Magnesium | 4.06  
+Sodium | 3.39  
+Potassium | 2.93  
+_Sum_ | 96.04  
 
 ...
 
