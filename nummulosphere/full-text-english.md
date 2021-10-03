@@ -1421,6 +1421,42 @@ There are thousands of species, most of them very small, although some — the g
 
 The skeletons of Foraminifera are mostly made of carbonate of lime, but some are built of agglutinated sandy or other foreign particles. The essential feature is not so much the skeleton as the nature of the body itself with its branching network of pseudopods.
 
+The calcareous shells are either porcellanous or vitreous. The former kind have one or a few large orifices, the rest of the shell being imperforate — at least in the adult stage. The vitreous shells, in addition to a main opening, have minute pores all over the walls.
+
+The great variety of shells can be grouped under a few types. The shell may consist of a single chamber (Fig. 11 C) or of several in a row (Fig. 11 B). The chambers may alternate on each side of a line (Fig. 11 E) or may form a spiral or cyclical series (Fig. 11 A and Fig. 12).
+
+Foraminifera reproduce themselves chiefly by division of the protoplasm within or outside the shell, into creeping amoebulae or motile biflagellate spores. A new shell is secreted by an amoebula or by a cell formed by the union of a pair of spores. There is an "alternation of generations." A "megalospheric" generation, having a shell with a large central chamber forms the biflagellate spores, pairs of which unite to form a cell which secretes a "microspheric" shell with a small central chamber. The protoplasm of the latter divides up into amoebulae, each one of which forms a megalospheric shell. The two kinds of shell which are nearly always found associated were once thought to belong to distinct species.
+
+Brady divides the group into ten families. Only the tenth — the _Nummulitidae_, and only one genus, viz. _Nummulites_, concern the present work.
+
+The important part taken by Foraminifera in the formation of the earth's crust is already well known, but it is now found that nearly the whole lithosphere is composed of mineralized deposits of nummulites.
+
+##### Nummulites
+
+"Ce genre de débris organiques." — _Joly and Leymerie_.
+
+Nummulites furnish a powerful instrument for the solving of problems of the highest importance in geology, petrology, and meteoritology. Accordingly a short account of their structure is given below.
+
+Nummulites are not common objects of the country in Great Britain, because the Eocene strata in which they abound as recognizable fossils are here relatively thin and difficult to find,* but in many parts of the old world, in North Africa, Europe and Asia there are Eocene nummulitic limestones of great thickness and vast extent.
+
+*) The _Nummulina_ zone at the base of the Barton Beds at Highcliff, Hants, is only 8 inches thick and not easy to locate. At Selsey, again, some of the Bracklesham strata containing nummulites can only be seen at low spring tides.
+
+Nummulites are mentioned by ancient writers. Strabo, for instance, refers to their presence in the sands around the pyramids of Egypt, and to the common belief that they were petrified lentils. In some countries they were believed to be pieces of money turned into stone.* Leaving aside the numerous popular legends, we find that even the learned had many and various theories concerning these shells. They were regarded as corals, as "worms with shells," or, again, as Cephalopods.
+
+*) The hybrid Graeco-Latin word nummulites is derived from _nummus_, money, and _lithos_, stone.
+
+Some naturalists, misled by the appearance of transverse sections of shells as seen on rock surfaces, supposed them to be petrified willow leaves. According to another theory the shells were opercula of Ammonites. Ehrenberg thought they were the supporting skeleton of certain Jellyfish (_Porpita_). It was only after Dujardin's discovery that nummulites were placed in the group of Foraminifera and among the Protozoa or simplest animals.
+
+In 1848 Joly and Leymerie wrote an important historical and scientific memoir on nummulites. In 1853 a splendid foundation for systematic arrangement was laid by d'Archiac and ably extended and built upon by Dr. de la Harpe, Max de Hantken and others. Carpenter did excellent work on the minute anatomy. The mysterious problem of the reproduction of nummulites and other Foraminifera has been dealt with by Munier-Chalmas and Schlumberger, Lister, Schaudinn, and Winter.
+
+Nummulites are shaped like biconvex lenses or disks, and vary in diameter from 1 to 107 mm. (1/25 to about 4½ inches).* The surface may show radiating sinuous lines or a reticulate pattern, and may be smooth or visibly granular. To the naked eye there is no perceptible orifice.
+
+*) D'Archiac describes gigantic specimens of _N. complanata_ from Crete, 107 x 3 mm. ('Mon.' p. 88).
+
+The shells have the singular and convenient characteristic of splitting into two equal plano-convex half-disks when heated and suddenly thrown into cold water. Each flat inner face of the split shell reveals one half of a spiral cavity with few or many turns, divided up into numerous chambers by septa or partitions also in halves (Plate 2. B). Fitting the halves together again will help the observer to realize the shape of the whole spiral cavity and septa.
+
+There is a central chamber either extremely small and invisible to the naked eye, or fairly large and easily visible.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
