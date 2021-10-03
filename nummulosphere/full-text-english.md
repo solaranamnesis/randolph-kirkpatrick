@@ -1103,7 +1103,7 @@ The elements present in meteorites are the same as those known on earth, but som
 
 Meteorites contain well-known terrestrial minerals, viz. olivine, felspar (oligoclase), etc.; and several which are unknown on earth, viz. troilite (proto-sulphide of iron), schreibersite (phosphide of iron and nickel), etc. They also contain gases occluded within their substance, viz. carbonic acid most abundant in aerolites, carbon monoxide abundant in siderites; also hydrogen, in greater volume in the former than in the latter.
 
-The theories of origin of meteorites may roughly be grouped under three headings, viz.:
+The theories of origin of meteorites may roughly be grouped under three headings, viz.:  
 (1) Accretion of particles.  
 (2) Fragments of a disrupted heavenly body.  
 (3) Ejecta from volcanoes existing (_a_) on cosmical bodies outside the solar system; (_b_) on bodies within the solar system (excluding the earth); and (_c_) on the earth.
