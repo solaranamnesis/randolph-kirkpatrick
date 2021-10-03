@@ -1467,6 +1467,34 @@ Let there be imagined an embracing-spiral shell with only a few wide-apart coils
 
 A model illustrating the spiral lamina, septa, etc., can be made from a clock spring by bending diamond-shaped segments of variously-coloured papers round the successive coils, and bringing the points to the centre. Pieces of card shaped like a V with a broad apex can be inserted between the coils to represent septa and alar prolongations or "alars." The spring itself represents the marginal cord; but in the shell the width increases gradually from the innermost to the outermost coil.
 
+The successive coils of the spiral lamina are not in contact, but separated by a space widening from centre to periphery, the wide marginal part being divided into chambers by the septa. In some species the narrow inner region of the inter-laminar spaces is divided by straight or slightly sinuous radial lines or walls continuous with the septa; in other species these lines are very sinuous, and in other again joined into a network. These septal threads (_filets cloisonnaires_, d'Archiac) or "alar prolongations" of the septa appear on the successive surfaces of the spiral lamina as radial sinuous or reticulate lines or patterns, which serve as characters for dividing the genus into its main groups.
+
+The Marginal Cord is the ribbon-like edge of the spiral lamina. The surface of the cord is marked with fine furrows and ridges, and hence Carter termed it the "spicular" cord from a fancied resemblance to sponge spicules (Figs. 18-20).
+
+##### On the Minute Structure of Nummulites
+
+Very little appears to be known concerning the finer structure of nummulites, and it is a strange paradox that some new light should be thrown on this subject as a result of the study of silicated nummulites of igneous rocks and meteorites rather than of calcareous shells of Eocene limestones.* For it was only after finding certain structures in silicated shells that I was led to seek for and to find similar structures in the Tertiary nummulites.
+
+*)
+
+My observations on the finer microscopic structure are incomplete, but are published in the belief that they will afford some help in interpreting the photographs of sections of igneous rocks and meteorites.
+
+Just as Tertiary nummulites are recognized when seen, so the universal pre-Tertiary shells possessing precisely the same general characters, can be detected, though they require more careful observation. Accordingly, a complete investigation of the minute anatomy though very desirable, is not essential for the recognition of nummulitic structure in igneous rocks and meteorites, for I can now recognize the larger features of shells even with a hand-lens.
+
+A thorough investigation of the minute structure of nummulites will, I believe, throw light not only on the mutual affinities of the great groups of Foraminifera, but also on the structure of rhizopodal protoplasm.
+
+One of the characteristics of nummulites is the "tubulated" structure of the shell-walls, tubuli being very fine vertical parallel passages through which the protoplasm of the interior communicates with the outside. In many "perforate" Foraminifera these passages are little else than circular holes or pores.
+
+When microscopically examining nummulites or sections of igneous rocks I was continually seeing granular or dotted disk-like structures. These I took to be places of junction of ends of bundles of tubules, bundles in cross-section, groups of bundles of short tubuli, or, lastly, disk-like groups of tubuli arranged in radial horizontal rather than longitudinal direction. Very naturally, at first I was thoroughly possessed by the idea of tubules, and thought the disks must be joined together by parallel longitudinal lines of tubules, even though I failed to detect these lines.
+
+Presently, however, I found the disks showed a spiral plan and also a radial structure. The spirals, with coils alternately and slightly above and below a median plane appeared to be replicas in miniature of the marginal cord, and the radii to be edges of disks in the position of septa and in a plane vertical to the plane of the "parent" spiral. Seemingly, the disks were to some extent repetitions of the structure of the shell as a whole. See Diagram, p. 147 [Fig. 10A].
+
+The first disks definitely to be located were rather large ones nearly half a millimetre in diameter, at the outer convex surface of outer coils of the marginal cord between any pair of septa. Later I found that the ridged and laminated structure of the whole cord was made up of disks, as also were the septa and alars. Next it became apparent that the little spiral-radial disks were themselves constructed of smaller disks also on a spiral and radial plan, and these latter again of still smaller. Under a magnification of 4000 diameters I could make out disks 1 _μ_ (1/25000 an inch) in diameter, each with a circle of points (about 0.25 _μ_ in size), i.e. visible and definitely arranged organic structures. Probably improved optical apparatus would resolve even these points into "spirodisks," and possibly the structural repetitions may go on even until molecular dimensions are reached. These little calcareous models of proto-plasmic architecture will, I believe, throw light on the structure of the protoplasm that built them, for the granular protoplasm of Foraminifera also appears to me to show a spirodiscoid structure discernible by means of the granules.
+
+The planetary crust is almost wholly built of "spirodisks," the smallest visible unit of structure being about 0.25 _μ_ (1/100000 an inch) in diameter.
+
+The successive layers of spiral lamina seen in a transverse section of a nummulite (Figs. 22, 23) show alternate clear and striated vertical bands. The clear bands are the "pillars," and the striated ones the "tubulated" or inter-pillar areas. Keyserling, Joly and Leymerie, and d'Archiac regarded the pillars as wide-open channels which became, rilled with calcite (_remplissage_, d'Archiac) during fossilization. Carpenter described the pillars as solid non-tubulated structures serving as wedges of support for the tubulated walls. Careful examination will show the hyaline and apparently structureless pillars to be replete with disk structures. Further, a still closer scrutiny will show the tubulated areas also to be full of disks, but here the dominating tubulated-striated pattern (Plate 23. Figs. A-D) renders their detection difficult.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
