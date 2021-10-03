@@ -1328,6 +1328,49 @@ A mountain range (like all the rest of the earth's crust) with a plutonic core f
 
 _The Age of the Earth_
 
+Leaving aside the astronomical phase of the earth's history, and coming to the geological period dating from the birth of the ocean, it is obvious that the discovery of the oceanic and organic origin of the lithosphere, or rather of all that we know or are likely to know of that "sphere," will materially affect all future calculations of geological age.
+
+Hitherto an estimate has been arrived at by calculating the thickness of the whole mass of ordinary sediments, and also some average rate of deposition. Sollas, calculating the earth's sediments at a thickness of 50 miles, reckons they have taken 26 million years to form. Lapparent's estimate is 75 to 80 millions, Geikie's 100 millions.
+
+These calculations leave out of consideration the fact that the igneous rocks — much more bulky than all the sediments and limestones put together, are themselves metamorphosed oceanic sediments — probably both precipitated and also precipitated-ground-down or detrital. Consequently future estimates must take in the igneous rocks.
+
+Another method of reckoning the geological age is one based on "solvent denudation." A calculation is made of all the sodium in the ocean, and of the amount of sodium annually carried there by the rivers of the world. Assuming the ocean was fresh water to start with, the amount now present divided by the quantity annually added would give the number of years required to accumulate the salts. Joly considers 111 million years to be the best estimate.
+
+The lithosphere with its sodium-content is an oceanic deposit. There is no evidence to show that the sodium now in the ocean is derived wholly from the leaching of the upheaved part of that deposit. Probably the ocean has been abundantly salt from the beginning. The sodium in the sea is in the form of chloride. The sodium base in igneous rocks is mostly combined with silicic acid, only a residual trace of sodium chloride remaining under protection in quartz crystals, etc.
+
+Recent estimates of duration based on the disintegration of uranium and its products yield enormous periods of time varying from 240 to 11,470 millions of years.* Joly adds "That we have much to learn is indeed probable."
+
+*) Quoted by Joly in 'The Birth-time of the World.' Science Progress, July, 1914. Seeing that radioactive substances and their products of disintegration are found together in igneous rocks, i.e. in nummulitic deposits, well might the poet ask —  
+"What oldest star the fame can save  
+Of races perishing to pave  
+The planet with a floor of lime?"  
+
+My sections of Uraninite from Joachimsthal and Cornwall show indubitable traces of organic structure. Accordingly the uranium very probably came from the sea. The possibility of the metal having been deposited from water ascending from sources below the nummulosphere does indeed exist, but the ocean seems the more likely source.
+
+Reviewing the deeply interesting but somewhat conflicting results referred to above, one looks back to the non-scientific chroniclers of former times almost with a feeling of envy. Archbishop Usher, for instance, quite definitely and to the satisfaction of himself and his contemporaries — for his results were accepted by the compilers of the authorized version of the Bible — fixed to a moment the date and time of the creation of the world, viz. precisely at midnight preceding the beginning of October 23rd, B.C. 4004. (Appendix, Note J.)
+
+_On certain Hypotheses concerning the Origin of Life on the Earth_.
+
+It seems something of a paradox that at the moment when the organic origin of meteorites is definitely proved, the improbability — indeed, the absurdity, of the theory of conveyance of life to this planet by meteorites should be demonstrated. For when all the different factors are considered, the terrestrial origin ot meteorites will be generally accepted. Accordingly if these bodies were the bringers of life to a lifeless planet, they must either have picked up or spontaneously developed the germs on the way. Now, too, that the whole planetary crust — veritably a life-worn mould — is found to be a product of life, why should we look elsewhere for the origin of something so abundantly and universally present here. The mere fact of human agency having so far failed to create living from not-living material is no proof that Nature has failed to evolve life on this planet.
+
+Again, Arrhenius' version of the panspermia theory, viz. that living particles are being driven through space by radiation pressure, is not founded on evidence. It has already been shown in Chapter 5 that the theory of the formation of meteorites by accretion of similarly driven particles of matter is now obviously untenable.
+
+_Note on Precious Stones_.
+
+I have found traces of organic structure in several of the precious stones, viz., ruby, sapphire, emerald, garnet and diamond.
+
+The persistence of such traces may well seem almost incredible, but the careful examination of sections under high powers leaves me in no doubt. Rubies and sapphires consist of nearly pure alumina (Al₂O₃) with a trace of chromium. They come mostly from the lime-felspars of Burmah. The matrix of this rock has the usual nummulitic character.
+
+Anything visible even under the highest powers of the microscope is of Brobdingnagian proportions in "molecule-land." According to Lord Kelvin, a drop of water magnified to the size of the earth would reveal the molecules as objects smaller than cannon-balls but larger than shot. If owing to molecular change the Brobdingnagian nummulitic disks are composed of some highly intractable substance there is no reason why they should not escape destruction when subjected to very high temperature. Barbados earth, a nummulitic rock rich in Radiolaria, after boiling reveals the disk structures.
+
+I have seen very distinct traces of nummulitic structure in diamonds (Fig. 10). With the kind permission of Mr. W. Busch of the Premier (Transvaal) Diamond Co., I was able on several occasions to examine some hundreds of rough stones. Igneous rocks being nummulitic, it is not surprising that precious stones composed of silicates and of alumina should show traces of nummulitic structure, but it seems very remarkable that carbon molecules should replace other molecular nummulitic scaffoldings. The drawings have been made from a small diamond in my own collection (see also Plate 20, Figs. D, E). Further, in some curious black diamonds* which Mr. P. R. Frames, the Transvaal representative of the Premier Diamond Co., very kindly brought to me, traces of nummulitic structure are visible. These stones contain three forms of carbon, viz., soft graphite, hard graphite, and ordinary white diamond.
+
+*) Described by D. P. McDonald in Trans. Geol. Soc. South Africa, 16. 1913, p. 156.
+
+In specimens of graphite mixed with Wollastonite rock (silicate of calcium) I am firmly persuaded, after prolonged and close observation, that I can see casts of nummulites with a hand lens. The Wollastonite rock itself is nummulitic. Carbon dissolved in molten magmas may separate out as graphite or as diamond. In Moissan's experiments diamonds resulted from the solidification of metal carbides ('Ore Deposits,' Beyschlag, Vogt, and Krusch, 1, 1914, p. 129).
+
+_Infra-Nummulosphere_.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
