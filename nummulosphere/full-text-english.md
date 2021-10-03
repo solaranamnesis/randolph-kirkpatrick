@@ -1154,7 +1154,7 @@ Nummulitic structure is clear enough — to my practised sight — in meteorite 
 
 The evidence is now overwhelmingly in favour of a theory of terrestrial origin. There is, it is true, some adverse evidence, but rather of a negative kind, viz., the absence of proof that a terrestrial volcano could eject a meteorite with an initial velocity of more than six miles a second. Sir Robert Ball assumed that sufficiently powerful eruptions might have occurred in some early azoic period, but the meteorites are of organic origin, therefore they were erupted after the time when the ocean had become the abode of life. Even in historic times we know of eruptions — e.g., Krakatoa, so terrific that the explosion was heard 3000 miles away. In the long course of geologic time, much greater eruptions than that of Krakatoa may have occurred. Volcanic blocks and bombs are known to be hurled miles high with great velocity. Why assume the impossibility of their being hurled to a much greater height with a much greater velocity than hitherto suspected?
 
-Dr. Otto Hahn* believed in the organic origin of meteorites, but he fails to produce any evidence in support of his theory. He mistook the chondrules of aerolites for Sponges, Corals, and Crinoids. These bodies are peculiar formations of a mineral nature, but at the same time they ow r e their characters in some measure to the structure of the underlying organic basis.
+Dr. Otto Hahn* believed in the organic origin of meteorites, but he fails to produce any evidence in support of his theory. He mistook the chondrules of aerolites for Sponges, Corals, and Crinoids. These bodies are peculiar formations of a mineral nature, but at the same time they owe their characters in some measure to the structure of the underlying organic basis.
 
 *) 'Die Meteorite (Chondrite) und ihre Organismen.' 1880.
 
@@ -1175,6 +1175,74 @@ On the other hand, the fact that aerolites are _mainly_ composed of pyroxene com
 *) 'Volcanoes,' p. 322.
 
 "The Asiderites" (aerolites without iron) "are quite identical in composition with the ultra-basic lavas of our globe" (Judd). Ultra-basic "nodules" of nearly the same composition as meteorites are found in basalt, and in the centre of volcanic bombs.
+
+Dr. G. T. Prior in a paper 'On the remarkable similarity in chemical and mineral composition of chondritic meteoric stones'* has pointed out "the practical identity in chemical composition of different meteoric stones." They contain 74 per cent. of silicate of magnesia and iron (Olivine and Bronzite), 10 per cent. of silicate of alumina, with sodium, calcium and a trace of potassium (soda-lime felspar), 15 per cent. iron alloys and protosulphide (nickeli-ferous iron and troilite) and 1 per cent. Chromite. Here are all the eight familiar elements of igneous rocks, of benthoplankton organisms and sea-water, viz., O. Si. Fe. Al. Mg. Ca. Na. K. Lockyer ('The Meteoritic Hypothesis,' p. 25) marks in italics the statement that magnesium is present in all siderites. It is also common in the sea, in limestone deposits formed in the sea, and in igneous rocks.
+
+*) See analyses of Baroti and Wittekranz meteorites. G. T. Prior, Min. Mag., 17., pp. 27, 31. 1913.
+
+The sea is the common parent of benthoplankton, igneous rocks, and meteorites, these being one and the same material variously modified by time and circumstance.
+
+##### On the ultra-basic composition of the Meteorites
+
+What first induced men of science to pay attention to the popular belief that meteorites were really sky-stones was the discovery that these bodies had approximately the same composition even though found in far-apart localities. Meteorites are ultra-basic, that is to say, there is only a low percentage of silicic acid (silica) and a high one of bases, especially of magnesium. A simple explanation now, I think, offers itself.
+
+In Chapter 4 it was suggested that Eozoon and Monte Somma bombs might be regarded as transition-stages between ordinary limestones and igneous rocks. The silicatic element of Eozoon and the bombs is ultra-basic. In the case of the Canadian and Finland and Vesuvian Eozoon it is abundantly clear that heat has caused the silica to unite with bases to form silicates. It may well be that while some great volcanic outburst was developing, the gathering high temperature caused the silica of overlying limestones to unite with magnesium, etc., to form olivine. When the explosion came the fixed lid of the cauldron was shattered with terrific force, and masses would be torn off from the sides of the volcanic pipe. It may be, then, that meteorites had never reached the fourth or igneous-rock stage of metamorphism, and therefore had never been products of magmatic differentiation. The absence of quartz would perhaps be due to the fact that the very fierce eruptions did not happen to take place where there were overlying volcanic rocks of the nature of rhyolites, nor in the neighbourhood of richly siliceous limestones.
+
+The differences in the densities of meteorites have led to the supposition that these objects may have come from different zones of some cosmic body, viz., the pure siderites from a very deep or nuclear zone, the siderolites from a higher, and the aerolites from a still more superficial zone.
+
+Walterhausen (1853) regarded the earth as a body composed of concentric shells, lighter acid rocks being at the surface, heavier basic rocks deeper and metallic zones still deeper. Suess,* again, assumes the existence of three zones or envelopes as determining the structure of the earth,viz., the deepest or barysphere of nickel and iron, the middle Silica-Magnesium zone and the surface Silica-Aluminium zone.
+
+*) 'The Face of the Earth,' 4. p. 544. 1909.
+
+Dr. Leigh Fermor,* in a paper on the origin of meteorites, is led to assume the existence of a garnetiferous zone between a central metallic and a plutonic zone. Consequently he makes use of the term "infra-plutonic" for the garnet zone.
+
+*) 'Preliminary Note on the Origin of Meteorites.' Journal and Proceedings of the Asiatic Society of Bengal, 8, 1912, p. 315. I would point out that we have not yet arrived even at a plutonic zone, let alone an infra-plutonic. I find traces of oceanic organic life in garnetiferous schists from Sikhim and Tyrol. The birthplace of siderites is in Neptune's territory. This criticism is merely one of nomenclature.
+
+Whether the lithosphere is sorted into zones or not, it is only one common organic deposit. Certainly the siderites are not "iron dug from _central_ gloom." It is by no means certain they originate from a specially deep zone. Probably all the iron in the known crust of the earth has one common primal origin — the sea.
+
+The deeper layers of the mineralized oceanic organic deposit have been heated, and have risen up in the form of dykes, bosses, and sills penetrating the overlying crust and even breaking through the surface. Upheaved portions of this same deposit have been ground down and leached, the soluble iron salts becoming deposited along certain planes of fissures and faults (veins). There is no evidence to show that the basal part of the nummulosphere (or lithosphere) is richer in metal than the higher levels. In the case of veins, at any rate, some practical mining engineers are wholly opposed to the ancient theory of persistence of ore deposit in depth.*
+
+*) 'Persistence of Ore in Depth.' T. A. Rickard. A paper discussed at a meeting of the Institution of Mining and Metallurgy, Nov. 1914. I have to thank Mr. G. Henriksen for this interesting reference.
+
+According to the Hon. R. J. Strutt, the earth's interior can hardly consist mainly of iron, for the mean density of the earth is only 5.5, while that of iron is 7.7 (P.R.S. [A] 77, p. 484. 1906).
+
+##### Note on Shooting-stars and Comets
+
+In the chapter on chalk I have ventured to suggest the possibility of a relationship between chalk and some comets.
+
+If astronomers are correct in assuming there is a connection between meteorites, shooting-stars, and comets, then assuredly there is a justification for this apparently audacious suggestion. As a result of innumerable, long-continued and patient observations, I have arrived at the conviction that 100 per cent, of the magnificent collection of meteorites I have examined are bodies of organic origin.
+
+It is not unreasonable to assume that some of the "shooting" or "falling stars" that do not happen to reach our earth may also be of similar origin.*
+
+*) Tschermak and Sir Robert Ball regarded the meteorites on the one hand, and the almost imponderable shooting stars and comets on the other, as wholly distinct classes of objects.
+
+Even the great showers of shooting-stars may be related to the meteorites captured by the earth. Perhaps it is not merely a coincidence that during one of these displays a siderite fell, viz., at Mazapil, Mexico.
+
+Sir Norman Lockyer considers the difference between an ordinary meteorite and a shooting-star to be merely one of size.* A shooting-star weighing only one grain and moving thirty miles a second, would possess an energy of 55,675 foot-pounds. No wonder it makes a splash in the aerial ocean into which it plunges!
+
+*) 'The Meteoritic Hypothesis,' 1890.
+
+If we could imagine some terrific volcanic eruption, capable of overcoming diminished aerial resistance and gravitational pull, it would not perhaps be difficult to account for the 33-year showers of shooting stars. A violent preliminary discharge would cleave the heated rarefied column of air like a battering-ram, and a closely following rush of matter would take place in a partial vacuum. The Alaskan volcano Katmai covered the country in a thick bed of dust over thousands of square miles. If a column of such material got shot out into space it would become drawn out into a great band of dust, each particle of which would become a shooting-star when, with its acquired orbital velocity, it re-entered our atmosphere.
+
+According to a theory held at the present day the nuclei of comets are made up of clashing meteorites, the latter not present in sufficient numbers to obscure the stars in front of which the comet may be passing. If the meteorite-theory of comets be true, then some of the meteorites maybe of the same terrestrial origin as those in our museums. It has been suggested that the Mazapil siderite is part of the broken up Biela's comet.
+
+Probably other bodies in the solar system and in the universe eject yolcanically from their mass materials which escape the gravitation-pull of the parent body, and, further, catastrophes may have broken up planets and dark suns. However that may be, it is not improbable in face of the new facts, that all terrestrial captures are of terrestrial origin.
+
+I find the brown-coloured "chondres" or spherules from oceanic abyssal deposits to be organic,* but I could discern no trace of organic structure in the black magnetic spherules — though it is probably there.
+
+*) I have to thank Mr. James Chumley for kind permission to make a microscopic preparation of one of these objects.
+
+I do not believe there is positive evidence of the existence on earth of any cosmic masses or particles that are of non-terrestrial origin.*
+
+*) O. C. Farrington (Meteorites, 1915) thinks the abundance of meteorites constitutes an objection to the theory of earthly origin. Meteorites could hardly be plentiful, or the market value would not be so high.
+
+##### Summary of Chapter 5
+
+Meteorites are mineralized and often ore-enriched lumps of nummulitic rock which have been ejected from volcanoes. On palaeontological and other grounds these bodies may be assumed to be of terrestrial origin.
+
+#### Chapter 6
+
+##### Sedimentary Rocks
 
 ...
 
