@@ -2186,6 +2186,8 @@ Receptaculitidae
 
 Prof. H. Rauff, in the preface of his memoir on the Receptaculitidae,* writes: "With respect to the problem of the true nature of the Receptaculitids my researches end only in the sad result that these interesting bodies will once more be cast out of 'The System,' again to wander around without shelter."
 
+*) 'Untersuchungen Organisation u. systematische Stellung d. Receptaculitiden.' Abhand. Akad. Wiss. München, Bd. 17. p. 645. 1892.
+
 In the earlier chapters of the book of life there are mysterious signs and characters to the meaning of which there appears to be no satisfactory clue at least if we may judge from the fact that a dozen experts may have come to as many different conclusions concerning them.
 
 I am certain that at last the true explanation of the receptaculites has now been found, and it is one which seems to me more interesting than any of the hypotheses hitherto put forward. Apparently the real truth has never even been suspected, because, in the absence of clear evidence, it would have seemed too improbable to have been thought of.
@@ -2238,11 +2240,57 @@ Billings in 1861 was the first to describe one of these forms which he named _Ar
 
 In 1910 Dr. J. Griffith Taylor* published a beautiful memoir illustrated with ninety-four collotype and fifty text figures, in which reference is made to no less than eighty species of these "fossils." Dr. Taylor's material came from a formation extending 400 miles north and south in the Adelaide district, the fossiliferous strata being about 800 feet thick. The formation has been compared with a great barrier reef. Dr. Taylor records the singular fact that with very rare exceptions there were no other fossils than Archaeocyathids.*
 
+*) 'The Archaeocyathinae of the Cambrian of South Australia.' Mem. Roy. Soc. South Australia, vol. 2., 1910.
+
+*)  One recalls Carpenter's description of tertiary nummulitic limestones composed of "little else than Nummulites."
+
 The interval between the inner and outer surface of the typically stalked cup is divided by vertical radial septa and horizontal tabulae into cubical spaces. Sometimes the inner and outer wall, and the septa and tabulae are all perforated by pores.
 
 Archaeocyathids have been regarded as Calcareous Sponges, Hexactinellid Sponges, a new class of Sponges near Calcarea (Dr. Taylor), Corals of various kinds, and as Calcareous Algae. The porous inner walls and certain other structures recall Sycon sponges. The radial septa on the other hand, suggest coral structure, Dr. Bornemann, who seemed to incline to the coral theory, thought the pores might be for the emission of whip-like filaments.
 
 I had the good fortune to have access to some of Dr. Taylor's South Australian material. A section of a typical mass of Archaeocyathid limestone, including outer and inner walls and septa of Archaeocyathids, showed the material to be nummulitic throughout, the supposed fossils being merely concretionary or lithomorphic patterns in the common mass. Along with considerable differences, there are certain resemblances between Silurian Receptaculitid and Cambrian Archaeocyathid lithomorphs. The perforations might be compared with the patterns of circles on the cuplids of certain "species" of Cyclocrinus (Fig. 35 _e_);* for along with differentiation in pattern there is often difference in degree of solubility, so that circles might easily become pores.
+
+*) Dr. Stolley, 'Archiv. Anthrop. Geol. Schleswig-Holstein,' 1. pp. 196-7, figs. 14-16. 1896.
+
+Syringosphaeridae or Karakoram Stones
+
+In a report on the results of the Second Yarkand Mission (1879), Prof. M. Duncan described certain large oval or spherical stone balls collected from Tertiary limestones in the Karakoram Mountains. The balls are an inch or two in diameter and often have a nodulated surface. On section they reveal a radiating pipe-like pattern.
+
+At first they were regarded as Crinoids, corals, or Foraminifera. Prof. M. Duncan placed them in "a new order of Rhizopoda called the _Syringosphaeridae_." I have examined specimens and sections of those objects and find them to be concretionary lumps of nummulitic limestone. The lithomorphic pattern is radial-"tubular," although there are no _hollow_ tubes. Certain other forms apparently allied Syringosphaeridae are _Ellipsactinia_ Steinmann, _Sphaeractinia_ Steinm., and Heterastridium Reuss., but I have not seen sections under the microscope and am not certain.
+
+Solenopora
+
+In 1878 Dybowski* established a genus _Solenopora_ for certain small spheroidal fossils about a cubic inch in size occurring in the Silurian of the East Baltic. Sections showed the lumps to be formed of extremely fine apparently parallel-tubular structures. Dybowski believed the tubes contained polyps, and that the fossils were corals. Nicholson* found similar fossils in the Ordovician limestone at Craighead, Ayrshire, and regarded _Solenopora_ as a Hydrozoan. Soon Dybowski's coral theory became discredited, for seemingly 150 polyps would have only a square millimetre of area in which to perform their evolutions. A much more plausible theory was adopted to the effect that the fossil was a calcareous alga related to _Lithothamnion_. In 1894 Dr. A. Brown* wrote a paper on the structure and affinities of _Solenopora_. His plate giving figures of sections of _Lithothamnion_ and _Solenopora_ certainly reveals striking superficial resemblances.
+
+*) 'Die Chaetetiden ostbaltischen Silur-Formation,' plate 2. fig. 2 a, b.
+
+*) 'Geol. Mag.' (3), vol. 2. p. 529, 1885, and vol. 5. p. 19, 1888.
+
+*) 'Geol. Mag.' (4.), vol. 1. p. 145. 1894.
+
+Dr. Rothpletz* also has put the genus among the Coralline algae.
+
+*) 'Kalkalgen Obersilur Gottlands,' p. 7. 1913.
+
+My own observations are based on sections of _Solenopora compacta_, Billings, from the Ordovician limestone of Craighead, Ayrshire. At first sight nothing could seem more reasonable than the coralline-alga theory. I have seen a thick bed of corallines of Miocene age in the islet of Cima near Porto Santo, with the algal structure very well preserved; and many species of Tertiary and Cretaceous Lithothamnions are known. The "cells" of _Solenopora_ though extremely large in comparison with those of known coralline algae yet might pass for a large variety of such cells.
+
+When I came to examine sections of the Ayrshire Solenopora critically and with extreme care, I not only found nummulitic structure throughout, but saw that the supposed cells could not possibly be of the nature of algal cells. For as Dybowski pointed out, the longitudinal outlines are very distinctly wavy. Further, under high powers it will be found that there is no structure in these outlines _qua_ outlines; they are simply dark zones, and nummulitic disk structures may be partly in the dark zone and partly in the adjoining more transparent areas. The supposed ends of the algal cells ("tabulae" on the coral theory) are not infrequently arranged in fine concentric zones, though often the fine lines appear to be broken up into bars, each bar being confined to a separate tube. Accordingly in some places there is a network pattern of longitudinal and transverse lines, the former being by far the more predominant (compare Fig. 28 of _Clathrodictyon_). I am convinced that the Craighead _Solenopora_ is a lithomorph.
+
+As for the many other species, also H. Yabe's* new Japanese genus Metasolenopora, I think it probable, judging from the photographs (_vide_ memoirs by Rothpletz and Yabe), that these forms also are lithomorphs.
+
+*) 'Science Reports, Tohuku Imp. Univ.,' ser. 2, Bd. 1. 1912.
+
+The lithomorph pattern is so strong and the nummulitic structure so faint that much patience is needed for the detection of the latter. I am fairly certain I can make out nummulitic details both in the lower and upper half of Dr. Rothpletz' photo of _Solenopora gotlandica_ (Plate 1. Fig. 3, _l.c._). Fig. 2 when examined with a lens 10x shows disk-structures and a curious pattern of fine closely-set transverse lines other than the main zonal lines.
+
+In some of the sections of Girvan limestone perhaps two genera of "calcareous algae" and also stromatoporoid patterns may be found in a very small area (e.g. Girvanella, Solenopora, and Beatricea, or Labechia-like vesicular pattern). In such a section there is nothing but a common basis of nummulitic limestone in which is woven a wonderful variety of osmotic patterns.
+
+Palaeoporella, Vermiporella, etc.
+
+Dr. E. Stolley* describes certain funnel- or club-shaped calcareous bodies of Silurian age, varying from 2 to 14 mm. in length, found by him in the diluvium of East Holstein. The objects may be hollow, with a pore below and a depression at the upper end, and with a facetted surface. He regards them as calcareous algae related to Bornetella (Siphoneae Verticillatae).
+
+*) E. Stolley, 'Ueber silurische Siphoneen,' Neues Jahrb., 1893, 2., p. 135.
+
+Thanks to the courtesy of Dr. Stolley I have some authentic pieces of limestone rich in these objects. In my sections I can find nothing else than nummulitic structure throughout, both in clear and opaque areas. I am led, then, to regard these curious objects and markings as purely concretionary. Among this group I would place the Silurian _Rhabdoporella_; and also _Ortonella_ described by Prof. Garwood from carboniferous limestone. I have not seen examples of these two forms.
 
 ...
 
