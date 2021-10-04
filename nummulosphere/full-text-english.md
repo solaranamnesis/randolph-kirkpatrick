@@ -2056,6 +2056,32 @@ If the water and carbonic acid permeating a limestone dissolve out and hold the 
 
 In _Beatricea_ and _Labechia_ the wavy vesicular patterns give the impression of being due to forces acting in a rhythmical and undulatory fashion. In the former " genus " the shape is frequently that of a hollow cylinder, and the wavelets are in concentric series and convex outwards. (See Nicholson's 'Monograph,' Plate 8. Figs. 1-3.)
 
+The agencies which have led to the formation of Stromatoporoids have acted not on homogeneous limestones but on hardened nummulitic deposits.
+
+In Tertiary nummulites the pillars are more transparent than the rest of the shell, this being due apparently to differences in the organic structure. Further, in Stromatoporoid masses of nummulites, certain of the stronger portions of the shells are more opaque, especially at points where alar prolongations cross coils of marginal cord. Whether these nodal points offer greater resistance to leaching, or whether they capture more precipitated material it is difficult to say.
+
+What with variations in composition, solvent power, temperature, direction and impinging force of leaching fluids on the one hand, and of size, thickness, and mode of arrangement of nummulite shells on the other, it is not surprising that several families and genera and numerous species of Stromatoporoids have been formed.*
+
+*) Personally I have the impression that the degrees of difference have been somewhat exaggerated; and there would be a tendency to do this in the endeavour to find good systematic characters. It is significant that Prof. Roemer (in 1844) "arrived at the conclusion that almost all the species of Stromatoporoids described by former observers might be regarded as variations of a single type." (Nicholson, _l.c._, p. 7.)
+
+Summary. — In the earlier Palaeozoic limestones or in their _débris_ are found lumps of rock known as Stromatoporoids, and generally supposed to be fossil Hydrozoa. The lumps have a banded structure, and when polished or cut into sections show a reticular or wavy pattern. The specimens are lumps of nummulitic limestone. Nummulitic structure can be seen, but not without difficulty, in weathered surfaces with the aid of a lens. Spiral coils of marginal cord, alar prolongations, and disk structures are visible in thin sections under higher magnification. The reticular and mottled patterns are the expression of clear and opaque areas in the rock, and are due to the operation of chemical and physical agencies. Stromatoporoids are lithomorphs.
+
+Postscript. — Perhaps the best and simplest method of detecting the nummulitic nature of Stromatoporoids and other lithomorphs would be to examine photographs (and negatives) made from large thin sections natural size or magnified only two or three diameters.
+
+##### Chapter 11
+
+###### Certain other Lithomorphs
+
+Parkeria and Loftusia
+
+In the Philosophical Transactions for 1869 Carpenter and Brady wrote a joint memoir entitled 'Description of _Parkeria_ and _Loftusia_, two gigantic types of Arenaceous Foraminifera,' illustrated by nine plates, _Parkeria_ being described by Carpenter, and _Loftusia_ by Brady. Since the memoir was published, various other opinions have been held concerning these types, which have been regarded as porcellanous Foraminifera and as Hydrozoa.
+
+The structure and pattern are so remarkable that it is not surprising their real nature has been misunderstood. It scarcely seems credible that the wonderful lace-like patterns seen in the sections could have been fashioned by purely physical agencies, yet such is the fact.
+
+Parkeria
+
+In the Upper Cretaceous formation known as Cambridge Greensand there are found spherical stone balls about half an inch to nearly three inches in diameter, with smooth or slightly papillated surface (Plate 5. A, Fig. D). The fractured surfaces of a broken ball often show no structure or very little, but polished sections or thin slices reveal a beautiful pattern of concentric circles and radial spokes in a translucent matrix (Plate 6). Between the circles and surrounding the radii there are labyrinthine networks of lace-like traceries. Sometimes in the centre of the sphere there is a conical area with several horizontal platforms, or there may be _débris_ of sand and sponge spicules, or again no noticeable structure or material. The balls are commonly composed of carbonate of lime, the "fibres" being opaque or semi-crystalline, and the "spaces" transparent and crystalline. Sometimes both fibres and spaces may be made of phosphate of lime. Again, the fibres may be of phosphate of lime and the spaces empty, or the spaces may be filled with silica.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
