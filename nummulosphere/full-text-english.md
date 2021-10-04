@@ -1919,6 +1919,42 @@ The term "concretion" has strong claims, but is, I think, hardly satisfactory as
 
 The characters available for a classification of lithomorphs are shape and structure. The shape may be spherical or massive, the former including spherical and oval shapes, and the latter massive, hemispherical, conical and branched forms. The structure or pattern may be prevailingly concentric, or prevailingly radial, or lastly "stromatic," i.e. with "layer upon layer" rather than with "layer within layer." By taking both shape and structure (or pattern) into account, lithomorphs may be arranged as follows:—
 
+Group 1. Concentric. Structure predominantly concentric, or spiral; shape spherical or oval. Examples: _Parkeria_, _etc._, _Loftusia_, oolite* and pisolite, final stage of certain Fulwell concretions.
+
+*) Oolite grains may have "a concentric and radiate, or simply a concentric or radiate structure." Mem. Geol. Survey. 4. 1894. 'Lower Oolitic Rocks of England,' p. 6. All the figures show the completely and the predominantly concentric types. Some Parkeria-patterns, too, might almost be classified as radial.
+
+Group 2. Radial. Structure predominantly radial, shape various.
+
+Sub-group _a_. Shape spherical, oval or cup-shaped; structure "tubular"* or columnar, often with facetted surface: Cyclocrinus etc., Receptaculitidae, Archaeocyathidae, Syringosphaeridae.
+
+*) The "tubes" are not hollow and never have been. There is only a tubular appearance or pattern.
+
+Sub-group _b_. Shape nodular or doubtful; structure tufted-"tubular" or flabelliform, sometimes facetted: _Palaeoporella_, _Vermiporella_ _etc._, _Ortonella_, _Solenopora_, _Mitcheldeania_, _Oldhamia_.
+
+Sub-group _c_. Shape doubtful, structure vermiform-"tubular": _Girvanella_.
+
+Group 3. Stromatic. Shape often massive; with reticular pattern; usually with obscurely marked radial and tangential elements: Stromatoporoids, Spongiostromids, Eozoon, many Fulwell concretions.
+
+_Remarks_. — Of living things it is said "crescunt et vivunt," and further, they reproduce themselves. Consequently there is a relationship between parent and offspring: "lapides crescunt" only, but for all that, some concretions are known to undergo a remarkable series of changes,* and, further, these bodies are formed in accordance with certain laws. Consequently it may be possible to arrive at a natural classification. Some petrologists speak of a "natural history" of igneous rocks and attempt to establish a natural system of classification.
+
+*) Mr. G. Abbott's mince-pie-shaped concretions in Fulwell quarry appear to begin as excentrically radiate masses of pillars, and to develop into bodies with concentric laminae. Further, there might be different stages in different parts of the same concretion, certainly a trying object to fit into any scheme of classification!
+
+The laws of rhythmical precipitation and arrangement of suspended particles have been much studied by Liesegang* and Hatschek, and may throw light on concretionary processes.
+
+*) R. Liesegang, 'Geologische Diffusionen,' 1914.
+
+One might conceive the idea of a hypothetical lithomorph-shape in the form of a permeable sphere of carbonate of lime suspended in a saturated solution of carbonate of lime in carbonic acid and water. Diminution of solvent power would lead to a precipitation of carbonate of lime, concentrically and radially, or concentrically or radially the patterns varying with the conditions.
+
+A chronological arrangement brings out interesting features. Eozoon* lithomorphs are mostly Precambrian. Archaeocyathidae are characteristic of Cambrian rocks; Stromatoporoids of Ordovician, Silurian and Devonian, a few also (_fide_ Gürich and Dupont) occur in the Carboniferous; Receptaculitidae in the Silurian and Devonian chiefly; _Cyclocrinus_ Silurian; Spongiostromids in the Carboniferous, etc. Further, palaeontologists find these lithomorphs to be useful indicators of horizons. The fact of their not being organisms will not destroy, though it may somewhat diminish, their value in these respects. Just as an art-expert knows the period of a work of art by its style, so a palaeontologist may learn much from the "style" of a lithomorph.
+
+An attempt to arrange lithomorphs according to shape and pattern will at least afford an order of description for the present occasion, and may perhaps serve as a basis for future discussion.
+
+The first of the two following chapters will be devoted to Stromatoporoids on account of the historical interest of these objects, and the second to a very brief account of the rest of the lithomorphs mentioned in the classification.
+
+##### Chapter 11
+
+###### Stromatoporoids
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
