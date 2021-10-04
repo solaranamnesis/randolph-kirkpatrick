@@ -2194,6 +2194,56 @@ Receptaculites and kindred objects are typically spheroidal or pear-shaped bodie
 
 Each "element" typically has six parts, viz. (1) an outer diamond-shaped facet, beneath which lie (2-5) four tangential arms, and (6) a fifth long radial arm or column projecting inwards and expanding into a foot, which along with other "feet" helps to form the inner surface of the wall of the hollow sphere. Between the radials or columns there are "spaces." One ot the four tangential arms is fused to the facet. The radial arm is hollow. There is an under and an upper pole marked by areas of peculiar facets. Receptaculites are found in ancient rocks from Lower Silurian to Carboniferous. Rauff showed that their original composition was calcareous, though some may have become silicified subsequently.
 
+Receptaculites have been regarded as fossilized fir-cones; corals; Crinoids; Foraminifera; calcareous algae (Siphoneae verticillatae) related to the Dactyloporidae, or to such Dasycladaceae as _Bornetella_; primitive types of Sponges; gemmules of Freshwater Sponges; peculiar Hexactinellid Sponges; Tunicata.
+
+Prof. RaufT himself concludes as follows (_l.c._ p. 717): "For the moment we must be content with an 'Ignoramus,' and can only say that the _Receptaculitidae form a peculiar family which after their death failed to leave behind any similarly organized representatives either in the ancient or modern world."
+
+The results of my own research can be summed up in a few words.
+
+I find receptaculites to be lithomorphs — for the moment they may be called pseudomorphs. They are forms of limestone which have become differentiated out of the matrix in which they are embedded, by the action of chemical and physical forces. How can this be known? By the simple fact that the limestone of which these bodies are composed is _nummulitic_ limestone, which may occasionally be silicified. The patterns, the spaces and the interior of the globular bodies are all composed solely of nummulitic material which can be made out when very carefully examined in thin slices (Fig. 40, and photo Plate 2. E 22), or even in the mass with a hand-lens.
+
+How can the peculiar shape and structure of receptaculites be accounted for?
+
+Just as a comparison of living organisms with each other helps us to arrive at a knowledge of their mutual relationships and of the manner in which they have evolved, so with lithomorphs.
+
+In lithomorphs there appear to be two dominant types of pattern, viz., concentric and radial. In the various stages of development of certain lithomorphs the "evolution" of which is known, the pattern may be predominantly radial at one stage, and predominantly concentric at another; and, further, both types may be present at the same time in one and the same specimen.
+
+Mr. G. Abbott after a twelve years' search found certain mince-pie-shaped or biconvex concretions _in situ_ in the rocks at Fulwell. He found that these bodies were formed in the first stage of pillars radiating from some excentric point to the surface. In the second stage the pillars became regularly and serially nodular, in the third the nodules joined laterally to form concentric bands with spaces still between, and lastly the spaces were filled up, and a solid mass with a finely concentric structure resulted. Sometimes concretions exhibited partly the radial, partly the concentric type. This interesting discovery teaches us there may be an "evolution" in the formation of lithomorphs.
+
+Another discovery made by Mr. Abbott was that of the fusion of the pillars of pillared forms in such a way as to form tubes.
+
+Turning now to the concretions of the palaeozoic rocks older than the Permian, we find a much more finished type of "art." Were it not for the fact that _Coelosphaeridium_, _Cyclocrinus_ and _Receptaculites_ resembled the Permian concretions in being wholly composed of nummulitic limestone, we could never have suspected that these bodies have evolved from lithomorphs with simple radial and concentric patterns. I must refer once more to one or two details mentioned under Cyclocrinus. In the spherical Coelosphaeridium the radial pillars are always present, and the spaces between the pillars expand gradually up to the surface of the sphere. In _Cyclocrinus_ the radial pillars are frequently absent and there remains only a thin surface zone of cup-like patterns, each "cup" having a "lid" often of marvellous design and, still more strange, apparently a "pore" in the floor. In some examples of _Cyclocrinus_, however, the radial pattern exists, or rather I will venture to say, persists. The space between the radial pillars is linear or thread-like and of uniform diameter, till it arrives at the floor of the "cup" into the cavity of which it suddenly expands.
+
+Coming to the "Receptaculitidae," in the _Receptaculites_-type of receptaculite the supposed infilling matrix in the assumed hollow interior is simply a part of the lithomorph without visible structure.
+
+The "wall" is a peripheral zone which has retained some of the radial and concentric structure as in certain examples of _Cyclocrinus_.
+
+In the _Polygonosphaerites_-type of receptaculite the radial element is wanting. In the Ischadites type the wall is very thick and the central "cavity" relatively small. The centre whence the radial pillars radiate in receptaculites and kindred bodies is usually excentric.
+
+Frequently these ancient lithomorphs are stalked. The continuation of the homogeneous stalk structure into the interior point whence radii originate, may be compared with a variety of "phragmacone" in Parkeria (Fig. 35 _i_).
+
+G. Abbott finds the surface of the biconvex Permian concretions rough and tuberculated in the first stage. A Permian body exhibited in the Natural History Museum has a facetted surface, but somewhat irregular, it is true.
+
+It must be remembered that in the first instance there are no "spaces" in a lithomorph, but simply a solid lump of rock with a pattern. Later, cavities may arise by solution and removal of more soluble elements.
+
+The Permian lithomorphs are to the Silurian as the works of art of the craftsman period are to those of the great period of any school of art.
+
+The "evolution" of complex inorganic structures such as Cyclocrinus suggests a comparison with processes of organic evolution. A homogeneous lump of limestone undergoes a change into a mass of excentrically radiate pillars crowded together. The central and peripheral parts become differentiated. The peripheral parts undergo further differentiation both radially and concentrically, and the outer concentric plates themselves develop radial patterns, knobs, etc., each variation as it arises becoming a starting point for further variations, just as in organic life.
+
+Archaeocyathinae
+
+In the most ancient palaeozoic limestones, viz. the Cambrian, remarkable cup- or vase-shaped objects of an unknown nature are found. Like the Cambrian limestones themselves they are practically of world-wide distribution.
+
+Billings in 1861 was the first to describe one of these forms which he named _Archaeocyathus_.
+
+In 1910 Dr. J. Griffith Taylor* published a beautiful memoir illustrated with ninety-four collotype and fifty text figures, in which reference is made to no less than eighty species of these "fossils." Dr. Taylor's material came from a formation extending 400 miles north and south in the Adelaide district, the fossiliferous strata being about 800 feet thick. The formation has been compared with a great barrier reef. Dr. Taylor records the singular fact that with very rare exceptions there were no other fossils than Archaeocyathids.*
+
+The interval between the inner and outer surface of the typically stalked cup is divided by vertical radial septa and horizontal tabulae into cubical spaces. Sometimes the inner and outer wall, and the septa and tabulae are all perforated by pores.
+
+Archaeocyathids have been regarded as Calcareous Sponges, Hexactinellid Sponges, a new class of Sponges near Calcarea (Dr. Taylor), Corals of various kinds, and as Calcareous Algae. The porous inner walls and certain other structures recall Sycon sponges. The radial septa on the other hand, suggest coral structure, Dr. Bornemann, who seemed to incline to the coral theory, thought the pores might be for the emission of whip-like filaments.
+
+I had the good fortune to have access to some of Dr. Taylor's South Australian material. A section of a typical mass of Archaeocyathid limestone, including outer and inner walls and septa of Archaeocyathids, showed the material to be nummulitic throughout, the supposed fossils being merely concretionary or lithomorphic patterns in the common mass. Along with considerable differences, there are certain resemblances between Silurian Receptaculitid and Cambrian Archaeocyathid lithomorphs. The perforations might be compared with the patterns of circles on the cuplids of certain "species" of Cyclocrinus (Fig. 35 _e_);* for along with differentiation in pattern there is often difference in degree of solubility, so that circles might easily become pores.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
