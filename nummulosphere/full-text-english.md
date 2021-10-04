@@ -2014,6 +2014,48 @@ The Shape, which is commonly hemispherical, massive, conical or pinnacle-like, i
 
 I derived much instruction from the investigation of a fine collection of "concretions" exhibited in the Natural History Museum. The specimens, which came from the Permian limestone quarries of Fulwell near Sunderland, were collected by Mr. George Abbott, who has done great service to science by presenting sets of these wonderful objects to public institutions. While I was planning a visit to Fulwell, I received from Mr. Abbott an invitation, which I gratefully accepted, to go over the quarries under his guidance.
 
+The limestone formation is about 200 feet thick and covers an area of two square miles. In many places and on a vast scale the formerly homogeneous mass of limestone has become sculptured into coralloid forms. Mr. Abbott* has traced a definite "evolutionary" series of stages, from forms with pillars to solid masses with concentric bands.
+
+*) 'Discoid Limestones which simulate Organic Characters,' 1914.
+
+I was struck with the frequent resemblances between the Permian concretions and the Silurian and Devonian Stromatoporoids (Plate 5.).
+
+No one has thought of regarding the Permian bodies as fossils; there is almost as little reason for considering the earlier Palaeozoic bodies as such. Careful observation reveals the common nummulitic foundation of both.
+
+The Surface of Stromatoporoids is often nodulated in a fairly regular way suggestive of organic growth; and further, certain meandrine markings and stellate groups of ridges and furrows resemble orifices of polyps or oscules of sponges.
+
+The Layered Structure, to which the Stromatoporoids owe their name, is suggestive of zones of organic growth, but is due to the operation of physical causes.
+
+The existence of the Pattern of so-called fibres, although it did not originate the fossil theory, has been the chief reason for the maintenance of the latter at the present day.
+
+The fibres have been mistaken for the skeletal network of horny calcareous or siliceous sponges, for the skeleton of a large Foraminiferan, and for various types of coral skeleton. The fibres and clear spaces between them are simply darker and lighter or opaque and crystalline areas in a mass of nummulitic limestone. Careful and detailed observation shows the nummulitic structure throughout, and in continuity across light and dark spaces.
+
+Concentric coils of spiral lamina crossed by radial alar prolongations, and also layers of spiral lamina are visible, especially in transverse sections of "_Actinostroma clathratum_."
+
+Fig. 31 shows a transverse section of one end of a shell in "_Stromatopora concentrica_"; here the striated and pillared structure of successive walls is seen, and under high powers the characteristic nummulitic disk structure. Strange to relate Nicholson referred to "tubuli" as possible evidence of Foraminiferal nature, but ended in comparing these appearances with the canaliculi of _Millepora_. (See his 'Monograph,' footnote p. 66.)
+
+I can now see even with a hand-lens a good deal of nummulitic structure on weathered surfaces of specimens, but practice and patience are required here as well as in detecting that structure in sections.
+
+The photographs on Plate 4 were originally taken simply to show the light and dark spaces, but with a lens it is possible to make out serial rows of disks. The pictures represent a very small part of a shell which, if only an inch in diameter, would cover about 50 square yards under a magnification of 260 diameters.
+
+Certain Stromatoporoids are traversed by long crystal "tubes" or "columns" disposed at right angles to the concentric layers of the fossil. Nicholson, who calls these structures "Caunoporatubes," writes concerning them: "The singular fossils for which the generic names of _Caunopora_ and _Diapora_ have been proposed are known, to their cost, by all students of the Stromatoporoids. They have proved a fertile source of difference of opinion."
+
+According to one view, fossils with these "tubes" were distinct genera of Stromatoporoids. Prof. Roemer considered them to be due to the commensalism of Stromatoporoids with certain corals. According to a third opinion, the "tubes" were states or conditions of certain individuals. This last view, held by Nicholson himself, is the one that is nearest the truth. For the tubes are nothing but peculiar mineralizations taking place in certain masses of nummulitic limestone.
+
+The nummulitic nature of the rock probably had much to do with the creation of this pattern. Series of "pillars" often blend to form clear columns in Nummulites (Fig. 23 A). In a section of _Stromatoporella bücheliensis_ I can see alars and marginal cords in the Caunopora-tubes. At one time I mistook these structures for the expression of the segments of Annelids. Nicholson, again, refers to "funnel-shaped tabulae" in the tubes. These structures are, perhaps, series of minute nummulite septa.
+
+The greater resistance of the tubes to weathering sometimes produces extraordinary results. A specimen of _Stromatopora Hüpschii_ (Nicholson's 'Monograph,' Plate 22. Fig. 7) somewhat resembles a mass of _Tubipora musica_, the Organ-pipe Coral.
+
+The patterns in the early Palaeozoic limestones result from the operation of chemical and physical causes, apparently the chief of these being the dissolving action of water and carbonic acid acting under certain conditions. These solvents affect all limestones, but not usually with the result of creating Stromatoporoids. Sections of chalk or of Fulwell limestone, for instance, are opaque and homogeneous. Why, then, should sections of portions of the older limestones show a mottled pattern of clear and opaque areas? The answer appears to be that the metamorphosing agencies have been acting on the older rocks for a much longer time, and, further, their action has been supplemented by crustal disturbances, and often by the neighbourhood of volcanic centres. Pressure, which, as Dr. J. Lehmann demonstrated, produces such powerful effects on metamorphic rocks, would also modify the structure of limestones.
+
+Of late years many observations and experiments, especially by Hatschek and Liesegang, have demonstrated the tendency of particles thrown down in fluid or colloid menstrua to be _rhythmically_ precipitated, that is to say in concentric rings separated by clear zones.
+
+Sometimes the patterns formed by these experimental rhythmical precipitations curiously resemble those of Stromatoporoids and kindred pseudomorphs.
+
+If the water and carbonic acid permeating a limestone dissolve out and hold the carbonate of lime in saturated solution, any diminution of the carbonic acid would cause the lime to be precipitated in concentric zones as in oolite, or in radial-concentric patterns as in many Stromatoporoids.
+
+In _Beatricea_ and _Labechia_ the wavy vesicular patterns give the impression of being due to forces acting in a rhythmical and undulatory fashion. In the former " genus " the shape is frequently that of a hollow cylinder, and the wavelets are in concentric series and convex outwards. (See Nicholson's 'Monograph,' Plate 8. Figs. 1-3.)
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
