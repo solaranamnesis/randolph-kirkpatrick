@@ -1861,6 +1861,40 @@ The finding of spirodiscoid structure in nummulites and in Rhizopodal protoplasm
 
 Concerning the cause of molecular asymmetry in natural organic products, Pasteur asks, "Ces actions dissymétriques placées peut-être sous des influences cosmiques, resident elles dans la lumière, dans l'électricité, dans le magnétisme, dans la chaleur? ... Il n'est pas même possible aujourd'hui d'émettre à cet égard les moindres conjectures." Various lines of research appear to favour the suggestion that light has been the agency that may have brought about gyrate and active rather than racemate and inactive characters of living matter.
 
+In 1850 Jamin* showed that a straight pencil of polarized rays when reflected from water took an elliptical course. Cotton* found that circularly polarized light was affected differently and had a different effect on active and inactive salts of organic compounds (viz. tartaric and racemic cupric ammonium salts). Byk* pointed out that wherever there is water, _i.e._ over the greater area of the planet, there is circularly polarized light, and that this would have the effect of producing a unilateral (einseitig) fauna and flora.
+
+*) 'Comptes Rendus' 36, 1850, p. 696.
+
+*) 'Ann. Chim. Phys.' (7) 8. p. 373, 1896.
+
+*) 'Zeitsch. physikal. Chemie.' 49, p. 641, 1904. Also A. W. Stewart, 'Science Progress' 2. 2, p. 449, 1908.
+
+Apparently sunlight falling on a universal ocean would produce a universal unilateral plankton heliobius, whence perhaps the universal unilateral benthos bathybius would arise. Accordingly, assuming the spirality of nummulites to be an expression of molecular spirality, the spirality of the nummulosphere may be due to the effects of circularly-polarized light on living matter. How reasonable to assume that a great planetary phenomenon such as the nummulosphere should be due to all-pervading cosmic influences!
+
+If light, elliptically and circularly polarized has been the agency that has brought about asymmetry in living matter, then there would be an additional argument in favour of the theory that life originated at the surface of the ocean, and that the asymmetric bathybial life was derived from heliobial life.
+
+Problems concerning the essential nature of existence are generally held to be insoluble owing to the limitations of the human intellect. The following quotation from H. Spencer expressing this view, will not, I hope, be wholly out of place in a chapter of scientific speculations on the origin of life:—
+
+"Having, throughout life, constantly heard the charge of materialism made against those who ascribed the more involved phenomena to agencies like those which produce the simplest phenomena, most persons have acquired repugnance to such modes of interpretation. Such an attitude of mind, however, is significant not so much of reverence for the Unknown Cause, as of irreverence for those familiar forms in which the Unknown Cause is manifested to us. Men who have not risen above that vulgar conception which unites with matter the contemptuous epithets 'gross' and 'brute,' may naturally feel dismay at the proposal to reduce the phenomena of Life, of Mind, and of Society, to a level with those which they think so degraded. The course proposed does not imply a degradation of the so-called higher, but an elevation of the so-called lower."
+
+"May we not without hesitation affirm that a sincere recognition of the truth that our own and all other existence is a mystery absolutely and for ever beyond our comprehension, contains more of true religion than all the dogmatic theology ever written." ('First Principles,' Herbert Spencer.)
+
+Concerning matter and spirit the same philosopher writes "The one is no less than the other to be regarded as but a sign of the Unknown Reality which underlies both."
+
+"The belief in an omnipresent and inscrutable Power is one which the most inexorable logic shows to be more profoundly true than any religion supposes."
+
+#### Part 4
+
+##### Lithomorphs
+
+Linnaeus wrote: "Petrifacta non a calce, sed calx a petrifactis" — fossils are not produced by limestone, but limestone by fossils.
+
+In the next two chapters certain supposed fossils will be described, which are veritably nothing but products of limestone. Some of these objects are so wonderfully fashioned, as regards shape, surface-pattern and interior "structure," that it is not surprising they have long deceived palaeontologists.*
+
+*) At a time when there was much dispute concerning the true nature of fossils, a learned theologian uttered the warning that these bodies were not relics of formerly-living creatures, but objects fashioned by "The Adversary" and "planted" by him in the course of his numerous journeyings up and down in the earth, in order to deceive mankind. If so, the evil "designs" of this personage have had no small measure of success. This interesting theory, however, though partly correct, is untenable as regards the agency that fashioned the pseudomorphs, for here, apparently, the real chiseller was carbonic acid water.
+
+The shaping effect of chemical and physical forces acting on limestone is already well known, but the additional evidence now brought to light as to their marvellous constructive and pattern-making powers will come almost as a new revelation to science. That this statement is no exaggeration is shown by the voluminous records in palaeontological literature concerning supposed orders, families, genera and species of animals and plants that have never existed, founded as they were on pseudomorphic lumps of rock artistically fashioned by concretionary forces.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
