@@ -1949,6 +1949,8 @@ One might conceive the idea of a hypothetical lithomorph-shape in the form of a 
 
 A chronological arrangement brings out interesting features. Eozoon* lithomorphs are mostly Precambrian. Archaeocyathidae are characteristic of Cambrian rocks; Stromatoporoids of Ordovician, Silurian and Devonian, a few also (_fide_ Gürich and Dupont) occur in the Carboniferous; Receptaculitidae in the Silurian and Devonian chiefly; _Cyclocrinus_ Silurian; Spongiostromids in the Carboniferous, etc. Further, palaeontologists find these lithomorphs to be useful indicators of horizons. The fact of their not being organisms will not destroy, though it may somewhat diminish, their value in these respects. Just as an art-expert knows the period of a work of art by its style, so a palaeontologist may learn much from the "style" of a lithomorph.
 
+*) Eozoon is doubtfully included as a lithomorph, for it is a lump of limestone with silicatic layers. The limestone itself is not lithomorphic.
+
 An attempt to arrange lithomorphs according to shape and pattern will at least afford an order of description for the present occasion, and may perhaps serve as a basis for future discussion.
 
 The first of the two following chapters will be devoted to Stromatoporoids on account of the historical interest of these objects, and the second to a very brief account of the rest of the lithomorphs mentioned in the classification.
@@ -1956,6 +1958,43 @@ The first of the two following chapters will be devoted to Stromatoporoids on ac
 ##### Chapter 11
 
 ###### Stromatoporoids
+
+In some of the very ancient limestones there are curious objects varying in size from a few cubic inches to a cubic foot or more, of hemispherical, conical or massive shape, and with a layered structure. They are usually composed of carbonate of lime, but occasionally of silica.
+
+Goldfuss, in his great folio 'Petrefacta Germaniae' (1826), was the first to describe and figure objects of this kind, which he found chiefly in the Devonian limestone of Gerolstein in the Eifel.
+
+Examples from this neighbourhood often have alternating dense and porous concentric layers. (See Plate 3., copied from the original figure.) Goldfuss placed the specimens in a new genus and species, _Stromatopora* concentrica_, which he ranked among the corals near _Millepora_. This very pardonable mistake was the parent of a long line of errors.
+
+Gradually as the Palaeozoic limestones of the Ordovician, Silurian and Devonian periods became better known, numerous other "fossils," akin to _Stromatopora_, were discovered. Succeeding writers devoted memoirs and monographs to the description of these objects, and many and diverse were the views as to their nature.
+
+Below is an incomplete list, compiled as far as 1886 from Nicholson's monograph, giving the names of writers with their opinion concerning the systematic position of Stromatoporoids*:
+
+Goldfuss, 1826. Hydrocorallinae.  
+Steininger, 1834. Sponges.  
+F. Roemer, 1843-4. Corals.  
+Hall, 1847. Alcyonarians near _Tubipora_.  
+D'Orbigny, 1850-51. Sponges.  
+The two Sandbergers, 1850-56. Polyzoa.  
+F. Roemer, 1851-56. Polyzoa, but later tabulate corals like _Favosites_ and _Chaetetes_.  
+Billings, 1857. _Beatricea_ (a Stromatoporoid), a plant.  
+Eichwald, 1860. Horny Sponges.  
+Hyatt, 1865. Some Stromatoporoids regarded as Cephalopoda.  
+Baron von Rosen, 1867. Horny Sponges.  
+Dr. G. Lindström, 1870. Foraminifera, and, in 1873, _Labechia_ allied to Hydractinia.  
+Salter, 1873. Calcareous Sponges.  
+Nicholson, 1873-4. Calcareous Sponges.  
+Dawson, 1875. Between Foraminifera and Sponges.  
+Sollas, 1877. Hexactinellid Sponges, and, later, partly Siliceous Sponges, partly Hydrozoa.  
+Carter, 1877. Hydrozoa.  
+Nicholson, 1886 (the 'Monograph'). Partly Hydroida, partly Hydrocorallinae.  
+Zittel, 1903. Hydrozoa.  
+Geikie, 1903. Polyzoa.  
+Steinmann, 1907. Hydrozoa.  
+Kirkpatrick, August 1912: Sponges. September 1912: Foraminifera.  
+
+It is only necessary to refer here to the view advocated by Lindström and later by Carter, that Stromatoporoids are Hydrozoa. This opinion, adopted by Nicholson in his monograph (1886-1892), is the one held generally at the present day.
+
+Apart from the layered structure, Stromatoporoids often differ but little in outward appearance from ordinary lumps of limestone. When, however, the specimen is polished, or, still better, when cut into thin transparent slices, a curious pattern in the form of a network of "fibres" becomes visible in the stony matrix, the fibres being arranged roughly in two sets, viz., (1) vertical or radial, and (2) horizontal or concentric.
 
 ...
 
