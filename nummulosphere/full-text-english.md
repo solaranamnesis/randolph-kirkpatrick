@@ -2082,6 +2082,46 @@ Parkeria
 
 In the Upper Cretaceous formation known as Cambridge Greensand there are found spherical stone balls about half an inch to nearly three inches in diameter, with smooth or slightly papillated surface (Plate 5. A, Fig. D). The fractured surfaces of a broken ball often show no structure or very little, but polished sections or thin slices reveal a beautiful pattern of concentric circles and radial spokes in a translucent matrix (Plate 6). Between the circles and surrounding the radii there are labyrinthine networks of lace-like traceries. Sometimes in the centre of the sphere there is a conical area with several horizontal platforms, or there may be _débris_ of sand and sponge spicules, or again no noticeable structure or material. The balls are commonly composed of carbonate of lime, the "fibres" being opaque or semi-crystalline, and the "spaces" transparent and crystalline. Sometimes both fibres and spaces may be made of phosphate of lime. Again, the fibres may be of phosphate of lime and the spaces empty, or the spaces may be filled with silica.
 
+Dr. Carpenter concluded that these balls were specimens of a gigantic Sandy Foraminiferan, which he named _Parkeria_ after a distinguished colleague.
+
+He believed that in the living animal the "spaces" were filled with protoplasm, and that the "fibres" constituted the skeleton, the latter being formed of calcareous sand particles picked up by the animal, and held together by a cement of carbonate and phosphate of lime. The conical central structure constituted the primary and initial chambers.
+
+Carter, who took up the problem of _Parkeria_ in 1876,* considered the fossil to be a Hydrozoan near _Hydractinia_ and allied to the Stromatoporoids. For him the central structures when present were simply some foreign objects around which the Hydroid began to grow. The fibres were not built of foreign calcareous particles but were solid structures formed by the animal itself. In a succeeding paper he described the central conical construction as an area modified by the growth of a saprolegnious alga — _Millarella_. The "lynx-eyed Carter" certainly made some valuable and significant observations. He detected on the surface of _Parkeria_, _Loftusia_ and of _Stromatopora_ groups of pores: see his Plate 8 Figs. 16, 18, 19, in Annals (4) 19. In one place* he even remarks "I have alluded to the absence of the foraminated areas; but I think I can see one of these...." Again he writes "one of the chief characters of Foraminifera is their foraminated areas."
+
+*) A.M.N.H., 1877 (4), 19., p. 55.
+
+*) A.M.N.H., 1876 (4), 18., p. 209.
+
+Nicholson* adopted Carter's Hydrozoan theory. He figures the zoophyte _Parkeria_ growing round the supposed chambered shell of a young Ammonite (Annals _l.c._ Plate 3. Fig. 6), just as Hydractinia invests a Gastropod.
+
+*) A.M.N.H., 1888 (6), 1., p. 3.
+
+Steinmann* and Zittel* placed _Parkeria_ among the Hydrozoa.
+
+*) 'Paläontologie,' 1907, p. 152.
+
+*) 'Grundzüge,' 1910, p. 119.
+
+Numerous and very careful observations of specimens and sections have shown me beyond any doubt that specimens of _Parkeria_ are lithomorphic lumps of nummulitic limestone, with the nummulites almost obliterated, and with the lithomorph pattern in the form of concentric zones and radial spokes. I can actually see with the naked eye the faint circular and oval outlines of nummulites about an inch in diameter on the surface of a large specimen in the Natural History Museum. A lens (10x) shows some of the structure of the worn-down shells, viz. edges of spiral lamina, radial alar prolongations, and traces of willow pattern. Under high powers, too, I can see series of nummulitic disk structures both in the "fibres" and in the "spaces." Parkeria then is a lithomorph of similar nature to an oolitic granule, but the latter is only a minute part of one shell, and the former a mass of many shells.
+
+If I had believed in the fossil nature of Parkeria and of Beatricea I would probably have made the former a synonym of the latter. The supposed central Ammonite or tabulated cone of Parkeria may be compared with the hollow tabulated space in Beatricea; and the concentric wavy pattern of the latter is rather like that of the Parkeria pattern, though less elaborate. It is significant too that A. Hyatt regarded Beatricea as a Cephalopod! Again, Carter describes a _Parkeria nodosa_, and Billings a _Beatricea nodulosa_.
+
+Many circumstances conspired to deceive investigators, but especially the apparent existence of "fibres" and "spaces"; and when specimens were found with empty spaces between fibres, and with spaces filled in with silica, the deception became complete.
+
+The genesis of Parkeria may have been somewhat as follows: a nummulitic limestone permeated by water charged with carbonic acid and super-saturated with carbonate of lime; lowering of solvent power, and deposition of the lime in concentric and radial precipitations over sundry areas; occasional dissolving out of the more soluble spaces between the less soluble fibres, the spaces being left empty or filled in with silica; and segregation of the hard spheres from the softer matrix.
+
+In the Geological Survey Memoir, 'Cretaceous Rocks,' 1., 1900, Parkeria is recorded as a Hydrozoan, and the Cambridge Greensand specimens as "derived" fossils. Even so, the spherical shape is due primarily rather to the concretionary nature of the objects than to the fact of their having been rolled about.
+
+Green (? glauconitic) grains are common in Parkeria, as also, and to a much greater extent, in the nummulite zone of the Lower Barton Beds.
+
+There are Fulwell concretions very similar to Parkeria, but without the finer traceries (Fig. 32). In both the Permian and Cretaceous lithomorphs the matrix is nummulitic.
+
+Loftusia 
+
+In 1855 W. K. Loftus, in a memoir on the geology of the Turko-Persian frontier, refers to certain spindle-shaped stony fossils about two to three inches long which he found embedded in a blue marly Eocene limestone in the Bakhtiyari mountains. Loftus believed the fossils to be gigantic Foraminifera allied to _Alveolina_. In 1869 Brady* investigated some of Mr. Loftus's specimens and concluded they were gigantic _Sandy_ Foraminifera comparable with the porcellanous _Alveolina_ on the one hand and vitreous _Fusulina_ on the other. On Plate 77 Fig. 1 (_l.c._), he figures several specimens embedded in a rich Foraminiferal limestone matrix.
+
+*) Phil. Trans. Roy. Soc., 1869, p 739.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
