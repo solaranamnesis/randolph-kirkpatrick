@@ -1791,6 +1791,36 @@ _Note 3_. — The nummulitic nature of granite can be made out with certainty an
 Strange, thou thyself not knowest, how thou didst reach its  
 strand." — Jelaleddin (Hastie's version).
 
+In this chapter an attempt will be made to indicate briefly the bearing of the nummulosphere discovery on certain biological questions.
+
+The present research will, I believe, throw light on problems concerning the place of origin of terrestrial life, the conditions that prevailed on the earth when life began, the nature of the first formed living matter, and, lastly, the structure of protoplasm.
+
+Certain of the efforts that have been made to seek life's origin "from afar," will perhaps some day seem overstrained. The theory, for instance, that life was brought here on meteorites will now be obviously untenable, seeing that these bodies are merely mineralized masses of nummulites almost certainly cast off from this earth and recaptured. Again, there is no evidence to show that life came in the form of particles "fleeting thro' the boundless universe" and driven hither and thither by "radiation pressure." (Arrhenius, who favours this panspermia theory, believes meteorites to have been formed by the coming together of mutually-attracted particles of matter, but this hypothesis is now clearly seen to be unsound. See Plates 16 and 19. A.)
+
+Life is universal from pole to pole and from the summits of the mountains to the floor of the ocean abysses, and the nummulosphere research shows this universal existence to have endured back to some remote aeon. Facts of this nature, if they do not forbid, should at least discourage the adoption of far-fetched theories when a very simple one is available, and seemingly the reasonable inference to be drawn is that of the terrestrial origin of life.
+
+Having found the earth's crust to be a deposit of nummulites mineralized by silica derived partly from plankton, and the benthos rhizopodal bathybius probably to have had a plankton ancestry (Chap. 8), it is necessary to go a stage further and enquire as to the origin of the primordial living matter or "heliobius" (sun-life) that came into existence presumably* on the surface of the ocean.
+
+*) Oceanic animal life at the present time depends on a plankton heliobius (Diatoms, Zooxanthellae, etc.), and there is no reason to assume that this relation has not existed from the beginning, the sun-formed colloids constituting the basic food-supply of the animal world.
+
+Many now hold the belief that organic evolution follows on uninterruptedly from what Sir Norman Lockyer terms inorganic evolution. As heavenly bodies from the hottest suns to planets diminish in temperature their materials are able to form ever more complex alliances. "As matter is allowed capacity for assuming complex forms those complex forms appear" in accordance with what Professor B. Moore terms "The Law of Complexity."*
+
+*) 'The Origin and Nature of Life,' 1912. 
+
+Very different pictures are drawn of the condition of the earth's surface when life first became possible. Professor Minchin, for instance, conjures up a vision of a hot crust formed over molten magma, the latter continually breaking through, with condensing vapours exploding into steam, and general conditions favouring a great synthesis of chemical compounds. "It is conceivable," he cautiously remarks, "that this period of chaos, of storm and stress on a gigantic scale, might have been the womb of life."*
+
+*) 'Speculations with regard to the Simplest Forms of Life and their Origin on the Earth.' Journ. Quekett Micr. Club, vol. 11., 1912.
+
+Carl Snyder, on the other hand, is forced to the conclusion that the early conditions "were probably not immeasurably different from such as obtain now."* He doubts whether life could have begun in the sea, chiefly on chemical grounds. Apparently a sufficient concentration of carbon dioxide and nitrogen compounds would be more likely to take place on volcanic land areas than in sea or air.
+
+*) 'The Physical Conditions at the Beginning of Life,' 'Science Progress,' vol. 3., April, 1909.
+
+For me, a piece of igneous rock conjures up a picture of the sun shining on the waters of a universal ocean. For igneous rocks are silicated nummulitic deposits, the silica of which was in all reasonable probability derived partly from plankton vegetation; and there is no reason to suppose that the still more remote, possibly askeletal, ancestors of the rock-forming organisms existed under conditions differing from those that prevailed later when the skeletons were accumulating. It is doubtful whether volcanic phenomena will throw any light on problems concerning the synthesis of protoplasm, but it is certain that the slaggy and crystalline masses of marine fossils constituting existing volcanic and other igneous rocks do tell us unmistakably of the conditions under which those materials accumulated.
+
+There is a grand simplicity about Nature's methods. The planetary crust apparently has been built out of sea-water and chiefly by protoplasm, and it is probable that protoplasm itself has been formed originally out of sun-lit sea water.
+
+If the theory that life originated at the ocean surface is true, then the earliest form of life was probably of the "independent" kind, like that of green plants. Some naturalists believe, however, that animal life came first, and that its food supply consisted of simpler organic nitrogen compounds gradually evolved in the course of ages and culminating in the formation of living matter itself, or as Sir Ray Lankester tersely expresses it, the earliest forms of life fed on the products of their own antecedent evolution. There certainly appear to be strong reasons for this theory, in view of the enormous complexity of the proteins that form the basis of protoplasm. Even the simplest proteins, the protamines, have a molecular weight of over 1000, and a minimum estimate for haemoglobin is 16,600! Emil Fischer, making use of the most ingenious and laborious methods, so far has succeeded in building up a compound with a known molecular weight of 1213.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
