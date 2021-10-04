@@ -2122,6 +2122,78 @@ In 1855 W. K. Loftus, in a memoir on the geology of the Turko-Persian frontier, 
 
 *) Phil. Trans. Roy. Soc., 1869, p 739.
 
+Carter, who regarded Loftusia as a Hydrozoan, thought the existence of the network structure of the central spaces was fatal to the Foraminiferal theory. Steinmann records Loftusia as a Foraminiferan; and Zittel, as a Hydrozoan.
+
+Brady compares Loftusia to a loosely rolled scroll (of paper) drawn together at each end. The spiral space is subdivided along the length by septa passing obliquely from wall to wall, and a second set of septa pass at right angles from the first set to the main spiral wall. Accordingly there is a spiral labyrinthine pattern. Several small Foraminiferal shells seen in the sections were supposed to have been gathered up and incorporated by the animal.* 
+
+*) G. M. Dawson (A.M.N.H. (5), 2., p. 344, 1878) describes a small species, _L. columbiana_ (8 x 5 mm.), from the Carboniferous limestone of Frazer River, B.C. Whether the supposed fossil is a Foraminiferan or a lithomorph I do not know.
+
+As in the case of Parkeria, these oval bodies are simply concretionary lumps of Foraminiferal, mainly nummulitic, limestone, with a lithomorphic pattern. It required long and patient observation to enable me to distinguish the nearly obliterated nummulitic structure but the latter exists throughout the lumps. The smaller Foraminifera are not particles collected by a gigantic species, but simply smaller species, existing in a Foraminiferal deposit composed chiefly of nummulites.
+
+Among the Fulwell specimens exhibited in the Natural History Museum there is an oval concretion, but with large rounded ends and very probably without the pattern. Some of the Loftusias also have rounded ends.
+
+Oolite 
+
+Limestone shows various kinds of texture, but none more remarkable than the oolitic, in which the rock resembles petrified fish roe, hence the name "oolite" or "egg-stone" (Fig. 34). Several theories have been put forward to account for this condition. Dana regarded oolite as granular coral mud, and Sorby thought that oolite grains were formed by deposition of calcite round drifting particles. Another theory attributes the formation of the granules to the presence of an alga. Dr. Rothpletz showed that certain concretionary granules in Salt Lake were formed by algae; and, indeed, there is often a curious structure in oolite termed _Girvanella_, commonly supposed to be a calcareous alga. The difficulty about the reef-theory lies partly in the absence of any trace of coral structure in the grains, and partly in the non-existence of remains of real coral-reefs in the contemporaneous strata.
+
+Without attempting in this brief note to examine critically the various theories concerning the origin of oolite rocks and oolitic structure, I shall give the results of my own observations on Jurassic oolitic rocks of the west of England. I paid five visits to oolite districts, viz., to Bath, Cheltenham and Portland, and collected samples from ancient churches in these localities and in London; and lastly I examined with lens and microscope sections of fresh and weathered rocks. As a result of these observations, I have made the surprising discovery that typical Jurassic oolites are nummulitic rocks formed of deposits of nummulite shells, and that the oolite grains are portions of these shells modified by concretionary action. A large nummulite shell an inch in diameter would contain or be made up of some hundreds of these concretions (Plate 13. Fig. A).
+
+In some large sections taken from three sides of a cube of Portland oolite I can now without difficulty make out the concentric coils of furrowed cord and radiating septa and alars, sometimes with the concretions filling the chambers of the shell and modified in shape according to their position in the shell. In the marginal cord the grains run in parallel rows following the cord structure. It is clear that oolite grains are not concretions formed round sedimentary particles, but that they have been formed _in situ_. The photograph (Plate 13. Fig. A) shows outlines of a shell. Even in cliché Fig. 35, obscure circular and radial shell-outlines are faintly perceptible.
+
+Although I only discovered the fact at the very end of my investigation, I can now detect on weathered specimens of oolite the faint outlines of large nummulite shells in various aspects — transverse, oblique or horizontal. The transverse section shows traces of willow-pattern and successive bands of spiral lamina, the parallel and divergent striae being replaced by rows of granules.
+
+A lens 3x will suffice to show the definite and by no means accidental grouping and orientation of the granules. The horizontal aspect of shells will show circular groups of granules corresponding to the tops of pillars. These observations are difficult, but I am convinced the facts are correctly stated. Large transparent sections viewed with a lens and by transmitted light will also show outlines of nummulite shells an inch or more in diameter.
+
+I first got on to the nummulite track by discovering with a lens circular porous areas in weathered oolite from ancient abbeys (viz. Westminster and Bath). I took the circles for small shells, but really they were septa and marginal cord or pillar and inter-pillar areas of spiral lamina of large shells. The weathering had partly dissolved out the masking concretionary pattern and left traces of original nummulitic structure.
+
+The nucleus of each granule often consists of a little mass of nummulitic shell-material. At first I mistook sieve-like perforated disk structures of nummulites for Radiolaria. Concretions may form round any nucleus, such as a Radiolarian or a joint of a Crinoid, but in pure typical oolite I have found either no structure at all or a nucleus of nummulitic material.
+
+The cause of this strange concretionary process in oolitic rocks has been put down either to mechanical or to organic agencies, but probably the true explanation is that of physico-chemical action in the solid rock. The sequence may have been as follows: soaking of the very porous nummulitic deposits by water and carbonic acid super-saturated with carbonate of lime derived partly from other strata, partly from the stratum about to undergo concretionary change; diminished solvent power followed by concentric deposition round the partly dissolved groups of disk-structures or in the spaces of the median plane of the nummulites.
+
+Pisolite or Pea-Grit is usually regarded as a sedimentary formation. The concretions have a concentric structure. The Girvanella-pattern is often present, and sometimes surrounds a Crinoid joint. I find abundance of nummulitic structure in sections of this rock.
+
+Concretions are sometimes of large size as in the cannon-ball bed at Roker.
+
+Lindstrom describes a bed of "ball-stones" in the upper Silurian of Gotland, some of which are over a yard in diameter. He refers to them as corals (_Coenostroma discoideum_), and Nicholson calls them Stromatoporoids. Judging from sections named _S. discoidea_ in the Nicholson Collection they are huge concretionary masses of nummulitic limestone.
+
+Cyclocrinus, etc.
+
+In Silurian limestones both of the old and new world there are found little stalked spherical or pear-shaped bodies an inch or more in diameter and with a tessellated surface; each tile may have a pattern of spokes radiating from a central knob or circle. A vertical section shows a surface layer of small cup-like cavities each closed by its tile or lid; frequently, also, there are lance-shaped rods radiating excentrically from some point to the surface. Between the rods there are slender radial spaces ending in a "pore" in the floor of a surface cup. At one point on the surface of the fossil there is an appearance of an opening.
+
+These wonderful and mysterious objects have been a continual source of bewilderment to palaeontologists.
+
+In 1840 Eichwald described them as Crinoids. Since then they have been looked upon as Protozoa, Sponges, Receptaculites, Anthozoa and Calcareous Algae. Dr. E. Stolley, who has done the most thorough work on these and similar Silurian forms, gives over sixty references to literature in his account of the genus.* After many failures, at last light appeared to be thrown on this obscure problem by researches in recent algology.
+
+*) 'Archiv. Anthropol. Geol. Schleswig-Holstein,' 1. p. 216. 1896.
+
+Some of the Siphonaceous algae are spherical or pear-shaped, with tessellated calcareous surface, and with a radial arrangement of densely packed branches. In 1893 ('Ann. Jardin Botan. Buitenzorg,' vol. 11.) Solms-Laubach described a siphonaceous alga _Bornetella oligospora_, with many apparent resemblances to the Silurian (or Ordovician) fossils. _Bornetella_ (_Neomeris_) _capitata_ Agardh, again, is a stalked spherical form to which Cyclocrinus bears resemblance. Accordingly recent authorities place this and kindred fossils among the calcareous algae.
+
+Sections of Cyclocrinus from the Ordovician of Estland, East Baltic, show these fossils to be spherical facetted lumps of nummulitic limestone, with the nummulitic structure in continuity throughout the whole mass. Further, in a large section of a boulder from the same locality (5. 3960, N.H.M., Coll. F. A. Bather) there are many Cyclocrinus sections appearing like circles with merely a rim of cups and without radial rods.
+
+Sometimes adjoining circles in contact are incomplete, one pressing into the other. Sections show the nummulitic structure passing continuously from the circles to the embedding matrix.
+
+Cyclocrinus is a concretionary lithomorph and owes its structure to the action of physical causes. A comparison with other lithomorphs such as Receptaculites, Parkeria, Fulwell concretions, etc., will, I think, explain the course of "evolution" of this marvellous lithomorph. In some of the Fulwell concretions, as Mr. G. Abbott has shown, there is an initial stage with pillars radiating from an excentric point. Sometimes the densely-packed radial pillars have radial spaces between them, the pillars themselves being as walls to those spaces, so that an appearance of radial tubes arises. Further in the apparent course of evolution of certain mince-pie-shaped concretions, Mr. Abbott found that the pillars _disappeared_ and that they were replaced by concentric laminae. In Cyclocrinus there are densely-packed lance-shaped rods with fine radial spaces between. The ends of the radii surround the ends of the spaces, which are usually hemispherical. Sometimes the radial spaces open out gradually as in "Coelosphaeridium," but in Cyclocrinus the spaces open abruptly, by means of a circular pore, into the floor of a hemispherical cup; or rather it should be said that the radial linear spaces expand suddenly into hemispherical spaces.
+
+The areas which cover the spaces at the surface become differentiated out as hexagonal lids, on each of which patterns arise.
+
+The stalk or stem, leading into the interior excentric area whence the rods radiate out, is a common feature in lithomorphs.
+
+I have spoken of cups and cavities and canals, but really the lithomorph is in its origin solid throughout, the supposed cavities being merely clear areas of calcite. It is this idea of cavities that has been the chief cause of deception. It is true that variation in hardness and solubility may lead to the clear areas being dissolved away, thus leaving real cavities, and these again may become filled with some foreign material. When the results which Nature can achieve by purely physical means are so extraordinary, it is not surprising that the literature of palaeontology is crowded with descriptions of concretions mistaken for animal and plant remains.
+
+The discovery of the truth has been rendered possible owing to the persistence of nummulitic structure in the lithomorphs and in the matrix out of which they have become segregated by the action of concretionary forces. Further help has been afforded by a comparative study of the various types of lithomorphs and of the changes they appear to undergo.
+
+Receptaculitidae
+
+Prof. H. Rauff, in the preface of his memoir on the Receptaculitidae,* writes: "With respect to the problem of the true nature of the Receptaculitids my researches end only in the sad result that these interesting bodies will once more be cast out of 'The System,' again to wander around without shelter."
+
+In the earlier chapters of the book of life there are mysterious signs and characters to the meaning of which there appears to be no satisfactory clue at least if we may judge from the fact that a dozen experts may have come to as many different conclusions concerning them.
+
+I am certain that at last the true explanation of the receptaculites has now been found, and it is one which seems to me more interesting than any of the hypotheses hitherto put forward. Apparently the real truth has never even been suspected, because, in the absence of clear evidence, it would have seemed too improbable to have been thought of.
+
+Receptaculites and kindred objects are typically spheroidal or pear-shaped bodies from one to several inches in diameter or length, with a facetted or geometrically-patterned surface. They have the appearance of being hollow bodies filled in with the matrix of the surrounding rock. Prof. Rauff regards cup-, dish- or plate-shaped forms as imperfect examples of completely spheroidal ones. A fracture or section shows the wall of the sphere to be built up of curiously shaped "elements" or blocks fitted against each other with their long axis radial.
+
+Each "element" typically has six parts, viz. (1) an outer diamond-shaped facet, beneath which lie (2-5) four tangential arms, and (6) a fifth long radial arm or column projecting inwards and expanding into a foot, which along with other "feet" helps to form the inner surface of the wall of the hollow sphere. Between the radials or columns there are "spaces." One ot the four tangential arms is fused to the facet. The radial arm is hollow. There is an under and an upper pole marked by areas of peculiar facets. Receptaculites are found in ancient rocks from Lower Silurian to Carboniferous. Rauff showed that their original composition was calcareous, though some may have become silicified subsequently.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
