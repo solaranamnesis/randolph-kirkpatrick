@@ -1555,7 +1555,9 @@ There is no longer reason to regard as singular the existence of thick and exten
 
 It is, however, a remarkable fact that the genus _Nummulites_ is almost extinct.*
 
-##### ON THE EXTINCTION OF THE GENUS "NUMMULITES"
+*) Excluding doubtful records, there are probably only two recent species, and these small, viz., _N. planulata_ (Arctic seas), and _N. cumingii_ (tropical seas). Williamson records recent _N. radiata_ from Portsmouth, but Brady excludes it from his synopsis of British recent species (Journ. Roy. Micr. Soc., 1887, part 2, p. 872).
+
+##### On the Extinction of the Genus "Nummulites"
 
 "What could have been the conditions which so specially favoured their production at the period in question, ... and what change in these conditions put a sudden and almost complete stop to these operations constitute most interesting subjects for physiological and geological enquiry." (Carpenter).
 
@@ -1568,6 +1570,224 @@ The earth's crust is mainly composed of nummulites. The genus has persisted thro
 After eliminating regions too deep, too cold, or emerged, there still remain a few million miles offering moderate depths and equable temperature. Why have the marvellously persistent nummulites failed (or almost failed) to survive even there? In the Eocene ocean and seas the shells apparently flourished best in clear water remote from land. Where the sea was shallow, and turbid owing to land detritus carried down by rivers the shell deposits were thin and the shells usually small as in the British Eocene formations.
 
 There is reason to believe that the final extinction of _Nummulites_ over areas where the genus might otherwise have persisted in abundance may have been due to the ushering in of a _Globigerina_ epoch, i.e. an epoch of calcareous Foraminiferal plankton.
+
+Zittel's useful charts of distribution-in-time of various families of Foraminifera ('Grundzüge,' ed. 3, 1910, p. 37) reveal a remarkable fact. Globigerina is stated to begin in the Cambrian*; then during the remainder of the Palaeozoic era there is no record. During the Mesozoic era and the early part of the Gainozoic (Eocene and Oligocene) the genus exists but not abundantly. Suddenly, at the beginning of the Miocene and on to the present time Globigerina becomes abundantly prevalent, i.e., at the time when _Nummulites_ becomes almost extinct, _Globigerina_ becomes abundant.
+
+*) Although I have not seen the phosphatic nodules of the Cambrian of New Brunswick stated by W. D. and G. F. Matthew (Trans. New York Acad. Sci., 1893, 12. p. 108; and 1895, 14., p. 101, Plate 1. figs, 1-8_b_) to contain _Globigerina_ and _Orbulina_, I am convinced there is here an error of interpretation. In the course of the present work I was at one time continually mistaking nummulitic structures for _Globigerina_ and _Orbulina_. The same mistake has been made in the case of the "spheres" in chalk. Apparently the true Globigerina record begins with the Mesozoic era.
+
+At the present time _Globigerina_ flourishes over the whole of the tropical and temperate areas of the ocean and forms deposits over 49 million square miles of ocean floor. Doubtless the 51 million miles of red clay would also be covered with _Globigerina_ if the shells were not dissolved when sinking to depths below 2,500 fathoms. Possibly these calcareous plankton shells containing the corpses of Foraminifera were obnoxious to the heavy nummulites which were choked by the accumulating _débris_* or succumbed to microbic invasion. _Globigerina_, it is true, is found in the chalk, but not to the extent at one time believed. _Nemo fuit repente turpissimus_, nor did the nummulites become utterly decadent all at once; but after enduring for immeasurable aeons, they at last all but died out in the Miocene or possibly Pliocene period.
+
+*) Sponges seem able to protect themselves from mud and plankton _débris_ by developing lids and sieves. Again, certain cup-shaped glass sponges appear to have given rise to sitz-bath-shaped forms, and finally, by loss of the cavity and lengthening and narrowing of the back of the "bath" to sword-shaped stems.
+
+Phylogenetic Note. — It seems singular that nummulites, regarded as the highest type of Foraminifera, should prevail in the oldest known rocks. The shell, although apparently very complicated, is built on a simple plan, viz., that of an embracing spiral. The thickness of the walls is not perhaps a character denoting high organization, but the canal system in the walls, and the double-walled septa are considered to be features of a highly developed type.
+
+It may be assumed that nummulites and other many-chambered Foraminifera are descended from one-chambered ancestors, and the latter from forms without shell. In the life cycle of nummulites, the protoplasm of the microspheric shell breaks up into amoebulae, bodies which probably exhibit the ancestral characters not only of Foraminifera but of the whole of the Protozoa.
+
+Prof. Minchin in his great work,* 'An Introduction to the Study of the Protozoa' (p. 465) writes, "We may, then, regard as the most ancestral type in the Protozoa a minute amoebula-form, in structure a true cell, with nucleus and cytoplasm distinct, which moved by means of pseudopodia." Before the great planetary nummulitic deposits were formed, probably there existed a period during which the ocean floor was more or less covered with the shell-less amoebula-ancestors of nummulites.
+
+Huxley's "Bathybius theory," although based on an error, is now seen to be not far from the truth. He mistook gelatinous networks with calcareous particles found in bottles of preserved abyssal Atlantic ooze for specimens of a primitive form of living matter spread over the ocean floor. The jelly was found to be a precipitate of sulphate of lime in alcohol, the calcareous particles being coccoliths. It is now apparent that the whole ocean floor actually has been covered with rhizopodal lime-secreting protoplasm in the form of little separate masses.
+
+What is the origin of this benthos protoplasm, distributed at one time or another over the whole surface of the planet, and the builder, moreover, of the original calcareous scaffolding of the lithosphere?
+
+Did the amoebula-ancestors of nummulites originate on the sea-bottom, or were they immigrants from elsewhere?
+
+Before attempting to answer this question it will be desirable to make a few observations on the simplest forms of life.
+
+The simplest of all are the bacteria — living particles which are not even cells, for they are commonly devoid of a definite nucleus. Above the bacteria come the simplest plants and animals (Protophyta and Protozoa), the simpler forms of which consist of a single nucleated cell, the presence of the nucleus marking a higher grade.
+
+The distinction between plants and animals, so obvious in the higher types, is often ill-defined and vague in the lowest, identical groups of the latter being frequently claimed both by botanists and zoologists.
+
+The Protozoa gain their subsistence in four ways, viz., the holozoic or purely animal way of capturing and feeding on other organisms; the holophytic or purely plant* way of subsisting on inorganic materials through the agency of chlorophyll in presence of sunlight; the saprophytic (or saprozoic) way of living on the products of metabolism or decomposition of organisms; and the parasitic way.
+
+Many of the Protozoa vary their mode of nutrition either in different phases of their life-cycle or even during one and the same phase. _Euglena_ for example, which by reason of its chlorophyll is holophytic in sunlight, loses its green colour and becomes saprophytic in the dark.
+
+The four modes of nutrition come under two categories, viz., the independent (the best-known example being the holophytic), and the dependent comprising the other three. A holophytic organism is entirely independent of the existence of any other form of life, and simply requires sunshine and the presence of suitable inorganic materials. Organisms with animal, saprophytic or parasitic characters are dependent directly or indirectly on other organisms.
+
+The primitive (igneous) rocks are composed of nummulites mineralized by silica (combined to form silicates). There are reasons for believing that the silica is partly derived from plankton organisms.
+
+The continuous rain of plankton material from ocean surface to ocean floor suggests a plankton origin for the primitive forms of benthos life, including the amoebula-ancestor of nummulites.
+
+Primitive independent organisms reaching the bottom alive might continue to exist, but in the absence of sunlight they would, like _Euglena_, take to a saprophytic or an animal mode of nutrition.
+
+The discovery of the organic origin of the earth's crust may throw light on problems concerning the origin of life on this planet.
+
+From its beginning life may have originated on a planetary scale, or indeed, in view of the importance of sunlight in relation to life, it might be said on a solar scale.
+
+The whole animal world in the great ocean basins is ultimately dependent on minute forms of vegetable plankton, and, moreover, has been so during the long course of evolution. Many facts seem to point to the conclusion that life began in the sunlit surface waters of the ocean.
+
+The sequence of events leading to the formation of the earth's crust might well have been universal sunshine on a universal ocean engendering universal primitive "independent" plankton, whence was derived primitive benthos whenever an area of the ever-undulating ocean floor came within suitable bathymetric range.
+
+Apart from theory there _is_ the sunshine, the broad ocean surface, the vegetable plankton, the animal benthos, and the earth's crust made of benthos skeletons mineralized by silica very probably derived in part from plankton skeletons.
+
+_Postscript_. — I am finding more and more the idea of spirality to be of the greatest help in tracing nummulitic structure in rock sections under the microscope. Often it is as if a plan had been given of a complicated labyrinth.
+
+A spirodisk of any dimensions, say from 0.5 to 0.005 mm. will always have in relation with it a spiral series of spirodisks of a lesser order and in planes vertical to the larger one. Similarly each lesser spirodisk will have its primary coil with series of lesser secondary ones, and so on to the limits of microscopic vision, and, I believe, far beyond. Any primary coil has somewhat the aspect of a "marginal cord," and the secondaries of that coil the aspect of "septa" of a nummulite or cogs of a cogwheel. Similarly the "septa" or "cogs" are themselves "marginal cords" with "septa" or "cogs" of a diminished order.
+
+It will now be necessary to work out the structure of the nummulite shell in terms of spirodisks and to learn how the spiral lamina, marginal cord and septa are built up, and the relation of tubules to the spirodisks.
+
+All calcareous Foraminiferal shells appear to be built of spirodisks. The primitive form was probably one-chambered and spheroidal, with the wall composed of spirodisks. Whether spiral shells owe their form to _retention_ of a shape impressed on them by inherent qualities of protoplasm, or whether the form has been moulded by forces of the environment it is hard to say: the antiquity and universality of nummulites rather suggest that the first-named cause has at least contributed. One might then suppose the assumed inherent spiral tendency to have become overpowered in non-spiral forms. A _Lagena_, a _Biloculina_* and a nummulite certainly have two, and probably three orders of structure, of which only the first has hitherto been recognized: viz. (1) the visible shell; (2) the microscopic spirodisk structure composing that shell; and (3) ultra-microscopic spirodisk structure (see p. 147, diagram: p. 162: and Chapter X.).
+
+*) See Appendix. Note R.
+
+#### Chapter 9
+
+##### The Nummulitic Structure of Igneous Rocks and Meteorites
+
+"A vast thickness of solid rock... formed of little else than their remains." Carpenter, on the enormously thick and extensive deposits of Tertiary nummulites, his words being equally descriptive of igneous rocks.
+
+Nothing at first sight could appear more remote from anything of an organic nature than a lump of granite, seemingly a confused mass of quartz, felspar and mica. Apparently, too, the rock has once been in a molten or semi-molten condition, and has slowly cooled down and become crystallized under enormous pressure deep in the interior of the earth. Accordingly, in the apparent absence of direct evidence, it is not surprising that the significant hints afforded by oceanic biology and by geology concerning the genesis of the earth's crust have not been duly appreciated. Happily, however, the igneous rocks bear in themselves clear and positive evidence of their oceanic and organic origin during some remote aeon of the past. For they are not merely masses of minerals, but mineralized masses of nummulites.
+
+The failure to detect the prevailing nummulitic nature of the earth's crust notwithstanding the countless observations on rocks and rock-sections is indeed a strange phenomenon, and one worth enquiring into.
+
+After d'Archiac had established a "nummulitic epoch"*, usually any supposed nummulites found in non-Tertiary strata were either considered not to be nummulites at all, or the strata were regarded as really Tertiary.*
+
+Again, it has been assumed that high temperature would obliterate all traces of organic structure in igneous rocks if anything of the kind had ever existed there; and further, any supposed organic forms have been put down either as pseudomorphic* or wholly phantasmal. Actual experiment shows,however, that organic structure is not wholly dissolved away even in boiling rocks, and that it easily survives in white hot slags. Experience and training of the sense of sight are the remedies against illusion and misinterpretation.
+
+The omnipresent nummulites have escaped detection not so much on account of certain tendencies of the human mind, but rather owing to their own qualities.
+
+The shell is built of a series of slightly separated layers on each side of a hollow median region, and each layer is highly porous. No apparatus could be better adapted for capillarity and permeation by fluids. The effect on the shells varies with the nature of the permeating material. Water and carbonic acid tend to soften and disintegrate them, as in chalk; or partial solution and redeposition may cause the mass to become hard and crystalline or oolitic. Colloid silica, again, may replace the more soluble carbonate of lime, so that the shells become silicified, homogeneous and transparent. Heat causes silica to enter into combination with various bases to form silicates. The heat may come from volcanoes as in the Jurassic Monte Somma bombs; from intrusive magmas as in Eozoon; or from some not certainly known cause, as in igneous rocks. The cooled rocks become masses of crystalline silicates, the outline of the nummulites being much broken up.
+
+Apart from chemical processes, mechanical pressure tends to mould these deposits of lens-shaped shells into homogeneous masses in which the outlines of individual nummulites become more and more obliterated.
+
+Lastly, in the case of the main mass of most of the sedimentary rocks, the breaking down of the mineralized shells into particles so conceals the nummulitic structure that it can only be seen by examining those particles under rather high powers of the microscope.
+
+Accordingly, what with pressure, solution, mineralization, clarification, crystallization and pulverization, the nummulosphere has remained a _terra incognita_ despite the fact that it confronts us on all sides in the mountains and plains and cities.
+
+The nummulites of the "nummulitic epoch" are easily seen, and those of all the preceding epochs not easily seen. The explanation of the enigma of the Tertiary nummulites is simply that the individual forms of the shells of the older deposits have become more or less obliterated, or, at any rate, difficult to trace.
+
+##### Methods of Observation
+
+The study of lumps and sections of Tertiary nummulitic rocks will form a good introduction to that of the igneous rocks. The eye will become familiarized with the appearance of the shells in horizontal, oblique and transverse aspects and sections. Further the effects of the various kinds and degrees of mineralization, crystallization and degradation of nummulitic structure can be observed, for there is a considerable range of variation in such processes even in the Tertiary rocks. The nummulitic structure of igneous rocks can be detected by the naked eye, the hand lens, and the microscope.
+
+It will be well to recapitulate briefly certain points. The shell is lens-shaped, and varies (in Tertiary species) from 1 to 107 mm. in diameter. The surface shows linear and granular markings. The bulk of the shell is composed of layers of the spiral lamina (Figs. 21, 22). A transverse section reveals a series of pointed ovals one within another (willow-pattern). The walls of the ovals show alternating opaque and crystalline bands.
+
+A transverse section or aspect with its embracing gothic arches is easy to understand.
+
+On the other hand, a horizontal view of a large transparent shell with its many layers of striated spiral lamina, each layer having numerous pillars expanding towards the periphery, with its spiral series of septa and chambers in the central plane, with tier upon tier of radial, sinuous or reticulate alar prolongations, and with its many-coiled spiral of the furrowed marginal cord, the whole often very variously mineralized, such a view requires long and patient observation to enable the observer to interpret and to piece together the numerous details. One might almost compare a transparent nummulite viewed in perspective under magnification to a many-roomed crystal mansion. An advance was made in this research when I found that the nummulite shells of igneous rocks and of Eozoon were sometimes of large size, viz. 25 mm. (i inch) or more in diameter, and that certain well-defined circular areas and patches in these rocks were not small shells but portions of marginal cord or spiral lamina of large ones.
+
+The most persistent structure is the furrowed marginal cord.
+
+1) Detection by unaided vision. It is usually difficult to see the shells on a fresh crystalline surface of rock, but after careful preliminary study with a lens they can not infrequently be traced by the naked eye on weathered and disintegrated surfaces. Manoeuvring the rock in the light will often help the eye to distinguish the large oval and circular outlines of the shells. Much nummulitic structure can be seen in photographic negatives, the camera having wonderful discriminating powers. On a weathered block of Canadian Eozoon about 15 square inches in area, I can now make out six or seven shell outlines ; also I can distinguish the nummulites in weathered basalt and granite. Probably an untrained observer would fail to see anything of the kind, but would have less difficulty in seeing under high magnification nummulitic structure in every particle from the surfaces in question.
+
+2) The use of a hand-lens. A surface of rock shows shells whole or in section, and in many aspects horizontal, transverse, or oblique. A horizontal aspect (_en face_) will show segments (single or concentric) of marginal cord, and series of arches of alar prolongations and septa.
+
+Transverse sections or fractures will show embracing gothic arches with striated walls, portions of marginal cord with septa seen in perspective as transverse bars across the cord.
+
+Photographic negatives enlarged two or three times are very helpful indeed. It must be remembered that a shell only 1 inch in diameter will occupy 16 square inches under a low magnification of only four diameters.
+
+A very careful study of some of the large photographs in Dr. Clinch's memoir on Spongiostromids will enable a trained observer to realize the effect of slight magnification, for Spongiostromids are simply deposits of Carboniferous nummulites.
+
+3) The study of sections under the microscope. Under low powers it is often possible to see portions of shell with various structures still in normal relation to each other. For instance a transverse section or aspect will show two or three embracing gothic arches with striated walls and with pillars in radial series; also the furrowed marginal cord with fan-like septa astride, and again the band-like edges of alar prolongations. If any doubts remained, a high power will reveal perforated disk-structures in various aspects, and it will then become impossible for any instructed observer to doubt the significance of what he sees.
+
+##### 1. Igneous Rocks
+
+The igneous rocks have once been semi-molten or molten. Those masses which have reached the surface in a heated condition, i.e., the volcanic or superficial igneous rocks, have cooled quickly, and consequently have formed a glassy ground-mass usually with a varying number of very minute crystals embedded in it. Dykes and sills, occupying an intermediate position, have somewhat larger crystals visible to the naked eye or with the aid of a lens. The deep-seated abyssal or plutonic rocks, owing to very slow cooling, have large crystals.*
+
+*) Plutonic rocks now at the surface have been uncovered owing to denudation. The macro-crystalline nature is in itself a proof of slower cooling and therefore of a former deep-seated position.
+
+The condition of the nummulite shells of volcanic, intermediate and plutonic rocks naturally varies correspondingly. The nummulites of volcanic rocks will have a glassy ground-mass usually with innumerable small embedded crystals which to some extent map out the various structures of the shell. A plutonic nummulite, on the other hand, may be wholly formed of quartz or felspar, but usually of several little masses of minerals.
+
+A short description will now be given of the nummulitic features of a few typical examples of igneous rocks.
+
+A. _Basalt from Snake River, North-West America_.
+
+This rock, covering an area of a fifth of a million square miles to an average depth of 2000 feet, forms "the world's greatest lava flow."
+
+I failed to come across an example of this basalt in London, but an application to the United States Geological Survey for a hand-specimen was favourably received.
+
+This specimen is a smooth water-worn boulder. The freshly-fractured surface is black, and with a finely granular glistening appearance. Very careful observation with a lens (10x) will show here and there defined circular areas about 1 to 2 mm. in diameter, and indications of pointed ovals of the spiral lamina. It would be well for the observer to leave aside these obscure indications for a time and turn to the transparent sections. (Probably _roughly_ weathered surfaces of the rock would show shell structure clearly.) Careful and detailed observation of sections with lens and microscope will lead to an astonishing revelation. At first sight nothing is to be seen excepting a confused medley of small linear crystals, granules and light and dark patches (Plates 14. A, and 17. A).
+
+Gradually a plan becomes dimly discernible in the midst of the apparent confusion. Frequently a banded arrangement will be seen with the linear crystals in straight lines or in convergent conical groups across the width of a band. The granules will often be found in circular groups. Again a concentric plan may be observed, the concentric lines or bands being broad and furrowed and with rows of beads across the width. Both the light structureless glassy patches and the black ones break up irregularly the circular groups of granules or the linear parallel and convergent groups of linear crystals.
+
+What we have been studying are strangely metamorphosed silicated nummulites. The broad bands are the successive layers of the spiral lamina. The furrowed concentric bands with transverse beads are portions of marginal cord and septa (Fig. 24). If after much careful observation doubts still exist, higher powers will reveal abundant disk-structure in every crystal, and in the vitreous patches.
+
+The conclusion will force itself irresistibly upon the trained observer that the world's greatest lava flow is a mass of silicated nummulites.
+
+The mineral characters of Snake River basalt resemble to some extent those of the Renazzo meteorite figured and described by Tschermak.* His figure (Plate 15. Fig. 4, 160x) shows linear crystals, granules and glassy and black patches just as in the basalt. He calls the augite crystals spreuformige (chaff-like), a term admirably descriptive of the augite crystals of the basalt. The figure shows well a portion of parallel-banded marginal cord with a transverse row of beads.
+
+*) G. Tschermak, 'Die mikroskopische Beschaffenheit der Meteoriten,' 1885.
+
+In both basalt and meteorite the linear crystals are augite, the granules olivine, and the dark patches magnetite.
+
+B. _Syenite from the Plauenscher Grund, near Dreden_.
+
+This rock exhibits, as is well known, a finely layered arrangement. Pressure, chemical action, and perhaps also the organic factor may have contributed to produce this structure. The rock is a mass of large nummulites compressed and mineralized. Some large sections viewed with a lens show series of bands finely striated across their breadth. Patches of dark green hornblende are situated often at fairly regular intervals between the bands. Other sections show a reticulate pattern of broad transparent bands, with the hornblende patches showing an obscurely marked concentric plan. The reticulate pattern is formed by radial alar prolongations crossing concentric marginal cords. Under low or high powers the syenite is seen to be a mass of nummulitic structure throughout (Plates 12. C, 15. C, and 19. C).
+
+C. _Clee Hill Basalt_.
+
+According to Sir A. Geikie, the summit of Clee Hill is a sill formed by the outspread of this rock which is known as an olivine-dolerite. I collected numerous specimens in all states of preservation. The weathered surfaces of long-exposed blocks viewed with a lens show the shells in horizontal and transverse aspect or section, but not immediately to the untrained eye. Sections reveal the nummulitic structure very clearly. The soil of the heath and the fine soil of rabbit burrows preserve even in the finest particles clear evidence of their origin (Plate 15. A).
+
+D. _Porphyritic Rocks_.
+
+Sections of precious porphyry (from Mons Porphyritis) show the shell structure clearly in the large crystals. There sometimes appears to be a continuity of organic structure between crystals and matrix. If so, the large crystals could not have been greatly displaced floating objects. The organic factor will furnish diagnostic evidence on these points.
+
+A rhombic porphyry picked up on the Yorkshire coast, and forming part of an erratic from Norway, shows light-coloured ovals which, I believe, actually are in some cases central blocks of large nummulites. In a section of nummulitic limestone from Kalibagh, Scinde, some of the shells cut across transversely exhibit oval central areas homogeneous and translucent, somewhat resembling the rhomboidal patches of the porphyry. The latter are certainly masses of nummulitic structure, whatever their precise position in the shell.
+
+E. _Cornish Granite from De Lank Quarry_.
+
+The De Lank is a typical grey granite with quartz, felspar and mica. On weathered blocks I can see outlines of large shells, especially in the rotten felspar, in which sections of spiral lamina and pillar-ends can be made out without much difficulty.
+
+The shell-structure is best preserved, or, rather, best seen, in the felspar, but it is possible to detect it even in quartz and mica.
+
+As in the case of Clee Hill dolerite, the organic structure is preserved in the smallest particles of earth or clay, and can be seen under very high magnification. (Plate 18. A, B.)
+
+##### 2. Meteorites
+
+(Plates 14. B; 16. A-D; 19. A, B; 20. C, D, E.)
+
+Meteorites are nothing else than mineralized or ore-enriched masses of nummulite shells. On the surface both of the stony and iron kinds it is possible to see outlines of shell-structure, especially the small circular pillar-ends, and pillar and inter-pillar areas of spiral lamina, and portions of marginal cord.
+
+A section of a stony meteorite viewed with a lens shows a minutely granular structure with dark patches of nickel-iron, each surrounded by a reddish zone of diffused rust. In addition, in most of the stony meteorites, there are areas — circular or fan-shaped as viewed in section — the chondrules, showing a radiating or reticulate pattern.
+
+Under a hand-lens it is not difficult to trace out larger or smaller parts of nummulite shells in horizontal or transverse aspect or section; also series of pillar-ends, marginal cord, and especially portions of willow-pattern. All these objects are easily visible to the trained eye in the Wold Cottage and Stavropol meteorites.
+
+The finding of the organic pattern in the seemingly confused mass of granules is now amazingly simple to me, but formerly, before I had arrived at the ultimate point of the truth, even though near to it, many hours of careful search were needed to find some obscure indication of organic structure. Now it is easy to see in a few moments abundance of such structure. The use of the highest powers, again, will reveal disk-structure in almost every particle.
+
+An interesting point now comes out, viz., that the chondrules are to some extent based on organic structure, even though the "mineralizing power" may get the upper hand, so to speak, of the organic paths and partly obliterate and overflow beyond them. The large coarse chondrules with radiating pattern of thick bars are usually thick marginal cords in transverse section. Fine and small fan-like reticulate chondrules occur in pillar areas in the spiral lamina, and appear fan-shaped or circular according to the plane of section or aspect. One thing is wholly certain, viz., that these chondrules are crammed with the organic structure peculiar to nummulites, viz. the "granulated" disk-like structure.
+
+Some stony meteorites are devoid of chondrules. This is probably owing to the usually persistent nummulitic structure having become nearly or wholly obliterated at some period in the history of the rock. Chondrules are considered to be peculiar to meteorites, but apparently their existence is merely due to the fact that certain of the stronger and more resistant structures of the nummulite shell stand out conspicuously from their surroundings. A vertical transverse section of a thick marginal cord of a large shell shows fan-like radiating bands and also less-marked concentric lines. The concentric and radial patterns become exaggerated in the chondrules. There is a certain degree of mineral differentiation even in the calcareous Tertiary shells. The pillars, for example, are as transparent as crystal, but the inter-pillar areas striated. In the long history of mineralized nummulites these differentiations persist and give rise to further differentiations.
+
+However much the purely mineral may overpower the organic it is nearly always possible to discern the constraint imposed by the latter upon the former. Even in asbestos, labradorite, obsidian mica and meteoric iron, the organic pattern still holds its own, though to a very attenuated degree. The form of the scaffolding built up by life remains here and there, but the original material has been replaced.
+
+Igneous rocks often show coarse patterns (based on nummulitic structure) only requiring to be brought into relief with a little extra temperature to make chondrules.
+
+Photographs of sections of meteorites often show the nummulitic structure fairly well.
+
+Tschermak figures on Plate 9 Fig. 3 of his great atlas a section (160x) of the chondritic meteorite of Seres, and describes it as follows: "Oblique section through an olivine crystal. The crystal is forced open on the right side, and there have been pressed in from the ground mass two antler-like glass-inclusions which are arranged symmetrically on each side of a middle line. Accordingly, the crystal appears to be divided into several walls symmetrically ranged against a middle wall. The surroundings consist of olivine granules." Tschermak is unconsciously describing definite organic structure. The antler-shaped bodies on each side of a horizontal line belong to a segment of furrowed marginal cord with a septum or base of a septum across it. At the upper end of the crystal the cord is seen in section with striae radiating down to a defined semicircular edge. Within the right margin of the photograph a second marginal cord runs parallel to the first. In the lower left corner is a third piece of cord with a pointed-gothic septum leaning back to the right. The olivine grains are here and there in obscurely circular groups or groups of groups, these apparently being sections of pillars coming off at right angles to the marginal cords.
+
+With or without a hand-lens I can trace organic structure, sometimes with much difficulty, but usually with great ease, in every photograph of Tschermak's great work.
+
+_Purely Metallic Meteorites_.
+
+There is a continuous series from completely stony to pure iron meteorites, i.e. from stony masses of nummulites to completely ore-enriched masses of these shells. Patches of metal are scattered about in the walls of the shells in the former, and this metal does not fill empty gaps but is nummulitic structure composed of iron and nickel molecules.
+
+The iron may have been reduced by the carbon monoxide often found along with the dioxide. When a siderolite returns to our planet the pure iron again combines with oxygen, and a reddish halo spreads into the surrounding minerals. I can certainly make out disk-structure in the rusty débris of the great Melbourne meteorite, as well as in the rust of an old iron saucepan which I submitted to microscopic examination.
+
+It is possible also to make out the disks on the surface of patches of pure nickel-iron in sections of meteorites viewed by reflected light under high powers. The dots are seen arranged in circular groups, each dot having a shining point in the centre of a circular area. Lastly, I am certain I can trace nummulites even with a hand-lens. (Plate 22)
+
+Metallic fossils (e.g. of Trilobites) are not uncommon; marcasite nodules, again, are masses of nummulites in sulphide of iron. I have found nummulitic structure in samples of haematite, clay iron stone and other iron ores.
+
+_Petrological note_. — The lithosphere being a mineralized deposit of nummulites, Petrology will learn much concerning the arrangement of minerals in rocks by studying the structure of nummulites. In the past, if anyone asserted that he saw traces of organic structure among the crystalline masses of minerals, he was told that probably he was looking at some pseudomorphic resemblance wholly mineral in origin. In future, when nummulitic structure and its gradual transformation and degradation have been duly studied, it will be seen that the mineral structure of igneous rocks is to no small degree constrained to follow the path laid down by previously existing organic structure. Many times I have traced the parallel striations of the spiral lamina gradually becoming fainter till there remained rows of straight lines in a crystal.
+
+_Postscript. Note 1_. — I can now detect distinctly and with certainty abundant nummulitic structure in the purely metallic Mazapil siderite. The structure is visible with a hand-lens and by reflected light under medium and high powers (see photos, Plate 22. C, D). The meteorite fell during a display of shooting stars. If, as some believe, this meteorite be part of Biela's comet, the discovery of the real nature of the Mazapil iron will strengthen the theory that many shooting stars and some comets may be composed of nummulitic material.
+
+_Note 2_. — All siderites are almost certainly products of terrestrial metallurgy. The richness of certain areas, as Mexico,* in supposed siderites may be due not to showers of many or dispersal of one of these bodies, but simply to volcanic activities in regions rich in ore-bearing strata. A siderite is an eject that has left a volcano with a six mile power. Masses of nickel-iron ejected with less power would quickly return to the earth probably to the west of and not far from the point of ejection.
+
+*) Fletcher, Min. Mag. 9. p. 91 (1890).
+
+_Note 3_. — The nummulitic nature of granite can be made out with certainty and after very little trouble, on the level but unpolished "under" surfaces of the little sample blocks used by stone merchants. Not only can the circular oval or willow-pattern outlines be seen, but details of the spiral lamina and chambers, the latter commonly outlined by shining dots formed by in-filling minerals such as quartz. I can see the outlines with the naked eye, but much better with a lens 3x or 10x. Some samples of Petersham and Swedish granite show the shells very well. The nummulites are more easily seen than in chalk!
+
+#### Part 3
+
+##### Chapter 10
+
+###### On Problems relating to the Origin of Life
+
+"O Thou who hast come safely into this Being's Land;  
+Strange, thou thyself not knowest, how thou didst reach its  
+strand." — Jelaleddin (Hastie's version).
+
+...
 
 #### List of Plates, Guide Diagrams, and Figures
  
