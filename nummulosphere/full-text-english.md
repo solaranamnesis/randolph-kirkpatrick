@@ -1821,6 +1821,20 @@ There is a grand simplicity about Nature's methods. The planetary crust apparent
 
 If the theory that life originated at the ocean surface is true, then the earliest form of life was probably of the "independent" kind, like that of green plants. Some naturalists believe, however, that animal life came first, and that its food supply consisted of simpler organic nitrogen compounds gradually evolved in the course of ages and culminating in the formation of living matter itself, or as Sir Ray Lankester tersely expresses it, the earliest forms of life fed on the products of their own antecedent evolution. There certainly appear to be strong reasons for this theory, in view of the enormous complexity of the proteins that form the basis of protoplasm. Even the simplest proteins, the protamines, have a molecular weight of over 1000, and a minimum estimate for haemoglobin is 16,600! Emil Fischer, making use of the most ingenious and laborious methods, so far has succeeded in building up a compound with a known molecular weight of 1213.
 
+Nature has been called an expert geometrician, and a skilful mathematician, but above all she is a marvellous chemist, and beyond doubt she can accomplish rapidly and with the greatest ease syntheses at present wholly beyond the powers of man to achieve.
+
+Carbon, oxygen, hydrogen and nitrogen (C.O.H.N.) constitute the pillars of the temple of life, and carbon may be said to be the great main central pillar.
+
+The problem of the building up by green plants of carbohydrates out of inorganic materials seems to be fairly solved. The theory of von Baeyer that formaldehyde was an intermediate product between water-and-carbonic-acid and the starches and sugars is now definitely proved. F. L. Usher and J. H. Priestley* have shown that in presence of sunlight and chlorophyll there is a "photolysis" of CO₂ resulting in the formation of formaldehyde (CH₂O) and hydrogen peroxide (H₂O₂). An enzyme splits up the latter into water and oxygen, and the formaldehyde becomes condensed into a carbohydrate in presence of living protoplasm. These processes take place so rapidly that the formaldehyde has only recently been detected in the living plant. Dr. S. B. Schryver,* by means of a new method — the use of phenylhydrazine — can detect formaldehyde in the proportion of one part in a million.
+
+*) 'Photochemical Formation of Formaldehyde in Green Plants.' Proc. Roy. Soc. [B] 82, 1910, p. 226.
+
+Both formaldehyde and hydrogen peroxide are very poisonous to plant life, but the transformation takes place so rapidly that in healthy plants no harm arises. Usher and Priestley state that starch can be detected in previously starchless filaments of _Spirogyra after three minutes exposure to light_. CO₂ can be photolysed independently of chlorophyll. Usher and Priestley have obtained Formic acid from CO₂.H₂O, by using Uranium sulphate as an optical sensitizer. Again W. Lob has obtained formaldehyde by exposing a mixture of water vapour and carbon dioxide to the action of the silent electric discharge. (Zeitsch. Elektrochem. 1905-6.)
+
+Willstater has shown magnesium to be the essential metallic constituent of chlorophyll; and Fenton, by using a solution of carbon dioxide in water containing bars of magnesium, has observed the splitting up of CO₂ and the production of formaldehyde.*
+
+*) Journ. Chem. Soc. Trans., 1907, p. 691.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
