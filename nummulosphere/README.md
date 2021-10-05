@@ -8,14 +8,14 @@
 
 Translations of Randolph Kirkpatrick's 1916 work: The Nummulosphere, I welcome all pull requests of submitted translations and/or edits.
 
-[English - Plain Text](full-text-english.md)  
+[English - Plain Text](part-3-full-text-english.md)  
 English - PDF  
 German - Plain Text  
 German - PDF  
 
 ### Part 4: The Origin of the Earth's Crust and of Meteorites
 
-[English - Plain Text](full-text-english.md)  
+[English - Plain Text](part-4-full-text-english.md)  
 English - PDF  
 German - Plain Text  
 German - PDF  
