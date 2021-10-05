@@ -72,4 +72,10 @@ Further, I am convinced that they belong to the eleventh Family of Forams, viz.,
 
 *) Prof. Cushman rejects "Nummulites" in favour of Brugiére's "Camerina." The word nummulite, however, now belongs to common language, and is in every dictionary.
 
+A very strange fact in Nature is the predominance of Nummulites almost from the beginning of geological time up to the Eocene, and then their disappearance. I have suggested that their extinction has been brought about by the coming into existence in Jurassic times* of a surface Foraminiferal Globigerinid fauna, the corpses of which have rained down and suffocated the nummulites. Possibly even the disappearance of the Ammonites may be in part due to the same cause.
+
+*) I have found definitely that the supposed Cambrian Globigerinas were not Foaminifera at all.
+
+One thousand million years ago the sun, which has been losing eight million tons a minute ever since, was somewhat hotter and heaver than now. Accordingly the earth was nearer to it and day shorter and quicker in return. Therefore there was more photosynthesis, a more abundant surface life, and more food for huge benthos nummulites. Hence the arising of a silicated nummulosphere.
+
 ...
