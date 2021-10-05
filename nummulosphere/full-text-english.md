@@ -2466,6 +2466,42 @@ Yet the huge masses of Triassic nummulitic limestone known as Schlern dolomite �
 
 *) Concerning denudation in the Andes, Darwin writes: "It is not possible for the mind to comprehend, except by a slow process, any effect which is produced by a cause repeated so often that the multiplier itself conveys an idea not more definite than the savage implies when he points to the hairs of his head." 'Voyage of the Beagle.'
 
+*) The poverty of the Marmolata in magnesium may be due to the accumulation of the deposit in rather deep water, the ordinary dolomite rock having accumulated in relatively shallow warm water and in the coralline zone. Dana attributed dolomitization to deposition of magnesium salts from the warm water of lagoons. Dr. A. G. Högbom believes calcareous algae contribute a considerable percentage of magnesium (Neues. Jahrb. Min. 1894, 1. p. 262).
+
+Note D. _Precambrian succession in Canada_ (p. 73).
+
+A joint-committee of the Canadian and American Geological Surveys adopted the following order of succession for the Precambrian rocks of the Lake Superior region:—
+
+Keweenawan  
+Unconformity  
+Huronian Upper Unconformity  
+Huronian Middle Unconformity  
+Huronian Lower Unconformity  
+
+Keewatin  
+Intrusive contact  
+Laurentian  
+
+The Report of the Committee is published in "The Journal of Geology," 1905, 13. p. 89. The Laurentian and Keewatin comprise the Archaean, and the Huronian and Keweenawan the Algonkian.
+
+The Grenville series overlying the Laurentian in Eastern Ontario and Quebec is generally regarded as Archaean, although it is uncertain to what extent it is correlated with the Keewatin. The "basal complex" is generally called after the locality in which it is exposed. In the Western Hebrides for instance it is called Lewisian, although it _may_ be of the same age as the Laurentian of Canada. "It is not impossible that they" (the Laurentian rocks) "may reach the Western Hebrides, which lie in the latitude of Labrador" (Suess, 'The Face of the Earth,' 4. p. 258). If so it is not surprising to find that the ocean floor abounds in ancient nummulite shells. The Laurentian and Lewisian rocks are nummulitic.
+
+Note E. _Precambrian Fossils_ (p. 73).
+
+In the Survey Memoir 'The Geological Structure of the North-west Highlands of Scotland,' 1907, the piped quartzites* above the Torridonian and below the _Olenellus_ zone are reckoned as Lower Cambrian; there are, then, no known Precambrian fossils in Great Britain.
+
+*) It is very doubtful whether the "pipes" are due to worms. Dr. A. G. Högbom believes the pipes may have arisen from a purely mechanical cause, such as the ascent of bubbles in wet sand in certain conditions of tide and sandy shore. Bull. Geol. Inst. Upsala, 13. p. 45, 1915.
+
+C. D. Walcott gives an account of Precambrian fossils of North America in 'Precambrian Fossiliferous Formations,' Bulletin Geol. Soc. America, 10. pp. 199-244, Plates 22-28, 1899; also in 'Precambrian Algonkian Algal Flora' (Smithsonian Miscellaneous Collections, vol. 64, p, 77, plates 4-23, 1914), and in 'Notes on Fossils from Limestone of Steeprock Series, Ontario, Canada,' Canadian Geol. Survey Memoir 28, p. 17, 1912. Several of the fossils described in these memoirs are probably pseudomorphs.
+
+Dr. G. Abbott ('Nature,' Dec. 31, 1914, p. 477) points out the remarkable similarity between _Atikokania_ from Steeprock and "concretions" in the Fulwell Limestones. The Steeprock limestones are at the base of the Algonkian, and Dr. Walcott believes they are marine. Probably, like the Fulwell rock, they will be nummulitic limestones.
+
+_Cryptozoon? occidentale_ Dawson (Bull. Geol. Soc. America. 10. p. 233), which Dawson compared to _Loftusia_, appears to be (like _Loftusia_ itself) a pseudomorph.
+
+Dr. Walcott thinks the entire series of Algonkian limestones of western America may be fresh-water deposits laid down in epi-continental basins wholly or sometimes partly cut off from the ocean. It will be possible in some measure to test this theory. If, like common chalk, the rocks are nummulitic, they will be marine.
+
+The calcareous masses of supposed Algonkian algae so closely resembling the fresh-water "Lake Balls " of the present day as described by Dr. Walcott, bear some resemblance also to Fulwell-quarry concretions.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
