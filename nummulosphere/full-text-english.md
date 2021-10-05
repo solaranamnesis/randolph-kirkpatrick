@@ -2402,6 +2402,70 @@ So far as concerns the proof of the nummulosphere theory it is a question of the
 
 Nummulites as viewed in thick sections of transparent crystalline rock will be seen under an unfamiliar aspect not figured in text-books, which usually depict the many-chambered spirally coiled median (splitting) plane and the willow patterns. In the crystalline rocks the more or less obliterated shells will appear in any aspect or section as complicated many-layered objects. For many months I wandered about in these ruined labyrinths without understanding the plan, which is now fairly clear to me. Portions of furrowed and banded marginal cord with bases of septa across furnish perhaps the best clue to orientation, for portions of cord concentric to the first will probably be traceable. With these clues even a beginner may hope to find his way about without much difficulty. Let a diagram of a shell an inch in diameter and lying flat be roughly sketched under a magnification of five diameters. Make a spiral of a few coils in the area of 25 square inches, the coil-outline being drawn (over a small segment) with five or six parallel lines (furrowed and banded marginal cord). Draw a narrow radial band or loop from centre to first innermost coil, then one to the second and so on to the last, each being nearly over and embracing the preceding one. In the actual shell there would be radial series all "round the clock." Some idea will be gained of the complicated nature of a transparent many-layered shell with concentric and radial pattern. Then, too, there are the furrowed marginal cord and the coiled disk structures. High powers reveal ever smaller disk structure. A shell an inch across magnified 2,500 diameters would cover 3,858 square yards.
 
+I have examined igneous rocks from many parts of the world and from all horizons and have never failed to detect nummulitic structure, and can now do so with ease and certainty in most cases.
+
+During the last three years I have studied nummulites of Eocene formations, and have made some tens of thousands of careful observations on nummulitic structure in rocks other than Eocene.
+
+The opinions of those who have never seen either a nummulite shell or sections of one under a microscope will not be of value concerning the structure of nummulites.
+
+When I look back on the distance I have travelled, continually losing my way at first and being deceived by false appearances, I realize the necessity of warning future travellers of the need for patient observation.
+
+#### Appendix
+
+Note A. _Wernerian perversity_ (p. 12).
+
+"I heard the Professor, in a field-lecture at Salisbury Crags, discoursing on a trap dyke, with amygdaloid margins and the strata indurated on each side, with volcanic rocks all around us, say that it was a fissure filled with sediment from above, adding with a sneer that there were men who maintained that it had been injected from beneath in a molten condition. When I think of this lecture, I do not wonder that I determined never to attend to geology." — 'Life and Letters of Charles Darwin,' vol. 1. chapter 2. "Autobiography," p. 41. 1887.
+
+Seeing that Werner did not bring forward a particle of evidence in support of his theory of the aqueous origin of granite and basalt, the ultimate rejection of that theory by the scientific world is not a matter for surprise. Not only was Werner ignorant of the organic basis of these rocks, but also of the fact that they were once in a semi-molten or molten condition.
+
+Note B. _Potstones_ (p. 66).
+
+Potstones are common round Norwich, and are often seen in the village gardens. The classical quarry at Horstead, figured in Lyell's 'Elements,' is quite grown over, but good examples are to be found elsewhere, notably at Whittingham. These curious objects have been taken for gigantic sponges. One theorist thought they were due to lightning forming tubes of fused sand! The theory which attributes their formation to sagging-down of the heavy silica into soft areas and hollows in the chalk, seems a reasonable one. In the thick tabular masses of flint the upper surface is usually more or less flat and smooth, and the lower provided with great bosses. A potstone is a still more gravitating mass. Where vertical pipes are formed, the horizontal tabular layers are further apart, as if the vertical masses had drained off the material.
+
+In one quarry near Norwich I dissected out a slender green glauconite pencil-thick axis or core through two potstones and a portion of a third — through 4 feet 11 inches in all, till I came to a solid floor of flint and a layer of water. Many of the green grains are casts of Foraminifera. Mr. Leney, the curator of the Norwich Museum, showed me a potstone with a lateral branch of glauconite running from the central axis to a hole in the side of the potstone. Possibly the core results from a surface-layer of shells and clay sediment being carried down in the vortex of the sinking funnel. These surface-shells would, perhaps, still contain animal matter which is supposed to set up the changes resulting in the formation of glauconite. At the same time, a difficulty about this view is that the core is continuous even when there is an interval between the stones, which latter might be compared to huge cylindrical beads on a thread of glauconite.
+
+Note C. _The Dolomites of South Tyrol_ (p. 70).
+
+The dolomite mountains of South Tyrol are among the grandest limestone formations on the globe. Huge pillars or cimas, slender campaniles and long curved walls rise sheer for thousands of feet. These remarkable Triassic rocks have been the subject of much controversy, and a general agreement as to their real nature and mode of formation has not yet been arrived at. In 1860 Richthofen advocated the view that the "Schlern" dolomite — the crystalline unstratified rock which forms the bulk of many of the dolomites — could be accounted for on Darwin's coral-atoll theory, the almost total absence of coral being attributed to its obliteration by dolomitization.
+
+D. Stur (1868, 1871), on the other hand, concluded that Schlern dolomite was merely part of a great series of sedimentary limestones, tuffs and clays, and that it had no definite horizon. " There are some localities where the whole of the sedimentary strata are represented by dolomite, and other areas where the dolomite appears first in the upper horizons and rests on the lower sedimentary strata."
+
+Gümbel (1873), who rejected what he terms "the very convenient reef theory," regarded Schlern dolomite as occupying a distinct horizon characterized by the presence of a calcareous alga _Diplopora annulata_ Schafhäutl, another species _D. pauciforata_ Gümbel being found in the older Mendola dolomite. He considered the isolated massifs to be parts of a once continuous formation broken up by volcanic upheavals, followed by ages of denudation.
+
+He (and Lepsius in 1878) explained the great variation in thickness within small areas as being due to inequalities resulting from upheavals and heaping up of volcanic material.
+
+Mojsisovics in his great work 'Die Dolomit-Riffe von Süd-Tirol und Venetian,' 1879, supported the coral-reef theory.
+
+Suess (1888) asserts "that the expression 'reef' is justifiable, can scarcely be doubted."
+
+Mrs. Ogilvie Gordon (1893-5), who wrote a brilliant series of stratigraphical papers on the Triassic rocks of South Tyrol, regarded the Schlern dolomite as an ordinary marine deposit and not as coral-reefs. She showed that frequently the dolomite masses along with their accompanying sedimentary strata had been twisted round and shifted by crust movements in Tertiary times.
+
+E. W. Skeats (1905) believed in the reef theory on account of the chemical purity of the rock and its freedom from residues. A typical Schlern dolomite contained 0.55 per cent. residue; a Mendola sample 0.93 per cent.
+
+Dr. Rothpletz (1894 and 1899) considered the Schlern massif by no means comparable with reefs like those of the Pacific, but rather with certain submarine banks such as the North Dacia Bank or "Coral-patch,"* which rises abruptly from the abyssal floor of the Atlantic off Morocco. If the term reef were used, its significance must be altered and extended. He believed in the "localized" character of the dolomite of the Schlern massif, as opposed to the theory of its being part of an extensive continuous deposit.
+
+*) J. Y. Buchanan, Proc. Roy. Soc., Edinburgh, 13. p. 431, 1885; also Langenbeck, 'Koralleninseln und Korallenriffe,' p. 32, 1899. Buchanan regarded the Dacia Bank as a very _thick_ accumulation of organic remains possibly on a volcanic rock, and this also was the view of Dr. Rothpletz; but the evidence seems inconclusive. Perhaps the bank is a volcanic rock (like the emerged Porto Santo Island not very far away) with only a _thin_ layer of coral. The dead coral on the top of the plateau is tinged black with manganese; this deposition would hardly have taken place if the coral grew on the summit of a high pillar of purely calcareous remains.
+
+Amidst all these conflicting opinions, I find that, as in the case of Chalk and many other limestones, an important feature has been overlooked, viz., the organic structure of the main mass of the rock. My sections of typical lumps of Schlern and Mendola dolomite show them to be made of nummulite shells, i.e., Schlern dolomite is mainly a nummulitic limestone. It is almost impossible to detect the shells in the solid rock, so greatly has the latter become crystallized; and it is difficult to make out the nummulitic structure in sections. Large and rather thick sections cut from three sides of a cube of rock show the shells in various aspects when held up to the light and examined with hand-lenses magnifying 3 to 10 diameters. With patience it is possible to discriminate spiral laminae, alars, marginal cord, etc., of large shells. Under higher powers also (e.g. 300 diameters), I can now see all these structures with singular clearness. I find 2 mm. Oc. 18, — tube drawn out, diaphragms nearly closed — the best combination for the smallest disks. What seem like transparent luminous flakes under lower powers and a fair amount of light, will, in dim light, slowly reveal well-defined disk structures. Each disk is spirally coiled in one plane, with series of smaller spirals situated at intervals round the larger spiral and in planes vertical to that of the latter.
+
+Transparent sections of Schlern rock viewed with a lens show a meandrine pattern formed by opaque and clear calcite, recalling some of the "Stromatoporoid" patterns. The Mendola rock-sections, on the other hand, are more like those of Carrara marble, i.e., uniformly granular and clear. The nummulitic structure is to be detected here as in the Schlern material.
+
+The larger fossils are not common in Schlern dolomite, Mollusca, Echinoderms, Corals (rarely) and Calcareous Algae being found.
+
+Mojsisovics (_l.c._ p. 500) writes of "der grossen armuth des ungeschichteten Dolomits an fossilresten," and Rothpletz (1899) of "der eigentlich Schlerndolomit ganz fossilarm " (Zeitsch. Deutsch. Geol. Gesellsch. Verhand. p. 105), but the rock is a mass of fossils* throughout, though for the most part they are only to be recognized with some difficulty.
+
+*) Prof. Skeats examined thirty-eight sections of Schlern dolomite. He found calcareous algae in three, doubtful ditto in five; coral in one, doubtful coral (meandrine pattern) in eleven; mollusc shell in one; echinoderm spine in one; no trace of fossils in seventeen (i.e. 45 per cent.). I think it not improbable that there is nummulitic structure in all, excepting perhaps where algae are massed together. Prof. Skeats was unable to find any trace of organisms in a specimen of Mendola dolomite. (Q. J. G. S., 1905.)
+
+The discovery of the mainly nummulitic nature of Schlern dolomite will not finally solve the complicated problems concerning the character of the formation and its stratigraphical relations, but may throw fresh light on the subject.
+
+Atoll-crowned Christmas Island (Indian Ocean), which has from certain points of view the aspect of a miniature terraced dolomite cima, is partly composed of Orbitoidal limestone: and, moreover, the remarkable calcareous sponge-fauna* recalls that of St. Cassian. Sollas has pointed out, too, how large a share Foraminifera take in reef-building.
+
+*) Kirkpatrick, Proc. Roy. Soc. vol. 83, p. 124, and vol. 84, p. 579; and A.M.N.H. July 1911, p. 177.
+
+Yet the huge masses of Triassic nummulitic limestone known as Schlern dolomite — sandwiched between sedimentary strata and occurring in a district that has been subject to violent disturbances, and also to the influence of the usual unceasing agencies of denudation for immeasurable ages* — may perhaps be relics of a formerly continuous deposit on an uneven and unstable bottom, rather than reefs even in the extended sense of the term.*
+
+*) Concerning denudation in the Andes, Darwin writes: "It is not possible for the mind to comprehend, except by a slow process, any effect which is produced by a cause repeated so often that the multiplier itself conveys an idea not more definite than the savage implies when he points to the hairs of his head." 'Voyage of the Beagle.'
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
