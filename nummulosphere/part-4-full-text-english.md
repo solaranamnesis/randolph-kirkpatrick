@@ -52,4 +52,8 @@ Jove, Neptune and Pluto, the sons of Saturn, settled by lot their respective sph
 
 "But to my task."
 
+Thanks chiefly to the Imperial Marble Works I have a unique collection of granites, large slabs 18 inches by 12 inches and only 1/16 inch thick, polished both sides, and smaller bits 1/50 inch thick and quite transparent.
+
+Further, I have a very large collection of X-ray stereoscopic skiagraphs of granites each 12 inches by 10 inches for the Wheatstone reflecting stereoscope, and 6 inches by 3 inches for the direct vision instruments.
+
 ...
