@@ -78,4 +78,24 @@ A very strange fact in Nature is the predominance of Nummulites almost from the 
 
 One thousand million years ago the sun, which has been losing eight million tons a minute ever since, was somewhat hotter and heaver than now. Accordingly the earth was nearer to it and day shorter and quicker in return. Therefore there was more photosynthesis, a more abundant surface life, and more food for huge benthos nummulites. Hence the arising of a silicated nummulosphere.
 
+#### Chapter 2
+
+##### Limestones
+
+I merely intend to record here that my earlier statements on Chalk and Flint and most other limestones are correct, and that these rocks are nummulitic.
+
+Most flints are simply lumps or areas of limestone permeated by silica, and I have detected the nummulitic structure very often even in pre-Cambrian phthanites. I can see not only the remains of siliceous organisms that furnished the silica, but also the silicified nummulitic structure.
+
+The bulk of the great limestone formations, including chalk, are not, as Prof. Tarr concludes in his valuable studies on flint, chert and chalk, formed by chemical precipitation (as happens in certain calcareous oolitic muds off Florida), but are derived from the skeletons of living organisms. Further, at one time there were no rivers to carry down silica to the sea. The silica must then have been derived mainly from plankton.
+
+I cannot give now the numerous proofs that chalk is formed mainly of nummulites, but I am wholly certain that it is so.
+
+I examined the uppermost Cretaceous or Danian limestones from Denmark and Sweden, samples of which were most kindly sent to me by Prof. Odhner of Stockholm and by Prof. Ravn of Copenhagen, in the hope of finding better preserved nummulites. I found the pre-Eocene type of nummulites. But I do not presume to say that this settles the position of these rocks in the stratigraphic series.
+
+I have myself collected Eocene nummulites in Algeria; in N.E. Spain, where whole cities are built of them, e.g. Gerona; also in France, Switzerland and Italy; and have obtained material from Egypt, E. Africa, India and Japan.
+
+No wonder students spoke of the Nummulitic Era and the Nummultitic Enigma.
+
+The solution of the enigma is as follows: The Nummulitic Era should be regarded as the dying away of the almost immortal nummulties. The universal prevalence of these fossils in time and space is due to the universality of ocean life, and living matter is built up spirally and epispirally. This planet is an ocean planet and, from its position in the solar system, a life planet; and the earth's crust is mainly formed of mineralized skeletal débris.
+
 ...
