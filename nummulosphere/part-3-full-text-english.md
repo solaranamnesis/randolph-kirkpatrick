@@ -2816,8 +2816,6 @@ Summary. — The "granules" so often present in protoplasm are very frequently s
 
 The illustrious Pasteur saw, through the medium of his theory of the molecular asymmetry of natural organic products, a vision of distant horizons. By the discovery of the visible spirodiscoid and spirad structure of protoplasm, and of its skeletons constituting the bulk of the known crust of the earth, it may be that one of those horizons has been reached.
 
-...
-
 #### List of Plates, Guide Diagrams, and Figures
  
 [Plate 1: Figure 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure1.png) — Fragment of Diatom ooze, 5x (_Challenger_), Southern Ocean St. 157, 1950 fms. This ooze (in the dried state) is a powdery mass of nummulites crammed with microscopic plankton skeletons, chiefly Diatoms. The faint circular or oval outlines of the nummulites are about 25 mm. (an inch) in diameter in the photo, i.e. about 5 mm. (⅕ inch) nat. size. [Nummulitic structure can be seen better in sections of this ooze hardened in balsam.]
