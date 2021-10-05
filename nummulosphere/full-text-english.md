@@ -2581,6 +2581,107 @@ Note R. _Affinities of Lagena and Biloculina_ (p. 180).
 
 These forms may belong to a parallel series comparable with that of _Cyclodypeus_ — _Orbitolites_ for example. The entosolenian body in _L. marginata_ may be the modified relic of a lost central chamber. In any case the term "introvert" seems unsuitable.
 
+#### Epilogue
+
+A plain record of facts should hardly be in need of an epilogue any more than was the play of the immortal Bottom* whose theme too was of "raging rocks and shivering shocks." 
+
+*) "No epilogue, I pray you; your play needs no excuse."
+
+I hope, however, it may not be altogether amiss to make mention of certain phantasies engendered in my mind in the course of the work and arising out of that work; and an epilogue seems the only place in which to bestow on such unsubstantial things a local habitation. I refer more particularly to a new version of the story of Proteus, whom some — influenced perhaps by etymological fancies — suppose to signify elemental and primitive substance. The legend in certain of its aspects seems to anticipate modern ideas of evolution.
+
+A few personal notes bearing on matters in the text are also included.
+
+The first link in the chain of events leading to the final overthrow of the usurping dominion of Pluto was forged, as was befitting, by a humble dependant on the bounty of Neptune, to wit, a poor fisherman of Porto Santo.
+
+One day he caught on his briquera hooks a small lump of rock lying on the bottom of the sea. Strange to relate, this seemingly trivial capture was an event of no small importance to science. It was as if some Arabian Nights djinn had been brought up from the vasty deep, a djinn of the kind that point out paths leading to hidden treasure, but along which they themselves do not go.
+
+The fisherman, instead of impatiently throwing the stone back into the sea, kept it for a learned friend, Senhor Noronha, who had a hobby for collecting sea-things. Some years later, Senhor Noronha gave the stone to Canon Norman, another enthusiastic seeker-after and storer of Neptune's treasures.
+
+Canon Norman, wishing to know the nature of a mysterious calcareous crust on the stone, sent it to the British Museum (Natural History). As soon as I had examined the little patch, in order to learn the cause of it I set out for Porto Santo. After dredging for nine days, I obtained living examples of the encrusting organism, which was found to be a siliceous sponge with a supplementary calcareous skeleton. For a time the nature of the latter continued to be obscure. At this stage I examined certain ancient fossils with a superficial resemblance to the calcareous crust, and drifted on to studying some still more ancient lumps of rock named Eozoon, which were found to possess definite organic structure.
+
+In Porto Santo, again, I first detected organic structure in an igneous rock, viz., in a piece of trachyte given me by Senhor Noronha. The gift proved to be something of a talisman. For through it there was conjured up a true vision, at first dim and obscure but later clear and defined, of life, the foam-born, building up in the course of immeasurable aeons the visible frame of the earth.
+
+After the discovery of the nummulitic nature of nearly the whole island of Porto Santo, of the buildings, wine-presses, soil, etc., the name _Eozoon portosantanum_ seemed a fitting one for the fossils. The friendly inhabitants had sometimes jokingly greeted me as fellow-citizen, and it occurred to me to suggest to the commune the adoption of a nummulite shell for a crest. When the igneous rocks of Madeira were likewise found to be nummulitic, _Eozoon atlanticum_ seemed a more fitting name.
+
+On my return to London, I annexed in one morning for Eozoon the volcanic rocks of the Arctic and Atlantic, and in the afternoon of the same day those of the Pacific, Indian and Antarctic oceans. The designation _Eozoon orbis-terrarum_ then suggested itself; and, further, a nummulite shell seemed a fit emblem for the Hague Conference (or future parliament of man), in view of the fact that mineralized masses of these shells (territories) are the chief subjects or objects of adjudication.
+
+If _Eozoon_, after taking in the world, had sighed for more worlds to conquer, its fortunes would have surpassed those of Alexander, for its desires would have been realized. When the empire of the nummulites was found to extend to space a final alteration of name to _Eozoon universum_ apparently became necessary. Later Eozoon was found to be simply a mass of ordinary nummulites, and there was no longer need to invent specific names for it.
+
+The inhabitants of Porto Santo often find on the northern coast of the island giant Entada beans stranded after their long voyage across the ocean.
+
+Columbus, who married the daughter of Perestrello, governor of the island, spent several years there before he made the great voyage. It has been said that the Entadas gave Columbus the idea of the existence of land below the western horizon. The story has been denied, but yet is likely to be true. Admittedly the north shore of the little island does not front the region whence the beans actually came, but Columbus would know that these huge mysterious seeds, products of the abundance of tropical life, could hardly have come from Europe.
+
+It is singular that the island should have been associated with two important discoveries, viz., of the new world and of the oceanic and organic origin of the planetary crust.
+
+The new discovery seems to me important not only on account of its value as an instrument of research, but also because of the labours that have been devoted by men of science to problems* concerning the nature and origin of igneous rocks and meteorites. It may appear strange that success should have come to one who is not by profession either a geologist or a petrologist. There exists a certain element of "chance" even in scientific research: "nor yet (is) favour to men of skill; but time and chance happeneth to them all."
+
+*) Palaeontological ones with a pronounced mineralogical aspect, or _vice versâ_, mineralogical problems into which palaeontological considerations enter.
+
+_The Legend of Proteus, the Ancient One of the Sea_ 
+
+Telemachus seeking news of his father Odysseus visits the court of Menelaus, who tells his guest the story of his return journey after the fall of Troy. Becalmed at Pharos, he and his men are in danger of starvation. The nymph Eidothée taking pity on him, advises him to capture and question Proteus, that "takes all manner of shapes of things that creep upon the earth, of water likewise, and of fierce fire burning."
+
+Neptune's shepherd, having come ashore and counted his seals, lays himself down to rest in the midst of his flock. Menelaus and three of his men, who had been lying in ambush under the flayed skins of seals, rush forward and hold him down. When caught "that ancient one forgot not his cunning. At first he turned into a bearded lion, and thereafter into a snake, and a pard and a huge boar; then he took the shape of running water, and of a tall and flowering tree." But the men, mindful of the nymph's advice, grasp him steadfastly and press him the more. At last, resuming his proper shape, he yields the desired information.
+
+The accumulated exuviae of Proteus are as deceptive in appearance as Proteus himself (see the records of petrogeny and palaeontology), and apotheosized fragments of these remains have even been enshrined in temples.
+
+Under close observation, the earth's crust is seen to be a mineralized deposit of the coiled shells of _Nummulites_, first cousin to the houseless Amoeba Proteus.
+
+_The Mysterious Birth and Transformations of Deathless Proteus_ 
+
+At one time the earth, covered with a universal mantle of waters, was without life.
+
+But a dawn came when there arose at the edge of the azure plain a crimson and golden glory.* The rim of the sun's orb appeared above the horizon. At that moment, a ripple on the boundless deep caught the light and seemed as a flame of fire. A cloud of transparent particles of a peculiar dust suspended in the glowing wave entangled and entrapped the rays, and suddenly assumed a bright green colour. Proteus was born.*
+
+*) Presage of a chequered pilgrimage for Proteus.
+
+*) The records relating to the manner of Proteus' birth are somewhat vague, and open to various interpretations.
+
+Suffused with radiant energy, his appetite (perhaps the first appreciable psychic manifestation) was insatiable and the food supply, consisting as it did of air, water and salts of the sea, inexhaustible.
+
+With great rapidity he spread over the face of the waters in the form of floating prairies. From the sea he extracted material wherewith he built himself innumerable palaces of opal ornamented with wondrous designs formed seemingly by the windows of exhalation. On the ocean-floor he constructed on a spiral plan marble halls of many a thousand columns. These abodes when deserted became changed into adamantine crystal and sardonyx and ruby and emerald and sapphire and the mother-substance of these gems. In the course of aeons the ruins formed an immensely thick accumulation — the known crust of the earth.
+
+Proteus' self underwent ever higher transformations. He became a sac with an inner surface for digestion and an outer one sensitive to impressions from the surroundings. Then a series of sacs remained joined in a row, the various units becoming highly specialized, and so on. When the sea-floor emerged as land above the waters, he became adapted to living in the aerial ocean, creeping, running and flying therein.
+
+At last behold him standing erect, endowed with great psychic storage-batteries encased in bony mail, no longer Neptune's thrall, but lord of the earth, the ocean and the air, seeking to solve the enigma of the infinite and eternal universe and of his own existence therein; and believing himself predestined, at the end of his toilsome ascent up "the mountainous slopes of the ages," from the summit of the mount of blessing to behold
+
+"Beyond a hundred ever rising mountain lines,  
+And past the range of night and shadow,  
+The high-heaven dawn of more than mortal day  
+Strike on the mount of vision."  
+
+#### Supplement
+
+"That the cell consists of more elementary units of organization is nevertheless indicated by _a priori_ evidence so cogent as to have driven many of the foremost leaders of biological thought into the belief that such units must exist, whether or not the microscope reveals them to view." — E. B. Wilson.
+
+That the rind of this ocean-planet should be composed of a deposit of marine calcareous shells formed by Rhizopodal protoplasm, that the calcareous matter should be replaced by silica, that the covered-in deposits should become heated owing to mechanical chemical and radioactive causes, that the mass of silicic acid (silica), alkalies, alkaline earths, etc., should combine to form silicates, that the molten pent-up material should be squeezed through the overlying strata and occasionally hurled into space with explosive violence, all this is in no way contrary to what might be expected. I have now, however, to call attention to a discovery of a wholly _unexpected_ kind. I find that protoplasm, beneath its various and ever-changing aspects, has a definite fundamental structure of a very remarkable nature, which I have already named "spirodiscoid."
+
+The discovery, if true, would be of high importance not only in itself but in its implications. For we cannot hope adequately to understand the nature of the mysterious phenomena of growth, development and heredity, of organic evolution in fact, until we know the real structure of the material basis of those phenomena. Further, a perception of the architectural design of protoplasm may lead to a knowledge of the principles in accordance with which that design has been formed.
+
+As this discovery, strangely enough, has resulted from the observations on igneous rocks, I think it would be well to publish here a brief supplement. A fuller account with photographs will be given later when circumstances permit.
+
+I had found the nummulite shell to be built of "spirodisks," i.e. disk-like spirals with a coiled series of secondary spiral disks in planes vertical to the primary, each secondary again having its series of secondary spirals, and so on to the limits of microscopic vision. Presently I found the spirodiscoid structure outlined in "granules" in the protoplasm of various Foraminifera and in Amoeba. An examination of plant protoplasm revealed similar spirodiscoid outlines.
+
+Returning to the investigation of animal protoplasm, I found the spirodisks in the nuclei of white and coloured blood-cells of vertebrates, in squamous and columnar epithelium, in the nuclei of cerebro-spinal ganglion cells and of fibrillar tissues, viz., tendon, nerve and muscle. Accordingly I have arrived at the conclusion that protoplasm is constructed on a spirodiscoid plan.
+
+The reader may well take up a guarded attitude when confronted with a new theory of protoplasmic structure. Even a superficial study of the vast literature relating to this subject brings out a strange fact, justifying an attitude of defence. Distinguished men of science after devoting much labour to the investigation of protoplasm have arrived at very conflicting results, so that we have many theories, viz., (1) granular, (2) spherular, (3) fibrillar, (4) spiro fibrillar, (5) reticular, (6) alveolar, (7) fundamentally homogeneous, the reticular and fibrillar appearances being due to artefacts formed by coagulation or precipitation. Truly the elusive Proteus "that takes all manner of shapes" has been at his old tactics, but I believe it has fallen to my lot to behold "the ancient one" in his real form. Accordingly I am constrained to bring forward yet another theory, viz. the spirodiscoid, or rather "spirad." A spirodisk is built of spirads, the latter being the smallest microscopic and the still smaller ultra microscopic, presumably spiral elements of spirodisks.
+
+According to Altmann* the protoplasm of a cell is composed of "granules" or bioblasts, which are essentially a kind of very simple organism and which undergo division, in fact _omne granulum e granulo_. Daringly carrying his theory to its logical conclusion, Altmann classifies his granule organisms into "monads" and "nematodes" (thread organisms). He regards his elementary organisms as organic crystals which grow by intussusception, whereas inorganic crystals grow by apposition. According to E. B. Wilson "Altmann's premature generalization rests upon a very insecure foundation and has been received with just scepticism."
+
+*) 'Die Genese der Zelle.' Beiträge z. Physiol. (C. Ludwig). 1887. — 'Die Elementarorganismen und ihre Beziehungen zu den Zellen.' 2nd Edit. 1894.
+
+J. Künstler* believed protoplasm to be built of closely-packed spherules, each of these having a firm wall and fluid contents.
+
+*) 'Contributions a l'etude des Flagelles.' Bull. Soc. Zool. France. 1882.
+
+W. Flemming* sums up the results of his investigations with the statement that besides the nucleus and occasional (etwanig) granules, only two different essential substances can be distinguished in the cell, viz. fibrils and the material between them, the former being slightly more refractive than the latter.
+
+*) 'Zellsubstanz, Kern und Zelltheilung.' 1882.
+
+V. Fayod* believes protoplasm to be formed of spirally-coiled hollow fibrils — spirofibrillae, the latter often being plaited together into hollow cords or ropes — spirosparta. The spirofibrillae are composed of tough transparent uncolourable material. The lumina of the coils are filled with granular protoplasm, the circulation of which is confined to these "vessels." Fayod injected plant tissues with mercury under a pressure of 1.5 atmospheres, by fixing the material at the end of a long glass tube 1 to 2 metres long and gently filling with the metal. The mercury is supposed to fill the interior of the hollow fibrils and cords.
+
+*) 'Ueber die wahre Structur des lebendigen Protoplasmas und der Zellmembran.' Naturwiss Rundschau 5. p. 81. 1890.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
