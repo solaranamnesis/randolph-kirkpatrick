@@ -2559,6 +2559,28 @@ Referring to species of _Udotea_, A. and E. S. Gepp write:* "The calcareous shea
 
 *) 'The Codiaceae of the _Siboga_ Expedition,' 1911, pp. 5, 6, 102, and Fig. 182.
 
+Note L. _Diatomaceous Ooze_ (p. 30).
+
+The Diatomaceous ooze from St. 157, 1950 fathoms, in the Southern Ocean (_Challenger_ Station 157), is a fine white floury deposit which crumbles at a touch. This ooze is rich in nummulite probably derived from ice-borne erratics or floating pumice. Not only have the nummulites become glassy and powdery, but parts of the anatomy, such as disks of the pillars, have acquired a superficial resemblance to _Coscinodiscus_) many species of which are present in the deposit. The nummulitic structures will be found in regular series, and high powers will show the spirodiscoid structure.
+
+Note M. _Barbados Earth_ (p. 66). 
+
+Barbados earth, a pliocene formation, is usually regarded as a rock composed almost exclusively of Radiolaria. I find it, however, to be a silicified earthy deposit of nummulites very rich in undissolved Radiolaria. Because Radiolarian oozes are usually found at great depths it is assumed that the Barbados deposit may perhaps have been formed at a depth of 3000 fathoms. The nummulites appear to have lived contemporaneously with the Radiolaria sunk from the surface, for the two elements are mixed together in the samples I have seen, so that it is not a case of Radiolaria sinking into a more ancient nummulitic mud. As it is highly improbable that nummulites lived below 1000 fathoms, probably the Barbados earth was not formed at the abyssal depth usually assigned to it. (See 'Geology of Barbados,' Part 2. Oceanic Deposits. Jukes-Browne and Harrison. Q.J.G.S. p. 170, 1892.)
+
+Note N. _Chalk with Flint and without Flint_ (p. 44). 
+
+The presence or absence of layers of flint seemingly depends on two factors, viz. the abundance or paucity of benthos and plankton siliceous organisms and the degree of permeability of the rock. A marly chalk in shallow water would probably be poor in siliceous benthoplankton and would be relatively impermeable, so that disseminated silica would not all gravitate to form a layer. The upper chalk which indicates deep-water conditions might have a rich benthos sponge fauna and an oceanic plankton one, and the pure nummulitic deposit would be very permeable. W. K. Brooks pointed out the singular poverty of the coral-reef areas in plankton, and the great richness of the oceanic areas not far away.
+
+In Portland, Dorset, the Jurassic rocks from the point of view of chert beds are in the reverse order to the chalk.
+
+Note P. _Origin and Metamorphism of Rocks_ (p. 13). 
+
+It may be well to mention that theories of aqueous and igneous _origin_ of rocks are distinct from aqueous, igneous and aquo-igneous theories of _metamorphism_ of rocks. Igneous rocks have an aqueous origin, and seemingly their metamorphism is partly due to aquo-igneous agencies.
+
+Note R. _Affinities of Lagena and Biloculina_ (p. 180).
+
+These forms may belong to a parallel series comparable with that of _Cyclodypeus_ — _Orbitolites_ for example. The entosolenian body in _L. marginata_ may be the modified relic of a lost central chamber. In any case the term "introvert" seems unsuitable.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
