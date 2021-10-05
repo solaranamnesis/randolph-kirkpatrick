@@ -14,3 +14,8 @@ German - Plain Text
 German - PDF  
 
 ### Part 4: The Origin of the Earth's Crust and of Meteorites
+
+[English - Plain Text](full-text-english.md)  
+English - PDF  
+German - Plain Text  
+German - PDF  
