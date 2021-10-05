@@ -42,4 +42,14 @@ I have been splendidly helped in my work. Mr. James Whitehead and his manager of
 
 Dr. V. E. Pullin, Director of the Research Laboratory at Woolwich, aided me with excellent skiagraphs of siderites and aerolites. The late Dr. Robert Knox, head of the Radio-Therapeutic Department at the Cancer Hospital, Fulham, took a great interest in my work, and enabled me to obtain a fine series of stereoscopic X-ray films. Mr. Heron-Allen and Mr. Earland have helped me considerably from time to time. Lastly I have had continual aid from my colleagues. Indeed, it is a source of satisfaction to me that I may have the good fortune to bring credit to that great institution the British Museum — to me ever a beloved and beneficent Alma Mater.
 
+#### Chapter 1
+
+##### Igneous Rocks
+
+I published my first pamphlet on this subject in 1913, rashly coming into the heated arena with a drawn sword — "An account of _so-called_ igneous rocks," and with a picture of Neptune defiantly holding aloft on his trident a lump of igneous rock. Still worse, theateningly he holds in his other hand a meteorite.
+
+Jove, Neptune and Pluto, the sons of Saturn, settled by lot their respective spheres, but strangely it fell to _my_ lot to discover that Jove and Pluto had meanly defrauded their brother. For the so-called Plutonic rocks are all from Neptune's domain, and even the thunderbolt, the supposed appanage of High Jove, is really the property of Neptune. Hence my determination to restore Neptune to his just and legal rights. The igneous rocks may still be "so-called," but the term plutonic is a highly illogical, misleading piece of nomenclature, and I, for one, refuse to accept and use the same, even if I continue to be _contra mundum_.
+
+"But to my task."
+
 ...
