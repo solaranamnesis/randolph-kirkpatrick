@@ -30,4 +30,16 @@ I would have much preferred waiting a few more years in order to bring out a com
 
 I think it not amiss to call attention to the financial aspect. Since its beginning, in 1908, this research has cost me much over £2,000, all paid out of a modest salary and pension, and certainly by a cheerful giver. I have been my own publisher.
 
+Part 3, in addition to numerous text-figures, has 24 plates of photographs. Almost the only word of sympathy and encouragement from a professional source was from Sir Archibald Geikie. Acknowledging the receipt of Part 3 he writes, "I admire the constancy and devotion with which you maintain your ideas."
+
+A story is told of a man who, for a wager, stood on London Bridge and offered for sale at a penny a piece a tray of golden soverigns. He sold none, and lost his bet.
+
+The coinage I offer — nummulites* — bears the image and superscription of Neptune — not Pluto — and will be found current in the realm of truth.
+
+*) _Nummulus_, a small coin; _ite_, suffix.
+
+I have been splendidly helped in my work. Mr. James Whitehead and his manager of works, Mr. W. W. Clark, have been especially helpful in supplying thinned slabs of rocks, often beautiful examples of craftsmanship.
+
+Dr. V. E. Pullin, Director of the Research Laboratory at Woolwich, aided me with excellent skiagraphs of siderites and aerolites. The late Dr. Robert Knox, head of the Radio-Therapeutic Department at the Cancer Hospital, Fulham, took a great interest in my work, and enabled me to obtain a fine series of stereoscopic X-ray films. Mr. Heron-Allen and Mr. Earland have helped me considerably from time to time. Lastly I have had continual aid from my colleagues. Indeed, it is a source of satisfaction to me that I may have the good fortune to bring credit to that great institution the British Museum — to me ever a beloved and beneficent Alma Mater.
+
 ...
