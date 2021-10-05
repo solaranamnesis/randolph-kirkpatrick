@@ -2292,6 +2292,64 @@ Dr. E. Stolley* describes certain funnel- or club-shaped calcareous bodies of Si
 
 Thanks to the courtesy of Dr. Stolley I have some authentic pieces of limestone rich in these objects. In my sections I can find nothing else than nummulitic structure throughout, both in clear and opaque areas. I am led, then, to regard these curious objects and markings as purely concretionary. Among this group I would place the Silurian _Rhabdoporella_; and also _Ortonella_ described by Prof. Garwood from carboniferous limestone. I have not seen examples of these two forms.
 
+Mitcheldeania
+
+This form was first described from the Carboniferous marly limestone at Mitcheldean by E. Wethered, who writes (Geol. Mag. 1886, p. 535): "The organism consists of a series of concentrically arranged layers or laminae penetrated by systems of tubuli... The tubuli are separated by the skeleton fibre, which is itself penetrated by a minute canal system." Mr. Wethered refers the genus to Stromatoporoids; and records the opinions of experts who pointed out to him the resemblances to Parkeria and Girvanella.
+
+I collected specimens of marly limestone from the quarry at Mitcheldean whence Mr. Wethered got his material, and have examined a microscopic slide of _Mitcheldeania nicholsoni_ Wethered, presented by Mr. Wethered himself.
+
+The limestone shale is mainly nummulitic, and _Mitcheldeania_ is a lithomorphic pattern comparable with that of _Girvanella_ and _Syringosphaeria_.
+
+_Mitcheldeania gregaria_ Nicholson (Geol. Mag. 1888, p. 17), from Carboniferous limestone at Kershope Foot, Roxburgh, is likewise nummulitic, as is evident from samples which I obtained from the locality.
+
+See also some interesting notes on _Mitcheldeania_ by Prof. Garwood, who regards this form as a calcareous alga (Geol. Mag. 1913, p. 546).
+
+Oldhamia
+
+The study of a photograph published by Ch. Barrois,* of _Oldhamia_ from the Pyrenees, leads me to believe that the structure therein depicted is nummulitic. The furrowed and banded marginal cords and fan-like banded septa astride of them would, when compressed, tend to form serial fan-like ribbed structures.
+
+*) Ch. Barrois, 'Note sur l'existence du Genre _Oldhamia_ dans les Pyrénées.' Annal. Soc. Geol. Nord, 15. p. 154. 1888. An account of the various theories concerning this form, and also many references to literature, are given.
+
+I firmly believe that the above suggestions will furnish the true explanation of the _Oldhamia_ figured by Barrois, and probably of all other Oldhamias. Sollas showed that these structures in the hardened Cambrian mud were definite and solid, and not mere ripple-markings.
+
+Girvanella, etc.
+
+In 1880 Nicholson and Etheridge* discovered in the ancient limestones of Girvan in Ayrshire curious little irregular brown or grey calcareous patches about 2 mm. in diameter, and with a very remarkable structure. Sections examined under the microscope revealed a dense labyrinthine mass of coiled solid "tubes," each about 0.04 mm. (0.0016 inch) in diameter. (Photo, Plate. 1. Figs. 4, 5.)
+
+*) 'Silurian Fossils of Girvan,' 1. 1878-80.
+
+Brady believed these bodies were allied to the sandy Foraminiferan _Hyperammina vagans_ which consists of a plexus of coiled tubules. Nicholson partly adopted this view, but thought it well to place the fossils in a new genus and species, _Girvanella problematica_. _Girvanella_ has since been found in many palaeozoic and mesozoic limestones, and Rhumbler places even certain living Foraminifera in the genus. In certain Silurian strata in the Baltic region, thick layers of limestones are mainly composed of masses or "knolls" of _Girvanella_ each perhaps several centimetres in diameter.
+
+Many and varied opinions have been published in the now considerable literature on this subject. Girvanella has been regarded as Foraminiferan, as masses of worm tubes, as a Blue-Green Alga, as a Sponge, Hydrozoan (Stromatoporoid), as a calcareous alga related to the Codiaceae. At the present time, opinion is divided between the calcareous-algal and the Foraminiferal theories.
+
+Owing to the kindness of Prof. A. W. Gibb of the University of Aberdeen, I had the good fortune to obtain some of Dr. Nicholson's own Girvan material, from which I was allowed to cut sections. These show abundance of "Girvanella problematical."
+
+Girvanella is beyond any shadow of doubt a pattern in nummulitic limestone. With careful observation it is possible to detect the nummulitic structure beneath and in the pattern and continuing into the surrounding clear part of the limestone. One feature can soon be made out under a power of about 400 diameters, viz., a finely punctate appearance due to the disk-structure, each dark point being surrounded by a circle. The successive "disks," furrowed marginal cord, septa, alar prolongations, etc., all require great patience for their detection, but they exist.
+
+The sets of parallel curved tubes or bands common in Girvanella are formed by curved, furrowed and banded marginal cord. The rows of little circles (mistaken by some observers for cells of blue-green algae) belong to bases of septa astride of the cord, or to the ends of fan-like septa. Accordingly, although Girvanella is a concretionary structure, the pattern is not quite in the same category as those radio-concentric ones that are independent of nummulitic structure, e.g. Parkeria, simple oolite granules (without Girvanella pattern), etc.
+
+Girvanella, then, is a pattern in _chiaroscuro_ — mainly _oscuro_. The nummulitic structure gives rise to that pattern, and I doubt whether Girvanella could form in any other limestone than a nummulitic one.
+
+_Spaerocodium_ Rothpletz is very probably a lithomorph akin to Girvanella. The "schlauchförmige zellen" and supposed "Sporangia" must, I believe, be interpreted in a sense otherwise than that implied by these designations. In Dr. Rothpletz' photo of _S. gotlandicum_ (Plate 4. Fig. 1, Kalkalg Gottlands) I am fairly certain I can detect the underlying nummulitic structure.
+
+In oolite grains there may be successive zones of ordinary oolitic pattern and of Girvanella structure. Wethered figures a pisolite grain with Girvanella surrounding a Crinoid joint.
+
+Spongiostromids
+
+Dr. G. Gtirich, having discovered a Stromatoporoid in the Carboniferous limestones near Cracow, resolved to study Carboniferous Stromatoporas of other localities, and especially those of Belgium.
+
+He investigated at the Brussels Museum the magnificent series of large thin plaques of the Belgian rocks.
+
+In the thin sections of the Carboniferous limestones of the Viseen of the province of Namur he observed certain obscurely defined masses with granular, nodular or vesicular structure, which he regarded as incrusting organisms. On account of the stratified and spongy reticular structure of certain typical forms, he called them Spongiostromids, and placed the group in a new order of Protozoa. His memoir* is illustrated with numerous large photographs on 22 double quarto plates.
+
+In 1913 Dr. Rothpletz* described a Spongiostromid from the Silurian of Gottland, and expresses the belief that these organisms are Hydrozoa.
+
+In the summer of 1913 I visited the Brussels Museum and examined the types of Spongiostromids described by Dr. Gürich. I found in every instance that they were concretionary masses of nummulitic limestone, slightly differentiated out from the surrounding matrix as is commonly the case in concretions.
+
+The collotype photographs, though excellent for the purpose of showing stratified vesicular and other structure, do not reveal clearly the nummulitic structure. At the same time, I myself from very careful study of these photographs and from much general experience in the matter of nummulites, can make out parts of large shells in horizontal transverse and oblique aspects and also marginal cord and disk structure in most of the plates. The latter will bear being looked at with a lens 4x. Careful note must be taken of the three degrees of magnification of the photos, viz. 0, 5, and 20.
+
+The "stercomes," dark oval bodies, which Dr. Gürich regarded as excrementitious pellets of the supposed Rhizopod, are merely peculiar mineralizations. The occasional regular arrangement appears to me to depend partly on the construction of nummulites with their layers of spiral lamina and coils of marginal cord. I think the serial arrangement of mineral patches in certain silicated nummulitic deposits (e.g. hornblende in Dresden syenite) may be due partly and remotely to the nummulitic character of the rock, even though other causes have been at work.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
