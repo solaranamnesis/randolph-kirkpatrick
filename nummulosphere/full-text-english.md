@@ -2502,6 +2502,63 @@ Dr. Walcott thinks the entire series of Algonkian limestones of western America 
 
 The calcareous masses of supposed Algonkian algae so closely resembling the fresh-water "Lake Balls " of the present day as described by Dr. Walcott, bear some resemblance also to Fulwell-quarry concretions.
 
+Note F. _On Geological Succession_ (p. 2).
+
+As examples the following may be cited:—
+
+Goatfell in Arran. From the shore one climbs past red sandstone, then schists are reached, and finally a granite core (A. Geikie).
+
+Again, in a journey across England from the Essex coast to the Welsh mountains a succession of diluvial, less recent, and very ancient rocks will be met with. The "Floetz" and "primitive" strata of the mountains of Thuringia, Harz and Erzgebirge described by Lehmann and Füchsel also afford classical examples.
+
+The sea may skirt strata of any age, and the relative heights of less ancient and more ancient strata vary. A simple succession is selected in the text.
+
+Note G. _On previous Notices of Organic Remains in Igneous Rocks_ (p. 97).
+
+Among the writers who have described organisms in igneous rocks and gneisses may be mentioned Dr. G. Jenzsch, 'Ueber eine mikroskopische Flora und Fauna krystallinischer Massengesteine,' Leipzig, 1868. He describes organisms in the melaphyre of Zwickau, but I doubt if the highly organised fresh-water fauna and flora described by Dr. Jenzsch belonged to the rock.
+
+Dr. Jenzsch also speaks of organisms in porphyry. He promised to figure them, but no further descriptions appeared.
+
+Dr. Otto Hahn wrote a book entitled 'Die Urzelle nebst dem Beweis dass Granit, Gneiss .... Meteorstein und Meteoreisen aus Pflanzen bestehen' (1879). Dr. Hahn did good work in figuring certain appearances he saw in Eozoon. He depicts certain curious funnel-shaped structures, which he regarded as species of algae. As a matter of fact they are portions of nummulites. Möbius, again, figured some of these objects (which he considered to be purely mineral forms) in his memoir on 'Eozoon' (Plate 34, fig. 44).
+
+The scientific world can hardly be blamed for regarding Dr. Harm's work as "a somewhat elaborate joke." Once he upset some fuchsin on a marble slab and proceeded to clean the latter.
+
+"Ich rieb sie. Plötzlich was sah ich! Kelche von Meter Länge. Taf. 11. Ich nenne sie _Marmora Darwini_. Meine Schreibtisch hat dieselbe Platte... Ich schrieb also eine ganze Abhandlung über die Urzelle auf der Urzelle, denn der ganze Marmor ist nichts als Pflanze. Wirklich — nicht bios Ironie des Schicksals." The strange figure of the supposed plant occupies a whole plate. Again this author saw Sponges (Urania, etc.), Corals and Crinoids in the chondrules of meteorites, and "vegetable cells" in the Widmanstätten figures which appear on polished surfaces of siderites exposed to acids, and which are said to be due to inequality of action of reagents on three kinds of alloys. In all these instances there is no doubt Dr. Hahn was mistaken. In spite of all this, in 'Die Urzelle' he figures appearances which actually exist.
+
+C. Montagna 'Nouvelle théorie du Métamorphisme des Roches,' 1869, figures Lepidodendron scales in granite of Calabria, a doubtful interpretation.
+
+A. Sismonda (Comptes Rendus, 1865, tome 60, p. 492), describes an imprint of Equisetum in gneiss.
+
+Note H. _On deposition of Magnesium Carbonate from Seawater_ (p. 102). 
+
+Sir John Murray informed me in a letter that an analysis of a large Tridacna shell from Tongatabu showed I per cent, of magnesia in the inner layer of the shell, and no less than 10 to 12 per cent, in the outer parts near the umbo. "The Tridacna was alive when collected, and twelve sailors had dinner out of it."
+
+It is highly improbable that the animal secreted a shell with 1 per cent, magnesia in one part and 12 per cent, in another. It would seem as if the higher proportion at the umbo was due partly to deposition from the sea, and partly to solution of the calcium carbonate leaving a larger proportion of magnesium carbonate behind.
+
+Note J. _On Archbishop Usher's calculation concerning the Age of the World_ (p. 140).
+
+I saw one day in the parish church of the ancient Cinque Port of Sandwich the following epitaph:—
+
+"'Twas on October's three and twentith day,  
+The world was born as learned annals say."
+
+Here followed the moral which I am sorry to say I have forgotten. I was sufficiently curious "to look up the reference," and found the learned annals to be "Annales veteris et novi testamenti" (1650) by James Usher. The learned chronicler consulted "sacred and exotical history," the astronomical calendar and the old Hebrew calendar. He therefrom computed that "the creation of the world did fall out upon the 710 year of the Julian period, placing its beginning in the autumn." "Forasmuch as the first day of the world began with the first day of the week, I have observed that the Sunday, which in the year 710 aforesaid came nearest the autumnal equinox, notwithstanding the staying of the sun in the days of Joshua, and the going back of it in the days of Ezekiah, happened upon the 23rd day of the Julian October; from thence concluded that from the evening preceding that first day of the Julian year both the first day of the creation and the first motion of time are to be deduced."
+
+Note K. _On the Markings of Diatoms (not referred to in text).
+
+Certain considerations lead me to offer a suggestion — probably already familiar to students of Diatoms — concerning the valve-markings. Some of the silica of the lithosphere appears to be derived from a scum of vegetable protoplasm living at the surface of the ocean. The universality of markings in Diatoms must be due to some all-prevailing general cause, which in the case of these chlorophyll-containing plants may well be photosynthesis. This process involves the liberation of bubbles of oxygen in the region of the endochrome granules. Pfitzer and Paul Petit have classified Diatoms according to the characters of the endochrome. Petit states (in Pelletan's Diatomees, Introduction) that a constant relation exists between the disposition of the endochrome and the external form of the siliceous skeleton. As regards the deposition of silica his view is that at the moment of deduplication of valves silica is conveyed by protoplasmic currents in the form of anastomosing threads, the meshes remaining as spaces.
+
+The spheroidal cavities in the valves rather suggest models of a set and compressed foam; and linear spaces might arise from pressure, or from fusion of spheres. If the spheroidal cavities are not bubble-moulds it is difficult to account for the deeply biconcave form of any particular strand of the protoplasmic or siliceous network. The silica could not form where the bubbles are, and when that material sets, the bubble-cavities would remain marshalled in order and fixed.
+
+Recently N. E. Brown* after a prolonged search has found genuine pores in the frustule of a species of Pinnularia. In this form the pinnate markings are linear cavities, and the pores form a single row of dots along the centre of each line. The dots are so close together that they seem to form a continuous line (_l.c._ plate 23, fig. 13).
+
+*) Journal Quekett Microscopical Club, 1914, p. 317.
+
+D. D. Jackson ('American Naturalist' 1905, p. 287) attributes certain of the movements of Diatoms to the escape of gases.
+
+Referring to species of _Udotea_, A. and E. S. Gepp write:* "The calcareous sheath of the filaments is seen to be porose." "In all probability their" (the pores) "distribution corresponds with that of the green chromatophores inside the filaments, and they themselves mark the spots where bubbles of oxygen were evolved during the photosynthetic process of the plant." "Presumably the deposition of CaCO₃ would be effected at the time of photosynthesis only and naturally could not occur at the points where bubbles of gas were clinging to the sides of the filaments." "The pores which are so abundant in the calcareous sheath are minute spherical bubble-like chambers in the thickness of the calcareous layer. They are each covered by a delicate calcified pellicle in which is a minute ostiole." These spherical bubble-like chambers each covered with a pellicle pierced by a minute ostiole seem comparable with the bubble-like cavities in the siliceous valves of Diatoms.
+
+*) 'The Codiaceae of the _Siboga_ Expedition,' 1911, pp. 5, 6, 102, and Fig. 182.
+
 ...
 
 #### List of Plates, Guide Diagrams, and Figures
