@@ -98,4 +98,22 @@ No wonder students spoke of the Nummulitic Era and the Nummultitic Enigma.
 
 The solution of the enigma is as follows: The Nummulitic Era should be regarded as the dying away of the almost immortal nummulties. The universal prevalence of these fossils in time and space is due to the universality of ocean life, and living matter is built up spirally and epispirally. This planet is an ocean planet and, from its position in the solar system, a life planet; and the earth's crust is mainly formed of mineralized skeletal débris.
 
+#### Chapter 3
+
+##### Sediments
+
+Muds, sandstone, grits, gravels, etc., are, of course, simply the particles ground down from solid rocks -- igneous or siliceous. Microscopic examination will reveal that these particles contain nummulitic structure. A sand on the Sussex coast will show the structure of silicified chalk. A sand off the Cornish coast or that of Stromboli will show the same structure in the quartz or in the silicated particles.
+
+A sand deposited in fresh water and containing fresh-water fossils -- say a Red Sandstone -- will yet show the particles of the marine nummulites. Most sediments -- muds, sands, etc. -- even though no fossils are visible, are yet fossiliferous throughout. The igneous rocks, the limestone and silica rocks, and the sediments derived from them are one thing -- bathoplankton.*
+
+*) A better word than benthoplankton (used in Num. 3), from bathos, the bottom life or benthos; and plankton the surface life.
+
+#### Chapter 4
+
+##### Nummulites
+
+In Nummulosphere 3 I gave numerous figures of nummulites. I only intend to record here that extremely careful and prolonged study of the shell of Eocene nummulites has shown me that every particle of the shell is spiral and epi-spiral. In the so-called tubulated walls the rather disk-like spirals are closely packed; but in the usually more transparent pillars the spirals are more helicoidal and more loosely distributed.
+
+I have kept live nummulitids (_Polystomella_) in aquaria for months. They cling to the glass walls in multitudes, many shells surrounded by the enveloping protoplasm. I have never noticed any pseudopods emerging vertically from the living mass but only spread horizontally. Probably this will be found to be true of all glassy "perforate" Forams; the so-called "pores" are hardly for pseudopods.
+
 ...
