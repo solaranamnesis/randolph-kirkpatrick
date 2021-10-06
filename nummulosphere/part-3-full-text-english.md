@@ -6,10 +6,6 @@
 
 ### 1916. London.
 
-"Be sure I will not swerve from the truth in aught that I say, nor deceive thee; but of all that the ancient one of the sea, whose speech is sooth, declared to me, not a word will I hide or keep from thee." — _Odyssey_ 4., 348-351.
-
-(Done into English Prose by S. H. Butcher and A. Lang.)
-
 London: Printed by William Clowes and Sons, Limited, Duke Street, Stamford Street, S.E., and Great Windmill Street. W
 
 #### Table of Contents
@@ -69,6 +65,10 @@ London: Printed by William Clowes and Sons, Limited, Duke Street, Stamford Stree
 ##### [Appendix](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#appendix-1)
 
 ##### [List of Plates, Guide Diagrams, and Figures](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/full-text-english.md#list-of-plates-guide-diagrams-and-figures-1)
+
+"Be sure I will not swerve from the truth in aught that I say, nor deceive thee; but of all that the ancient one of the sea, whose speech is sooth, declared to me, not a word will I hide or keep from thee." — _Odyssey_ 4., 348-351.
+
+(Done into English Prose by S. H. Butcher and A. Lang.)
 
 #### Introduction
 
