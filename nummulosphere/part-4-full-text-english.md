@@ -268,16 +268,18 @@ I would call attention to a fascinating study of spiral movement in man, by A. A
 
 [Plate 3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate3.png) — Figure drawn by Miss Gertrude M. Woodward from an X-ray stereoscopic film photo (skiagraph), of a piece of the Ausson meteorite (see Plate 1, fig. B) in Mr. J. R. Gregory's collection. Magnified about 2 diam.
 
-[Plate 4: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate4-FigureA.png) — 
+[Plate 4: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate4-FigureA.png) — Figures showing spiral infillings of "meshes" and "pores" of Diatoms, Perforate Forams and Radiolaria. Central meshes of _Coscinodiscus omphalantha_, showing them filled in with spiral coils.
 
-[Plate 4: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate4-FigureB.png) — 
+[Plate 4: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate4-FigureB.png) — Figures showing spiral infillings of "meshes" and "pores" of Diatoms, Perforate Forams and Radiolaria. A mesh at different focus, showing an outer coil of spiral loops; both magnified about 2,000 diam.
 
-[Plate 4: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate4-FigureC.png) — 
+[Plate 4: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate4-FigureC.png) — Figures showing spiral infillings of "meshes" and "pores" of Diatoms, Perforate Forams and Radiolaria. _Synedra ulna_, showing helicoidal form of the two rows of bars in valve aspect of a frustule; magnified about 2,000.
 
-[Plate 4: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate4-FigureD.png) — 
+[Plate 4: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate4-FigureD.png) — Figures showing spiral infillings of "meshes" and "pores" of Diatoms, Perforate Forams and Radiolaria. _Synedra splendens_, showing "epi-spiral" loops of the bars; magnified about 3,000 diam.
 
-[Plate 4: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate4-FigureE.png) — 
+[Plate 4: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate4-FigureE.png) — Figures showing spiral infillings of "meshes" and "pores" of Diatoms, Perforate Forams and Radiolaria. _Planorbulina_, a Foraminiferan, fragment showing the supposed pores or perforations of this "perforate" Foram; magnified about 250 diam.
 
-[Plate 4: Figure F](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate4-FigureF.png) — 
+[Plate 4: Figure F](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate4-FigureF.png) — Figures showing spiral infillings of "meshes" and "pores" of Diatoms, Perforate Forams and Radiolaria. The same; magnified about 2,000 diam., showing the spiral infilling of the supposed pore.
 
-[Plate 4: Figure G](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate4-FigureG.png) — 
+[Plate 4: Figure G](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate4-FigureG.png) — Figures showing spiral infillings of "meshes" and "pores" of Diatoms, Perforate Forams and Radiolaria. One mesh in a Radiolarian skeleton, showing spiral infilling; magnified about 2,000 diam.
+
+Note. — The ocular combinations used were Zeiss 1.5 mm., oc 18; 2mm., oc 18; and 16 mm., oc 18. Unfortunately level of drawing board was not recorded, or the record lost.
