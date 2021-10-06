@@ -210,4 +210,40 @@ Further, I can detect, with difficulty, it is true, organic structure in nine of
 
 *) _Nature_, March 29th, 1930.
 
+As for life being brought here from outside, the theory is intrinsically absurd, though it has been held by distinguished men.
+
+If I saw a heap of coal near the top of a shaft in Newcastle, I should not be ready to assume that that coal came from Timbuctoo.
+
+Life prevails on earth from pole to pole, and from the tops of mountains to the deepest ocean abysses. Further, the whole crust is a mineralized mass of life-material. Why in the name of logic and commonsense seek elsewhere for the origin of living matter?
+
+According to Sir. J. H. Jeans life must be a very exceptional phenomenon in the universe.
+
+B. _Structure of living matter_.
+
+Not the least strange anomaly concerning these nummulosphere studies is the fact that the examination of igneous rocks should have led to the discovery of the structure of living matter. For I soon found that the peculiar spiralities and epispiralities were the exact models of what was to be found in soft protoplasm. In fact, the calcareous skeleton of a nummulite and the siliceous frustule of a diatom are not merely mineral stuff but are actually living matter with, say, 99.9 per cent. of mineral matter in them.
+
+The skeletons are not secreted or excreted by protoplasm: they are protoplasm itself with all its marvellous structure.
+
+The finding of this truth soon led to interesting and important discoveries.
+
+The markings in diatom frustules have puzzled generations of skilled observers, and have not even yet been correctly explained. But a careful examination of a _Coscinodiscus_ -- with the spirality theory in mind* -- will enable the observer to see that the polygonal facets are simply a mosaic of spirodisks (slightly helicoidal) with thick periphery and very thin centre. Round the edges of the frustule are a series of lovely corkscrew spirals. In _Synedra_ there are two helicoidal spirals in each valve face, the bars being "epispiral." I make out the raphe to be tubular with a spiral funnel at each end. (I believe this tube is for a flagellum; if so, a _Synedra_ or _Navicula_ would be four-flagellate. I watched living diatoms moving about for hours, but failed to detect flagella outside the frustule. A _Coscinodiscus_ might be multi-flagellate with a single radial flagellum between adjoining peripheral helices.)
+
+*) The illustrious Faraday used to say, "Tell me what I am to see!"
+
+A further interesting discovery was that the supposed pores in perforate glassy Forams are not pores at all, but spirodisks with very transparent centres.
+
+It is true, as Mr. Earland kindly warned me, that in fossil and glauconitic casts of Forams one gets models of little pipes or cylinders, but this results from the centres being more permeable than the peripheries. Further, even the "meshes" of Radiolaria are really filled in with spirodisks.
+
+Mr. Heron-Allen relates that Sir E. R. Lankester told him a story of meeting T. Schwann, the founder of the cell theory at a congress in Belgium. Schwann told him he had devoted the whole of his time for many years to an endeavour to establish the existence of any structure in protoplasm -- and that his investigations had been absolutely without result.
+
+In Nummulosphere 3 I have alluded to the various theories concerning the structure of protoplasm, viz. (to mention a few) granular, fibrillar, reticular, spherular, alveolar (foam), spiral (Fayod), also the view that there is no true structure at all (Wilson, Schwann), and I find much truth in all of them, especially in Fayod's theory. There is one theory, however, and I am certain it is the true one, that will reconcile all opposing and varying views; and that is the "epispiral theory."* Protoplasm is built on a spiral plan, the strands of the spirals themselves being spiral _ad infinitum_.
+
+*) Compare "Cycle and Epicycle, Orb in Orb," Milton Paradise Lost Book 8.
+
+I think this is the most important result of my twenty-two years' work. Not only is the spirality visible in protoplasm of Protozoa, but in the cells of Metazoa and in plants.
+
+The elusive spirality and epispirality only come to view with patient observation. Every well-preserved, stained nucleus shows it, and the cytoplasm also.
+
+I find the medullated nerves to be spiral throughout. I believe the nodes of Ranvier are little shock-absorbers or, perhaps, structures to allow of stretching when the vital stimuli traverse the cable.
+
 ...
