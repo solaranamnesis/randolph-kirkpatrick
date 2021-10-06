@@ -116,4 +116,52 @@ In Nummulosphere 3 I gave numerous figures of nummulites. I only intend to recor
 
 I have kept live nummulitids (_Polystomella_) in aquaria for months. They cling to the glass walls in multitudes, many shells surrounded by the enveloping protoplasm. I have never noticed any pseudopods emerging vertically from the living mass but only spread horizontally. Probably this will be found to be true of all glassy "perforate" Forams; the so-called "pores" are hardly for pseudopods.
 
+#### Chapter 5
+
+##### The Ocean
+
+Homer was right when he sang "Ocean, the parent of all."* For apart from a negligible amount of solids from fresh water and air, all the earth's crust that we know or are ever likely to know from direct observation is derived from the ocean.
+
+*) Iliad 14, 246.
+
+The ocean occupies about five-sevenths of the area of the globe; and if all the land were reduced to one level the ocean would cover the world to a depth of two miles.
+
+The earth's crust being derived from the ocean, it is extremely probable that a universal ocean once existed, although we can never know whether bulges of sub-crust may not have emerged from the then deeper ocean.
+
+Life must have originated from the ocean surface. Living matter has an affinity for caronates of calcium and magnesium and for silica. The vast ocean prairies of the Diatoms and Radiolaria (with their symbionts) have been extracting silica from the sea for over 1,000 million years. Much surface life sank to the bottom, and sometimes adapted itself to an animal mode of nutrition.
+
+I have often seen living and dead Forams full of Diatom frustules -- a microcosm of the earth's crust!
+
+#### Chapter 6
+
+##### The Nummulosphere in Geology
+
+The two-sevenths land part of the earth's crust is formed of limestones (including silica), igneous rocks, and of the sediments derived from these two.
+
+If the ocean were whisked off we should see, beyond the fringe of littoral sediments, on the floors of the great basins, 50 million sq. miles of organic oozes (mostly Globigerina) and in deeper areas another 50 million sq. miles of Red Clay. I find the Red Clay to be nummulitic igneous rock disintegrated _in situ_, and not detritus carried by currents.
+
+##### Wegener's Theory of Lateral Movement of Continents
+
+Wegener's theory has received several severe blows lately, especially from Prof. J. W. Gregory, the late Dr. H. von Ihering (on Ocean Land-Bridges) and from Dr. Henry S. Washington in his work on the St. Paul Rocks, but I think the proof of the organic origin of igneous rocks will give this splendid edifice of speculation its _coup de grâce_, for the very foundations are removed from under it. For instance, Wegener figures a section along the earth's circumference through South America and Africa (granitic Sial) in true proportions. The continents, 100 kilometers thick, are represented by two thick black lines, the molten ocean of basaltic Sima being 1,000 kilometers thick. Sial and Sima are assumed to be fundamentally different. But it is now obvious that these rocks are primarily and fundamentally the same, that is to say granite and basalt are both oceanic organic sediments -- mineralized masses of nummulites.
+
+This primary fundamental fact has to be taken as a starting point. We know nothing of the sub-crust. Again, South America is supposed to have broken off and floated away from Africa, leaving the South Atlantic between. But I find the Red Clays of the greatest depths to be simply rotten nummulitic stuff; and, further, the great mass of Teneriffe* shouldering its way up 24,000 feet through the Globigerina ooze is a mass of nummulites. There must be a fairly thick deposit of these shells below the present floor of the Atlantic.
+
+*) In 1927 I spent three months on a visit to the Canary Islands, including a fortnight near the trachytic top of the Peak, studying the rocks of the seven named islands.
+
+So we must return to the Land Bridges and the vertical displacements of the emerged and submerged areas of the globe. These areas are fundamentally the same, differing merely in position.
+
+Seeing that nummulitic deposits cannot arise in very deep water, we now know that the floors of the oceanic abyss were once quite shallow and probably above the surface of the sea.
+
+##### Palaeontology
+
+I think it well to call attention here to my work (Nummulosphere 3) on Stromatoporoids, Receptaculites, etc., etc. I have carefully gone over it again and find it to be almost wholly correct.* Yet since 1916 good men have been wasting their time writing monographs and papers on these supposed fossils.
+
+*) One correction is required. Years ago I found that Oldhamia is not nummulitic. I had based my first opinion on poor material.
+
+These objects are not biological entities at all, but simply concretionary forms and patterns in limestones; and Stromatoporoids, at any rate, have been sufficiently figured. Beneath the surface pattern of pure and less pure areas of calcite I can see clearly the original nummulitic structure, like a palimpsest obscured by later writing.
+
+It is not only life that fashions wonderful shapes. Non-living matter builds crystals; and Darwin speaks of concretionary action as a sort of imperfect crystallization.
+
+It is true a veritable massacre of innocents will be involved. Perhaps rather the innocents should be regarded as Frankenstein monsters engendered out of dead material. Though it will be necessary to remove these lithomorphs from palaeontological literature and collections, they will still be useful in stratigraphy, Nature herself having certain art-periods.
+
 ...
