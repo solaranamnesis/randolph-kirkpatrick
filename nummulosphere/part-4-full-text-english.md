@@ -164,4 +164,40 @@ It is not only life that fashions wonderful shapes. Non-living matter builds cry
 
 It is true a veritable massacre of innocents will be involved. Perhaps rather the innocents should be regarded as Frankenstein monsters engendered out of dead material. Though it will be necessary to remove these lithomorphs from palaeontological literature and collections, they will still be useful in stratigraphy, Nature herself having certain art-periods.
 
+#### Chapter 7
+
+##### Petrology
+
+Petrologists who have spent their lives working in laboratories at the chemical and optical properties of igneous rocks find a difficulty -- so far as my experience goes -- in accepting the idea that these rocks are the products of sunshine and sea-water; that these crystalline masses ar enot merely minerals, but mineralized masses of fossils; that the key to the problems they so often write about concerning the real nature and origin of igneous rocks must be sought, not on the land or in laboratories, but on the ocean surface. Petrologists* write of the silica shell of the earth, and classify igneous rocks according to silica content. Certainly common sense must now teach us that the silica is derived from plankton creatures, and that this material has mineralized the benthos nummulites. In future, petrologists must take an interest in oceanic biology, for the distribution of minerals in a fossil is influenced to some extent by the structure of the fossil.
+
+*) V. M. Goldschmidt, for instance, writes of the cooling globe separating into three fluid phases, viz., metall-, sulfid-, and silikat-schmelzfluss. We now know that the silkathülle is an oceanic organic depost. (Vidensk. Skrift. 1 Math.-nat., 1923. No. 3)
+
+#### Chapter 8
+
+##### Meteorites
+
+Coming as they do from outer space these bodies have indeed given rise to orgies of speculation, even among the learned. I have set down a few of these theories in Nummulosphere 3.
+
+Sir Robert Ball wrote, "Every theory of meteorites is in itself improbable, so it seems the only course open to us is to choose the least improbable." Accordingly he chose the theory of terrestrial volcanic origin. Even in Nummulosphere 1 (1913) I had found that on biological grounds Sir R. Ball's theory was right. Meteorites are simply mineralized and ore-enriched lumps of terrestrial oceanic organic sediments. The fossils are portions of large nummulites. I give a figure of a piece of the Ausson meteorite that fell on Haute Garonne in 1858, the explosion being seen and heard over a large area.
+
+Not only is the nummulitic structure visible very clearly in the X-ray stereo films, but a good deal can be made out on the surface with a lens. About ten out of twelve stony meteorites are "chondritic," i.e., they have little spheroidal chondrules scattered through them.
+
+I now find these bodies to be simply oolite grains primarily identical in nature with the oolite concretions of Bath Stone and of numerous other limestones throughout the ages.
+
+My long studies of oolite rocks convince me that the oolitic granules are not formed at random, but often have gathered round epispirals that go to build the shells of large nummulites. Accordingly a pattern of curves and V's and parallel lines is often visible in sections. In some rocks the grains become permeated with iron. There are many little circular iron stains round the chondrules of the Ausson meteorite.
+
+As for purely metal meteorites, all that I have examined are simply ore-enriched lumps of fossiliferous stuff. There is nothing very unusual in this fact. Many fossils are purely metallic.
+
+A good skiagraph of the Carlton siderite done for me at Woolwich by Dr. Pullin shows the curved nummulitic bands and V's. But it is quite easy to detect the metal spiro-disks on the surface of most siderites, for instance, the large example just brought from S.W. Africa by Dr. L. G. Spencer.
+
+All the speculation about the Nife (nickel iron) centrosphere of the globe may possibly be true, but we must not look to iron meteorites for evidence. For siderites are lumps of old ocean sediments. Practical miners do not work on the theory that metals get more abundant the deeper they go. The ore may give out very suddenly, leaving investors lamenting.
+
+#### Chapter 9
+
+##### Biology
+
+A. _When life began on earth, and where_.
+
+Life must have begun on the surface of the ocean a very long time ago.
+
 ...
