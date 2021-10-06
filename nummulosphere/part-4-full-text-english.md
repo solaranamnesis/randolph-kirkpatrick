@@ -14,6 +14,22 @@ London: Printed by William Clowes and Sons, Limited, 94, Jermyn Street, London, 
 
 ##### [Chapter 1]()
 
+##### [Chapter 2]()
+
+##### [Chapter 3]()
+
+##### [Chapter 4]()
+
+##### [Chapter 5]()
+
+##### [Chapter 6]()
+
+##### [Chapter 7]()
+
+##### [Chapter 8]()
+
+##### [Chapter 9]()
+
 #### Introduction
 
 Fourteen years have passed since the publication of Part 3 of the Nummulosphere studies, but the scientific world has entirely ignored the work to its own real and serious loss. That this seemingly ungracious statement is simply true will presently become obvious when it is realized what a vast amount of untenable speculation concerning the nature and origin of the earth's crust has cumbered the literature; and, further, that more progress might have been made in the right direction. Occasionally Nature, in her irony, imposes on babes the task of adding to the wisdom of the wise, and when this happens it would be well for the wise to take heed of the message.
