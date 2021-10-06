@@ -246,4 +246,38 @@ The elusive spirality and epispirality only come to view with patient observatio
 
 I find the medullated nerves to be spiral throughout. I believe the nodes of Ranvier are little shock-absorbers or, perhaps, structures to allow of stretching when the vital stimuli traverse the cable.
 
-...
+Voluntary muscle fibre is Nature's supreme achievement in organized spirality. I am certain I can clearly make out the spirals in transverse sections of the fibres; further, the Bowman's rods are simply epispirals in which I can even detect epi-epispirals transverse to the longitudinal bars forming the transverse stripes.*
+
+*) Recently I have been much interested to hear that an Australian student is bringing out a work on the "spiral-helicoidal" structure of striped muscle.
+
+I have already ventured to put forward an enantiomorph theory of sex -- that mysterious phenomenon prevailing almost throughout the kingdom of life. I was led to this view by studying Pasteur's research on the tartaric acids. In the organic world the spiralities are either right or left, and it seemed to me this feature would be seized upon by Nature to bring about attractions of opposite individuals. The enantiomorph* theory recalls the theory of love expounded by Aristophanes in the Symposium (Plato). Humans once had four arms and four legs and were joined back to back; they moved by spinning round. The creatures became so obstreperous that they stormed Olympus, and Jove clave them in twain with thunderbolts. Ever since each seeks its other half. In protoplasm the opposites are right and left.
+
+*) Opposite form.
+
+I would call attention to a fascinating study of spiral movement in man, by A. A. Schaeffer, in _Journal of Morphology_, _Philadelphia_, vol. 45, 1928, and to numerous papers of his on spiral movement in Amoeba and Infusorians. It would appear that the senses of hearing, sight and balance may possibly have arisen in response to the need of curbing a spiral tendency in moving organisms.
+
+#### List of Plates
+ 
+[Plate 1: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate1-FigureA.png) — 
+
+[Plate 1: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate1-FigureB.png) — 
+
+[Plate 1: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate1-FigureC.png) — 
+
+[Plate 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate2.png) — 
+
+[Plate 3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate3.png) — 
+
+[Plate 4: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate4-FigureA.png) — 
+
+[Plate 4: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate4-FigureB.png) — 
+
+[Plate 4: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate4-FigureC.png) — 
+
+[Plate 4: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate4-FigureD.png) — 
+
+[Plate 4: Figure E](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate4-FigureE.png) — 
+
+[Plate 4: Figure F](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate4-FigureF.png) — 
+
+[Plate 4: Figure G](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate4-FigureG.png) — 
