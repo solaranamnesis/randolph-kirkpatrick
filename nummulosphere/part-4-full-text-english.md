@@ -264,9 +264,9 @@ I would call attention to a fascinating study of spiral movement in man, by A. A
 
 [Plate 1: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate1-FigureC.png) — An area of B, about 1/2 inch square near upper end, magnified 4 diam. to show "chondrules."
 
-[Plate 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate2.png) — 
+[Plate 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate2.png) — Figure drawn by Miss Gertrude M. Woodward from an X-ray stereoscopic film photo or skiagraph, of a piece of Norwegian Syenite or "Blue Pearl" granite (see Plate 1, fig. A). Magnified about 1.5 diam.
 
-[Plate 3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate3.png) — 
+[Plate 3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate3.png) — Figure drawn by Miss Gertrude M. Woodward from an X-ray stereoscopic film photo (skiagraph), of a piece of the Ausson meteorite (see Plate 1, fig. B) in Mr. J. R. Gregory's collection. Magnified about 2 diam.
 
 [Plate 4: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate4-FigureA.png) — 
 
