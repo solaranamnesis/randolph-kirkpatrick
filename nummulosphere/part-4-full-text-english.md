@@ -200,4 +200,14 @@ A. _When life began on earth, and where_.
 
 Life must have begun on the surface of the ocean a very long time ago.
 
+I have skiagraphs of Arendal granite* whence emanated the pegmatite veins containing cleveite. This uranium mineral contains five times as much radio-lead as the pitchblende of Joachimsthal. According to Prof. A. Holmes* the age of the mineral must be 1,055 million years, the estimate being based on the ticking of the Uranium-Radium-Lead clock. The nummulitic structure is clearly visible to my trained sight. It is not difficult to see with a lens the spirodisk structure in the rock.
+
+*) I have to thank Messrs. Beer, the granite merchants of Stockholm, for sending me samples of this rock.
+
+*) "The Age of the Earth" (Benn Series), p. 74.
+
+Further, I can detect, with difficulty, it is true, organic structure in nine of the siderites mentioned by Prof. Paneth* and his collaborators. The ages of some of those bodies are estimated at between two and three thousand million years! These bodies must indeed come from the solar system. It would be absurd, I think, to imagine our earth, relatively the size of a sub-eletron, being hit by numerous bodies from the sidereal system.
+
+*) _Nature_, March 29th, 1930.
+
 ...
