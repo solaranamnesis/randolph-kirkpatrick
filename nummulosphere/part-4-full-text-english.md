@@ -258,11 +258,11 @@ I would call attention to a fascinating study of spiral movement in man, by A. A
 
 #### List of Plates
  
-[Plate 1: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate1-FigureA.png) — 
+[Plate 1: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate1-FigureA.png) — Piece of Norwegian Syenite, 4 1/2 inches square by 1/2 inch thick (nat. size). See drawing of X-ray skiagraph on Plate 2.
 
-[Plate 1: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate1-FigureB.png) — 
+[Plate 1: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate1-FigureB.png) — Fragment of the "Ausson" meteorite (nat. size). See drawing of X-ray skiagraph on Plate 3.
 
-[Plate 1: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate1-FigureC.png) — 
+[Plate 1: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate1-FigureC.png) — An area of B, about 1/2 inch square near upper end, magnified 4 diam. to show "chondrules."
 
 [Plate 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/Plate2.png) — 
 
