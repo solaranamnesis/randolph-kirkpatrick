@@ -1647,7 +1647,7 @@ Nothing at first sight could appear more remote from anything of an organic natu
 
 The failure to detect the prevailing nummulitic nature of the earth's crust notwithstanding the countless observations on rocks and rock-sections is indeed a strange phenomenon, and one worth enquiring into.
 
-After d'Archiac had established a "nummulitic epoch"*, usually any supposed nummulites found in non-Tertiary strata were either considered not to be nummulites at all, or the strata were regarded as really Tertiary.*
+After d'Archiac had established a "nummulitic epoch,"* usually any supposed nummulites found in non-Tertiary strata were either considered not to be nummulites at all, or the strata were regarded as really Tertiary.*
 
 Again, it has been assumed that high temperature would obliterate all traces of organic structure in igneous rocks if anything of the kind had ever existed there; and further, any supposed organic forms have been put down either as pseudomorphic* or wholly phantasmal. Actual experiment shows,however, that organic structure is not wholly dissolved away even in boiling rocks, and that it easily survives in white hot slags. Experience and training of the sense of sight are the remedies against illusion and misinterpretation.
 
