@@ -1141,15 +1141,13 @@ The evidence that meteorites have fallen from the heavens is now clear, as the f
 
 "The oldest undoubted sky-stone still preserved is that which was long suspended by a chain from the vault of the choir of the parish church of Ensisheim in Elsass, and is now kept in the Rathhaus of that town. The following is a translated extract from a document which was preserved in the church:— 'On the 16th of November, 1492, a singular miracle happened: for between 11 and 12 in the forenoon, with a loud crash of thunder and a prolonged noise heard afar off, there fell in the town of Ensisheim a stone weighing 260 lbs. It was seen by a child to strike the ground in a field near the canton called Gisgaud, where it made a hole more than five feet deep. It was taken to the church as being a miraculous object. The noise was heard so distinctly at Lucerne, Villing and many other places, that in each of them it was thought that some houses had fallen. King Maximilian, who was then at Ensisheim, had the stone carried to the castle: after breaking off two pieces, one for the Duke Sigismund of Austria, and the other for himself, he forbade further damage, and ordered the stone to be suspended in the parish church.'"*
 
-*) Copied from an _Introduction to the Study of Meteorites_, 10th Edition, 1908. British Museum (Natural History), pp. 19, 22.
+*) Copied from an _Introduction to the Study of Meteorites_, 10th Edition, 1908. British Museum (Natural History), pp. 19.
 
 Again,
 
-"About three o'clock in the afternoon of December 13, 1795, a labourer working near Wold Cottage, a few miles from Scarborough, in Yorkshire,* was terrified to see a stone fall about ten yards from where he was standing. The stone, weighing 56 lbs., was found to have gone through 12 inches of soil and 6 inches of solid chalk rock. No thunder, lightning, or luminous meteor accompanied the fall; but in the adjacent villages there was heard an explosion likened by the inhabitants to the firing of guns at sea, while in two of them the sounds were so distinct of something singular passing through the air towards Wold Cottage, that five or six people went to see if anything extraordinary had happened to the house or grounds. No stone presenting the same characters was known in the district. The stone is preserved in the Museum Collection."*
+"About three o'clock in the afternoon of December 13, 1795, a labourer working near Wold Cottage, a few miles from Scarborough, in Yorkshire, was terrified to see a stone fall about ten yards from where he was standing. The stone, weighing 56 lbs., was found to have gone through 12 inches of soil and 6 inches of solid chalk rock. No thunder, lightning, or luminous meteor accompanied the fall; but in the adjacent villages there was heard an explosion likened by the inhabitants to the firing of guns at sea, while in two of them the sounds were so distinct of something singular passing through the air towards Wold Cottage, that five or six people went to see if anything extraordinary had happened to the house or grounds. No stone presenting the same characters was known in the district. The stone is preserved in the Museum Collection."*
 
-*) _Nature_, Oct. 9, 1902, p. 578.
-
-*) Copied from _An Introduction to the Study of Meteorites_, 10th Edition, 1908. British Museum (Natural History), pp. 19, 22.
+*) Copied from _An Introduction to the Study of Meteorites_, 10th Edition, 1908. British Museum (Natural History), pp. 22.
 
 On September 13, 1902, a meteorite fell at Crumlin near Belfast. The evidence given below was gathered by Sir L. Fletcher on the spot and within about a fortnight of the occurrence.*
 
