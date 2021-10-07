@@ -2651,7 +2651,7 @@ I hope, however, it may not be altogether amiss to make mention of certain phant
 
 A few personal notes bearing on matters in the text are also included.
 
-The first link in the chain of events leading to the final overthrow of the usurping dominion of Pluto was forged, as was befitting, by a humble dependant on the bounty of Neptune, to wit, a poor fisherman of Porto Santo.
+The first link in the chain of events leading to the final overthrow of the usurping dominion of Pluto was forged, as was befitting, by a humble dependent on the bounty of Neptune, to wit, a poor fisherman of Porto Santo.
 
 One day he caught on his briquera hooks a small lump of rock lying on the bottom of the sea. Strange to relate, this seemingly trivial capture was an event of no small importance to science. It was as if some Arabian Nights djinn had been brought up from the vasty deep, a djinn of the kind that point out paths leading to hidden treasure, but along which they themselves do not go.
 
