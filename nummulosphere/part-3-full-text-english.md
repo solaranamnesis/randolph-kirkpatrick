@@ -922,7 +922,9 @@ In a region included within the states of Colorado, Utah and Arizona there are c
 
 The ocean floor is formed chiefly of nummulitic clay derived from igneous rocks (see Chapter 1).
 
-The igneous rocks are masses of compounds of silica, in the form of silicates, in unconformable relation with sedimentary strata.
+The igneous rocks are masses of compounds of silica, in the form of silicates, in unconformable* relation with sedimentary strata.
+
+*) The term "unconformable" is used in an extended sense. Fossiliferous formations (igneous rocks) have been thrust upwards into unconformable relation with later formed strata.
 
 What, then, are these masses of silicates which from the beginning of the Archaean era have been bursting into and between the rocks above them, and erupting through and pouring over the surface of the land or ocean floor. What is their origin? Why have they been hot and plastic at one time in their history? and why have they shifted their position?
 
