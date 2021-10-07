@@ -1577,7 +1577,7 @@ It is, however, a remarkable fact that the genus _Nummulites_ is almost extinct.
 
 *) Excluding doubtful records, there are probably only two recent species, and these small, _viz._, _N. planulata_ (Arctic seas), and _N. cumingii_ (tropical seas). Williamson records recent _N. radiata_ from Portsmouth, but Brady excludes it from his synopsis of British recent species (Journ. Roy. Micr. Soc., 1887, part 2, p. 872).
 
-###### On the Extinction of the Genus "Nummulites"
+###### On the Extinction of the Genus Nummulites
 
 "What could have been the conditions which so specially favoured their production at the period in question, ... and what change in these conditions put a sudden and almost complete stop to these operations constitute most interesting subjects for physiological and geological enquiry." (Carpenter).
 
