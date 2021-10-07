@@ -1107,7 +1107,7 @@ The deep-seated rocks, though at a temperature above normal melting-point would 
 
 ###### On the Chronology of Igneous Rocks
 
-Hitherto igneous rocks have not been allotted a chronological position proper to themselves. They have been regarded as primeval and beyond chronology, but nevertheless they are daughters of time. The date affixed is that of the strata into which they have been intruded, and, further, it has been the custom to regard the invaded overlying strata as older than the intrusive. Writing of the Laurentian granites, Chamberlinand Salisbury state,* "but it is now known that they are intrusive into the schist series. They are therefore younger than the latter." Now that the igneous rocks must take their place in the palaeontological series, the lower rocks will be regarded as the older and first formed.
+Hitherto igneous rocks have not been allotted a chronological position proper to themselves. They have been regarded as primeval and beyond chronology, but nevertheless they are daughters of time. The date affixed is that of the strata into which they have been intruded, and, further, it has been the custom to regard the invaded overlying strata as older than the intrusive. Writing of the Laurentian granites, Chamberlin and Salisbury state,* "but it is now known that they are intrusive into the schist series. They are therefore younger than the latter." Now that the igneous rocks must take their place in the palaeontological series, the lower rocks will be regarded as the older and first formed.
 
 *) _Geology, Advanced Course_ 2. p. 143. 1906.
 
