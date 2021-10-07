@@ -2876,6 +2876,30 @@ The illustrious Pasteur saw, through the medium of his theory of the molecular a
 
 #### List of Plates, Guide Diagrams, and Figures
 
+Synopsis of Plates
+
+A. Oceanic oozes, 1, 20, 21.  
+B. Tertiary nummulites, 2B, 15, 23.  
+C. Limestones, flint and chert.  
+Chalks, 11, 13, 20, 22, 23.  
+Oolite, 12.  
+Dolomite, 12.  
+Flint and chert, 11, 22.  
+D. _Eozoön_, 2, 2A, 2D, 11, 13, 14, 23.  
+E. Igneous Rocks  
+Volcanic, 14, 15, 21.  
+Plutonic, 2C, 2D, 11, 12, 15, 27, 28, 29.  
+F. Meteorites, 2C, 2E, 14, 16, 19, 22.  
+G. Lithomorphs, 1, 2E, 3A, 3B, 4, 5, 5A, 6.  
+H. Miscellaneous: Mica, 17; Diamond, 20.  
+J. Protoplasm: Bean-plant and human brain, 24.  
+
+_Note on the Guide-Diagrams Accompanying the Photographs_
+
+These guides have been made by tracing with a needle outlines on gelatine films placed over the photographs. The outline tracings represent only roughly and very inadequately the structure which I myself can see in the pictures. Often the pictures may at first seem to show little else than meaningless patches of light and shade, but certainly the more the photographs are studied the more they will reveal of organic structure. Under low powers (3x to 10x) the larger features of shells are to be seen, and under high powers the spirodisks. If in spite of prolonged study of the pictures and specimens errors have occasionally been made the matter is not serious, for the photographs from untouched negatives are there to help the observer to arrive at his own conclusion.
+
+Many of the pictures show structural details best when examined with a small pocket-lens 3x. A large reading-glass is not so useful because it is often desirable to concentrate attention on a small area.
+
 Plate 1 — Diatom ooze, Red clay, Girvanella.
 
 [Plate 1: Figure 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure1.png) — Fragment of Diatom ooze, 5x (_Challenger_), Southern Ocean St. 157, 1950 fms. This ooze (in the dried state) is a powdery mass of nummulites crammed with microscopic plankton skeletons, chiefly Diatoms. The faint circular or oval outlines of the nummulites are about 25 mm. (an inch) in diameter in the photo, _i.e._ about 5 mm. (⅕ inch) nat. size. [Nummulitic structure can be seen better in sections of this ooze hardened in balsam.]
