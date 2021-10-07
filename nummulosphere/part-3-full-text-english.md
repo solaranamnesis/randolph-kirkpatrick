@@ -1579,7 +1579,7 @@ Reproduction. — Students of nummulites were greatly mystified at one time at f
 
 Sometimes shells form buds, which separate from the parent at a certain stage.*
 
-*) Heron-Allen. Phil. Trans., 1915, vol. 206, p. 245. In _Nummulosphere_ 1, I stated, under the influence of the _Eozoön_ delusion, that with a little poetic licence the planet might be compared to a gigantic budding reef-like Rhizopod encrusting a foreign body. Really it is a case of a mass of separate Rhizopods.
+*) Heron-Allen. Phil. Trans., 1915, vol. 206, p. 245. In _Nummulosphere_ 1, I stated, under the influence of the _Eozoön_ delusion, that with a little poetic license the planet might be compared to a gigantic budding reef-like Rhizopod encrusting a foreign body. Really it is a case of a mass of separate Rhizopods.
 
 Food Supply. — Whence did the nummulites get their food? The investigations ot Gwyn Jeffreys, Wyville Thomson and Carpenter point to the conclusion that deep-sea benthos organisms live mostly on decayed organic matter sunk down from above. A research of Möbius* showed that in some areas a good deal of decayed shallow-water vegetation drifted down to deeper zones. At the present day the Antarctic mud is so rich in diatomaceous protoplasm that fishes feed on it, _and the Foraminifera are crammed with Diatoms_. The abundance of silica in igneous rocks is in itself suggestive of a plankton food supply for the nummulites.
 
