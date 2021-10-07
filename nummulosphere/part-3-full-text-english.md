@@ -796,7 +796,7 @@ Under a power of 400 diameters (16 mm., Oc. 18, a useful combination) I can now 
 
 The complicated and confused reticular aspect of the shells as viewed in transparent serpentine is due to radial and concentric layers being cut at various angles. A little training and much patience are necessary to enable the beginner to discern and piece together the nummulitic pattern. The concentric circles of furrowed cord and the radial alar prolongations are good guides to orientation in shells viewed in horizontal aspect.
 
-###### On the Origin of the banded structure in Eozoon
+###### On the Origin of the Banded Structure in Eozoon
 
 Many theories have been advocated to account for the white and green (calcareous and silicatic) zones of Eozoon. Firstly there is the organic theory, _viz._ that the calcareous zones were the skeleton of a Foraminiferan, the silicatic zones being in-fillings of the spaces of the shell. This theory may be finally dismissed.
 
