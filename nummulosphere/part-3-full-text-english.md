@@ -780,7 +780,7 @@ Professors King and Rowney* asked believers in the organic theory to reply witho
 
 The organic theory has now taken on an almost entirely new aspect, and I think it will be amply sufficient to reply here to the first two points, which are the most important.
 
-Point No. 1. The existence of an _upper_ and an _under_ "proper wall" in immediate connexion with a "chamber," also frequent absence of intermediate skeleton, and frequent horizontality — instead of verticality — of tubuli to the adjacent chamber.
+Point No. 1. The existence of an _upper_ and an _under_ "proper wall" in immediate connection with a "chamber," also frequent absence of intermediate skeleton, and frequent horizontality — instead of verticality — of tubuli to the adjacent chamber.
 
 Answer. The green bands are not chamber-spaces formerly containing protoplasm but now filled in with serpentine; there is no "proper wall" to the supposed "spaces," and there is no supplementary skeleton (in the form of white bands) between "spaces" which never existed.
 
