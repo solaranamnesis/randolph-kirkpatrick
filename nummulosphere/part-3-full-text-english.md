@@ -242,9 +242,11 @@ _Postscript_. The irregularity in the numbering of the plates is due to the supp
 
 The original title of Part 3 _viz._, "Sea-Floors or Benthoplankton" (see page-headings) has been changed to "The Ocean Floor or Benthoplankton." The designation "Nummulosphere" refers to the fact that one of the concentric planetary layers (_viz._ the earth's "crust") is almost wholly composed of mineralized nummulites, the other zones being atmosphere, hydrosphere and centrosphere.
 
-#### Chapter 1
+#### Part 1
 
-##### The Ocean
+##### Chapter 1
+
+###### The Ocean
 
 "Ocean, the parent of all." — Iliad 14. 246.
 
@@ -256,7 +258,7 @@ To him, and even to naturalists acquainted with the wonderful richness of oceani
 
 *) Smooth tropical seas in moderate depths often seem almost as transparent as air or crystal. In Milton's grand line, "The birth of nature from the unapparent deep," the deep is the void of space.
 
-##### The Surface of the Ocean
+###### The Surface of the Ocean
 
 If, with the aid of a water-telescope to banish reflections, we look down through the clear waters off some tropical island of the East Indies, say Java,* we may see on the sea-bottom great masses of coral, gigantic Tridacnas and huge Neptune's-Cup Sponges. All these massive constructions began life as minute soft specks of living substance, which, in the course of their growth, extracted from the sea the carbonate of lime and silica of their skeletons. It is not, however, these large organisms that we must regard as world-builders, but, rather, certain kinds of minute shells. The white sand on the floor of the submarine garden will be found to be very rich in small calcareous shells of Foraminifera. In tropical latitudes, Foraminifera sometimes form reefs and banks obstructing navigation. The boring into the Funafuti coral-atoll revealed the fact that the reef was to a considerable extent built of Foraminifera.
 
@@ -319,7 +321,7 @@ The surface life of the ocean has been an important source of the silica which f
 
 *) From a philosophical point of view, the earth's crust might be described as a by-product of the evolutionary process, psychic development being the aim.
 
-##### The Floor of the Ocean
+###### The Floor of the Ocean
 
 Until recent times the floor of the ocean beyond a few hundred fathoms was a region of profound mystery, and consequently men of science were in complete ignorance concerning the greater part of the surface of the planetary crust. During the last sixty years, however, human ingenuity has succeeded in surveying and charting the ocean floor almost as completely and surely as if it had been laid bare to ordinary observation.
 
@@ -404,7 +406,7 @@ _Summary_. — The ocean floor is carpeted with terrigenous deposits in the neig
 
 The clay — apart from a limited amount due to subaerial eruptions — is derived partly from the decomposed surface-material of a submarine silicated nummulitic rock, and partly from deeper-seated erupted material of the same rock. The oceanic floor and land area are respectively the submerged and emerged parts of a probably universal deposit of nummulite shells — the Nummulosphere. The bulk of the emerged part of this deposit has become hardened, mineralized and crystallized, and is known as igneous rock.
 
-##### On the Probable Former Existence of a Universal Ocean
+###### On the Probable Former Existence of a Universal Ocean
 
 Werner believed that a universal ocean once covered the globe above the highest mountain-tops, the mountains being masses of minerals deposited from the sea _in situ_. So indeed they were, but not in Werner's sense. Werner knew little of the subterranean forces of upheaval. It never occurred to him to level the mountains below the water, so he brought the water above the mountains.
 
@@ -424,7 +426,7 @@ The areas of existing continents were, in primitive times, much restricted in co
 
 The solid planetary surface with its organic crust has been heaving up and down like a troubled sea: and taking the above circumstances into account it is probable that the ocean has extended over a greater area of the globe than at present, and, during the earliest period, even over the whole area.
 
-##### Summary of Chapter 1
+###### Summary of Chapter 1
 
 An abundant siliceous micro-fauna and -flora live at the surface of the ocean, and probably have done so for aeons. The skeletons sink, in time dissolve, and permeate benthos deposits. The ocean floor is formed chiefly of ancient mineralized deposits of nummulites, the surface layer being clayey. Near land these deposits are covered with water- or air-borne land materials (themselves nummulitic); and in the open ocean, in depths less than 2700 fms., with plankton dust chiefly calcareous; in greater depths the nummulite deposits are exposed as grown _in situ_ or as erupted _in situ_. The land is also composed of mineralized nummulites. Apparently the abyssal ocean-floor has sunk, for almost certainly nummulites did not live in depths over 1000 fms. Probably there was once an universal ocean.
 
@@ -432,9 +434,9 @@ _Postscript_. — My first preparations of Red Clay, _Globigerina_ Ooze, Diatom 
 
 _Note_. — Referring to the quotation from Bloxam on p. 41. In the contest between liquid and solid, notwithstanding the great solvent powers of water, yet the balance apparently leans towards solidification. Not only have the rocks of the earth's crust been abstracted from solution, but the minerals composing them are not rarely hydrated, as in the case of the serpentines for example.
 
-#### Chapter 2
+##### Chapter 2
 
-##### Chalk and Flint, and other Limestones
+###### Chalk and Flint, and other Limestones
 
 A great chapter of the history of the world is written in the chalk. Few passages in the history of man can be supported by such an overwhelming mass of direct and indirect evidence as that which testifies to the truth of the fragment of the history of the globe which I hope to enable you to read.... Let me add, that few chapters of human history have a more profound significance for ourselves. I weigh my words well when I assert, that the man who should know the true history of the bit of chalk which every carpenter carries about in his breeches pocket, though ignorant of all other history, is likely, if he will think his knowledge out to its ultimate results, to have a truer, and therefore a better, conception of this wonderful universe, and of man's relation to it, than the most learned student who is deep-read in the records of humanity and ignorant of those of Nature. — _On a Piece of Chalk_. Huxley.
 
@@ -588,7 +590,7 @@ Concerning the question of the relationship between Chalk and _Globigerina_ ooze
 
 *) Mém. Soc. Géol. Nord, 4. p. 521. 1897.
 
-##### Flint
+###### Flint
 
 Although it is the carbonate of lime that chiefly strikes the eye when looking at a chalk cliff, yet the silica element is almost equally important. Even where the silica is not collected into bands of tabular flint or of nodules, there is usually a good deal of silex disseminated throughout the whole rock.
 
@@ -612,7 +614,7 @@ Scattered in the chalk are nodules of iron pyrites, which often "degenerate" int
 
 The shells are best seen on finely granular fractured surfaces, especially if allowed to become weathered a little by exposure. The marcasite nodules have not formed in the void. The metallic salts have permeated a mass of Foraminiferal shells. Metallic Trilobites and Ammonites are familiar objects: the metallic nummulite shells on the other hand are indistinguishably massed together. I have seen the nummulitic structure in ore-deposits of iron, tin, uranium, _etc._
 
-##### On certain other Limestones
+###### On certain other Limestones
 
 "Sed calx a petrificatis." — _Linnaeus_.
 
@@ -646,7 +648,7 @@ The oolitic structure not uncommon in calcareous material evidently arises in ma
 
 My sections of typical hand-specimens of Schlern and Mendola dolomite from Seiss show that these lumps and presumably the huge masses from which they were detached are nummulitic limestones (See Appendix, Note C). Similarly with sections of marbles from various parts of the world kindly supplied to me by Messrs. Bingham.
 
-##### Summary of Chapter 2
+###### Summary of Chapter 2
 
 Chalk is a nummulitic limestone, formed mainly of a deposit of shells of _Nummulites_, a genus hitherto only doubtfully known to occur before the Eocene. Many writers from Ehrenberg to the present time have seen in Chalk objects named "morpholiths," "spheres," _etc._, the nature of which has been doubtful, but which are now found to be portions of nummulite shells, the spheres being concretionary areas. Numerous other limestones from Jurassic to Archaean are nummulitic; but the shells have escaped detection, and the carbonate of lime often has been regarded as a chemical deposit.
 
@@ -656,9 +658,9 @@ _Postscript, Note_ 1. — I have now learned to distinguish in sections of chalk
 
 I should mention that the simple skill in detecting the above-named structures in the mass of calcareous particles has only come to me at the end of a long period of painstaking observation and that some patience is necessary. The faint outlines of the spiral central coils and radial alars of perpendicular sections or aspects of shells will be the first structures to be seen. I now prefer to use a lens magnifying only 3 diameters.
 
-#### Chapter 3
+##### Chapter 3
 
-##### "Eozoon" or "The Dawn Animal"
+###### "Eozoon" or "The Dawn Animal"
 
 _The story of a double delusion._
 
@@ -746,7 +748,7 @@ Under a power of 400 diameters (16 mm., Oc. 18, a useful combination) I can now 
 
 The complicated and confused reticular aspect of the shells as viewed in transparent serpentine is due to radial and concentric layers being cut at various angles. A little training and much patience are necessary to enable the beginner to discern and piece together the nummulitic pattern. The concentric circles of furrowed cord and the radial alar prolongations are good guides to orientation in shells viewed in horizontal aspect.
 
-##### On the Origin of the banded structure in Eozoon
+###### On the Origin of the banded structure in Eozoon
 
 Many theories have been advocated to account for the white and green (calcareous and silicatic) zones of Eozoon. Firstly there is the organic theory, _viz._ that the calcareous zones were the skeleton of a Foraminiferan, the silicatic zones being in-fillings of the spaces of the shell. This theory may be finally dismissed.
 
@@ -818,13 +820,13 @@ From the point of view of rock metamorphism, Eozoon (limestone + silicate) is im
 
 Perhaps it was well that the riddle of Eozoon was not quickly solved, for in the prolonged efforts to find the answer much valuable knowledge was acquired.
 
-##### Summary of Chapter 3
+###### Summary of Chapter 3
 
 Specimens of "Eozoon" are lumps of nummulitic limestone mineralized by silicates deposited in zones.
 
-#### Chapter 4
+##### Chapter 4
 
-##### The Igneous Rocks
+###### The Igneous Rocks
 
 "It is important to acquire a hospitable and intelligent preparedness to appreciate new light as it shall present itself." — _Chamberlin and Salisbury_.
 
@@ -876,7 +878,7 @@ With regard to the second of the three problems referred to by Dana, I hope to d
 
 If that is so, it is reasonable to expect that some additional light may be thrown on the other two problems.
 
-##### The Origin of the Igneous Rocks
+###### The Origin of the Igneous Rocks
 
 Werner and his school believed lava, basalt and granite to be minerals precipitated from a universal ocean, the heated condition of lava being supposed to be due to burning coal-fields. Desmarest showed convincingly that basalt was simply an ancient lava, and that it got into position by flowing there as a molten rock, and not by being deposited as an aqueous sediment. Hutton proved that granite likewise was a once molten rock essentially similar to lava, but deep-seated. Accordingly lava, basalt, granite and their like are termed "igneous" rocks.
 
@@ -1017,7 +1019,7 @@ Seeing that an oceanic organic deposit is parent of the igneous rocks, it is not
 
 Variations in rate of cooling give rise to great differences in texture. Granite, rhyolite and an obsidian may have precisely the same chemical composition, but in the case of the volcanic glass the magma has cooled and set so quickly that the molecules have become fixed in position before they could marshal themselves in crystalline order. The slow-cooling granite, on the other hand, is a crystalline mass.
 
-##### On the Source of the Heat of Molten Rocks
+###### On the Source of the Heat of Molten Rocks
 
 The interior of the earth must be in an intensely heated condition. Hot and boiling rocks, forced up from below, can actually be seen accumulating in heaps and pouring out in floods over the surface; and further, it is found that the temperature rises on an average 1° C. for every 32 metres of vertical descent into the earth.
 
@@ -1041,11 +1043,11 @@ The discovery of the origin and history of igneous rocks will lead, I believe, t
 
 Limestone seems inert, but the heat of a magma will cause the silica to combine with magnesium, _etc._, to form silicates as in the Canadian, Finland and Vesuvian "Eozoon"; and the heat of a kiln will make lime quick, the latter giving out heat when slaked.
 
-##### On the Ascent of Molten Magmas
+###### On the Ascent of Molten Magmas
 
 The deep-seated rocks, though at a temperature above normal melting-point would be solid owing to high pressure. Relief of pressure would cause them to melt and move in the direction of least resistance. If, as is stated, the nucleus of the earth contract more than the crust, the latter, owing to adjustment to a smaller radius, will be thrown into folds. The ascent of molten rocks through the overlying crust is characteristic of sinking areas; (Geikie).
 
-##### On the Chronology of Igneous Rocks
+###### On the Chronology of Igneous Rocks
 
 Hitherto igneous rocks have not been allotted a chronological position proper to themselves. They have been regarded as primeval and beyond chronology, but nevertheless they are daughters of time. The date affixed is that of the strata into which they have been intruded, and, further, it has been the custom to regard the invaded overlying strata as older than the intrusive. Writing of the Laurentian granites, Chamberlinand Salisbury state,* "but it is now known that they are intrusive into the schist series. They are therefore younger than the latter." Now that the igneous rocks must take their place in the palaeontological series, the lower rocks will be regarded as the older and first formed.
 
@@ -1053,7 +1055,7 @@ Hitherto igneous rocks have not been allotted a chronological position proper to
 
 An igneous rock has two dates, the first being its date of actual formation shell by shell in the ocean, and the second its time of uprising into the overlying crust.
 
-##### Summary of Chapter 4 
+###### Summary of Chapter 4 
 
 The known crust of the earth is mainly a metamorphosed silicatic deposit of organic origin precipitated from the ocean. The deeper zones of this deposit are heated above their standard-pressure melting-points, but remain solid owing to high pressure. Crustal movements, due to shrinkage and adjustment have led to relief of pressure followed by melting, and uprise of the molten material along lines of least resistance.
 
@@ -1063,9 +1065,9 @@ _Postscript, Note_ 1. — There are no authentic records of Diatom remains befor
 
 _Note_ 2. — I have seen a recent shell of _Lagena marginata_ with Diatoms completely embedded in the wall. Here we have a picture in miniature of the great planetary deposit of silicated shells. It is doubtful whether sponges were accountable for much or any of the silica during the earliest era.
 
-#### Chapter 5
+##### Chapter 5
 
-##### Meteorites
+###### Meteorites
 
 "We cannot but agree with the common opinion which regards meteorites as fragments broken from larger masses, and we cannot be satisfied without trying to imagine what were the antecedents of those masses." — Lord Kelvin.
 
@@ -1200,7 +1202,7 @@ Dr. G. T. Prior in a paper _On the remarkable similarity in chemical and mineral
 
 The sea is the common parent of benthoplankton, igneous rocks, and meteorites, these being one and the same material variously modified by time and circumstance.
 
-##### On the ultra-basic composition of the Meteorites
+###### On the ultra-basic composition of the Meteorites
 
 What first induced men of science to pay attention to the popular belief that meteorites were really sky-stones was the discovery that these bodies had approximately the same composition even though found in far-apart localities. Meteorites are ultra-basic, that is to say, there is only a low percentage of silicic acid (silica) and a high one of bases, especially of magnesium. A simple explanation now, I think, offers itself.
 
@@ -1224,7 +1226,7 @@ The deeper layers of the mineralized oceanic organic deposit have been heated, a
 
 According to the Hon. R. J. Strutt, the earth's interior can hardly consist mainly of iron, for the mean density of the earth is only 5.5, while that of iron is 7.7 (P.R.S. [A] 77, p. 484. 1906).
 
-##### Note on Shooting-stars and Comets
+###### Note on Shooting-stars and Comets
 
 In the chapter on chalk I have ventured to suggest the possibility of a relationship between chalk and some comets.
 
@@ -1254,13 +1256,13 @@ I do not believe there is positive evidence of the existence on earth of any cos
 
 *) O. C. Farrington (Meteorites, 1915) thinks the abundance of meteorites constitutes an objection to the theory of earthly origin. Meteorites could hardly be plentiful, or the market value would not be so high.
 
-##### Summary of Chapter 5
+###### Summary of Chapter 5
 
 Meteorites are mineralized and often ore-enriched lumps of nummulitic rock which have been ejected from volcanoes. On palaeontological and other grounds these bodies may be assumed to be of terrestrial origin.
 
-#### Chapter 6
+##### Chapter 6
 
-##### Sedimentary Rocks
+###### Sedimentary Rocks
 
 A scene in which there is a river cutting through a gap in the chalk and flint cliffs to enter the sea represents in miniature the history of the earth's crust. For the chalk is a raised sea-bottom composed of an accumulation of calcareous and siliceous skeletons of sea-creatures. The siliceous remains have mostly dissolved, and the silica, wherever it has penetrated, has replaced the carbonate of lime of the calcareous skeletons. At the mouth of the river there are shoals of mud, and at the foot of the cliffs boulders, gravel and sand. Submarine deposits of these materials will become hardened into rocks, and perhaps in course of time elevated above the sea.
 
@@ -1332,9 +1334,9 @@ For aeons a simple universal rhizopodal "bathybius"* has been building a scaffol
 
 A mountain range (like all the rest of the earth's crust) with a plutonic core flanked by schists, sedimentaries, intrusives and limestones, is one thing, _viz._ benthoplankton, in various states.
 
-#### Chapter 7
+##### Chapter 7
 
-##### Miscellanea
+###### Miscellanea
 
 _The Age of the Earth_
 
@@ -1401,7 +1403,7 @@ The terracotta and the bricks and slates of the Natural History Museum are found
 
 #### Part 2
 
-##### The Direct Evidence
+The Direct Evidence
 
 In the preceding chapters, facts concerning organic life at the surface and on the floor of the ocean during present and past times have been brought forward to show that an organic origin of the planetary crust is rather what we should expect to find.
 
@@ -1411,9 +1413,9 @@ The more recent primary deposits (Cainozoic to Archaeozoic) — either unaltered
 
 A short account of Foraminifera and more especially of nummulites will now be given. A chapter on the generally known and fairly well-preserved nummulites of the Eocene period will be followed by one on the nummulites of igneous rocks and meteorites. Pre-Eocene nummulitic limestones from Mesozoic to basal Archaeozoic have already been referred to in Chapters 2 and 3.
 
-#### Chapter 8
+##### Chapter 8
 
-##### Foraminifera
+###### Foraminifera
 
 If shelly sands, especially from near low-tide mark, be examined with a hand-lens, probably some tiny little shells like lilliputian Pearly Nautiluses, Florence oil-flasks, or porcelain-white millet seeds will be detected. Twenty to fifty of them could be laid in a line an inch long (Fig. 11).
 
@@ -1439,7 +1441,7 @@ Brady divides the group into ten families. Only the tenth — the _Nummulitidae_
 
 The important part taken by Foraminifera in the formation of the earth's crust is already well known, but it is now found that nearly the whole lithosphere is composed of mineralized deposits of nummulites.
 
-##### Nummulites
+###### Nummulites
 
 "Ce genre de débris organiques." — _Joly and Leymerie_.
 
@@ -1479,7 +1481,7 @@ The successive coils of the spiral lamina are not in contact, but separated by a
 
 The Marginal Cord is the ribbon-like edge of the spiral lamina. The surface of the cord is marked with fine furrows and ridges, and hence Carter termed it the "spicular" cord from a fancied resemblance to sponge spicules (Figs. 18-20).
 
-##### On the Minute Structure of Nummulites
+###### On the Minute Structure of Nummulites
 
 Very little appears to be known concerning the finer structure of nummulites, and it is a strange paradox that some new light should be thrown on this subject as a result of the study of silicated nummulites of igneous rocks and meteorites rather than of calcareous shells of Eocene limestones.* For it was only after finding certain structures in silicated shells that I was led to seek for and to find similar structures in the Tertiary nummulites.
 
@@ -1565,7 +1567,7 @@ It is, however, a remarkable fact that the genus _Nummulites_ is almost extinct.
 
 *) Excluding doubtful records, there are probably only two recent species, and these small, _viz._, _N. planulata_ (Arctic seas), and _N. cumingii_ (tropical seas). Williamson records recent _N. radiata_ from Portsmouth, but Brady excludes it from his synopsis of British recent species (Journ. Roy. Micr. Soc., 1887, part 2, p. 872).
 
-##### On the Extinction of the Genus "Nummulites"
+###### On the Extinction of the Genus "Nummulites"
 
 "What could have been the conditions which so specially favoured their production at the period in question, ... and what change in these conditions put a sudden and almost complete stop to these operations constitute most interesting subjects for physiological and geological enquiry." (Carpenter).
 
@@ -1637,9 +1639,9 @@ All calcareous Foraminiferal shells appear to be built of spirodisks. The primit
 
 *) See Appendix. Note R.
 
-#### Chapter 9
+##### Chapter 9
 
-##### The Nummulitic Structure of Igneous Rocks and Meteorites
+###### The Nummulitic Structure of Igneous Rocks and Meteorites
 
 "A vast thickness of solid rock... formed of little else than their remains." Carpenter, on the enormously thick and extensive deposits of Tertiary nummulites, his words being equally descriptive of igneous rocks.
 
@@ -1663,7 +1665,7 @@ Accordingly, what with pressure, solution, mineralization, clarification, crysta
 
 The nummulites of the "nummulitic epoch" are easily seen, and those of all the preceding epochs not easily seen. The explanation of the enigma of the Tertiary nummulites is simply that the individual forms of the shells of the older deposits have become more or less obliterated, or, at any rate, difficult to trace.
 
-##### Methods of Observation
+###### Methods of Observation
 
 The study of lumps and sections of Tertiary nummulitic rocks will form a good introduction to that of the igneous rocks. The eye will become familiarized with the appearance of the shells in horizontal, oblique and transverse aspects and sections. Further the effects of the various kinds and degrees of mineralization, crystallization and degradation of nummulitic structure can be observed, for there is a considerable range of variation in such processes even in the Tertiary rocks. The nummulitic structure of igneous rocks can be detected by the naked eye, the hand lens, and the microscope.
 
@@ -1687,7 +1689,7 @@ A very careful study of some of the large photographs in Dr. Clinch's memoir on 
 
 3) The study of sections under the microscope. Under low powers it is often possible to see portions of shell with various structures still in normal relation to each other. For instance a transverse section or aspect will show two or three embracing gothic arches with striated walls and with pillars in radial series; also the furrowed marginal cord with fan-like septa astride, and again the band-like edges of alar prolongations. If any doubts remained, a high power will reveal perforated disk-structures in various aspects, and it will then become impossible for any instructed observer to doubt the significance of what he sees.
 
-##### 1. Igneous Rocks
+###### 1. Igneous Rocks
 
 The igneous rocks have once been semi-molten or molten. Those masses which have reached the surface in a heated condition, i.e., the volcanic or superficial igneous rocks, have cooled quickly, and consequently have formed a glassy ground-mass usually with a varying number of very minute crystals embedded in it. Dykes and sills, occupying an intermediate position, have somewhat larger crystals visible to the naked eye or with the aid of a lens. The deep-seated abyssal or plutonic rocks, owing to very slow cooling, have large crystals.*
 
@@ -1739,7 +1741,7 @@ The shell-structure is best preserved, or, rather, best seen, in the felspar, bu
 
 As in the case of Clee Hill dolerite, the organic structure is preserved in the smallest particles of earth or clay, and can be seen under very high magnification. (Plate 18. A, B.)
 
-##### 2. Meteorites
+###### 2. Meteorites
 
 (Plates 14. B; 16. A-D; 19. A, B; 20. C, D, E.)
 
@@ -1969,7 +1971,7 @@ Examples from this neighbourhood often have alternating dense and porous concent
 
 Gradually as the Palaeozoic limestones of the Ordovician, Silurian and Devonian periods became better known, numerous other "fossils," akin to _Stromatopora_, were discovered. Succeeding writers devoted memoirs and monographs to the description of these objects, and many and diverse were the views as to their nature.
 
-Below is an incomplete list, compiled as far as 1886 from Nicholson's monograph, giving the names of writers with their opinion concerning the systematic position of Stromatoporoids*:
+Below is an incomplete list, compiled as far as 1886 from Nicholson's monograph, giving the names of writers with their opinion concerning the systematic position of Stromatoporoids:*
 
 Goldfuss, 1826. Hydrocorallinae.  
 Steininger, 1834. Sponges.  
