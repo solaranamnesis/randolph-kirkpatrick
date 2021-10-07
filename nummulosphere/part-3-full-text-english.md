@@ -2056,7 +2056,7 @@ Sometimes the patterns formed by these experimental rhythmical precipitations cu
 
 If the water and carbonic acid permeating a limestone dissolve out and hold the carbonate of lime in saturated solution, any diminution of the carbonic acid would cause the lime to be precipitated in concentric zones as in oolite, or in radial-concentric patterns as in many Stromatoporoids.
 
-In _Beatricea_ and _Labechia_ the wavy vesicular patterns give the impression of being due to forces acting in a rhythmical and undulatory fashion. In the former " genus " the shape is frequently that of a hollow cylinder, and the wavelets are in concentric series and convex outwards. (See Nicholson's 'Monograph,' Plate 8. Figs. 1-3.)
+In _Beatricea_ and _Labechia_ the wavy vesicular patterns give the impression of being due to forces acting in a rhythmical and undulatory fashion. In the former "genus" the shape is frequently that of a hollow cylinder, and the wavelets are in concentric series and convex outwards. (See Nicholson's 'Monograph,' Plate 8. Figs. 1-3.)
 
 The agencies which have led to the formation of Stromatoporoids have acted not on homogeneous limestones but on hardened nummulitic deposits.
 
@@ -2430,7 +2430,7 @@ Note C. _The Dolomites of South Tyrol_ (p. 70).
 
 The dolomite mountains of South Tyrol are among the grandest limestone formations on the globe. Huge pillars or cimas, slender campaniles and long curved walls rise sheer for thousands of feet. These remarkable Triassic rocks have been the subject of much controversy, and a general agreement as to their real nature and mode of formation has not yet been arrived at. In 1860 Richthofen advocated the view that the "Schlern" dolomite — the crystalline unstratified rock which forms the bulk of many of the dolomites — could be accounted for on Darwin's coral-atoll theory, the almost total absence of coral being attributed to its obliteration by dolomitization.
 
-D. Stur (1868, 1871), on the other hand, concluded that Schlern dolomite was merely part of a great series of sedimentary limestones, tuffs and clays, and that it had no definite horizon. " There are some localities where the whole of the sedimentary strata are represented by dolomite, and other areas where the dolomite appears first in the upper horizons and rests on the lower sedimentary strata."
+D. Stur (1868, 1871), on the other hand, concluded that Schlern dolomite was merely part of a great series of sedimentary limestones, tuffs and clays, and that it had no definite horizon." There are some localities where the whole of the sedimentary strata are represented by dolomite, and other areas where the dolomite appears first in the upper horizons and rests on the lower sedimentary strata."
 
 Gümbel (1873), who rejected what he terms "the very convenient reef theory," regarded Schlern dolomite as occupying a distinct horizon characterized by the presence of a calcareous alga _Diplopora annulata_ Schafhäutl, another species _D. pauciforata_ Gümbel being found in the older Mendola dolomite. He considered the isolated massifs to be parts of a once continuous formation broken up by volcanic upheavals, followed by ages of denudation.
 
@@ -2454,7 +2454,7 @@ Transparent sections of Schlern rock viewed with a lens show a meandrine pattern
 
 The larger fossils are not common in Schlern dolomite, Mollusca, Echinoderms, Corals (rarely) and Calcareous Algae being found.
 
-Mojsisovics (_l.c._ p. 500) writes of "der grossen armuth des ungeschichteten Dolomits an fossilresten," and Rothpletz (1899) of "der eigentlich Schlerndolomit ganz fossilarm " (Zeitsch. Deutsch. Geol. Gesellsch. Verhand. p. 105), but the rock is a mass of fossils* throughout, though for the most part they are only to be recognized with some difficulty.
+Mojsisovics (_l.c._ p. 500) writes of "der grossen armuth des ungeschichteten Dolomits an fossilresten," and Rothpletz (1899) of "der eigentlich Schlerndolomit ganz fossilarm" (Zeitsch. Deutsch. Geol. Gesellsch. Verhand. p. 105), but the rock is a mass of fossils* throughout, though for the most part they are only to be recognized with some difficulty.
 
 *) Prof. Skeats examined thirty-eight sections of Schlern dolomite. He found calcareous algae in three, doubtful ditto in five; coral in one, doubtful coral (meandrine pattern) in eleven; mollusc shell in one; echinoderm spine in one; no trace of fossils in seventeen (i.e. 45 per cent.). I think it not improbable that there is nummulitic structure in all, excepting perhaps where algae are massed together. Prof. Skeats was unable to find any trace of organisms in a specimen of Mendola dolomite. (Q. J. G. S., 1905.)
 
@@ -2502,7 +2502,7 @@ _Cryptozoon? occidentale_ Dawson (Bull. Geol. Soc. America. 10. p. 233), which D
 
 Dr. Walcott thinks the entire series of Algonkian limestones of western America may be fresh-water deposits laid down in epi-continental basins wholly or sometimes partly cut off from the ocean. It will be possible in some measure to test this theory. If, like common chalk, the rocks are nummulitic, they will be marine.
 
-The calcareous masses of supposed Algonkian algae so closely resembling the fresh-water "Lake Balls " of the present day as described by Dr. Walcott, bear some resemblance also to Fulwell-quarry concretions.
+The calcareous masses of supposed Algonkian algae so closely resembling the fresh-water "Lake Balls" of the present day as described by Dr. Walcott, bear some resemblance also to Fulwell-quarry concretions.
 
 Note F. _On Geological Succession_ (p. 2).
 
