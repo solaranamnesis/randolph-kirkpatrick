@@ -1302,7 +1302,7 @@ If we could imagine some terrific volcanic eruption, capable of overcoming dimin
 
 According to a theory held at the present day the nuclei of comets are made up of clashing meteorites, the latter not present in sufficient numbers to obscure the stars in front of which the comet may be passing. If the meteorite-theory of comets be true, then some of the meteorites maybe of the same terrestrial origin as those in our museums. It has been suggested that the Mazapil siderite is part of the broken up Biela's comet.
 
-Probably other bodies in the solar system and in the universe eject yolcanically from their mass materials which escape the gravitation-pull of the parent body, and, further, catastrophes may have broken up planets and dark suns. However that may be, it is not improbable in face of the new facts, that all terrestrial captures are of terrestrial origin.
+Probably other bodies in the solar system and in the universe eject volcanically from their mass materials which escape the gravitation-pull of the parent body, and, further, catastrophes may have broken up planets and dark suns. However that may be, it is not improbable in face of the new facts, that all terrestrial captures are of terrestrial origin.
 
 I find the brown-coloured "chondres" or spherules from oceanic abyssal deposits to be organic,* but I could discern no trace of organic structure in the black magnetic spherules — though it is probably there.
 
