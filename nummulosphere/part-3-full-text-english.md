@@ -2214,7 +2214,7 @@ Pisolite or Pea-Grit is usually regarded as a sedimentary formation. The concret
 
 Concretions are sometimes of large size as in the cannon-ball bed at Roker.
 
-Lindstrom describes a bed of "ball-stones" in the upper Silurian of Gotland, some of which are over a yard in diameter. He refers to them as corals (_Coenostroma discoideum_), and Nicholson calls them Stromatoporoids. Judging from sections named _S. discoidea_ in the Nicholson Collection they are huge concretionary masses of nummulitic limestone.
+Lindström describes a bed of "ball-stones" in the upper Silurian of Gotland, some of which are over a yard in diameter. He refers to them as corals (_Coenostroma discoideum_), and Nicholson calls them Stromatoporoids. Judging from sections named _S. discoidea_ in the Nicholson Collection they are huge concretionary masses of nummulitic limestone.
 
 _Cyclocrinus_, _etc._
 
