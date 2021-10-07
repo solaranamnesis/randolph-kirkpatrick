@@ -3016,13 +3016,13 @@ Plate 5 — Permian concretions and Devonian stromatoporoids.
 
 [Plate 5: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5-FigureD.png) — Permian concretions (Fulwell) and Devonian Stromatoporoids compared. The Stromatoporoid _Idiostroma oculatum_. Devonian of Buchel. About natural size.
 
-Plate 5A — Specimens of _Parkeria_, _Loftusia_, Syringosphaeria.
+Plate 5A — Specimens of _Parkeria_, _Loftusia_, _Syringosphaeria_.
 
 [Plate 5A: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5A-FigureA.png) — _Loftusia persica_, whole and in section. All natural size.
 
 [Plate 5A: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5A-FigureB.png) — _Loftusia persica_, whole and in section. All natural size.
 
-[Plate 5A: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5A-FigureC.png) — Syringosphaeria, a Karakoram stone. All natural size.
+[Plate 5A: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5A-FigureC.png) — _Syringosphaeria_, a Karakoram stone. All natural size.
 
 [Plate 5A: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5A-FigureD.png) — _Parkeria_. All natural size.
 
