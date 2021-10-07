@@ -44,6 +44,16 @@ London: Printed by William Clowes and Sons, Limited, Duke Street, Stamford Stree
 
 ##### [Chapter 4](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#chapter-4-1)
 
+###### [└─ The Igneous Rocks](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#the-igneous-rocks)
+
+###### [└─ The Origin of the Igneous Rocks](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#the-origin-of-the-igneous-rocks)
+
+###### [└─ On the Source of the Heat of Molten Rocks](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#on-the-source-of-the-heat-of-molten-rocks)
+
+###### [└─ On the Ascent of Molten Magmas](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#on-the-ascent-of-molten-magmas)
+
+###### [└─ On the Chronology of Igneous Rocks](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#on-the-chronology-of-igneous-rocks)
+
 ###### [└─ Summary of Chapter 4](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#summary-of-chapter-4)
 
 ##### [Chapter 5](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#chapter-5-1)
