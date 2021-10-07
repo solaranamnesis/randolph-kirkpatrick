@@ -1561,7 +1561,7 @@ The planetary crust is almost wholly built of "spirodisks," the smallest visible
 
 The successive layers of spiral lamina seen in a transverse section of a nummulite (Figs. 22, 23) show alternate clear and striated vertical bands. The clear bands are the "pillars," and the striated ones the "tubulated" or inter-pillar areas. Keyserling, Joly and Leymerie, and d'Archiac regarded the pillars as wide-open channels which became, rilled with calcite (_remplissage_, d'Archiac) during fossilization. Carpenter described the pillars as solid non-tubulated structures serving as wedges of support for the tubulated walls. Careful examination will show the hyaline and apparently structureless pillars to be replete with disk structures. Further, a still closer scrutiny will show the tubulated areas also to be full of disks, but here the dominating tubulated-striated pattern (Plate 23. Figs. A-D) renders their detection difficult.
 
-The conclusion reached is that the whole nummulite shell — the septa and alars, and the spiral lamina, marginal cord, pillars and inter-pillar tubulated areas, are built of "disks" having spiral and radial construction.
+The conclusion reached is that the whole nummulite shell — the septa and alars, and the spiral lamina, marginal cord, pillars and inter-pillar tubulated areas, is built of "disks" having spiral and radial construction.
 
 In the inter-pillar tubulated areas the common mass of spirodiscoid structure constituting the wall is penetrated by "tubuli."
 
