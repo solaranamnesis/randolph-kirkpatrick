@@ -82,11 +82,11 @@ London: Printed by William Clowes and Sons, Limited, Duke Street, Stamford Stree
 
 ###### [└─ Foraminifera](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#foraminifera)
 
-###### [└─ Nummulites](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#nummulites)
+###### [└─ _Nummulites_](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#nummulites)
 
-###### [└─ On the Minute Structure of Nummulites](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#on-the-minute-structure-of-nummulites)
+###### [└─ On the Minute Structure of _Nummulites_](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#on-the-minute-structure-of-nummulites)
 
-###### [└─ On the Extinction of the Genus Nummulites](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#on-the-extinction-of-the-genus-nummulites)
+###### [└─ On the Extinction of the Genus _Nummulites_](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#on-the-extinction-of-the-genus-nummulites)
 
 ##### [Chapter 9](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#chapter-9-1)
 
@@ -396,7 +396,7 @@ Radiolarian Ooze | 2894 | 2.3 | Indian Ocean and Pacific
 Pteropod Ooze | 1044 | 0.4 | South Atlantic  
 Red Clay | 2730 | 51.5 | Eastern Pacific chiefly, Atlantic, and Indian Ocean  
 
-*) Nummulites are abundantly present in _Globigerina_ and Diatom-oozes. In Nummulosphere 1 I unnecessarily suggested adding the designation "palaeonummulitic" to the names in use. The nummulites in the above oozes are probably derived from subaerial and submarine eruptions. In depths greater than 2700 fms. calcareous plankton dust is dissolved, and the clayey surface of the probably universal nummulitic deposit is left bare.
+*) _Nummulites_ are abundantly present in _Globigerina_ and Diatom-oozes. In Nummulosphere 1 I unnecessarily suggested adding the designation "palaeonummulitic" to the names in use. The nummulites in the above oozes are probably derived from subaerial and submarine eruptions. In depths greater than 2700 fms. calcareous plankton dust is dissolved, and the clayey surface of the probably universal nummulitic deposit is left bare.
 
 *) See Appendix, Note L.
 
@@ -1497,7 +1497,7 @@ Brady divides the group into ten families. Only the tenth — the _Nummulitidae_
 
 The important part taken by Foraminifera in the formation of the earth's crust is already well known, but it is now found that nearly the whole lithosphere is composed of mineralized deposits of nummulites.
 
-###### Nummulites
+###### _Nummulites_
 
 "Ce genre de débris organiques." — _Joly and Leymerie_.
 
@@ -1537,7 +1537,7 @@ The successive coils of the spiral lamina are not in contact, but separated by a
 
 The Marginal Cord is the ribbon-like edge of the spiral lamina. The surface of the cord is marked with fine furrows and ridges, and hence Carter termed it the "spicular" cord from a fancied resemblance to sponge spicules (Figs. 18-20).
 
-###### On the Minute Structure of Nummulites
+###### On the Minute Structure of _Nummulites_
 
 Very little appears to be known concerning the finer structure of nummulites, and it is a strange paradox that some new light should be thrown on this subject as a result of the study of silicated nummulites of igneous rocks and meteorites rather than of calcareous shells of Eocene limestones.* For it was only after finding certain structures in silicated shells that I was led to seek for and to find similar structures in the Tertiary nummulites.
 
@@ -1623,7 +1623,7 @@ It is, however, a remarkable fact that the genus _Nummulites_ is almost extinct.
 
 *) Excluding doubtful records, there are probably only two recent species, and these small, _viz._, _N. planulata_ (Arctic seas), and _N. cumingii_ (tropical seas). Williamson records recent _N. radiata_ from Portsmouth, but Brady excludes it from his synopsis of British recent species (Journ. Roy. Micr. Soc., 1887, part 2, p. 872).
 
-###### On the Extinction of the Genus Nummulites
+###### On the Extinction of the Genus _Nummulites_
 
 "What could have been the conditions which so specially favoured their production at the period in question, ... and what change in these conditions put a sudden and almost complete stop to these operations constitute most interesting subjects for physiological and geological enquiry." (Carpenter).
 
@@ -2102,7 +2102,7 @@ Certain Stromatoporoids are traversed by long crystal "tubes" or "columns" dispo
 
 According to one view, fossils with these "tubes" were distinct genera of Stromatoporoids. Prof. Roemer considered them to be due to the commensalism of Stromatoporoids with certain corals. According to a third opinion, the "tubes" were states or conditions of certain individuals. This last view, held by Nicholson himself, is the one that is nearest the truth. For the tubes are nothing but peculiar mineralizations taking place in certain masses of nummulitic limestone.
 
-The nummulitic nature of the rock probably had much to do with the creation of this pattern. Series of "pillars" often blend to form clear columns in Nummulites (Fig. 23 A). In a section of _Stromatoporella bücheliensis_ I can see alars and marginal cords in the Caunopora-tubes. At one time I mistook these structures for the expression of the segments of Annelids. Nicholson, again, refers to "funnel-shaped tabulae" in the tubes. These structures are, perhaps, series of minute nummulite septa.
+The nummulitic nature of the rock probably had much to do with the creation of this pattern. Series of "pillars" often blend to form clear columns in _Nummulites_ (Fig. 23 A). In a section of _Stromatoporella bücheliensis_ I can see alars and marginal cords in the Caunopora-tubes. At one time I mistook these structures for the expression of the segments of Annelids. Nicholson, again, refers to "funnel-shaped tabulae" in the tubes. These structures are, perhaps, series of minute nummulite septa.
 
 The greater resistance of the tubes to weathering sometimes produces extraordinary results. A specimen of _Stromatopora Hüpschii_ (Nicholson's _Monograph_, Plate 22. Fig. 7) somewhat resembles a mass of _Tubipora musica_, the Organ-pipe Coral.
 
@@ -2302,7 +2302,7 @@ In 1910 Dr. J. Griffith Taylor* published a beautiful memoir illustrated with ni
 
 *) _The Archaeocyathinae of the Cambrian of South Australia_. Mem. Roy. Soc. South Australia, vol. 2., 1910.
 
-*)  One recalls Carpenter's description of tertiary nummulitic limestones composed of "little else than Nummulites."
+*)  One recalls Carpenter's description of tertiary nummulitic limestones composed of "little else than _Nummulites_."
 
 The interval between the inner and outer surface of the typically stalked cup is divided by vertical radial septa and horizontal tabulae into cubical spaces. Sometimes the inner and outer wall, and the septa and tabulae are all perforated by pores.
 
@@ -2920,7 +2920,7 @@ Plate 2 — Specimen of _Eozoön_.
 
 Plate 2A — Nummulitic structure in _Eozoön_.
 
-[Plate 2A: Figures A-D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2A-Figures.png) — Portions of Nummulites in _Eozoön_. Drawn from a section of _Eozoön canadense_. A, C 30x; B, D 90x. A — Centre of a shell showing several planes (in horizontal aspect). B — Fragment of marginal cord, alars and pillars. C — Two bands of marginal cord and radial alars. D — Portions of marginal cord.
+[Plate 2A: Figures A-D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2A-Figures.png) — Portions of _Nummulites_ in _Eozoön_. Drawn from a section of _Eozoön canadense_. A, C 30x; B, D 90x. A — Centre of a shell showing several planes (in horizontal aspect). B — Fragment of marginal cord, alars and pillars. C — Two bands of marginal cord and radial alars. D — Portions of marginal cord.
 
 Plate 2B — Tertiary nummulites.
 
