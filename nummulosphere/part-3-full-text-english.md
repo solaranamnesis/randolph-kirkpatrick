@@ -104,13 +104,13 @@ London: Printed by William Clowes and Sons, Limited, Duke Street, Stamford Stree
 
 ###### [└─ Certain other Lithomorphs](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#certain-other-lithomorphs)
 
-##### [Summary](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#summary)
+##### [Summary](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#summary-1)
 
 ##### [Appendix](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#appendix-1)
 
-##### [Epilogue](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#epilogue)
+##### [Epilogue](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#epilogue-1)
 
-##### [Supplement](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#supplement)
+##### [Supplement](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#supplement-1)
 
 ##### [List of Plates, Guide Diagrams, and Figures](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#list-of-plates-guide-diagrams-and-figures-1)
 
