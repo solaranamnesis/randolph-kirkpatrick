@@ -2990,15 +2990,15 @@ Plate 2E — Meteorites, melted Barbados earth, Receptaculites.
 
 *) Recently I have found that the photograph from which Fig. 39 was taken shows a nummulite very plainly when magnified only three diameters.
 
-Plate 3A — S. concentrica, variety. Several specimens.
+Plate 3A — _S. concentrica_, variety. Several specimens.
 
 [Plate 3A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate3-Figure1.png) — "_Stromatopora concentrica_ Var. Colliculata." Specimens collected by the author at Gerolstein. One-third natural size.
 
-Plate 3B — Stromatopora concentrica, Goldfuss' type specimen.
+Plate 3B — _Stromatopora concentrica_, Goldfuss' type specimen.
 
 [Plate 3B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate3-Figure.png) — _Stromatopora concentrica_, Goldfuss. Peroy Highley, del et lith. C. Hodges & Son. imp
 
-Plate 4 — S. concentrica magnified.
+Plate 4 — _S. concentrica_ magnified.
 
 [Plate 4: Figures 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure1.png), [2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure2.png), [3](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure3.png), [and 4](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate4-Figure4.png) — _Stromatopora concentrica_. All from a slide in Nicholson's collection (P. 5869) figured in his monograph Plate 11, Fig. 16. Figs. 1, 2 are from the marked areas shown in Fig. 29 on p. 226. A lens 3x should be used. All 260x.
 
