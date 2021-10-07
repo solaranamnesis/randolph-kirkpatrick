@@ -2132,9 +2132,9 @@ Postscript. — Perhaps the best and simplest method of detecting the nummulitic
 
 ###### Certain other Lithomorphs
 
-_Parkeria_ and Loftusia
+_Parkeria_ and _Loftusia_
 
-In the Philosophical Transactions for 1869 Carpenter and Brady wrote a joint memoir entitled _Description of _Parkeria_ and Loftusia, two gigantic types of Arenaceous Foraminifera_, illustrated by nine plates, _Parkeria_ being described by Carpenter, and _Loftusia_ by Brady. Since the memoir was published, various other opinions have been held concerning these types, which have been regarded as porcellanous Foraminifera and as Hydrozoa.
+In the Philosophical Transactions for 1869 Carpenter and Brady wrote a joint memoir entitled _Description of _Parkeria_ and _Loftusia_, two gigantic types of Arenaceous Foraminifera_, illustrated by nine plates, _Parkeria_ being described by Carpenter, and _Loftusia_ by Brady. Since the memoir was published, various other opinions have been held concerning these types, which have been regarded as porcellanous Foraminifera and as Hydrozoa.
 
 The structure and pattern are so remarkable that it is not surprising their real nature has been misunderstood. It scarcely seems credible that the wonderful lace-like patterns seen in the sections could have been fashioned by purely physical agencies, yet such is the fact.
 
@@ -2176,15 +2176,15 @@ Green (? glauconitic) grains are common in _Parkeria_, as also, and to a much gr
 
 There are Fulwell concretions very similar to _Parkeria_, but without the finer traceries (Fig. 32). In both the Permian and Cretaceous lithomorphs the matrix is nummulitic.
 
-Loftusia 
+_Loftusia_ 
 
 In 1855 W. K. Loftus, in a memoir on the geology of the Turko-Persian frontier, refers to certain spindle-shaped stony fossils about two to three inches long which he found embedded in a blue marly Eocene limestone in the Bakhtiyari mountains. Loftus believed the fossils to be gigantic Foraminifera allied to _Alveolina_. In 1869 Brady* investigated some of Mr. Loftus's specimens and concluded they were gigantic _Sandy_ Foraminifera comparable with the porcellanous _Alveolina_ on the one hand and vitreous _Fusulina_ on the other. On Plate 77 Fig. 1 (_l.c._), he figures several specimens embedded in a rich Foraminiferal limestone matrix.
 
 *) Phil. Trans. Roy. Soc., 1869, p 739.
 
-Carter, who regarded Loftusia as a Hydrozoan, thought the existence of the network structure of the central spaces was fatal to the Foraminiferal theory. Steinmann records Loftusia as a Foraminiferan; and Zittel, as a Hydrozoan.
+Carter, who regarded _Loftusia_ as a Hydrozoan, thought the existence of the network structure of the central spaces was fatal to the Foraminiferal theory. Steinmann records _Loftusia_ as a Foraminiferan; and Zittel, as a Hydrozoan.
 
-Brady compares Loftusia to a loosely rolled scroll (of paper) drawn together at each end. The spiral space is subdivided along the length by septa passing obliquely from wall to wall, and a second set of septa pass at right angles from the first set to the main spiral wall. Accordingly there is a spiral labyrinthine pattern. Several small Foraminiferal shells seen in the sections were supposed to have been gathered up and incorporated by the animal.* 
+Brady compares _Loftusia_ to a loosely rolled scroll (of paper) drawn together at each end. The spiral space is subdivided along the length by septa passing obliquely from wall to wall, and a second set of septa pass at right angles from the first set to the main spiral wall. Accordingly there is a spiral labyrinthine pattern. Several small Foraminiferal shells seen in the sections were supposed to have been gathered up and incorporated by the animal.* 
 
 *) G. M. Dawson (A.M.N.H. (5), 2., p. 344, 1878) describes a small species, _L. columbiana_ (8 x 5 mm.), from the Carboniferous limestone of Frazer River, B.C. Whether the supposed fossil is a Foraminiferan or a lithomorph I do not know.
 
@@ -3016,7 +3016,7 @@ Plate 5 — Permian concretions and Devonian stromatoporoids.
 
 [Plate 5: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5-FigureD.png) — Permian concretions (Fulwell) and Devonian Stromatoporoids compared. The Stromatoporoid _Idiostroma oculatum_. Devonian of Buchel. About natural size.
 
-Plate 5A — Specimens of _Parkeria_, Loftusia, Syringosphaeria.
+Plate 5A — Specimens of _Parkeria_, _Loftusia_, Syringosphaeria.
 
 [Plate 5A: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5A-FigureA.png) — _Loftusia persica_, whole and in section. All natural size.
 
