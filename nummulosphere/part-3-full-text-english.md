@@ -1883,7 +1883,7 @@ There is a grand simplicity about Nature's methods. The planetary crust apparent
 
 If the theory that life originated at the ocean surface is true, then the earliest form of life was probably of the "independent" kind, like that of green plants. Some naturalists believe, however, that animal life came first, and that its food supply consisted of simpler organic nitrogen compounds gradually evolved in the course of ages and culminating in the formation of living matter itself, or as Sir Ray Lankester tersely expresses it, the earliest forms of life fed on the products of their own antecedent evolution. There certainly appear to be strong reasons for this theory, in view of the enormous complexity of the proteins that form the basis of protoplasm. Even the simplest proteins, the protamines, have a molecular weight of over 1000, and a minimum estimate for haemoglobin is 16,600! Emil Fischer, making use of the most ingenious and laborious methods, so far has succeeded in building up a compound with a known molecular weight of 1213.
 
-Nature has been called an expert geometrician, and a skilful mathematician, but above all she is a marvellous chemist, and beyond doubt she can accomplish rapidly and with the greatest ease syntheses at present wholly beyond the powers of man to achieve.
+Nature has been called an expert geometrician, and a skillful mathematician, but above all she is a marvellous chemist, and beyond doubt she can accomplish rapidly and with the greatest ease syntheses at present wholly beyond the powers of man to achieve.
 
 Carbon, oxygen, hydrogen and nitrogen (C.O.H.N.) constitute the pillars of the temple of life, and carbon may be said to be the great main central pillar.
 
