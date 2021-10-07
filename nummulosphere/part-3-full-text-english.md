@@ -2166,9 +2166,9 @@ These wonderful and mysterious objects have been a continual source of bewilderm
 
 In 1840 Eichwald described them as Crinoids. Since then they have been looked upon as Protozoa, Sponges, Receptaculites, Anthozoa and Calcareous Algae. Dr. E. Stolley, who has done the most thorough work on these and similar Silurian forms, gives over sixty references to literature in his account of the genus.* After many failures, at last light appeared to be thrown on this obscure problem by researches in recent algology.
 
-*) 'Archiv. Anthropol. Geol. Schleswig-Holstein,' 1. p. 216. 1896.
+*) _Archiv. Anthropol. Geol. Schleswig-Holstein_, 1. p. 216. 1896.
 
-Some of the Siphonaceous algae are spherical or pear-shaped, with tessellated calcareous surface, and with a radial arrangement of densely packed branches. In 1893 ('Ann. Jardin Botan. Buitenzorg,' vol. 11.) Solms-Laubach described a siphonaceous alga _Bornetella oligospora_, with many apparent resemblances to the Silurian (or Ordovician) fossils. _Bornetella_ (_Neomeris_) _capitata_ Agardh, again, is a stalked spherical form to which Cyclocrinus bears resemblance. Accordingly recent authorities place this and kindred fossils among the calcareous algae.
+Some of the Siphonaceous algae are spherical or pear-shaped, with tessellated calcareous surface, and with a radial arrangement of densely packed branches. In 1893 (_Ann. Jardin Botan. Buitenzorg_, vol. 11.) Solms-Laubach described a siphonaceous alga _Bornetella oligospora_, with many apparent resemblances to the Silurian (or Ordovician) fossils. _Bornetella_ (_Neomeris_) _capitata_ Agardh, again, is a stalked spherical form to which Cyclocrinus bears resemblance. Accordingly recent authorities place this and kindred fossils among the calcareous algae.
 
 Sections of Cyclocrinus from the Ordovician of Estland, East Baltic, show these fossils to be spherical facetted lumps of nummulitic limestone, with the nummulitic structure in continuity throughout the whole mass. Further, in a large section of a boulder from the same locality (5. 3960, N.H.M., Coll. F. A. Bather) there are many Cyclocrinus sections appearing like circles with merely a rim of cups and without radial rods.
 
@@ -2188,7 +2188,7 @@ Receptaculitidae
 
 Prof. H. Rauff, in the preface of his memoir on the Receptaculitidae,* writes: "With respect to the problem of the true nature of the Receptaculitids my researches end only in the sad result that these interesting bodies will once more be cast out of 'The System,' again to wander around without shelter."
 
-*) 'Untersuchungen Organisation u. systematische Stellung d. Receptaculitiden.' Abhand. Akad. Wiss. München, Bd. 17. p. 645. 1892.
+*) _Untersuchungen Organisation u. systematische Stellung d. Receptaculitiden_. Abhand. Akad. Wiss. München, Bd. 17. p. 645. 1892.
 
 In the earlier chapters of the book of life there are mysterious signs and characters to the meaning of which there appears to be no satisfactory clue at least if we may judge from the fact that a dozen experts may have come to as many different conclusions concerning them.
 
@@ -2242,7 +2242,7 @@ Billings in 1861 was the first to describe one of these forms which he named _Ar
 
 In 1910 Dr. J. Griffith Taylor* published a beautiful memoir illustrated with ninety-four collotype and fifty text figures, in which reference is made to no less than eighty species of these "fossils." Dr. Taylor's material came from a formation extending 400 miles north and south in the Adelaide district, the fossiliferous strata being about 800 feet thick. The formation has been compared with a great barrier reef. Dr. Taylor records the singular fact that with very rare exceptions there were no other fossils than Archaeocyathids.*
 
-*) 'The Archaeocyathinae of the Cambrian of South Australia.' Mem. Roy. Soc. South Australia, vol. 2., 1910.
+*) _The Archaeocyathinae of the Cambrian of South Australia_. Mem. Roy. Soc. South Australia, vol. 2., 1910.
 
 *)  One recalls Carpenter's description of tertiary nummulitic limestones composed of "little else than Nummulites."
 
@@ -2252,7 +2252,7 @@ Archaeocyathids have been regarded as Calcareous Sponges, Hexactinellid Sponges,
 
 I had the good fortune to have access to some of Dr. Taylor's South Australian material. A section of a typical mass of Archaeocyathid limestone, including outer and inner walls and septa of Archaeocyathids, showed the material to be nummulitic throughout, the supposed fossils being merely concretionary or lithomorphic patterns in the common mass. Along with considerable differences, there are certain resemblances between Silurian Receptaculitid and Cambrian Archaeocyathid lithomorphs. The perforations might be compared with the patterns of circles on the cuplids of certain "species" of Cyclocrinus (Fig. 35 _e_);* for along with differentiation in pattern there is often difference in degree of solubility, so that circles might easily become pores.
 
-*) Dr. Stolley, 'Archiv. Anthrop. Geol. Schleswig-Holstein,' 1. pp. 196-7, figs. 14-16. 1896.
+*) Dr. Stolley, _Archiv. Anthrop. Geol. Schleswig-Holstein_, 1. pp. 196-7, figs. 14-16. 1896.
 
 Syringosphaeridae or Karakoram Stones
 
@@ -2264,15 +2264,15 @@ Solenopora
 
 In 1878 Dybowski* established a genus _Solenopora_ for certain small spheroidal fossils about a cubic inch in size occurring in the Silurian of the East Baltic. Sections showed the lumps to be formed of extremely fine apparently parallel-tubular structures. Dybowski believed the tubes contained polyps, and that the fossils were corals. Nicholson* found similar fossils in the Ordovician limestone at Craighead, Ayrshire, and regarded _Solenopora_ as a Hydrozoan. Soon Dybowski's coral theory became discredited, for seemingly 150 polyps would have only a square millimetre of area in which to perform their evolutions. A much more plausible theory was adopted to the effect that the fossil was a calcareous alga related to _Lithothamnion_. In 1894 Dr. A. Brown* wrote a paper on the structure and affinities of _Solenopora_. His plate giving figures of sections of _Lithothamnion_ and _Solenopora_ certainly reveals striking superficial resemblances.
 
-*) 'Die Chaetetiden ostbaltischen Silur-Formation,' plate 2. fig. 2 a, b.
+*) _Die Chaetetiden ostbaltischen Silur-Formation_, plate 2. fig. 2 a, b.
 
-*) 'Geol. Mag.' (3), vol. 2. p. 529, 1885, and vol. 5. p. 19, 1888.
+*) _Geol. Mag._ (3), vol. 2. p. 529, 1885, and vol. 5. p. 19, 1888.
 
-*) 'Geol. Mag.' (4.), vol. 1. p. 145. 1894.
+*) _Geol. Mag._ (4.), vol. 1. p. 145. 1894.
 
 Dr. Rothpletz* also has put the genus among the Coralline algae.
 
-*) 'Kalkalgen Obersilur Gottlands,' p. 7. 1913.
+*) _Kalkalgen Obersilur Gottlands_, p. 7. 1913.
 
 My own observations are based on sections of _Solenopora compacta_, Billings, from the Ordovician limestone of Craighead, Ayrshire. At first sight nothing could seem more reasonable than the coralline-alga theory. I have seen a thick bed of corallines of Miocene age in the islet of Cima near Porto Santo, with the algal structure very well preserved; and many species of Tertiary and Cretaceous Lithothamnions are known. The "cells" of _Solenopora_ though extremely large in comparison with those of known coralline algae yet might pass for a large variety of such cells.
 
@@ -2280,7 +2280,7 @@ When I came to examine sections of the Ayrshire Solenopora critically and with e
 
 As for the many other species, also H. Yabe's* new Japanese genus Metasolenopora, I think it probable, judging from the photographs (_vide_ memoirs by Rothpletz and Yabe), that these forms also are lithomorphs.
 
-*) 'Science Reports, Tohuku Imp. Univ.,' ser. 2, Bd. 1. 1912.
+*) _Science Reports, Tohuku Imp. Univ._, ser. 2, Bd. 1. 1912.
 
 The lithomorph pattern is so strong and the nummulitic structure so faint that much patience is needed for the detection of the latter. I am fairly certain I can make out nummulitic details both in the lower and upper half of Dr. Rothpletz' photo of _Solenopora gotlandica_ (Plate 1. Fig. 3, _l.c._). Fig. 2 when examined with a lens 10x shows disk-structures and a curious pattern of fine closely-set transverse lines other than the main zonal lines.
 
@@ -2290,7 +2290,7 @@ Palaeoporella, Vermiporella, etc.
 
 Dr. E. Stolley* describes certain funnel- or club-shaped calcareous bodies of Silurian age, varying from 2 to 14 mm. in length, found by him in the diluvium of East Holstein. The objects may be hollow, with a pore below and a depression at the upper end, and with a facetted surface. He regards them as calcareous algae related to Bornetella (Siphoneae Verticillatae).
 
-*) E. Stolley, 'Ueber silurische Siphoneen,' Neues Jahrb., 1893, 2., p. 135.
+*) E. Stolley, _Ueber silurische Siphoneen_, Neues Jahrb., 1893, 2., p. 135.
 
 Thanks to the courtesy of Dr. Stolley I have some authentic pieces of limestone rich in these objects. In my sections I can find nothing else than nummulitic structure throughout, both in clear and opaque areas. I am led, then, to regard these curious objects and markings as purely concretionary. Among this group I would place the Silurian _Rhabdoporella_; and also _Ortonella_ described by Prof. Garwood from carboniferous limestone. I have not seen examples of these two forms.
 
@@ -2310,7 +2310,7 @@ Oldhamia
 
 The study of a photograph published by Ch. Barrois,* of _Oldhamia_ from the Pyrenees, leads me to believe that the structure therein depicted is nummulitic. The furrowed and banded marginal cords and fan-like banded septa astride of them would, when compressed, tend to form serial fan-like ribbed structures.
 
-*) Ch. Barrois, 'Note sur l'existence du Genre _Oldhamia_ dans les Pyrénées.' Annal. Soc. Geol. Nord, 15. p. 154. 1888. An account of the various theories concerning this form, and also many references to literature, are given.
+*) Ch. Barrois, _Note sur l'existence du Genre _Oldhamia_ dans les Pyrénées_. Annal. Soc. Geol. Nord, 15. p. 154. 1888. An account of the various theories concerning this form, and also many references to literature, are given.
 
 I firmly believe that the above suggestions will furnish the true explanation of the _Oldhamia_ figured by Barrois, and probably of all other Oldhamias. Sollas showed that these structures in the hardened Cambrian mud were definite and solid, and not mere ripple-markings.
 
@@ -2318,7 +2318,7 @@ Girvanella, etc.
 
 In 1880 Nicholson and Etheridge* discovered in the ancient limestones of Girvan in Ayrshire curious little irregular brown or grey calcareous patches about 2 mm. in diameter, and with a very remarkable structure. Sections examined under the microscope revealed a dense labyrinthine mass of coiled solid "tubes," each about 0.04 mm. (0.0016 inch) in diameter. (Photo, Plate. 1. Figs. 4, 5.)
 
-*) 'Silurian Fossils of Girvan,' 1. 1878-80.
+*) _Silurian Fossils of Girvan_, 1. 1878-80.
 
 Brady believed these bodies were allied to the sandy Foraminiferan _Hyperammina vagans_ which consists of a plexus of coiled tubules. Nicholson partly adopted this view, but thought it well to place the fossils in a new genus and species, _Girvanella problematica_. _Girvanella_ has since been found in many palaeozoic and mesozoic limestones, and Rhumbler places even certain living Foraminifera in the genus. In certain Silurian strata in the Baltic region, thick layers of limestones are mainly composed of masses or "knolls" of _Girvanella_ each perhaps several centimetres in diameter.
 
@@ -2362,7 +2362,7 @@ Supposed Fossil Micro-organisms in Jurassic and Cretaceous Rocks
 
 Dr. D. Ellis* has published a very interesting account of certain appearances he has found in Jurassic and Cretaceous rocks, and which he interprets as being due to fossil micro-fungi. I have examined the two plates of photographs accompanying the memoir, and I would suggest that another interpretation is possible and indeed probable. Dr. Gürich describes stercomes in the Carboniferous limestones, and Dr. Hahn algal sporangia in Eozoon. The latter objects I know to be disk structures.
 
-*) 'Fossil Micro-organisms from the Jurassic and Cretaceous Rocks of Great Britain.' Proc. Roy. Soc. Edinburgh, 35. parts 1. and 2. p. 110, 2 plates. 1915.
+*) _Fossil Micro-organisms from the Jurassic and Cretaceous Rocks of Great Britain_. Proc. Roy. Soc. Edinburgh, 35. parts 1. and 2. p. 110, 2 plates. 1915.
 
 The dark lines, bands, and ampulla-like objects shown in Dr. Ellis's photographs I take to be mineral markings in nummulitic structures.
 
@@ -2416,13 +2416,13 @@ When I look back on the distance I have travelled, continually losing my way at 
 
 Note A. _Wernerian perversity_ (p. 12).
 
-"I heard the Professor, in a field-lecture at Salisbury Crags, discoursing on a trap dyke, with amygdaloid margins and the strata indurated on each side, with volcanic rocks all around us, say that it was a fissure filled with sediment from above, adding with a sneer that there were men who maintained that it had been injected from beneath in a molten condition. When I think of this lecture, I do not wonder that I determined never to attend to geology." — 'Life and Letters of Charles Darwin,' vol. 1. chapter 2. "Autobiography," p. 41. 1887.
+"I heard the Professor, in a field-lecture at Salisbury Crags, discoursing on a trap dyke, with amygdaloid margins and the strata indurated on each side, with volcanic rocks all around us, say that it was a fissure filled with sediment from above, adding with a sneer that there were men who maintained that it had been injected from beneath in a molten condition. When I think of this lecture, I do not wonder that I determined never to attend to geology." — _Life and Letters of Charles Darwin_, vol. 1. chapter 2. "Autobiography," p. 41. 1887.
 
 Seeing that Werner did not bring forward a particle of evidence in support of his theory of the aqueous origin of granite and basalt, the ultimate rejection of that theory by the scientific world is not a matter for surprise. Not only was Werner ignorant of the organic basis of these rocks, but also of the fact that they were once in a semi-molten or molten condition.
 
 Note B. _Potstones_ (p. 66).
 
-Potstones are common round Norwich, and are often seen in the village gardens. The classical quarry at Horstead, figured in Lyell's 'Elements,' is quite grown over, but good examples are to be found elsewhere, notably at Whittingham. These curious objects have been taken for gigantic sponges. One theorist thought they were due to lightning forming tubes of fused sand! The theory which attributes their formation to sagging-down of the heavy silica into soft areas and hollows in the chalk, seems a reasonable one. In the thick tabular masses of flint the upper surface is usually more or less flat and smooth, and the lower provided with great bosses. A potstone is a still more gravitating mass. Where vertical pipes are formed, the horizontal tabular layers are further apart, as if the vertical masses had drained off the material.
+Potstones are common round Norwich, and are often seen in the village gardens. The classical quarry at Horstead, figured in Lyell's _Elements_, is quite grown over, but good examples are to be found elsewhere, notably at Whittingham. These curious objects have been taken for gigantic sponges. One theorist thought they were due to lightning forming tubes of fused sand! The theory which attributes their formation to sagging-down of the heavy silica into soft areas and hollows in the chalk, seems a reasonable one. In the thick tabular masses of flint the upper surface is usually more or less flat and smooth, and the lower provided with great bosses. A potstone is a still more gravitating mass. Where vertical pipes are formed, the horizontal tabular layers are further apart, as if the vertical masses had drained off the material.
 
 In one quarry near Norwich I dissected out a slender green glauconite pencil-thick axis or core through two potstones and a portion of a third — through 4 feet 11 inches in all, till I came to a solid floor of flint and a layer of water. Many of the green grains are casts of Foraminifera. Mr. Leney, the curator of the Norwich Museum, showed me a potstone with a lateral branch of glauconite running from the central axis to a hole in the side of the potstone. Possibly the core results from a surface-layer of shells and clay sediment being carried down in the vortex of the sinking funnel. These surface-shells would, perhaps, still contain animal matter which is supposed to set up the changes resulting in the formation of glauconite. At the same time, a difficulty about this view is that the core is continuous even when there is an interval between the stones, which latter might be compared to huge cylindrical beads on a thread of glauconite.
 
@@ -2436,7 +2436,7 @@ Gümbel (1873), who rejected what he terms "the very convenient reef theory," re
 
 He (and Lepsius in 1878) explained the great variation in thickness within small areas as being due to inequalities resulting from upheavals and heaping up of volcanic material.
 
-Mojsisovics in his great work 'Die Dolomit-Riffe von Süd-Tirol und Venetian,' 1879, supported the coral-reef theory.
+Mojsisovics in his great work _Die Dolomit-Riffe von Süd-Tirol und Venetian_, 1879, supported the coral-reef theory.
 
 Suess (1888) asserts "that the expression 'reef' is justifiable, can scarcely be doubted."
 
@@ -2446,7 +2446,7 @@ E. W. Skeats (1905) believed in the reef theory on account of the chemical purit
 
 Dr. Rothpletz (1894 and 1899) considered the Schlern massif by no means comparable with reefs like those of the Pacific, but rather with certain submarine banks such as the North Dacia Bank or "Coral-patch,"* which rises abruptly from the abyssal floor of the Atlantic off Morocco. If the term reef were used, its significance must be altered and extended. He believed in the "localized" character of the dolomite of the Schlern massif, as opposed to the theory of its being part of an extensive continuous deposit.
 
-*) J. Y. Buchanan, Proc. Roy. Soc., Edinburgh, 13. p. 431, 1885; also Langenbeck, 'Koralleninseln und Korallenriffe,' p. 32, 1899. Buchanan regarded the Dacia Bank as a very _thick_ accumulation of organic remains possibly on a volcanic rock, and this also was the view of Dr. Rothpletz; but the evidence seems inconclusive. Perhaps the bank is a volcanic rock (like the emerged Porto Santo Island not very far away) with only a _thin_ layer of coral. The dead coral on the top of the plateau is tinged black with manganese; this deposition would hardly have taken place if the coral grew on the summit of a high pillar of purely calcareous remains.
+*) J. Y. Buchanan, Proc. Roy. Soc., Edinburgh, 13. p. 431, 1885; also Langenbeck, _Koralleninseln und Korallenriffe_, p. 32, 1899. Buchanan regarded the Dacia Bank as a very _thick_ accumulation of organic remains possibly on a volcanic rock, and this also was the view of Dr. Rothpletz; but the evidence seems inconclusive. Perhaps the bank is a volcanic rock (like the emerged Porto Santo Island not very far away) with only a _thin_ layer of coral. The dead coral on the top of the plateau is tinged black with manganese; this deposition would hardly have taken place if the coral grew on the summit of a high pillar of purely calcareous remains.
 
 Amidst all these conflicting opinions, I find that, as in the case of Chalk and many other limestones, an important feature has been overlooked, viz., the organic structure of the main mass of the rock. My sections of typical lumps of Schlern and Mendola dolomite show them to be made of nummulite shells, i.e., Schlern dolomite is mainly a nummulitic limestone. It is almost impossible to detect the shells in the solid rock, so greatly has the latter become crystallized; and it is difficult to make out the nummulitic structure in sections. Large and rather thick sections cut from three sides of a cube of rock show the shells in various aspects when held up to the light and examined with hand-lenses magnifying 3 to 10 diameters. With patience it is possible to discriminate spiral laminae, alars, marginal cord, etc., of large shells. Under higher powers also (e.g. 300 diameters), I can now see all these structures with singular clearness. I find 2 mm. Oc. 18, — tube drawn out, diaphragms nearly closed — the best combination for the smallest disks. What seem like transparent luminous flakes under lower powers and a fair amount of light, will, in dim light, slowly reveal well-defined disk structures. Each disk is spirally coiled in one plane, with series of smaller spirals situated at intervals round the larger spiral and in planes vertical to that of the latter.
 
@@ -2466,7 +2466,7 @@ Atoll-crowned Christmas Island (Indian Ocean), which has from certain points of 
 
 Yet the huge masses of Triassic nummulitic limestone known as Schlern dolomite — sandwiched between sedimentary strata and occurring in a district that has been subject to violent disturbances, and also to the influence of the usual unceasing agencies of denudation for immeasurable ages* — may perhaps be relics of a formerly continuous deposit on an uneven and unstable bottom, rather than reefs even in the extended sense of the term.*
 
-*) Concerning denudation in the Andes, Darwin writes: "It is not possible for the mind to comprehend, except by a slow process, any effect which is produced by a cause repeated so often that the multiplier itself conveys an idea not more definite than the savage implies when he points to the hairs of his head." 'Voyage of the Beagle.'
+*) Concerning denudation in the Andes, Darwin writes: "It is not possible for the mind to comprehend, except by a slow process, any effect which is produced by a cause repeated so often that the multiplier itself conveys an idea not more definite than the savage implies when he points to the hairs of his head." _Voyage of the Beagle_.
 
 *) The poverty of the Marmolata in magnesium may be due to the accumulation of the deposit in rather deep water, the ordinary dolomite rock having accumulated in relatively shallow warm water and in the coralline zone. Dana attributed dolomitization to deposition of magnesium salts from the warm water of lagoons. Dr. A. G. Högbom believes calcareous algae contribute a considerable percentage of magnesium (Neues. Jahrb. Min. 1894, 1. p. 262).
 
@@ -2486,17 +2486,17 @@ Laurentian
 
 The Report of the Committee is published in "The Journal of Geology," 1905, 13. p. 89. The Laurentian and Keewatin comprise the Archaean, and the Huronian and Keweenawan the Algonkian.
 
-The Grenville series overlying the Laurentian in Eastern Ontario and Quebec is generally regarded as Archaean, although it is uncertain to what extent it is correlated with the Keewatin. The "basal complex" is generally called after the locality in which it is exposed. In the Western Hebrides for instance it is called Lewisian, although it _may_ be of the same age as the Laurentian of Canada. "It is not impossible that they" (the Laurentian rocks) "may reach the Western Hebrides, which lie in the latitude of Labrador" (Suess, 'The Face of the Earth,' 4. p. 258). If so it is not surprising to find that the ocean floor abounds in ancient nummulite shells. The Laurentian and Lewisian rocks are nummulitic.
+The Grenville series overlying the Laurentian in Eastern Ontario and Quebec is generally regarded as Archaean, although it is uncertain to what extent it is correlated with the Keewatin. The "basal complex" is generally called after the locality in which it is exposed. In the Western Hebrides for instance it is called Lewisian, although it _may_ be of the same age as the Laurentian of Canada. "It is not impossible that they" (the Laurentian rocks) "may reach the Western Hebrides, which lie in the latitude of Labrador" (Suess, _The Face of the Earth_, 4. p. 258). If so it is not surprising to find that the ocean floor abounds in ancient nummulite shells. The Laurentian and Lewisian rocks are nummulitic.
 
 Note E. _Precambrian Fossils_ (p. 73).
 
-In the Survey Memoir 'The Geological Structure of the North-west Highlands of Scotland,' 1907, the piped quartzites* above the Torridonian and below the _Olenellus_ zone are reckoned as Lower Cambrian; there are, then, no known Precambrian fossils in Great Britain.
+In the Survey Memoir _The Geological Structure of the North-west Highlands of Scotland_, 1907, the piped quartzites* above the Torridonian and below the _Olenellus_ zone are reckoned as Lower Cambrian; there are, then, no known Precambrian fossils in Great Britain.
 
 *) It is very doubtful whether the "pipes" are due to worms. Dr. A. G. Högbom believes the pipes may have arisen from a purely mechanical cause, such as the ascent of bubbles in wet sand in certain conditions of tide and sandy shore. Bull. Geol. Inst. Upsala, 13. p. 45, 1915.
 
-C. D. Walcott gives an account of Precambrian fossils of North America in 'Precambrian Fossiliferous Formations,' Bulletin Geol. Soc. America, 10. pp. 199-244, Plates 22-28, 1899; also in 'Precambrian Algonkian Algal Flora' (Smithsonian Miscellaneous Collections, vol. 64, p, 77, plates 4-23, 1914), and in 'Notes on Fossils from Limestone of Steeprock Series, Ontario, Canada,' Canadian Geol. Survey Memoir 28, p. 17, 1912. Several of the fossils described in these memoirs are probably pseudomorphs.
+C. D. Walcott gives an account of Precambrian fossils of North America in _Precambrian Fossiliferous Formations_, Bulletin Geol. Soc. America, 10. pp. 199-244, Plates 22-28, 1899; also in _Precambrian Algonkian Algal Flora_ (Smithsonian Miscellaneous Collections, vol. 64, p, 77, plates 4-23, 1914), and in _Notes on Fossils from Limestone of Steeprock Series, Ontario, Canada_, Canadian Geol. Survey Memoir 28, p. 17, 1912. Several of the fossils described in these memoirs are probably pseudomorphs.
 
-Dr. G. Abbott ('Nature,' Dec. 31, 1914, p. 477) points out the remarkable similarity between _Atikokania_ from Steeprock and "concretions" in the Fulwell Limestones. The Steeprock limestones are at the base of the Algonkian, and Dr. Walcott believes they are marine. Probably, like the Fulwell rock, they will be nummulitic limestones.
+Dr. G. Abbott (_Nature_, Dec. 31, 1914, p. 477) points out the remarkable similarity between _Atikokania_ from Steeprock and "concretions" in the Fulwell Limestones. The Steeprock limestones are at the base of the Algonkian, and Dr. Walcott believes they are marine. Probably, like the Fulwell rock, they will be nummulitic limestones.
 
 _Cryptozoon? occidentale_ Dawson (Bull. Geol. Soc. America. 10. p. 233), which Dawson compared to _Loftusia_, appears to be (like _Loftusia_ itself) a pseudomorph.
 
@@ -2516,17 +2516,17 @@ The sea may skirt strata of any age, and the relative heights of less ancient an
 
 Note G. _On previous Notices of Organic Remains in Igneous Rocks_ (p. 97).
 
-Among the writers who have described organisms in igneous rocks and gneisses may be mentioned Dr. G. Jenzsch, 'Ueber eine mikroskopische Flora und Fauna krystallinischer Massengesteine,' Leipzig, 1868. He describes organisms in the melaphyre of Zwickau, but I doubt if the highly organised fresh-water fauna and flora described by Dr. Jenzsch belonged to the rock.
+Among the writers who have described organisms in igneous rocks and gneisses may be mentioned Dr. G. Jenzsch, _Ueber eine mikroskopische Flora und Fauna krystallinischer Massengesteine_, Leipzig, 1868. He describes organisms in the melaphyre of Zwickau, but I doubt if the highly organised fresh-water fauna and flora described by Dr. Jenzsch belonged to the rock.
 
 Dr. Jenzsch also speaks of organisms in porphyry. He promised to figure them, but no further descriptions appeared.
 
-Dr. Otto Hahn wrote a book entitled 'Die Urzelle nebst dem Beweis dass Granit, Gneiss .... Meteorstein und Meteoreisen aus Pflanzen bestehen' (1879). Dr. Hahn did good work in figuring certain appearances he saw in Eozoon. He depicts certain curious funnel-shaped structures, which he regarded as species of algae. As a matter of fact they are portions of nummulites. Möbius, again, figured some of these objects (which he considered to be purely mineral forms) in his memoir on 'Eozoon' (Plate 34, fig. 44).
+Dr. Otto Hahn wrote a book entitled _Die Urzelle nebst dem Beweis dass Granit, Gneiss .... Meteorstein und Meteoreisen aus Pflanzen bestehen_ (1879). Dr. Hahn did good work in figuring certain appearances he saw in Eozoon. He depicts certain curious funnel-shaped structures, which he regarded as species of algae. As a matter of fact they are portions of nummulites. Möbius, again, figured some of these objects (which he considered to be purely mineral forms) in his memoir on _Eozoon_ (Plate 34, fig. 44).
 
 The scientific world can hardly be blamed for regarding Dr. Harm's work as "a somewhat elaborate joke." Once he upset some fuchsin on a marble slab and proceeded to clean the latter.
 
-"Ich rieb sie. Plötzlich was sah ich! Kelche von Meter Länge. Taf. 11. Ich nenne sie _Marmora Darwini_. Meine Schreibtisch hat dieselbe Platte... Ich schrieb also eine ganze Abhandlung über die Urzelle auf der Urzelle, denn der ganze Marmor ist nichts als Pflanze. Wirklich — nicht bios Ironie des Schicksals." The strange figure of the supposed plant occupies a whole plate. Again this author saw Sponges (Urania, etc.), Corals and Crinoids in the chondrules of meteorites, and "vegetable cells" in the Widmanstätten figures which appear on polished surfaces of siderites exposed to acids, and which are said to be due to inequality of action of reagents on three kinds of alloys. In all these instances there is no doubt Dr. Hahn was mistaken. In spite of all this, in 'Die Urzelle' he figures appearances which actually exist.
+"Ich rieb sie. Plötzlich was sah ich! Kelche von Meter Länge. Taf. 11. Ich nenne sie _Marmora Darwini_. Meine Schreibtisch hat dieselbe Platte... Ich schrieb also eine ganze Abhandlung über die Urzelle auf der Urzelle, denn der ganze Marmor ist nichts als Pflanze. Wirklich — nicht bios Ironie des Schicksals." The strange figure of the supposed plant occupies a whole plate. Again this author saw Sponges (Urania, etc.), Corals and Crinoids in the chondrules of meteorites, and "vegetable cells" in the Widmanstätten figures which appear on polished surfaces of siderites exposed to acids, and which are said to be due to inequality of action of reagents on three kinds of alloys. In all these instances there is no doubt Dr. Hahn was mistaken. In spite of all this, in _Die Urzelle_ he figures appearances which actually exist.
 
-C. Montagna 'Nouvelle théorie du Métamorphisme des Roches,' 1869, figures Lepidodendron scales in granite of Calabria, a doubtful interpretation.
+C. Montagna _Nouvelle théorie du Métamorphisme des Roches_, 1869, figures Lepidodendron scales in granite of Calabria, a doubtful interpretation.
 
 A. Sismonda (Comptes Rendus, 1865, tome 60, p. 492), describes an imprint of Equisetum in gneiss.
 
@@ -2555,11 +2555,11 @@ Recently N. E. Brown* after a prolonged search has found genuine pores in the fr
 
 *) Journal Quekett Microscopical Club, 1914, p. 317.
 
-D. D. Jackson ('American Naturalist' 1905, p. 287) attributes certain of the movements of Diatoms to the escape of gases.
+D. D. Jackson (_American Naturalist_ 1905, p. 287) attributes certain of the movements of Diatoms to the escape of gases.
 
 Referring to species of _Udotea_, A. and E. S. Gepp write:* "The calcareous sheath of the filaments is seen to be porose." "In all probability their" (the pores) "distribution corresponds with that of the green chromatophores inside the filaments, and they themselves mark the spots where bubbles of oxygen were evolved during the photosynthetic process of the plant." "Presumably the deposition of CaCO₃ would be effected at the time of photosynthesis only and naturally could not occur at the points where bubbles of gas were clinging to the sides of the filaments." "The pores which are so abundant in the calcareous sheath are minute spherical bubble-like chambers in the thickness of the calcareous layer. They are each covered by a delicate calcified pellicle in which is a minute ostiole." These spherical bubble-like chambers each covered with a pellicle pierced by a minute ostiole seem comparable with the bubble-like cavities in the siliceous valves of Diatoms.
 
-*) 'The Codiaceae of the _Siboga_ Expedition,' 1911, pp. 5, 6, 102, and Fig. 182.
+*) _The Codiaceae of the _Siboga_ Expedition_, 1911, pp. 5, 6, 102, and Fig. 182.
 
 Note L. _Diatomaceous Ooze_ (p. 30).
 
@@ -2567,7 +2567,7 @@ The Diatomaceous ooze from St. 157, 1950 fathoms, in the Southern Ocean (_Challe
 
 Note M. _Barbados Earth_ (p. 66). 
 
-Barbados earth, a pliocene formation, is usually regarded as a rock composed almost exclusively of Radiolaria. I find it, however, to be a silicified earthy deposit of nummulites very rich in undissolved Radiolaria. Because Radiolarian oozes are usually found at great depths it is assumed that the Barbados deposit may perhaps have been formed at a depth of 3000 fathoms. The nummulites appear to have lived contemporaneously with the Radiolaria sunk from the surface, for the two elements are mixed together in the samples I have seen, so that it is not a case of Radiolaria sinking into a more ancient nummulitic mud. As it is highly improbable that nummulites lived below 1000 fathoms, probably the Barbados earth was not formed at the abyssal depth usually assigned to it. (See 'Geology of Barbados,' Part 2. Oceanic Deposits. Jukes-Browne and Harrison. Q.J.G.S. p. 170, 1892.)
+Barbados earth, a pliocene formation, is usually regarded as a rock composed almost exclusively of Radiolaria. I find it, however, to be a silicified earthy deposit of nummulites very rich in undissolved Radiolaria. Because Radiolarian oozes are usually found at great depths it is assumed that the Barbados deposit may perhaps have been formed at a depth of 3000 fathoms. The nummulites appear to have lived contemporaneously with the Radiolaria sunk from the surface, for the two elements are mixed together in the samples I have seen, so that it is not a case of Radiolaria sinking into a more ancient nummulitic mud. As it is highly improbable that nummulites lived below 1000 fathoms, probably the Barbados earth was not formed at the abyssal depth usually assigned to it. (See _Geology of Barbados_, Part 2. Oceanic Deposits. Jukes-Browne and Harrison. Q.J.G.S. p. 170, 1892.)
 
 Note N. _Chalk with Flint and without Flint_ (p. 44). 
 
@@ -2670,33 +2670,33 @@ The reader may well take up a guarded attitude when confronted with a new theory
 
 According to Altmann* the protoplasm of a cell is composed of "granules" or bioblasts, which are essentially a kind of very simple organism and which undergo division, in fact _omne granulum e granulo_. Daringly carrying his theory to its logical conclusion, Altmann classifies his granule organisms into "monads" and "nematodes" (thread organisms). He regards his elementary organisms as organic crystals which grow by intussusception, whereas inorganic crystals grow by apposition. According to E. B. Wilson "Altmann's premature generalization rests upon a very insecure foundation and has been received with just scepticism."
 
-*) 'Die Genese der Zelle.' Beiträge z. Physiol. (C. Ludwig). 1887. — 'Die Elementarorganismen und ihre Beziehungen zu den Zellen.' 2nd Edit. 1894.
+*) _Die Genese der Zelle_. Beiträge z. Physiol. (C. Ludwig). 1887. — _Die Elementarorganismen und ihre Beziehungen zu den Zellen_. 2nd Edit. 1894.
 
 J. Künstler* believed protoplasm to be built of closely-packed spherules, each of these having a firm wall and fluid contents.
 
-*) 'Contributions â l'étude des Flagellés.' Bull. Soc. Zool. France. 1882.
+*) _Contributions â l'étude des Flagellés_. Bull. Soc. Zool. France. 1882.
 
 W. Flemming* sums up the results of his investigations with the statement that besides the nucleus and occasional (etwanig) granules, only two different essential substances can be distinguished in the cell, viz. fibrils and the material between them, the former being slightly more refractive than the latter.
 
-*) 'Zellsubstanz, Kern und Zelltheilung.' 1882.
+*) _Zellsubstanz, Kern und Zelltheilung_. 1882.
 
 V. Fayod* believes protoplasm to be formed of spirally-coiled hollow fibrils — spirofibrillae, the latter often being plaited together into hollow cords or ropes — spirosparta. The spirofibrillae are composed of tough transparent uncolourable material. The lumina of the coils are filled with granular protoplasm, the circulation of which is confined to these "vessels." Fayod injected plant tissues with mercury under a pressure of 1.5 atmospheres, by fixing the material at the end of a long glass tube 1 to 2 metres long and gently filling with the metal. The mercury is supposed to fill the interior of the hollow fibrils and cords.
 
-*) 'Ueber die wahre Structur des lebendigen Protoplasmas und der Zellmembran.' Naturwiss Rundschau 5. p. 81. 1890.
+*) _Ueber die wahre Structur des lebendigen Protoplasmas und der Zellmembran_. Naturwiss Rundschau 5. p. 81. 1890.
 
 He gives six figures of the spirofibrillae in the cells of _Fucus_ and _Arisarum_. He regards Altmann's granules as broken down particles of spirofibrillae. Criticizing Fayod's results Bütschli remarks, "I need scarcely state that supported by the results of my investigations I must deny Fayed's statements altogether." I, for my part, think Fayod's investigations, excepting those on blood plasma, to be very interesting, and his results valuable.
 
 Bütschli* considers protoplasm to be a microscopic foam, the spaces or "alveoli" being filled not with air as in soap-and-water foam but with liquid.
 
-*) 'Investigations on Microscopic Foams and on Protoplasm.' English Transl. by E. A. Minchin 1894. The work contains a good critical summary of the various theories of protoplasm, and descriptions of many beautiful experiments with artificial foams.
+*) _Investigations on Microscopic Foams and on Protoplasm_. English Transl. by E. A. Minchin 1894. The work contains a good critical summary of the various theories of protoplasm, and descriptions of many beautiful experiments with artificial foams.
 
 The various "reticular" theories as, for example, that of H. M. Bernard,* usually unite the features of the granular and fibrillar, chromatin granules being situated at the nodes of a linin-chromatin network.
 
-*) 'Some Neglected Factors of Evolution.' 1911.
+*) _Some Neglected Factors of Evolution_. 1911.
 
 E. B. Wilson* writes, "In common with many other investigators, therefore, I believe that protoplasm may in fact be homogeneous down to the present limit of microscopical vision."
 
-*) 'The Cell in Development and Inheritance.'
+*) _The Cell in Development and Inheritance_.
 
 The extraordinary divergences of opinion concerning the structure of protoplasm appear to be due to the varying appearance of this changeable and susceptible material under differing conditions; the varying technique as regards reagents, optical instruments, the quality and intensity of light, etc.; and in addition to all these the preconceptions of the observer.
 
@@ -2732,9 +2732,9 @@ Human coloured blood corpuscles are now generally regarded as structureless bico
 
 A. Boettcher pointed this out fifty years ago,* but he was held to have been led into error* owing to the methods he employed. I find coloured human blood corpuscles are spirodisks with very faintly but indubitably differentiated central coils. A drop of blood simply with a cover slip lowered on it and examined under 3500 diameters in a low light showed in a peripheral zone of plasma a number of cells with regular radial marginal crenations. In these blood cells I could distinguish central coils, not merely as an optical effect in a biconcave body but as parts of a structure with two coils and with series of radial spaces and lines. The marginal crenations (resembling modified "marginal alveoli" of Bütschli) were seen to be circular rims with spaces between; a corpuscle on edge was like a milled coin with _rounded_ bars for ridges. Frequently pointed crenations occur all over a cell. This condition may be due to the projection of edges of interior coils in slightly varying planes. The pointed shape may result from distortion of the minute plastic secondary disks. The whole cell is plastic and sensitive, reacting rapidly to changes in the medium. The phenomenon of crenation may arise, then, in part owing to radial secondary spirodisks being rendered prominent on account of osmotic changes in the spaces between them; and the crenations reveal the otherwise almost invisible structure of the corpuscle. Under strong crenation a third order of spiral becomes visible, even secondary coils appearing "milled."
 
-*) Virchow's 'Archiv' vols. 36, 39, and Mém. Acad. Imp. Sci. St. Pétersbourg (7 ser.), 22. No 11. 2 plates, 1876.
+*) Virchow's _Archiv_ vols. 36, 39, and Mém. Acad. Imp. Sci. St. Pétersbourg (7 ser.), 22. No 11. 2 plates, 1876.
 
-*) Quain's 'Anatomy,' ed. 9. vol. 2. p. 29. 1882.
+*) Quain's _Anatomy_, ed. 9. vol. 2. p. 29. 1882.
 
 In the lower vertebrates the central coils (constituting the "nucleus") are well-marked and still differ chemically from the outer; but comparative observations only confirm the view that all the coloured corpuscles, whether circular or oval, whether with slightly or markedly differentiated central coils are essentially identical structures.
 
@@ -2788,7 +2788,7 @@ The phenomenon of sex occurs almost throughout the kingdom of life, but in spite
 
 *) Encyc. Brit. ed. 11. Article, "Reproduction."
 
-*) "Recent Researches in the Determination and Heredity of Sex." 'Science,' vol. 29. p. 53, 1909.
+*) "Recent Researches in the Determination and Heredity of Sex." _Science_, vol. 29. p. 53, 1909.
 
 Almost throughout the organic world there exists a parallel series of two kinds of "germ" cells, commonly but not always exhibiting visibly-contrasting features especially as regards size and mobility. The two kinds of cells may form part of one organism or of two organisms specifically identical.
 
