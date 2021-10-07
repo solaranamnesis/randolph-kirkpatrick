@@ -198,7 +198,7 @@ One day I found in one of Dr. Carpenter's sections something which I took to be 
 
 At this stage I went on a dredging expedition to Porto Santo Island, and in spare time examined the volcanic rocks. To my amazement I found in them traces of Foraminiferal shells. At Madeira, also, the igneous rocks revealed similar structures. On returning to London, I examined in the Natural History Museum volcanic rocks from all parts of the world, and in every instance detected the shells. Lastly, I found similar objects in granite and other Plutonic rocks, in meteorites and in abyssal oozes. I published a small book entitled _The Nummulosphere: An account of the organic origin of so-called Igneous Rocks and of Abyssal Red Clays_, with two plates of photographs of the supposed shells. The book was, I believe, regarded by some as a symptom of mental derangement on the part of the author. I have no cause for complaint, for my startling statements were not supported by sufficient evidence, and I had only a partial glimpse of a great truth.
 
-I found Stromatoporoids and Receptaculites, which are universally regarded as the remains of definite and distinct organisms, to be formed of nummulites, and concluded the latter were associated in colonies. These fossils are palaeontologically similar to igneous rocks, and hence I regarded the latter as masses of nummulite colonies resembling coral-reefs. When I made the surprising discovery that the above-named fossils were pseudomorphs made of masses of ordinary nummulite shells, the colony-theory of igneous rocks likewise fell to the ground. All alike are simply masses and lumps of nummulitic rock. Continuing the study of rocks, I discovered in sections of _Eozoön_ and igneous rocks objects which I took to be Radiolaria and Diatoms. Here, apparently, was a source of part of the silica which forms so great a proportion of the planetary crust. Again I published a pamphlet on the genesis of the igneous rocks.
+I found Stromatoporoids and _Receptaculites_, which are universally regarded as the remains of definite and distinct organisms, to be formed of nummulites, and concluded the latter were associated in colonies. These fossils are palaeontologically similar to igneous rocks, and hence I regarded the latter as masses of nummulite colonies resembling coral-reefs. When I made the surprising discovery that the above-named fossils were pseudomorphs made of masses of ordinary nummulite shells, the colony-theory of igneous rocks likewise fell to the ground. All alike are simply masses and lumps of nummulitic rock. Continuing the study of rocks, I discovered in sections of _Eozoön_ and igneous rocks objects which I took to be Radiolaria and Diatoms. Here, apparently, was a source of part of the silica which forms so great a proportion of the planetary crust. Again I published a pamphlet on the genesis of the igneous rocks.
 
 I now turned my attention to the nummulite shells which I had seen with the aid of a hand-lens in igneous rocks, many limestones, abyssal red clays and meteorites. I found the shells belonged to the genus _Nummulites_.
 
@@ -1987,7 +1987,7 @@ Group 1. Concentric. Structure predominantly concentric, or spiral; shape spheri
 
 Group 2. Radial. Structure predominantly radial, shape various.
 
-Sub-group _a_. Shape spherical, oval or cup-shaped; structure "tubular"* or columnar, often with facetted surface: Cyclocrinus _etc._, Receptaculitidae, Archaeocyathidae, Syringosphaeridae.
+Sub-group _a_. Shape spherical, oval or cup-shaped; structure "tubular"* or columnar, often with facetted surface: _Cyclocrinus_ _etc._, Receptaculitidae, Archaeocyathidae, Syringosphaeridae.
 
 *) The "tubes" are not hollow and never have been. There is only a tubular appearance or pattern.
 
@@ -2210,29 +2210,29 @@ The nucleus of each granule often consists of a little mass of nummulitic shell-
 
 The cause of this strange concretionary process in oolitic rocks has been put down either to mechanical or to organic agencies, but probably the true explanation is that of physico-chemical action in the solid rock. The sequence may have been as follows: soaking of the very porous nummulitic deposits by water and carbonic acid super-saturated with carbonate of lime derived partly from other strata, partly from the stratum about to undergo concretionary change; diminished solvent power followed by concentric deposition round the partly dissolved groups of disk-structures or in the spaces of the median plane of the nummulites.
 
-Pisolite or Pea-Grit is usually regarded as a sedimentary formation. The concretions have a concentric structure. The Girvanella-pattern is often present, and sometimes surrounds a Crinoid joint. I find abundance of nummulitic structure in sections of this rock.
+Pisolite or Pea-Grit is usually regarded as a sedimentary formation. The concretions have a concentric structure. The _Girvanella_-pattern is often present, and sometimes surrounds a Crinoid joint. I find abundance of nummulitic structure in sections of this rock.
 
 Concretions are sometimes of large size as in the cannon-ball bed at Roker.
 
 Lindstrom describes a bed of "ball-stones" in the upper Silurian of Gotland, some of which are over a yard in diameter. He refers to them as corals (_Coenostroma discoideum_), and Nicholson calls them Stromatoporoids. Judging from sections named _S. discoidea_ in the Nicholson Collection they are huge concretionary masses of nummulitic limestone.
 
-Cyclocrinus, _etc._
+_Cyclocrinus_, _etc._
 
 In Silurian limestones both of the old and new world there are found little stalked spherical or pear-shaped bodies an inch or more in diameter and with a tessellated surface; each tile may have a pattern of spokes radiating from a central knob or circle. A vertical section shows a surface layer of small cup-like cavities each closed by its tile or lid; frequently, also, there are lance-shaped rods radiating excentrically from some point to the surface. Between the rods there are slender radial spaces ending in a "pore" in the floor of a surface cup. At one point on the surface of the fossil there is an appearance of an opening.
 
 These wonderful and mysterious objects have been a continual source of bewilderment to palaeontologists.
 
-In 1840 Eichwald described them as Crinoids. Since then they have been looked upon as Protozoa, Sponges, Receptaculites, Anthozoa and Calcareous Algae. Dr. E. Stolley, who has done the most thorough work on these and similar Silurian forms, gives over sixty references to literature in his account of the genus.* After many failures, at last light appeared to be thrown on this obscure problem by researches in recent algology.
+In 1840 Eichwald described them as Crinoids. Since then they have been looked upon as Protozoa, Sponges, _Receptaculites_, Anthozoa and Calcareous Algae. Dr. E. Stolley, who has done the most thorough work on these and similar Silurian forms, gives over sixty references to literature in his account of the genus.* After many failures, at last light appeared to be thrown on this obscure problem by researches in recent algology.
 
 *) _Archiv. Anthropol. Geol. Schleswig-Holstein_, 1. p. 216. 1896.
 
-Some of the Siphonaceous algae are spherical or pear-shaped, with tessellated calcareous surface, and with a radial arrangement of densely packed branches. In 1893 (_Ann. Jardin Botan. Buitenzorg_, vol. 11.) Solms-Laubach described a siphonaceous alga _Bornetella oligospora_, with many apparent resemblances to the Silurian (or Ordovician) fossils. _Bornetella_ (_Neomeris_) _capitata_ Agardh, again, is a stalked spherical form to which Cyclocrinus bears resemblance. Accordingly recent authorities place this and kindred fossils among the calcareous algae.
+Some of the Siphonaceous algae are spherical or pear-shaped, with tessellated calcareous surface, and with a radial arrangement of densely packed branches. In 1893 (_Ann. Jardin Botan. Buitenzorg_, vol. 11.) Solms-Laubach described a siphonaceous alga _Bornetella oligospora_, with many apparent resemblances to the Silurian (or Ordovician) fossils. _Bornetella_ (_Neomeris_) _capitata_ Agardh, again, is a stalked spherical form to which _Cyclocrinus_ bears resemblance. Accordingly recent authorities place this and kindred fossils among the calcareous algae.
 
-Sections of Cyclocrinus from the Ordovician of Estland, East Baltic, show these fossils to be spherical facetted lumps of nummulitic limestone, with the nummulitic structure in continuity throughout the whole mass. Further, in a large section of a boulder from the same locality (5. 3960, N.H.M., Coll. F. A. Bather) there are many Cyclocrinus sections appearing like circles with merely a rim of cups and without radial rods.
+Sections of _Cyclocrinus_ from the Ordovician of Estland, East Baltic, show these fossils to be spherical facetted lumps of nummulitic limestone, with the nummulitic structure in continuity throughout the whole mass. Further, in a large section of a boulder from the same locality (5. 3960, N.H.M., Coll. F. A. Bather) there are many _Cyclocrinus_ sections appearing like circles with merely a rim of cups and without radial rods.
 
 Sometimes adjoining circles in contact are incomplete, one pressing into the other. Sections show the nummulitic structure passing continuously from the circles to the embedding matrix.
 
-Cyclocrinus is a concretionary lithomorph and owes its structure to the action of physical causes. A comparison with other lithomorphs such as Receptaculites, _Parkeria_, Fulwell concretions, _etc._, will, I think, explain the course of "evolution" of this marvellous lithomorph. In some of the Fulwell concretions, as Mr. G. Abbott has shown, there is an initial stage with pillars radiating from an excentric point. Sometimes the densely-packed radial pillars have radial spaces between them, the pillars themselves being as walls to those spaces, so that an appearance of radial tubes arises. Further in the apparent course of evolution of certain mince-pie-shaped concretions, Mr. Abbott found that the pillars _disappeared_ and that they were replaced by concentric laminae. In Cyclocrinus there are densely-packed lance-shaped rods with fine radial spaces between. The ends of the radii surround the ends of the spaces, which are usually hemispherical. Sometimes the radial spaces open out gradually as in "Coelosphaeridium," but in Cyclocrinus the spaces open abruptly, by means of a circular pore, into the floor of a hemispherical cup; or rather it should be said that the radial linear spaces expand suddenly into hemispherical spaces.
+_Cyclocrinus_ is a concretionary lithomorph and owes its structure to the action of physical causes. A comparison with other lithomorphs such as _Receptaculites_, _Parkeria_, Fulwell concretions, _etc._, will, I think, explain the course of "evolution" of this marvellous lithomorph. In some of the Fulwell concretions, as Mr. G. Abbott has shown, there is an initial stage with pillars radiating from an excentric point. Sometimes the densely-packed radial pillars have radial spaces between them, the pillars themselves being as walls to those spaces, so that an appearance of radial tubes arises. Further in the apparent course of evolution of certain mince-pie-shaped concretions, Mr. Abbott found that the pillars _disappeared_ and that they were replaced by concentric laminae. In _Cyclocrinus_ there are densely-packed lance-shaped rods with fine radial spaces between. The ends of the radii surround the ends of the spaces, which are usually hemispherical. Sometimes the radial spaces open out gradually as in "Coelosphaeridium," but in _Cyclocrinus_ the spaces open abruptly, by means of a circular pore, into the floor of a hemispherical cup; or rather it should be said that the radial linear spaces expand suddenly into hemispherical spaces.
 
 The areas which cover the spaces at the surface become differentiated out as hexagonal lids, on each of which patterns arise.
 
@@ -2250,21 +2250,21 @@ Prof. H. Rauff, in the preface of his memoir on the Receptaculitidae,* writes: "
 
 In the earlier chapters of the book of life there are mysterious signs and characters to the meaning of which there appears to be no satisfactory clue at least if we may judge from the fact that a dozen experts may have come to as many different conclusions concerning them.
 
-I am certain that at last the true explanation of the receptaculites has now been found, and it is one which seems to me more interesting than any of the hypotheses hitherto put forward. Apparently the real truth has never even been suspected, because, in the absence of clear evidence, it would have seemed too improbable to have been thought of.
+I am certain that at last the true explanation of the _Receptaculites_ has now been found, and it is one which seems to me more interesting than any of the hypotheses hitherto put forward. Apparently the real truth has never even been suspected, because, in the absence of clear evidence, it would have seemed too improbable to have been thought of.
 
-Receptaculites and kindred objects are typically spheroidal or pear-shaped bodies from one to several inches in diameter or length, with a facetted or geometrically-patterned surface. They have the appearance of being hollow bodies filled in with the matrix of the surrounding rock. Prof. Rauff regards cup-, dish- or plate-shaped forms as imperfect examples of completely spheroidal ones. A fracture or section shows the wall of the sphere to be built up of curiously shaped "elements" or blocks fitted against each other with their long axis radial.
+_Receptaculites_ and kindred objects are typically spheroidal or pear-shaped bodies from one to several inches in diameter or length, with a facetted or geometrically-patterned surface. They have the appearance of being hollow bodies filled in with the matrix of the surrounding rock. Prof. Rauff regards cup-, dish- or plate-shaped forms as imperfect examples of completely spheroidal ones. A fracture or section shows the wall of the sphere to be built up of curiously shaped "elements" or blocks fitted against each other with their long axis radial.
 
-Each "element" typically has six parts, _viz._ (1) an outer diamond-shaped facet, beneath which lie (2-5) four tangential arms, and (6) a fifth long radial arm or column projecting inwards and expanding into a foot, which along with other "feet" helps to form the inner surface of the wall of the hollow sphere. Between the radials or columns there are "spaces." One ot the four tangential arms is fused to the facet. The radial arm is hollow. There is an under and an upper pole marked by areas of peculiar facets. Receptaculites are found in ancient rocks from Lower Silurian to Carboniferous. Rauff showed that their original composition was calcareous, though some may have become silicified subsequently.
+Each "element" typically has six parts, _viz._ (1) an outer diamond-shaped facet, beneath which lie (2-5) four tangential arms, and (6) a fifth long radial arm or column projecting inwards and expanding into a foot, which along with other "feet" helps to form the inner surface of the wall of the hollow sphere. Between the radials or columns there are "spaces." One ot the four tangential arms is fused to the facet. The radial arm is hollow. There is an under and an upper pole marked by areas of peculiar facets. _Receptaculites_ are found in ancient rocks from Lower Silurian to Carboniferous. Rauff showed that their original composition was calcareous, though some may have become silicified subsequently.
 
-Receptaculites have been regarded as fossilized fir-cones; corals; Crinoids; Foraminifera; calcareous algae (Siphoneae verticillatae) related to the Dactyloporidae, or to such Dasycladaceae as _Bornetella_; primitive types of Sponges; gemmules of Freshwater Sponges; peculiar Hexactinellid Sponges; Tunicata.
+_Receptaculites_ have been regarded as fossilized fir-cones; corals; Crinoids; Foraminifera; calcareous algae (Siphoneae verticillatae) related to the Dactyloporidae, or to such Dasycladaceae as _Bornetella_; primitive types of Sponges; gemmules of Freshwater Sponges; peculiar Hexactinellid Sponges; Tunicata.
 
 Prof. RaufT himself concludes as follows (_l.c._ p. 717): "For the moment we must be content with an 'Ignoramus,' and can only say that the _Receptaculitidae form a peculiar family which after their death failed to leave behind any similarly organized representatives either in the ancient or modern world."
 
 The results of my own research can be summed up in a few words.
 
-I find receptaculites to be lithomorphs — for the moment they may be called pseudomorphs. They are forms of limestone which have become differentiated out of the matrix in which they are embedded, by the action of chemical and physical forces. How can this be known? By the simple fact that the limestone of which these bodies are composed is _nummulitic_ limestone, which may occasionally be silicified. The patterns, the spaces and the interior of the globular bodies are all composed solely of nummulitic material which can be made out when very carefully examined in thin slices (Fig. 40, and photo Plate 2. E 22), or even in the mass with a hand-lens.
+I find _Receptaculites_ to be lithomorphs — for the moment they may be called pseudomorphs. They are forms of limestone which have become differentiated out of the matrix in which they are embedded, by the action of chemical and physical forces. How can this be known? By the simple fact that the limestone of which these bodies are composed is _nummulitic_ limestone, which may occasionally be silicified. The patterns, the spaces and the interior of the globular bodies are all composed solely of nummulitic material which can be made out when very carefully examined in thin slices (Fig. 40, and photo Plate 2. E 22), or even in the mass with a hand-lens.
 
-How can the peculiar shape and structure of receptaculites be accounted for?
+How can the peculiar shape and structure of _Receptaculites_ be accounted for?
 
 Just as a comparison of living organisms with each other helps us to arrive at a knowledge of their mutual relationships and of the manner in which they have evolved, so with lithomorphs.
 
@@ -2274,13 +2274,13 @@ Mr. G. Abbott after a twelve years' search found certain mince-pie-shaped or bic
 
 Another discovery made by Mr. Abbott was that of the fusion of the pillars of pillared forms in such a way as to form tubes.
 
-Turning now to the concretions of the palaeozoic rocks older than the Permian, we find a much more finished type of "art." Were it not for the fact that _Coelosphaeridium_, _Cyclocrinus_ and _Receptaculites_ resembled the Permian concretions in being wholly composed of nummulitic limestone, we could never have suspected that these bodies have evolved from lithomorphs with simple radial and concentric patterns. I must refer once more to one or two details mentioned under Cyclocrinus. In the spherical Coelosphaeridium the radial pillars are always present, and the spaces between the pillars expand gradually up to the surface of the sphere. In _Cyclocrinus_ the radial pillars are frequently absent and there remains only a thin surface zone of cup-like patterns, each "cup" having a "lid" often of marvellous design and, still more strange, apparently a "pore" in the floor. In some examples of _Cyclocrinus_, however, the radial pattern exists, or rather I will venture to say, persists. The space between the radial pillars is linear or thread-like and of uniform diameter, till it arrives at the floor of the "cup" into the cavity of which it suddenly expands.
+Turning now to the concretions of the palaeozoic rocks older than the Permian, we find a much more finished type of "art." Were it not for the fact that _Coelosphaeridium_, _Cyclocrinus_ and _Receptaculites_ resembled the Permian concretions in being wholly composed of nummulitic limestone, we could never have suspected that these bodies have evolved from lithomorphs with simple radial and concentric patterns. I must refer once more to one or two details mentioned under _Cyclocrinus_. In the spherical Coelosphaeridium the radial pillars are always present, and the spaces between the pillars expand gradually up to the surface of the sphere. In _Cyclocrinus_ the radial pillars are frequently absent and there remains only a thin surface zone of cup-like patterns, each "cup" having a "lid" often of marvellous design and, still more strange, apparently a "pore" in the floor. In some examples of _Cyclocrinus_, however, the radial pattern exists, or rather I will venture to say, persists. The space between the radial pillars is linear or thread-like and of uniform diameter, till it arrives at the floor of the "cup" into the cavity of which it suddenly expands.
 
 Coming to the "Receptaculitidae," in the _Receptaculites_-type of receptaculite the supposed infilling matrix in the assumed hollow interior is simply a part of the lithomorph without visible structure.
 
 The "wall" is a peripheral zone which has retained some of the radial and concentric structure as in certain examples of _Cyclocrinus_.
 
-In the _Polygonosphaerites_-type of receptaculite the radial element is wanting. In the Ischadites type the wall is very thick and the central "cavity" relatively small. The centre whence the radial pillars radiate in receptaculites and kindred bodies is usually excentric.
+In the _Polygonosphaerites_-type of receptaculite the radial element is wanting. In the Ischadites type the wall is very thick and the central "cavity" relatively small. The centre whence the radial pillars radiate in _Receptaculites_ and kindred bodies is usually excentric.
 
 Frequently these ancient lithomorphs are stalked. The continuation of the homogeneous stalk structure into the interior point whence radii originate, may be compared with a variety of "phragmacone" in _Parkeria_ (Fig. 35 _i_).
 
@@ -2290,7 +2290,7 @@ It must be remembered that in the first instance there are no "spaces" in a lith
 
 The Permian lithomorphs are to the Silurian as the works of art of the craftsman period are to those of the great period of any school of art.
 
-The "evolution" of complex inorganic structures such as Cyclocrinus suggests a comparison with processes of organic evolution. A homogeneous lump of limestone undergoes a change into a mass of excentrically radiate pillars crowded together. The central and peripheral parts become differentiated. The peripheral parts undergo further differentiation both radially and concentrically, and the outer concentric plates themselves develop radial patterns, knobs, _etc._, each variation as it arises becoming a starting point for further variations, just as in organic life.
+The "evolution" of complex inorganic structures such as _Cyclocrinus_ suggests a comparison with processes of organic evolution. A homogeneous lump of limestone undergoes a change into a mass of excentrically radiate pillars crowded together. The central and peripheral parts become differentiated. The peripheral parts undergo further differentiation both radially and concentrically, and the outer concentric plates themselves develop radial patterns, knobs, _etc._, each variation as it arises becoming a starting point for further variations, just as in organic life.
 
 Archaeocyathinae
 
@@ -2308,7 +2308,7 @@ The interval between the inner and outer surface of the typically stalked cup is
 
 Archaeocyathids have been regarded as Calcareous Sponges, Hexactinellid Sponges, a new class of Sponges near Calcarea (Dr. Taylor), Corals of various kinds, and as Calcareous Algae. The porous inner walls and certain other structures recall Sycon sponges. The radial septa on the other hand, suggest coral structure, Dr. Bornemann, who seemed to incline to the coral theory, thought the pores might be for the emission of whip-like filaments.
 
-I had the good fortune to have access to some of Dr. Taylor's South Australian material. A section of a typical mass of Archaeocyathid limestone, including outer and inner walls and septa of Archaeocyathids, showed the material to be nummulitic throughout, the supposed fossils being merely concretionary or lithomorphic patterns in the common mass. Along with considerable differences, there are certain resemblances between Silurian Receptaculitid and Cambrian Archaeocyathid lithomorphs. The perforations might be compared with the patterns of circles on the cuplids of certain "species" of Cyclocrinus (Fig. 35 _e_);* for along with differentiation in pattern there is often difference in degree of solubility, so that circles might easily become pores.
+I had the good fortune to have access to some of Dr. Taylor's South Australian material. A section of a typical mass of Archaeocyathid limestone, including outer and inner walls and septa of Archaeocyathids, showed the material to be nummulitic throughout, the supposed fossils being merely concretionary or lithomorphic patterns in the common mass. Along with considerable differences, there are certain resemblances between Silurian Receptaculitid and Cambrian Archaeocyathid lithomorphs. The perforations might be compared with the patterns of circles on the cuplids of certain "species" of _Cyclocrinus_ (Fig. 35 _e_);* for along with differentiation in pattern there is often difference in degree of solubility, so that circles might easily become pores.
 
 *) Dr. Stolley, _Archiv. Anthrop. Geol. Schleswig-Holstein_, 1. pp. 196-7, figs. 14-16. 1896.
 
@@ -2342,7 +2342,7 @@ As for the many other species, also H. Yabe's* new Japanese genus Metasolenopora
 
 The lithomorph pattern is so strong and the nummulitic structure so faint that much patience is needed for the detection of the latter. I am fairly certain I can make out nummulitic details both in the lower and upper half of Dr. Rothpletz' photo of _Solenopora gotlandica_ (Plate 1. Fig. 3, _l.c._). Fig. 2 when examined with a lens 10x shows disk-structures and a curious pattern of fine closely-set transverse lines other than the main zonal lines.
 
-In some of the sections of Girvan limestone perhaps two genera of "calcareous algae" and also stromatoporoid patterns may be found in a very small area (_e.g._ Girvanella, Solenopora, and Beatricea, or Labechia-like vesicular pattern). In such a section there is nothing but a common basis of nummulitic limestone in which is woven a wonderful variety of osmotic patterns.
+In some of the sections of Girvan limestone perhaps two genera of "calcareous algae" and also stromatoporoid patterns may be found in a very small area (_e.g._ _Girvanella_, Solenopora, and Beatricea, or Labechia-like vesicular pattern). In such a section there is nothing but a common basis of nummulitic limestone in which is woven a wonderful variety of osmotic patterns.
 
 Palaeoporella, Vermiporella, _etc._
 
@@ -2352,9 +2352,9 @@ Dr. E. Stolley* describes certain funnel- or club-shaped calcareous bodies of Si
 
 Thanks to the courtesy of Dr. Stolley I have some authentic pieces of limestone rich in these objects. In my sections I can find nothing else than nummulitic structure throughout, both in clear and opaque areas. I am led, then, to regard these curious objects and markings as purely concretionary. Among this group I would place the Silurian _Rhabdoporella_; and also _Ortonella_ described by Prof. Garwood from carboniferous limestone. I have not seen examples of these two forms.
 
-Mitcheldeania
+_Mitcheldeania_
 
-This form was first described from the Carboniferous marly limestone at Mitcheldean by E. Wethered, who writes (Geol. Mag. 1886, p. 535): "The organism consists of a series of concentrically arranged layers or laminae penetrated by systems of tubuli... The tubuli are separated by the skeleton fibre, which is itself penetrated by a minute canal system." Mr. Wethered refers the genus to Stromatoporoids; and records the opinions of experts who pointed out to him the resemblances to _Parkeria_ and Girvanella.
+This form was first described from the Carboniferous marly limestone at Mitcheldean by E. Wethered, who writes (Geol. Mag. 1886, p. 535): "The organism consists of a series of concentrically arranged layers or laminae penetrated by systems of tubuli... The tubuli are separated by the skeleton fibre, which is itself penetrated by a minute canal system." Mr. Wethered refers the genus to Stromatoporoids; and records the opinions of experts who pointed out to him the resemblances to _Parkeria_ and _Girvanella_.
 
 I collected specimens of marly limestone from the quarry at Mitcheldean whence Mr. Wethered got his material, and have examined a microscopic slide of _Mitcheldeania nicholsoni_ Wethered, presented by Mr. Wethered himself.
 
@@ -2364,7 +2364,7 @@ _Mitcheldeania gregaria_ Nicholson (Geol. Mag. 1888, p. 17), from Carboniferous 
 
 See also some interesting notes on _Mitcheldeania_ by Prof. Garwood, who regards this form as a calcareous alga (Geol. Mag. 1913, p. 546).
 
-Oldhamia
+_Oldhamia_
 
 The study of a photograph published by Ch. Barrois,* of _Oldhamia_ from the Pyrenees, leads me to believe that the structure therein depicted is nummulitic. The furrowed and banded marginal cords and fan-like banded septa astride of them would, when compressed, tend to form serial fan-like ribbed structures.
 
@@ -2372,7 +2372,7 @@ The study of a photograph published by Ch. Barrois,* of _Oldhamia_ from the Pyre
 
 I firmly believe that the above suggestions will furnish the true explanation of the _Oldhamia_ figured by Barrois, and probably of all other Oldhamias. Sollas showed that these structures in the hardened Cambrian mud were definite and solid, and not mere ripple-markings.
 
-Girvanella, _etc._
+_Girvanella_, _etc._
 
 In 1880 Nicholson and Etheridge* discovered in the ancient limestones of Girvan in Ayrshire curious little irregular brown or grey calcareous patches about 2 mm. in diameter, and with a very remarkable structure. Sections examined under the microscope revealed a dense labyrinthine mass of coiled solid "tubes," each about 0.04 mm. (0.0016 inch) in diameter. (Photo, Plate. 1. Figs. 4, 5.)
 
@@ -2380,19 +2380,19 @@ In 1880 Nicholson and Etheridge* discovered in the ancient limestones of Girvan 
 
 Brady believed these bodies were allied to the sandy Foraminiferan _Hyperammina vagans_ which consists of a plexus of coiled tubules. Nicholson partly adopted this view, but thought it well to place the fossils in a new genus and species, _Girvanella problematica_. _Girvanella_ has since been found in many palaeozoic and mesozoic limestones, and Rhumbler places even certain living Foraminifera in the genus. In certain Silurian strata in the Baltic region, thick layers of limestones are mainly composed of masses or "knolls" of _Girvanella_ each perhaps several centimetres in diameter.
 
-Many and varied opinions have been published in the now considerable literature on this subject. Girvanella has been regarded as Foraminiferan, as masses of worm tubes, as a Blue-Green Alga, as a Sponge, Hydrozoan (Stromatoporoid), as a calcareous alga related to the Codiaceae. At the present time, opinion is divided between the calcareous-algal and the Foraminiferal theories.
+Many and varied opinions have been published in the now considerable literature on this subject. _Girvanella_ has been regarded as Foraminiferan, as masses of worm tubes, as a Blue-Green Alga, as a Sponge, Hydrozoan (Stromatoporoid), as a calcareous alga related to the Codiaceae. At the present time, opinion is divided between the calcareous-algal and the Foraminiferal theories.
 
-Owing to the kindness of Prof. A. W. Gibb of the University of Aberdeen, I had the good fortune to obtain some of Dr. Nicholson's own Girvan material, from which I was allowed to cut sections. These show abundance of "Girvanella problematical."
+Owing to the kindness of Prof. A. W. Gibb of the University of Aberdeen, I had the good fortune to obtain some of Dr. Nicholson's own Girvan material, from which I was allowed to cut sections. These show abundance of "_Girvanella problematica_."
 
-Girvanella is beyond any shadow of doubt a pattern in nummulitic limestone. With careful observation it is possible to detect the nummulitic structure beneath and in the pattern and continuing into the surrounding clear part of the limestone. One feature can soon be made out under a power of about 400 diameters, _viz._, a finely punctate appearance due to the disk-structure, each dark point being surrounded by a circle. The successive "disks," furrowed marginal cord, septa, alar prolongations, _etc._, all require great patience for their detection, but they exist.
+_Girvanella_ is beyond any shadow of doubt a pattern in nummulitic limestone. With careful observation it is possible to detect the nummulitic structure beneath and in the pattern and continuing into the surrounding clear part of the limestone. One feature can soon be made out under a power of about 400 diameters, _viz._, a finely punctate appearance due to the disk-structure, each dark point being surrounded by a circle. The successive "disks," furrowed marginal cord, septa, alar prolongations, _etc._, all require great patience for their detection, but they exist.
 
-The sets of parallel curved tubes or bands common in Girvanella are formed by curved, furrowed and banded marginal cord. The rows of little circles (mistaken by some observers for cells of blue-green algae) belong to bases of septa astride of the cord, or to the ends of fan-like septa. Accordingly, although Girvanella is a concretionary structure, the pattern is not quite in the same category as those radio-concentric ones that are independent of nummulitic structure, _e.g._ _Parkeria_, simple oolite granules (without Girvanella pattern), _etc._
+The sets of parallel curved tubes or bands common in _Girvanella_ are formed by curved, furrowed and banded marginal cord. The rows of little circles (mistaken by some observers for cells of blue-green algae) belong to bases of septa astride of the cord, or to the ends of fan-like septa. Accordingly, although _Girvanella_ is a concretionary structure, the pattern is not quite in the same category as those radio-concentric ones that are independent of nummulitic structure, _e.g._ _Parkeria_, simple oolite granules (without _Girvanella_ pattern), _etc._
 
-Girvanella, then, is a pattern in _chiaroscuro_ — mainly _oscuro_. The nummulitic structure perhaps influences the form of that pattern, and I doubt whether Girvanella could form in any other limestone than a nummulitic one.
+_Girvanella_, then, is a pattern in _chiaroscuro_ — mainly _oscuro_. The nummulitic structure perhaps influences the form of that pattern, and I doubt whether _Girvanella_ could form in any other limestone than a nummulitic one.
 
-_Sphaerocodium_ Rothpletz is very probably a lithomorph akin to Girvanella. The "schlauchförmige zellen" and supposed "Sporangia" must, I believe, be interpreted in a sense otherwise than that implied by these designations. In Dr. Rothpletz' photo of _S. gotlandicum_ (Plate 4. Fig. 1, Kalkalg Gottlands) I am fairly certain I can detect the underlying nummulitic structure.
+_Sphaerocodium_ Rothpletz is very probably a lithomorph akin to _Girvanella_. The "schlauchförmige zellen" and supposed "Sporangia" must, I believe, be interpreted in a sense otherwise than that implied by these designations. In Dr. Rothpletz' photo of _S. gotlandicum_ (Plate 4. Fig. 1, Kalkalg Gottlands) I am fairly certain I can detect the underlying nummulitic structure.
 
-In oolite grains there may be successive zones of ordinary oolitic pattern and of Girvanella structure. Wethered figures a pisolite grain with Girvanella surrounding a Crinoid joint.
+In oolite grains there may be successive zones of ordinary oolitic pattern and of _Girvanella_ structure. Wethered figures a pisolite grain with _Girvanella_ surrounding a Crinoid joint.
 
 Spongiostromids
 
@@ -2900,7 +2900,7 @@ These guides have been made by tracing with a needle outlines on gelatine films 
 
 Many of the pictures show structural details best when examined with a small pocket-lens 3x. A large reading-glass is not so useful because it is often desirable to concentrate attention on a small area.
 
-Plate 1 — Diatom ooze, Red clay, Girvanella.
+Plate 1 — Diatom ooze, Red clay, _Girvanella_.
 
 [Plate 1: Figure 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure1.png) — Fragment of Diatom ooze, 5x (_Challenger_), Southern Ocean St. 157, 1950 fms. This ooze (in the dried state) is a powdery mass of nummulites crammed with microscopic plankton skeletons, chiefly Diatoms. The faint circular or oval outlines of the nummulites are about 25 mm. (an inch) in diameter in the photo, _i.e._ about 5 mm. (⅕ inch) nat. size. [Nummulitic structure can be seen better in sections of this ooze hardened in balsam.]
 
@@ -2910,7 +2910,7 @@ Plate 1 — Diatom ooze, Red clay, Girvanella.
 
 [Plate 1: Figure 4](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure4.png) — "_Girvanella problematica_" (from Nicholson's "type"), 260x. This "labyrinthine-tubular" pattern forms a dark patch in the midst of clear calcite. The whole section clear and opaque consists of nummulite shell-structure throughout. Coils of band-like furrowed marginal cord are very obscurely discernible, the outermost forming a broad oval band. Here and there indications of fan-like septa are visible; also spiral disk structure.
 
-[Plate 1: Figure 5](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure5.png) — Another patch with much larger "tubes," 60x. The "Girvanella" here forms a small speck in the midst of a coil of a nummulite, and is just visible under a lens 10x when section is held up to light. Dark patch — hardly in Girvanella condition — in lower right corner shows fairly well a minute nummulitic spiral disk.
+[Plate 1: Figure 5](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure5.png) — Another patch with much larger "tubes," 60x. The "_Girvanella_" here forms a small speck in the midst of a coil of a nummulite, and is just visible under a lens 10x when section is held up to light. Dark patch — hardly in _Girvanella_ condition — in lower right corner shows fairly well a minute nummulitic spiral disk.
 
 [Plate 1: Guide](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Guide.png)
 
@@ -2972,7 +2972,7 @@ Plate 2D — _Eozoön_ and granites.
 
 [Plate 2D: Guide](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2D-Guide.png)
 
-Plate 2E — Meteorites, melted Barbados earth, Receptaculites.
+Plate 2E — Meteorites, melted Barbados earth, _Receptaculites_.
 
 [Plate 2E: Figure 17](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2E-Figure17.png) — "Wold Cottage" meteorite. The lighter circular area about an inch in diameter against upper part of right edge of photo shows beautifully the spiro-discoid structure, _i.e._ coils of miniature "marginal cord" with radial "septa" and "alars" in plane vertical to "parent" spiral. 260x.
 
@@ -3314,7 +3314,7 @@ If the pictures fail to convince — though C-G are fairly good — it is only n
 
 [Figure 34](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig34.png) — Portland oolite. From photo of rough surface of piece of rock. 3x.
 
-[Figure 35](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig35.png) — Some remarkable lithomorphs. _a_, Cyclocrinus, 4x; _b_, section of Coelosphaeridium, 2x; _c_, section of Cyclocrinus, 2.5x; _d_, lids of Cyclocrinus 8x; _e_, ditto, another pattern, 12.5x; _f_, Silurian limestone of Estland, showing sections of three specimens in contact, without radials (N.H.M., Bather), nat. size; _g_, _h_, _Ischadites murchisoni_, rough copy after Rauff; _i_, _Parkeria_, with conical axial body; _j_, Fulwell concretion, section showing central concentric and peripheral radial-tubular structure, ½x, after G. Abbott. Figs. _a_-_e_, after Dr. Stolley.
+[Figure 35](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig35.png) — Some remarkable lithomorphs. _a_, _Cyclocrinus_, 4x; _b_, section of Coelosphaeridium, 2x; _c_, section of _Cyclocrinus_, 2.5x; _d_, lids of _Cyclocrinus_ 8x; _e_, ditto, another pattern, 12.5x; _f_, Silurian limestone of Estland, showing sections of three specimens in contact, without radials (N.H.M., Bather), nat. size; _g_, _h_, _Ischadites murchisoni_, rough copy after Rauff; _i_, _Parkeria_, with conical axial body; _j_, Fulwell concretion, section showing central concentric and peripheral radial-tubular structure, ½x, after G. Abbott. Figs. _a_-_e_, after Dr. Stolley.
 
 [Figure 36](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig36.png) — _Receptaculites reticulatus_. Silurian, Niagara group. (P. 6514, N.H.M.) 1⅓x.
 
