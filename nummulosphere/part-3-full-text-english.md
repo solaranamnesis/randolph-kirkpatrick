@@ -264,7 +264,7 @@ With the kind help of Prof. W. H. Merrett and Mr. H. M. Chappie of the Royal Sch
 
 The suggestion has been made that the skeletons said to be found by me in igneous rocks may be recent deposits or incrustations; or the rock when in a molten state may have licked up the organic remains.
 
-If a plug of granite one hundred metres long and, say, one centimetre in area, were cut out of the De Lank granite quarry in any direction, and cut into sections 0.1 mm. thick (_i.e._, into one million sections), I am justified in stating that traces of organic remains would certainly be found in every section.
+If a plug of granite one hundred meters long and, say, one centimetre in area, were cut out of the De Lank granite quarry in any direction, and cut into sections 0.1 mm. thick (_i.e._, into one million sections), I am justified in stating that traces of organic remains would certainly be found in every section.
 
 3) That the author has not had sufficient experience to justify him in publishing opinions on igneous rocks.
 
@@ -424,7 +424,7 @@ What, then, is the origin of the clay distributed over the ocean floor? I believ
 
 Murray and Renard give many reasons for regarding submarine eruptions as a source of abyssal clay. It would be difficult on any other theory to account for the presence of vitreous lumps as large as walnuts in pelagic deposits remote from land. For these compact masses of volcanic glass could hardly have been transported either by air or water, but must have originated in the neighbourhood where they occur.
 
-Mr. James Chumley of the "Challenger Office," Edinburgh, very kindly sent me at my request a typical piece of volcanic glass from Station 293, 2025 fathoms in the centre of the Western Pacific. The nearest land is the little speck of Easter Island 800 miles away. The precious fragment, about the size of a pea, is 7 x 5 x 5 millimetres in dimensions. A black glassy part is surrounded by brown bands of palagonite. Certainly the fragment has had an organic origin, for under the microscope it is not difficult to see indubitable and abundant evidences of nummulitic structure.
+Mr. James Chumley of the "Challenger Office," Edinburgh, very kindly sent me at my request a typical piece of volcanic glass from Station 293, 2025 fathoms in the centre of the Western Pacific. The nearest land is the little speck of Easter Island 800 miles away. The precious fragment, about the size of a pea, is 7 x 5 x 5 millimeters in dimensions. A black glassy part is surrounded by brown bands of palagonite. Certainly the fragment has had an organic origin, for under the microscope it is not difficult to see indubitable and abundant evidences of nummulitic structure.
 
 If — as Murray and Renard believe — this fragment has been ejected from a submarine volcano, it will afford evidence concerning the deeper parts of the ocean floor itself.
 
@@ -762,7 +762,7 @@ The problem was now considered settled. In all the chief text-books _Eozoön_ wa
 
 New evidence, however, renders it imperatively necessary to exhume the dawn-animal and hold a fresh inquest. This time the enquiry need only be brief, and beyond doubt the verdict will be final.
 
-Once when examining one of Carpenter's sections under the microscope I saw embedded in serpentine a very small object 0.1 mm. in diameter, which I took to be a young nummulite shell* (Plate 11. Fig. 42), and presently found several similar objects.* Further research apparently led to the discovery that a specimen of _Eozoön_ was a mass of small "nummulite" shells. At first they seemed to me to be associated in colonies. The supposed shells, on an average about four millimetres in diameter, were present both in the green and white bands, frequently also one "shell" being half in the green and half in the white. Next I discovered in the sections under high powers "appearances" closely resembling Radiolaria and Diatoms.*
+Once when examining one of Carpenter's sections under the microscope I saw embedded in serpentine a very small object 0.1 mm. in diameter, which I took to be a young nummulite shell* (Plate 11. Fig. 42), and presently found several similar objects.* Further research apparently led to the discovery that a specimen of _Eozoön_ was a mass of small "nummulite" shells. At first they seemed to me to be associated in colonies. The supposed shells, on an average about four millimeters in diameter, were present both in the green and white bands, frequently also one "shell" being half in the green and half in the white. Next I discovered in the sections under high powers "appearances" closely resembling Radiolaria and Diatoms.*
 
 *) Described, but very incorrectly, in A.M.N.H. Sept. and Oct. 1912.
 
@@ -820,7 +820,7 @@ O. Trüstedt,* in a report on the ore-deposits of Pitkaranta, Finland, gives a p
 
 *) Bull. Comm. Geol. Finlande. No. 19, p. 214. 1907.
 
-If the lumps and bands of pyroxene had originated from the granite, one would expect the first ten metres of the limestone in the neighbourhood of the granite to be crowded with the pyroxene, but there is scarcely a trace, and none at all in the first five metres. 
+If the lumps and bands of pyroxene had originated from the granite, one would expect the first ten meters of the limestone in the neighbourhood of the granite to be crowded with the pyroxene, but there is scarcely a trace, and none at all in the first five meters. 
 
 Prof. T. G. Bonney,* who saw _Eozoön_ _in situ_ in the limestone at Côte St. Pierre, Quebec, figures masses of pyroxene or serpentine or of both minerals surrounded by bands of _Eozoön_. The conditions in the Laurentian and Hopunwaara limestones are closely similar. Prof. Sederholm, who very kindly sent me specimens of Hopunwaara limestone and of other Finland rocks, thereby supplementing a set of _Eozoön_, sahlit, _etc._, previously sent by Dr. Trüstedt, writes in a letter to me:— "The limestone is Ladogian," _i.e._ it is to be correlated with the Archaean.
 
@@ -1079,7 +1079,7 @@ Variations in rate of cooling give rise to great differences in texture. Granite
 
 ###### On the Source of the Heat of Molten Rocks
 
-The interior of the earth must be in an intensely heated condition. Hot and boiling rocks, forced up from below, can actually be seen accumulating in heaps and pouring out in floods over the surface; and further, it is found that the temperature rises on an average 1° C. for every 32 metres of vertical descent into the earth.
+The interior of the earth must be in an intensely heated condition. Hot and boiling rocks, forced up from below, can actually be seen accumulating in heaps and pouring out in floods over the surface; and further, it is found that the temperature rises on an average 1° C. for every 32 meters of vertical descent into the earth.
 
 This heat continually flowing out from within has naturally been regarded as part of the original stock of a cooling planet. The sky is crowded with glowing-hot bodies, and perhaps the earth was once in a similar condition. Even so, it does not follow that the heat _now_ escaping must be accounted for in this way.
 
@@ -2378,7 +2378,7 @@ In 1880 Nicholson and Etheridge* discovered in the ancient limestones of Girvan 
 
 *) _Silurian Fossils of Girvan_, 1. 1878-80.
 
-Brady believed these bodies were allied to the sandy Foraminiferan _Hyperammina vagans_ which consists of a plexus of coiled tubules. Nicholson partly adopted this view, but thought it well to place the fossils in a new genus and species, _Girvanella problematica_. _Girvanella_ has since been found in many palaeozoic and mesozoic limestones, and Rhumbler places even certain living Foraminifera in the genus. In certain Silurian strata in the Baltic region, thick layers of limestones are mainly composed of masses or "knolls" of _Girvanella_ each perhaps several centimetres in diameter.
+Brady believed these bodies were allied to the sandy Foraminiferan _Hyperammina vagans_ which consists of a plexus of coiled tubules. Nicholson partly adopted this view, but thought it well to place the fossils in a new genus and species, _Girvanella problematica_. _Girvanella_ has since been found in many palaeozoic and mesozoic limestones, and Rhumbler places even certain living Foraminifera in the genus. In certain Silurian strata in the Baltic region, thick layers of limestones are mainly composed of masses or "knolls" of _Girvanella_ each perhaps several centimeters in diameter.
 
 Many and varied opinions have been published in the now considerable literature on this subject. _Girvanella_ has been regarded as Foraminiferan, as masses of worm tubes, as a Blue-Green Alga, as a Sponge, Hydrozoan (Stromatoporoid), as a calcareous alga related to the Codiaceae. At the present time, opinion is divided between the calcareous-algal and the Foraminiferal theories.
 
@@ -2738,7 +2738,7 @@ W. Flemming* sums up the results of his investigations with the statement that b
 
 *) _Zellsubstanz, Kern und Zelltheilung_. 1882.
 
-V. Fayod* believes protoplasm to be formed of spirally-coiled hollow fibrils — spirofibrillae, the latter often being plaited together into hollow cords or ropes — spirosparta. The spirofibrillae are composed of tough transparent uncolourable material. The lumina of the coils are filled with granular protoplasm, the circulation of which is confined to these "vessels." Fayod injected plant tissues with mercury under a pressure of 1.5 atmospheres, by fixing the material at the end of a long glass tube 1 to 2 metres long and gently filling with the metal. The mercury is supposed to fill the interior of the hollow fibrils and cords.
+V. Fayod* believes protoplasm to be formed of spirally-coiled hollow fibrils — spirofibrillae, the latter often being plaited together into hollow cords or ropes — spirosparta. The spirofibrillae are composed of tough transparent uncolourable material. The lumina of the coils are filled with granular protoplasm, the circulation of which is confined to these "vessels." Fayod injected plant tissues with mercury under a pressure of 1.5 atmospheres, by fixing the material at the end of a long glass tube 1 to 2 meters long and gently filling with the metal. The mercury is supposed to fill the interior of the hollow fibrils and cords.
 
 *) _Ueber die wahre Structur des lebendigen Protoplasmas und der Zellmembran_. Naturwiss Rundschau 5. p. 81. 1890.
 
@@ -3254,7 +3254,7 @@ If the pictures fail to convince — though C-G are fairly good — it is only n
 
 "_Eozoön_" was once a mass of nummulite shells like any lump of Tertiary nummulitic limestone say of Biarritz or Egypt. The living top layer shells would show what "_Eozoön_" was like in life.
 
-[Figure 8](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig8.png) — Diagram of cliff at Hopunwaara, Finland. _Ka_, limestone; _Sa_, sahlite; _Se_, _Eozoön_; _Fe_, iron ore; _R_, Granite; _Gl._, mica-schist; N, S, north, south; _m_, metres. After O. Trüstedt.
+[Figure 8](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig8.png) — Diagram of cliff at Hopunwaara, Finland. _Ka_, limestone; _Sa_, sahlite; _Se_, _Eozoön_; _Fe_, iron ore; _R_, Granite; _Gl._, mica-schist; N, S, north, south; _m_, meters. After O. Trüstedt.
 
 [Figure 9](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig9.png) — A grain of sand from Brighton, Sussex, showing the nummulitic disk structure. 100x.
 
