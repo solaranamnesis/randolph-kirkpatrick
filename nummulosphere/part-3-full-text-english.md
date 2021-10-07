@@ -290,7 +290,7 @@ The friendly sympathy of some who have followed my work has been a valuable aid.
 
 I have been fortunate in securing the services of Mr. P. Highley. I think no one has had more experience in drawing from the microscope. He was making drawings of _Eozoön_ for Dr. Carpenter forty years ago. Thanks are due also to Messrs. Raines, of Ealing, who have taken great pains to secure good photographic results, and to Mr. Butterworth for careful cliché work.
 
-Also I would gratefully refer here to the very patient and skilful work of Messrs. William Clowes and Sons.
+Also I would gratefully refer here to the very patient and skillful work of Messrs. William Clowes and Sons.
 
 NOTE. Anything of scientific value in _Nummulosphere_ Parts 1 and 2 is incorporated in Part 3. The first two parts, which are no longer of use, have been of the nature of stepping-stones that have helped me, in spite of much initial error, to arrive at the truths explained in the present work.
 
