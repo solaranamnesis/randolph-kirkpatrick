@@ -542,7 +542,7 @@ Whatever the cause, the effect has been to bring about a greater degree of disse
 
 Certain beds of Carboniferous limestone are almost wholly composed of minute spheroidal or fusiform bodies about 3.2 mm. (⅛ inch) in diameter and frequently produced and tubular at each end. Often several of these bodies are joined end to end in a chain. The weathered surface of a limestone rich in these structures is coarsely warty. The spheroids usually have a smooth but granular wall surrounding a clear mass of colloidal silica or of crystals of calcite. Brady* considered these bodies to be Sandy Foraminifera related to a living deep-sea form described by Sars as _Saccammina spherica_. Certainly when a chain of several little fusiform globules is isolated and mounted on a slide nothing could more closely resemble an arenaceous Foraminiferan.
 
-*) Brady, ' Monograph, Carboniferous and Permian Foraminifera.' Pal. Soc., 1876.
+*) Brady, _Monograph, Carboniferous and Permian Foraminifera_. Pal. Soc., 1876.
 
 Sections of typical Saccammina limestone, however, show that the Saccammina condition is due to mineralization of areas of nummulite shells, just as in the spheres of the hard chalks. Nummulitic shell-structure can be traced in continuity from the interior through the supposed walls of the spheres to the surrounding matrix. Brady figures certain "scars" in the form of granular concentric rings on the "test" of the supposed shells (Plate 12. Fig. 7, _l.c._). These structures are coiled disk-structures. Brady's drawing shows even the circles of the smaller bundles, one of the latter being equivalent to one of Ehrenberg's disklets. I can now make out in sections viewed with a lens features of the larger anatomy of the nummulites. The chain condition is found also in Jurassic oolite; and even the produced tubular structures occur, though only rarely, probably because the points have been dissolved out. Brady speaks of extensive formations of limestones being wholly made of Saccammina. The Elfhills formation, where this pseudomorph is well developed, used to be considered a concretionary limestone.
 
@@ -808,7 +808,7 @@ Certainly the Laurentian and igneous rocks have just as much to do with nebular 
 
 The conclusion is reached that hitherto we have been studying only a thin pellicle of organic origin and have in no wise got beyond the zone of life into the azoic.
 
-King and Rowney('An Old Chapter....,' 1881) give in the course of fifty-three pages an annotated history of the Eozoon controversy, and refer to 108 papers, memoirs, etc. In fact, Eozoon has a literature of its own. Dr. Hahn ('Die Urzelle,' p. 11) writes:— "Veritably a greater riddle than Eozoon has rarely been proposed to natural philosophy." In view of the prolonged controversy what now seems so strange is the simplicity of the problem. All that is required is to examine for nummulites. It is surprising to find that it is possible to see with the naked eye the outlines of the shells on the surface of weathered blocks of Eozoon, and to trace under a weak lens a good deal of the structure. (See Plate 13. Fig. C, and Plate 14. Figs. D, E).
+King and Rowney(_An Old Chapter...._, 1881) give in the course of fifty-three pages an annotated history of the Eozoon controversy, and refer to 108 papers, memoirs, etc. In fact, Eozoon has a literature of its own. Dr. Hahn (_Die Urzelle_, p. 11) writes:— "Veritably a greater riddle than Eozoon has rarely been proposed to natural philosophy." In view of the prolonged controversy what now seems so strange is the simplicity of the problem. All that is required is to examine for nummulites. It is surprising to find that it is possible to see with the naked eye the outlines of the shells on the surface of weathered blocks of Eozoon, and to trace under a weak lens a good deal of the structure. (See Plate 13. Fig. C, and Plate 14. Figs. D, E).
 
 The discovery of the nummulites confirms the theory of the mineralogists that the banding was a purely mineralogical feature, but at the same time indicates the organic origin of the carbonate of lime and the marine origin of the silica and magnesia.
 
@@ -846,21 +846,21 @@ Among the more remarkable records of volcanic activity may be mentioned the lava
 
 The great Pliocene lava-flood of Western America which Le Conte considered "among the most extraordinary in the world,"* covers an area of about 200,000 square miles, and has a thickness of from 700 to 3700 feet. The traps of the Deccan, poured out during the Cretaceous period, cover 200,000 square miles, the average thickness being about a mile.
 
-*) J. Le Conte, 'On the Great Lava-flood of the West.' American Journ. Sci., 1874, p. 167.
+*) J. Le Conte, _On the Great Lava-flood of the West_. American Journ. Sci., 1874, p. 167.
 
-Again, in a map, "South of the Amazon, Boué colours an area composed of rocks of this nature" — _i.e._ granitic — "as equal to that of Spain, France, Italy, part of Germany, and the British Islands, all conjoined." (Darwin, 'Origin of Species.')
+Again, in a map, "South of the Amazon, Boué colours an area composed of rocks of this nature" — _i.e._ granitic — "as equal to that of Spain, France, Italy, part of Germany, and the British Islands, all conjoined." (Darwin, _Origin of Species_.)
 
 In the north of England, the Great Whin Sill in the carboniferous limestone is estimated by Sir A. Geikie* to cover an area of 1000 square miles and to be on an average about 90 feet thick.
 
-*) Sir A. Geikie, 'Ancient Volcanoes of Britain,' 2. p. 2. 1897.
+*) Sir A. Geikie, _Ancient Volcanoes of Britain_, 2. p. 2. 1897.
 
 The igneous rocks forming the base of the Archaean and said to be exposed over about one-fifth of the land area of the globe are thought to be a universal formation.
 
 In a region included within the states of Colorado, Utah and Arizona there are curious isolated groups of mountains not connected with the ordinary orographic lines, and now known to have been elevated by the rising up of huge loaf-like masses of igneous rock which have failed to burst through the vast but plastic* pile of sedimentary strata formerly completely — and now partly — overlying them.* Denudation has exposed here and there the huge igneous bosses or laccolites, thereby revealing the secret of the origin of these exceptional mountains, which may in a sense be compared to aborted volcanoes.
 
-*) "The solid crust of the earth, and the solid earth if it be solid, are as plastic _in great masses_ as wax is in small." G. K. Gilbert. 'Report on the Geology of the Henry Mountains,' p. 97, 1877.
+*) "The solid crust of the earth, and the solid earth if it be solid, are as plastic _in great masses_ as wax is in small." G. K. Gilbert. _Report on the Geology of the Henry Mountains_, p. 97, 1877.
 
-*) G. K. Gilbert _l.c._; and W. Cross, 'The Laccolitic mountain groups of Colorado, Utah, and Arizona.' U.S. Geol. Survey, 14th Ann. Rep. 1892-3, 2. p. 157.
+*) G. K. Gilbert _l.c._; and W. Cross, _The Laccolitic mountain groups of Colorado, Utah, and Arizona_. U.S. Geol. Survey, 14th Ann. Rep. 1892-3, 2. p. 157.
 
 The ocean floor is formed chiefly of nummulitic clay derived from igneous rocks (see Chapter 1).
 
@@ -870,7 +870,7 @@ What, then, are these masses of silicates which from the beginning of the Archae
 
 J. D. Dana writes in 1890*: "The origin of volcanic heat, the source of lava columns beneath the volcano, the cause of the ascensive force in the lava column, are subjects on which science has various opinions and no positive knowledge." Precisely the same statement would apply to igneous phenomena of which the volcanic are but a part.
 
-*) 'Characteristics of volcanoes.' J. D. Dana, 1890, p.24.
+*) _Characteristics of volcanoes_. J. D. Dana, 1890, p.24.
 
 With regard to the second of the three problems referred to by Dana, I hope to demonstrate that positive knowledge is now available concerning the source and origin of igneous material.
 
@@ -890,7 +890,7 @@ The theory of organic origin held from time to time by a few "eccentrics," and u
 
 Organisms in igneous rocks have often been described (Appendix, Note G). Sometimes the supposed igneous rock is really a fossiliferous sedimentary one changed by igneous intrusions. Again the "organisms" may be "structural simulations."*
 
-*) King and Rowney 'On the Serpentine of the Lizard.' Phil. Mag. (5) 1. 1876, p. 280.
+*) King and Rowney _On the Serpentine of the Lizard_. Phil. Mag. (5) 1. 1876, p. 280.
 
 Dr. Carpenter, an expert on the microscope and the highest authority on Foraminifera, mistook mineral for Foraminiferal structure in a very ancient serpentine limestone — not, it is true, an igneous rock, but containing materials akin to igneous. I, for my part, arrived at the truth almost by accident. In the course of examining certain fossils in connection with a problem in sponges, I drifted on to Eozoon, thence to the investigation of a Monte Somma (Eozonal) bomb, then to volcanic rocks in Porto Santo, and finally to igneous rocks in general. I continually found traces of nummulite shells. Although the truth was first discovered by direct observation, the fact of organic origin might have been, or rather, at the present day, might be suspected on (1) biological, (2) geological and (3) chemical grounds.
 
@@ -904,7 +904,7 @@ The powers of multiplication are almost unlimited. One diatom dividing only once
 
 It is not surprising that igneous rocks have been classified according to silica-content. The skeletons of silica sink to the bottom, dissolve* there, and become diffused through calcareous deposits. The silica replaces the lime of the little fossils in the same way as in larger fossils. (See postscript on p. 110.)
 
-*) In 'Nummulosphere' 2 I wrote of siliceous skeletons forming centres whence silica was diffused, a residuum remaining as quartz. The supposed skeletons are nummulitic structures.
+*) In _Nummulosphere_ 2 I wrote of siliceous skeletons forming centres whence silica was diffused, a residuum remaining as quartz. The supposed skeletons are nummulitic structures.
 
 2) _Geological Considerations_
 
@@ -918,15 +918,15 @@ In very ancient Archaeozoic limestones, owing to the heat from intrusive dykes, 
 
 The masses of pyroxene are often surrounded by a zone of banded limestone and serpentine ("Eozoon"). It is significant that these lumps and layers of silicate, which may be compared with lumps and layers of flint, have been mistaken for fragments of igneous rock projected in from intrusive magmas.* Even in Cretaceous and Jurassic limestones silica becomes silicate when heated, as in the Monte Somma bombs.
 
-*) In this instance Daubenton's name is well bestowed: "Piroxène, c'est-à-dire, hôte ou étranger dans le domaine du feu." Haüy, 'Traité de Minéralogie' 3. p. 180.
+*) In this instance Daubenton's name is well bestowed: "Piroxène, c'est-à-dire, hôte ou étranger dans le domaine du feu." Haüy, _Traité de Minéralogie_ 3. p. 180.
 
 Igneous rocks are very ancient highly metamorphosed nummulitic limestones from which naturally all the original calcium carbonate has gone, although a good deal of calcium and even some imprisoned carbonic acid may remain.
 
 Iddings writes: "Calcium is one of the most abundant and wide-spread elements in igneous rocks, and enters into a great variety of compounds, the commonest of which are silicates."* The presence of calcalkalic felspars constitutes one of the chief characteristics of the great "Pacific petrographical province."*
 
-*) 'Igneous Rocks' 1. p. 39. 1909.
+*) _Igneous Rocks_ 1. p. 39. 1909.
 
-*) Iddings, 'The Origin of Igneous Rocks.' Bull. Phil. Soc., Washington, p. 183. 1895.
+*) Iddings, _The Origin of Igneous Rocks_. Bull. Phil. Soc., Washington, p. 183. 1895.
 
 3) _Chemical Considerations_
 
@@ -983,9 +983,9 @@ Magnesium. Analysis of shells of two representatives of Nummulitidae contained 5
 
 Willstätter* has shown that magnesium is present in chlorophyll, and not iron, as usually believed.
 
-*) R. Willstätter. In Liebig's 'Annalen d. Chemie,' vol. 350, p. 65, 1906.
+*) R. Willstätter. In Liebig's _Annalen d. Chemie_, vol. 350, p. 65, 1906.
 
-C. — Constituents of igneous rocks. All the constituents enumerated are present in the sea, and all except alumina are found in benthos and plankton organisms. The alumina may have been directly deposited from the sea. [The history of the discovery of the composition of Acantharia skeletons leads me to hazard the suggestion that possibly some of the 15.02 per cent, of alumina in igneous rocks may be due to an extinct race of plankton organisms. Acantharia skeletons were first thought tobe organic ('Acanthin,' Haeckel). Then Shevyakov believed them to be made of a double silicate of aluminium and calcium, and finally Bütschli discovered they were composed of sulphate of strontium. Who would have suspected these wonderful skeletons, which bear impress of the effect of aeons of evolution, to be composed of sulphate of strontium!]
+C. — Constituents of igneous rocks. All the constituents enumerated are present in the sea, and all except alumina are found in benthos and plankton organisms. The alumina may have been directly deposited from the sea. [The history of the discovery of the composition of Acantharia skeletons leads me to hazard the suggestion that possibly some of the 15.02 per cent, of alumina in igneous rocks may be due to an extinct race of plankton organisms. Acantharia skeletons were first thought tobe organic (_Acanthin_, Haeckel). Then Shevyakov believed them to be made of a double silicate of aluminium and calcium, and finally Bütschli discovered they were composed of sulphate of strontium. Who would have suspected these wonderful skeletons, which bear impress of the effect of aeons of evolution, to be composed of sulphate of strontium!]
 
 _Metamorphism_
 
@@ -1029,13 +1029,13 @@ Within the last twenty years a source of energy wholly unsuspected, but yet omni
 
 Prof. Joly writes concerning the new science of radioactivity: "First definitely opened up in 1898 by Mme. and M. Curie, when polonium and radium were discovered, to-day we are in possession of established views in contradiction to the tenets of centuries."* It has been found that uranium is the parent of a series of substances, of which radium is one. The unstable atoms of these elements are undergoing disintegration and discharging energy, part of the latter being manifested as heat. Radioactive substances are universally distributed in the crust of the earth and in the ocean, but in varying amount. They are more abundant in igneous rocks than in sedimentary, in red clay than in _Globigerina_ ooze, in the land than in the ocean.
 
-*) Joly. 'Radioactivity and Geology,' p. 1. 1909.
+*) Joly. _Radioactivity and Geology_, p. 1. 1909.
 
 According to authorities who have studied the problems relating to the effects of radioactivity in geology, this form of energy is a source of the heat of the deep-seated igneous rocks.
 
 The scaffolding of the earth's crust was formed in the ocean and out of seawater. Accordingly the general prevalence of radioactive matter in igneous rocks and in sediments derived from them, is what might be expected. The uranium entering the ocean along with the sediments from igneous rocks has only comeback to its original source. Prof. Joly estimates that 10<sup>6</sup> tonnes of radioactive substances have been received and again precipitated on to the ocean floor in the course of geological time. He writes:* "Presumably all this radioactive material has been at one time in solution or suspension in the ocean, whose waters, for all that we could have anticipated, might have possessed a content of radium some fifty times greater than the figures appear to indicate."
 
-*) 'On the Radium-Content of Sea-Water.' Phil. Mag. (6) 18. p. 407. 1909.
+*) _On the Radium-Content of Sea-Water_. Phil. Mag. (6) 18. p. 407. 1909.
 
 The discovery of the origin and history of igneous rocks will lead, I believe, to a revival of the theory of chemical activity as an important source of the heat that has melted those rocks. Lord Kelvin preferred the view that "the earth is merely a warm chemically inert body." The inert masses of silicates constituting the igneous rocks, however, were at one time benthoplankton mixtures of silicic acid, alkalies, alkaline earths, oxides of iron, phosphates, sulphates, etc. The older and deeper zones of this mixture would be buried beneath a thick pile of strata and permeated with water and mineral solutions. A spark may set a forest ablaze. Heat arising locally in the deposit would hasten chemical activities all round, leading to ever-increasing accumulations of heat. The inert silicates of igneous rocks are the end term of a long series of changes, and may be compared to a spent conflagration.
 
@@ -1049,7 +1049,7 @@ The deep-seated rocks, though at a temperature above normal melting-point would 
 
 Hitherto igneous rocks have not been allotted a chronological position proper to themselves. They have been regarded as primeval and beyond chronology, but nevertheless they are daughters of time. The date affixed is that of the strata into which they have been intruded, and, further, it has been the custom to regard the invaded overlying strata as older than the intrusive. Writing of the Laurentian granites, Chamberlinand Salisbury state,* "but it is now known that they are intrusive into the schist series. They are therefore younger than the latter." Now that the igneous rocks must take their place in the palaeontological series, the lower rocks will be regarded as the older and first formed.
 
-*) 'Geology, Advanced Course' 2. p. 143. 1906.
+*) _Geology, Advanced Course_ 2. p. 143. 1906.
 
 An igneous rock has two dates, the first being its date of actual formation shell by shell in the ocean, and the second its time of uprising into the overlying crust.
 
@@ -1081,23 +1081,23 @@ The evidence that meteorites have fallen from the heavens is now clear, as the f
 
 "The oldest undoubted sky-stone still preserved is that which was long suspended by a chain from the vault of the choir of the parish church of Ensisheim in Elsass, and is now kept in the Rathhaus of that town. The following is a translated extract from a document which was preserved in the church:— 'On the 16th of November, 1492, a singular miracle happened: for between 11 and 12 in the forenoon, with a loud crash of thunder and a prolonged noise heard afar off, there fell in the town of Ensisheim a stone weighing 260 lbs. It was seen by a child to strike the ground in a field near the canton called Gisgaud, where it made a hole more than five feet deep. It was taken to the church as being a miraculous object. The noise was heard so distinctly at Lucerne, Villing and many other places, that in each of them it was thought that some houses had fallen. King Maximilian, who was then at Ensisheim, had the stone carried to the castle: after breaking off two pieces, one for the Duke Sigismund of Austria, and the other for himself, he forbade further damage, and ordered the stone to be suspended in the parish church.'"*
 
-*) Copied from an 'Introduction to the Study of Meteorites,' 10th Edition, 1908. British Museum (Natural History), pp. 19, 22.
+*) Copied from an _Introduction to the Study of Meteorites_, 10th Edition, 1908. British Museum (Natural History), pp. 19, 22.
 
 Again,
 
 "About three o'clock in the afternoon of December 13, 1795, a labourer working near Wold Cottage, a few miles from Scarborough, in Yorkshire,* was terrified to see a stone fall about ten yards from where he was standing. The stone, weighing 56 lbs., was found to have gone through 12 inches of soil and 6 inches of solid chalk rock. No thunder, lightning, or luminous meteor accompanied the fall; but in the adjacent villages there was heard an explosion likened by the inhabitants to the firing of guns at sea, while in two of them the sounds were so distinct of something singular passing through the air towards Wold Cottage, that five or six people went to see if anything extraordinary had happened to the house or grounds. No stone presenting the same characters was known in the district. The stone is preserved in the Museum Collection."*
 
-*) 'Nature,' Oct. 9, 1902, p. 578.
+*) _Nature_, Oct. 9, 1902, p. 578.
 
-*) Copied from 'An Introduction to the Study of Meteorites,' 10th Edition, 1908. British Museum (Natural History), pp. 19, 22.
+*) Copied from _An Introduction to the Study of Meteorites_, 10th Edition, 1908. British Museum (Natural History), pp. 19, 22.
 
 On September 13, 1902, a meteorite fell at Crumlin near Belfast. The evidence given below was gathered by Sir L. Fletcher on the spot and within about a fortnight of the occurrence.*
 
-*) 'Nature,' Oct. 9, 1902, p. 578.
+*) _Nature_, Oct. 9, 1902, p. 578.
 
 "At 10:30 A.M. on September 13, which was a cloudy morning, W. John Adams, who is in the employment of Mr. Walker at Crosshill farm, was gathering apples from a tree on the edge of the cornfield and near the house; he was startled by a noise of such a character that he thought it was due to the bursting of the boiler at the mill, which is about a mile to the south and situated near Crumlin railway station."
 
-*) Copied from 'An Introduction to the Study of Meteorites,' 10th Edition, 1908. British Museum (Natural History), pp. 19, 22.
+*) Copied from _An Introduction to the Study of Meteorites_, 10th Edition, 1908. British Museum (Natural History), pp. 19, 22.
 
 "Another loud noise like that of escaping steam, was followed by the sound as of an object striking the ground near by, and a cloud of dust immediately arose above the standing corn at a spot only twenty yards away from where he was at work. Adams ran through the corn towards the cloud of dust and found a hole in the soil; whereupon he hurried to the farmyard for a spade, and within a quarter of an hour of the fall had extracted a black, dense stone, which had penetrated the soil to the depth of one and a half feet and had been stopped by impact against a much larger terrestrial stone."
 
@@ -1126,11 +1126,11 @@ The theories of origin of meteorites may roughly be grouped under three headings
 
 Dr. H. C. Sorby* believed that particles of matter at the solar surface were collected together by gravitation, fused into masses, and ejected during violent disturbances. Meteorites, then, according to this theory were portions of the sun.
 
-*) 'Nature' 15. p. 497. 1877.
+*) _Nature_ 15. p. 497. 1877.
 
 Arrhenius* believes that the sun and stars by means of radiation-pressure are continually driving out small particles of cosmic "dust" into space and that these become mutually attracted, thereby in time forming larger or smaller aggregates in the shape of cosmic dust and meteorites.
 
-*) 'Worlds in the Making,' 1908. 'The Life of the Universe,' 1909.
+*) _Worlds in the Making_, 1908. _The Life of the Universe_, 1909.
 
 "By the action of radiation pressure small globules (spherical drops of matter) condensed in the solar atmosphere are pushed away from the sun and wander through space with velocities perhaps nearly equal to that of light. It is not improbable that the strange messengers from other worlds, the so-called meteorites, are composed of such spherules which had been driven into space. The meteorites are distinguished by an entirely peculiar structure and composition, from all the rocks and minerals known on earth, from the so-called plutonic, which have been formed by the congelation of the liquid interior of the earth, as well as from the neptunic which have been formed upon the bottom of the sea." "These little drops which are ejected and propelled by the sun will collect chiefly in the external portions of the nebulae which owe their luminescence to the electrically charged dust. In the intense cold of the nebulae the drops will condense part of these gases, in particular the hydro-carbons and carbon monoxide, upon their surface. When such masses collide with one another they will be cemented by these materials. In this way small drops of spherules will grow into meteorites, which will continue their migration through space."
 
@@ -1138,7 +1138,7 @@ Arrhenius* believes that the sun and stars by means of radiation-pressure are co
 
 According to P. Lowell* the solar system may have begun in a catastrophic approach of two dead and dark suns, not necessarily crashing into one another, but coming sufficiently close to set up tidal stresses resulting in each sun being torn into fragments.
 
-*) 'The Evolution of Worlds.' 'Mars as the Abode of Life.'
+*) _The Evolution of Worlds_. _Mars as the Abode of Life_.
 
 There would be a big mass and lesser ones and tiny fragments. The large central and the lesser masses would become hot and nebulous from the mutual clashings. Consequently the very small residual fragments would represent a condition of things before the origin of the nebular phase of the solar system! "These things — the meteorites — are the oldest bits of matter we may ever touch." "Here the meteorites tell us of another, an earlier stage of our solar system, one that mounts back to before even the nebula arose to which we owe our birth."
 
@@ -1148,7 +1148,7 @@ The meteorites "tell us of a nebula made up of meteorites out of which our plane
 
 Suess* is led to regard the meteorites as planetary fragments, possibly parts of an anonymous body once occupying the gap between Mars and Jupiter.
 
-*) 'The Face of the Earth' 4. p. 543. 1909.
+*) _The Face of the Earth_ 4. p. 543. 1909.
 
 (3) _Volcanic theories_. 
 
