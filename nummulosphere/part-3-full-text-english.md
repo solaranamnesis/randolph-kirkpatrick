@@ -62,17 +62,49 @@ London: Printed by William Clowes and Sons, Limited, Duke Street, Stamford Stree
 
 ##### [Chapter 6](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#chapter-6-1)
 
+###### [└─ Sedimentary Rocks](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#sedimentary-rocks)
+
 ##### [Chapter 7](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#chapter-7-1)
+
+###### [└─ Miscellanea](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#miscellanea)
 
 ##### [Chapter 8](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#chapter-8-1)
 
+###### [└─ Foraminifera](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#foraminifera)
+
+###### [└─ Nummulites](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#nummulites)
+
+###### [└─ On the Minute Structure of Nummulites](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#on-the-minute-structure-of-nummulites)
+
+###### [└─ On the Extinction of the Genus Nummulites](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#on-the-extinction-of-the-genus-nummulites)
+
 ##### [Chapter 9](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#chapter-9-1)
+
+###### [└─ The Nummulitic Structure of Igneous Rocks and Meteorites](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#the-nummulitic-structure-of-igneous-rocks-and-meteorites)
+
+###### [└─ Methods of Observation](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#methods-of-observation)
+
+###### [└─ 1. Igneous Rocks](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#1-igneous-rocks)
+
+###### [└─ 2. Meteorites](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#2-meteorites)
 
 ##### [Chapter 10](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#chapter-10-1)
 
+###### [└─ On Problems Relating to the Origin of Life](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#on-problems-relating-to-the-origin-of-life)
+
 ##### [Chapter 11](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#chapter-11-1)
 
+###### [└─ Stromatoporoids](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#stromatoporoids)
+
+###### [└─ Certain other Lithomorphs](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#certain-other-lithomorphs)
+
+##### [Summary](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#summary)
+
 ##### [Appendix](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#appendix-1)
+
+##### [Epilogue](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#epilogue)
+
+##### [Supplement](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#supplement)
 
 ##### [List of Plates, Guide Diagrams, and Figures](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#list-of-plates-guide-diagrams-and-figures-1)
 
