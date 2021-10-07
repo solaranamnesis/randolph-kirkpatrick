@@ -1308,13 +1308,13 @@ I find the brown-coloured "chondres" or spherules from oceanic abyssal deposits 
 
 *) I have to thank Mr. James Chumley for kind permission to make a microscopic preparation of one of these objects.
 
-I do not believe there is positive evidence of the existence on earth of any cosmic masses or particles that are of non-terrestrial origin.*
-
-*) O. C. Farrington (Meteorites, 1915) thinks the abundance of meteorites constitutes an objection to the theory of earthly origin. Meteorites could hardly be plentiful, or the market value would not be so high.
+I do not believe there is positive evidence of the existence on earth of any cosmic masses or particles that are of non-terrestrial origin.
 
 ###### Summary of Chapter 5
 
-Meteorites are mineralized and often ore-enriched lumps of nummulitic rock which have been ejected from volcanoes. On palaeontological and other grounds these bodies may be assumed to be of terrestrial origin.
+Meteorites are mineralized and often ore-enriched lumps of nummulitic rock which have been ejected from volcanoes. On palaeontological and other grounds these bodies may be assumed to be of terrestrial origin.*
+
+*) O. C. Farrington (Meteorites, 1915) thinks the abundance of meteorites constitutes an objection to the theory of earthly origin. Meteorites could hardly be plentiful, or the market value would not be so high.
 
 ##### Chapter 6
 
