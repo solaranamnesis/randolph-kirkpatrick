@@ -355,7 +355,7 @@ The Diatoms themselves have persisted as simple cells undergoing division, the h
 
 These minute siliceous algae have probably existed from near the time when the ocean was born and the sun began to shine on it perhaps millions of centuries ago. The actual frustules have not yet been found among igneous rocks, but the circumstantial evidence that the silica and silicates of those organic deposits is partly derived from Diatoms and Radiolaria is very strong.
 
-The proportion of soluble silica in sea-water is extremely small according to Murray and Irvine* one part in 200,000 to 500,000. These authors concluded that Diatoms obtained their silica from suspended clay. E. J. Allen's experiments on Diatom-culture,* apparently showing the necessity for the presence of certain vitamines in the seawater, reveal the complicated nature of the problem of metabolism in Diatoms.
+The proportion of soluble silica in sea-water is extremely small according to Murray and Irvine* one part in 200,000 to 500,000. These authors concluded that Diatoms obtained their silica from suspended clay. E. J. Allen's experiments on Diatom-culture,* apparently showing the necessity for the presence of certain vitamins in the seawater, reveal the complicated nature of the problem of metabolism in Diatoms.
 
 *) _On Silica in Seas_. Proc. Roy. Soc. Edinburgh, 18, p. 236, 1891. 
 
