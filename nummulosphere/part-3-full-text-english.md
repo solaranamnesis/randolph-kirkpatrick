@@ -58,6 +58,12 @@ London: Printed by William Clowes and Sons, Limited, Duke Street, Stamford Stree
 
 ##### [Chapter 5](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#chapter-5-1)
 
+###### [└─ Meteorites](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#meteorites)
+
+###### [└─ On the Ultra-basic Composition of the Meteorites](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#on-the-ultra-basic-composition-of-the-meteorites)
+
+###### [└─ Note on Shooting-stars and Comets](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#note-on-shooting-stars-and-comets)
+
 ###### [└─ Summary of Chapter 5](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#summary-of-chapter-5)
 
 ##### [Chapter 6](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#chapter-6-1)
