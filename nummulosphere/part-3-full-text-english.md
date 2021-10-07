@@ -1250,7 +1250,7 @@ Dr. G. T. Prior in a paper _On the remarkable similarity in chemical and mineral
 
 The sea is the common parent of benthoplankton, igneous rocks, and meteorites, these being one and the same material variously modified by time and circumstance.
 
-###### On the ultra-basic composition of the Meteorites
+###### On the Ultra-basic Composition of the Meteorites
 
 What first induced men of science to pay attention to the popular belief that meteorites were really sky-stones was the discovery that these bodies had approximately the same composition even though found in far-apart localities. Meteorites are ultra-basic, that is to say, there is only a low percentage of silicic acid (silica) and a high one of bases, especially of magnesium. A simple explanation now, I think, offers itself.
 
