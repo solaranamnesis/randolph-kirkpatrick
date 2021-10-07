@@ -982,7 +982,7 @@ The masses of pyroxene are often surrounded by a zone of banded limestone and se
 
 Igneous rocks are very ancient highly metamorphosed nummulitic limestones from which naturally all the original calcium carbonate has gone, although a good deal of calcium and even some imprisoned carbonic acid may remain.
 
-Iddings writes: "Calcium is one of the most abundant and wide-spread elements in igneous rocks, and enters into a great variety of compounds, the commonest of which are silicates."* The presence of calcalkalic felspars constitutes one of the chief characteristics of the great "Pacific petrographical province."*
+Iddings writes: "Calcium is one of the most abundant and wide-spread elements in igneous rocks, and enters into a great variety of compounds, the commonest of which are silicates."* The presence of calcalkalic feldspars constitutes one of the chief characteristics of the great "Pacific petrographical province."*
 
 *) _Igneous Rocks_ 1. p. 39. 1909.
 
@@ -1173,7 +1173,7 @@ Meteorites are covered with a thin usually black crust due to fusion of the oute
 
 The elements present in meteorites are the same as those known on earth, but some (_e.g._ phosphorus) occasionally exist in a free state, such as would be impossible under ordinary conditions on this planet.
 
-Meteorites contain well-known terrestrial minerals, _viz._ olivine, felspar (oligoclase), _etc._; and several which are unknown on earth, _viz._ troilite (proto-sulphide of iron), schreibersite (phosphide of iron and nickel), _etc._ They also contain gases occluded within their substance, _viz._ carbonic acid most abundant in aerolites, carbon monoxide abundant in siderites; also hydrogen, in greater volume in the former than in the latter.
+Meteorites contain well-known terrestrial minerals, _viz._ olivine, feldspar (oligoclase), _etc._; and several which are unknown on earth, _viz._ troilite (proto-sulphide of iron), schreibersite (phosphide of iron and nickel), _etc._ They also contain gases occluded within their substance, _viz._ carbonic acid most abundant in aerolites, carbon monoxide abundant in siderites; also hydrogen, in greater volume in the former than in the latter.
 
 The theories of origin of meteorites may roughly be grouped under three headings, _viz._:  
 (1) Accretion of particles.  
@@ -1246,13 +1246,13 @@ When we come to the volcanic theory, we must assume that the planet whence the m
 
 Meteorites contain minerals not only not known to exist on this earth, but which could not exist under ordinary conditions where water and oxygen are present. This fact, which at first sight might seem to dispose of the terrestrial theory, is by no means antagonistic. When conditions are varied in laboratory experiments, different results are obtained. In the case of meteorites Nature has performed an unusual experiment. In the course of a few seconds masses of mineral compounds (or metals) have been suddenly transferred from an environment subjected to heat and high pressure to one of intense cold and no pressure. Is it surprising that the companies of molecules suddenly thrust out of their familiar aqueous and gaseous environment have started making new alliances? Accordingly the existence in meteorites of minerals not actually known on earth is no valid argument against the terrestrial theory.
 
-On the other hand, the fact that aerolites are _mainly_ composed of pyroxene compounds, with a certain percentage of felspar and iron, is one rather in favour of an earthly origin. Prof. Judd* gives a diagram illustrating the relations between terrestrial rocks and meteorites (which last he designates extra-terrestrial). The aerolites, siderolites, and siderites closely compare respectively with enclosures in basalt, the basalt of Ovifak, Greenland, and the iron masses of Ovifak.
+On the other hand, the fact that aerolites are _mainly_ composed of pyroxene compounds, with a certain percentage of feldspar and iron, is one rather in favour of an earthly origin. Prof. Judd* gives a diagram illustrating the relations between terrestrial rocks and meteorites (which last he designates extra-terrestrial). The aerolites, siderolites, and siderites closely compare respectively with enclosures in basalt, the basalt of Ovifak, Greenland, and the iron masses of Ovifak.
 
 *) _Volcanoes_, p. 322.
 
 "The Asiderites" (aerolites without iron) "are quite identical in composition with the ultra-basic lavas of our globe" (Judd). Ultra-basic "nodules" of nearly the same composition as meteorites are found in basalt, and in the center of volcanic bombs.
 
-Dr. G. T. Prior in a paper _On the remarkable similarity in chemical and mineral composition of chondritic meteoric stones_* has pointed out "the practical identity in chemical composition of different meteoric stones." They contain 74 per cent. of silicate of magnesia and iron (Olivine and Bronzite), 10 per cent. of silicate of alumina, with sodium, calcium and a trace of potassium (soda-lime felspar), 15 per cent. iron alloys and protosulphide (nickeli-ferous iron and troilite) and 1 per cent. Chromite. Here are all the eight familiar elements of igneous rocks, of benthoplankton organisms and sea-water, _viz._, O. Si. Fe. Al. Mg. Ca. Na. K. Lockyer (_The Meteoritic Hypothesis_, p. 25) marks in italics the statement that magnesium is present in all siderites. It is also common in the sea, in limestone deposits formed in the sea, and in igneous rocks.
+Dr. G. T. Prior in a paper _On the remarkable similarity in chemical and mineral composition of chondritic meteoric stones_* has pointed out "the practical identity in chemical composition of different meteoric stones." They contain 74 per cent. of silicate of magnesia and iron (Olivine and Bronzite), 10 per cent. of silicate of alumina, with sodium, calcium and a trace of potassium (soda-lime feldspar), 15 per cent. iron alloys and protosulphide (nickeli-ferous iron and troilite) and 1 per cent. Chromite. Here are all the eight familiar elements of igneous rocks, of benthoplankton organisms and sea-water, _viz._, O. Si. Fe. Al. Mg. Ca. Na. K. Lockyer (_The Meteoritic Hypothesis_, p. 25) marks in italics the statement that magnesium is present in all siderites. It is also common in the sea, in limestone deposits formed in the sea, and in igneous rocks.
 
 *) See analyses of Baroti and Wittekranz meteorites. G. T. Prior, Min. Mag., 17., pp. 27, 31. 1913.
 
@@ -1368,7 +1368,7 @@ The green grains are either shapeless or in the form of casts of calcareous — 
 
 *) Murray and Renard: _Challenger Deep-Sea Deposits_, 1891, pp. 378-391.
 
-The most approved explanation is that the sediments of igneous rocks, especially those with potash felspar, permeate the shells as fine mud, and that the latter becomes decomposed by acid resulting from the action of organic matter.
+The most approved explanation is that the sediments of igneous rocks, especially those with potash feldspar, permeate the shells as fine mud, and that the latter becomes decomposed by acid resulting from the action of organic matter.
 
 A new feature of interest about this mineral is the discovery of persisting nummulitic structure. In some beautiful casts of decalcified _Rotalia_ and _Globigerina_ from the glauconitic core of Norwich potstones, I can clearly see the dotted disks. Thus we have Cretaceous (or other) Foraminifera filled with Foraminiferal débris of the ages when the igneous rocks were formed.
 
@@ -1427,7 +1427,7 @@ _Note on Precious Stones_.
 
 I have found traces of organic structure in several of the precious stones, _viz._, ruby, sapphire, emerald, garnet and diamond.
 
-The persistence of such traces may well seem almost incredible, but the careful examination of sections under high powers leaves me in no doubt. Rubies and sapphires consist of nearly pure alumina (Al₂O₃) with a trace of chromium. They come mostly from the lime-felspars of Burmah. The matrix of this rock has the usual nummulitic character.
+The persistence of such traces may well seem almost incredible, but the careful examination of sections under high powers leaves me in no doubt. Rubies and sapphires consist of nearly pure alumina (Al₂O₃) with a trace of chromium. They come mostly from the lime-feldspars of Burmah. The matrix of this rock has the usual nummulitic character.
 
 Anything visible even under the highest powers of the microscope is of Brobdingnagian proportions in "molecule-land." According to Lord Kelvin, a drop of water magnified to the size of the earth would reveal the molecules as objects smaller than cannon-balls but larger than shot. If owing to molecular change the Brobdingnagian nummulitic disks are composed of some highly intractable substance there is no reason why they should not escape destruction when subjected to very high temperature. Barbados earth, a nummulitic rock rich in Radiolaria, after boiling reveals the disk structures.
 
@@ -1701,7 +1701,7 @@ All calcareous Foraminiferal shells appear to be built of spirodisks. The primit
 
 "A vast thickness of solid rock... formed of little else than their remains." Carpenter, on the enormously thick and extensive deposits of Tertiary nummulites, his words being equally descriptive of igneous rocks.
 
-Nothing at first sight could appear more remote from anything of an organic nature than a lump of granite, seemingly a confused mass of quartz, felspar and mica. Apparently, too, the rock has once been in a molten or semi-molten condition, and has slowly cooled down and become crystallized under enormous pressure deep in the interior of the earth. Accordingly, in the apparent absence of direct evidence, it is not surprising that the significant hints afforded by oceanic biology and by geology concerning the genesis of the earth's crust have not been duly appreciated. Happily, however, the igneous rocks bear in themselves clear and positive evidence of their oceanic and organic origin during some remote aeon of the past. For they are not merely masses of minerals, but mineralized masses of nummulites.
+Nothing at first sight could appear more remote from anything of an organic nature than a lump of granite, seemingly a confused mass of quartz, feldspar and mica. Apparently, too, the rock has once been in a molten or semi-molten condition, and has slowly cooled down and become crystallized under enormous pressure deep in the interior of the earth. Accordingly, in the apparent absence of direct evidence, it is not surprising that the significant hints afforded by oceanic biology and by geology concerning the genesis of the earth's crust have not been duly appreciated. Happily, however, the igneous rocks bear in themselves clear and positive evidence of their oceanic and organic origin during some remote aeon of the past. For they are not merely masses of minerals, but mineralized masses of nummulites.
 
 The failure to detect the prevailing nummulitic nature of the earth's crust notwithstanding the countless observations on rocks and rock-sections is indeed a strange phenomenon, and one worth enquiring into.
 
@@ -1751,7 +1751,7 @@ The igneous rocks have once been semi-molten or molten. Those masses which have 
 
 *) Plutonic rocks now at the surface have been uncovered owing to denudation. The macro-crystalline nature is in itself a proof of slower cooling and therefore of a former deep-seated position.
 
-The condition of the nummulite shells of volcanic, intermediate and plutonic rocks naturally varies correspondingly. The nummulites of volcanic rocks will have a glassy ground-mass usually with innumerable small embedded crystals which to some extent map out the various structures of the shell. A plutonic nummulite, on the other hand, may be wholly formed of quartz or felspar, but usually of several little masses of minerals.
+The condition of the nummulite shells of volcanic, intermediate and plutonic rocks naturally varies correspondingly. The nummulites of volcanic rocks will have a glassy ground-mass usually with innumerable small embedded crystals which to some extent map out the various structures of the shell. A plutonic nummulite, on the other hand, may be wholly formed of quartz or feldspar, but usually of several little masses of minerals.
 
 A short description will now be given of the nummulitic features of a few typical examples of igneous rocks.
 
@@ -1791,9 +1791,9 @@ A rhombic porphyry picked up on the Yorkshire coast, and forming part of an erra
 
 E. _Cornish Granite from De Lank Quarry_.
 
-The De Lank is a typical grey granite with quartz, felspar and mica. On weathered blocks I can see outlines of large shells, especially in the rotten felspar, in which sections of spiral lamina and pillar-ends can be made out without much difficulty.
+The De Lank is a typical grey granite with quartz, feldspar and mica. On weathered blocks I can see outlines of large shells, especially in the rotten feldspar, in which sections of spiral lamina and pillar-ends can be made out without much difficulty.
 
-The shell-structure is best preserved, or, rather, best seen, in the felspar, but it is possible to detect it even in quartz and mica.
+The shell-structure is best preserved, or, rather, best seen, in the feldspar, but it is possible to detect it even in quartz and mica.
 
 As in the case of Clee Hill dolerite, the organic structure is preserved in the smallest particles of earth or clay, and can be seen under very high magnification. (Plate 18. A, B.)
 
@@ -2960,7 +2960,7 @@ Plate 2D — _Eozoön_ and granites.
 
 [Plate 2D: Figure 11](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2D-Figure11.png) — Cornish granite. Three marginal cords passing obliquely downwards from left to right and alars at right angles. I can see better by reversing figure. The curve of a broad ridged marginal cord can be followed from middle of the then right edge near circular patch. With lens 3x circular granular disks are clearly visible lying across cord, also faintly two fan-like septa with semicircular edge in oblique projection, 65x.
 
-[Plate 2D: Figure 12](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2D-Figure12.png) — Cornish granite. Rhomboidal felspar crystal to left of center shows ⅛ inch (3 mm.) above middle of lower left border and well between two parallel dark streaks a spiral rim (1 mm. diam.) with cog-like light and dark flecks. On left are two much larger concentric rims with radial "septa" and "alars." The upper dark streak, nearly tangential to inner of these, stabs five septa, 3x. Lens necessary.
+[Plate 2D: Figure 12](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2D-Figure12.png) — Cornish granite. Rhomboidal feldspar crystal to left of center shows ⅛ inch (3 mm.) above middle of lower left border and well between two parallel dark streaks a spiral rim (1 mm. diam.) with cog-like light and dark flecks. On left are two much larger concentric rims with radial "septa" and "alars." The upper dark streak, nearly tangential to inner of these, stabs five septa, 3x. Lens necessary.
 
 [Plate 2D: Figure 13](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2D-Figure13.png) — Cornish granite. Photo poor but showing about center of photo in oblique-vertical perspective three coils (respectively 2, 4 and 9 mm. in diameter) of central part of a shell; also radial septa ; second coil like a thick-rimmed ring. 6x.
 
