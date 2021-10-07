@@ -1983,7 +1983,7 @@ The characters available for a classification of lithomorphs are shape and struc
 
 Group 1. Concentric. Structure predominantly concentric, or spiral; shape spherical or oval. Examples: _Parkeria_, _etc._, _Loftusia_, oolite* and pisolite, final stage of certain Fulwell concretions.
 
-*) Oolite grains may have "a concentric and radiate, or simply a concentric or radiate structure." Mem. Geol. Survey. 4. 1894. _Lower Oolitic Rocks of England_, p. 6. All the figures show the completely and the predominantly concentric types. Some Parkeria-patterns, too, might almost be classified as radial.
+*) Oolite grains may have "a concentric and radiate, or simply a concentric or radiate structure." Mem. Geol. Survey. 4. 1894. _Lower Oolitic Rocks of England_, p. 6. All the figures show the completely and the predominantly concentric types. Some _Parkeria_-patterns, too, might almost be classified as radial.
 
 Group 2. Radial. Structure predominantly radial, shape various.
 
@@ -2132,13 +2132,13 @@ Postscript. — Perhaps the best and simplest method of detecting the nummulitic
 
 ###### Certain other Lithomorphs
 
-Parkeria and Loftusia
+_Parkeria_ and Loftusia
 
-In the Philosophical Transactions for 1869 Carpenter and Brady wrote a joint memoir entitled _Description of Parkeria and Loftusia, two gigantic types of Arenaceous Foraminifera_, illustrated by nine plates, _Parkeria_ being described by Carpenter, and _Loftusia_ by Brady. Since the memoir was published, various other opinions have been held concerning these types, which have been regarded as porcellanous Foraminifera and as Hydrozoa.
+In the Philosophical Transactions for 1869 Carpenter and Brady wrote a joint memoir entitled _Description of _Parkeria_ and Loftusia, two gigantic types of Arenaceous Foraminifera_, illustrated by nine plates, _Parkeria_ being described by Carpenter, and _Loftusia_ by Brady. Since the memoir was published, various other opinions have been held concerning these types, which have been regarded as porcellanous Foraminifera and as Hydrozoa.
 
 The structure and pattern are so remarkable that it is not surprising their real nature has been misunderstood. It scarcely seems credible that the wonderful lace-like patterns seen in the sections could have been fashioned by purely physical agencies, yet such is the fact.
 
-Parkeria
+_Parkeria_
 
 In the Upper Cretaceous formation known as Cambridge Greensand there are found spherical stone balls about half an inch to nearly three inches in diameter, with smooth or slightly papillated surface (Plate 5. A, Fig. D). The fractured surfaces of a broken ball often show no structure or very little, but polished sections or thin slices reveal a beautiful pattern of concentric circles and radial spokes in a translucent matrix (Plate 6). Between the circles and surrounding the radii there are labyrinthine networks of lace-like traceries. Sometimes in the centre of the sphere there is a conical area with several horizontal platforms, or there may be _débris_ of sand and sponge spicules, or again no noticeable structure or material. The balls are commonly composed of carbonate of lime, the "fibres" being opaque or semi-crystalline, and the "spaces" transparent and crystalline. Sometimes both fibres and spaces may be made of phosphate of lime. Again, the fibres may be of phosphate of lime and the spaces empty, or the spaces may be filled with silica.
 
@@ -2162,19 +2162,19 @@ Steinmann* and Zittel* placed _Parkeria_ among the Hydrozoa.
 
 *) _Grundzüge_, 1910, p. 119.
 
-Numerous and very careful observations of specimens and sections have shown me beyond any doubt that specimens of _Parkeria_ are lithomorphic lumps of nummulitic limestone, with the nummulites almost obliterated, and with the lithomorph pattern in the form of concentric zones and radial spokes. I can actually see with the naked eye the faint circular and oval outlines of nummulites about an inch in diameter on the surface of a large specimen in the Natural History Museum. A lens (10x) shows some of the structure of the worn-down shells, _viz._ edges of spiral lamina, radial alar prolongations, and traces of willow pattern. Under high powers, too, I can see series of nummulitic disk structures both in the "fibres" and in the "spaces." Parkeria then is a lithomorph of similar nature to an oolitic granule, but the latter is only a minute part of one shell, and the former a mass of many shells.
+Numerous and very careful observations of specimens and sections have shown me beyond any doubt that specimens of _Parkeria_ are lithomorphic lumps of nummulitic limestone, with the nummulites almost obliterated, and with the lithomorph pattern in the form of concentric zones and radial spokes. I can actually see with the naked eye the faint circular and oval outlines of nummulites about an inch in diameter on the surface of a large specimen in the Natural History Museum. A lens (10x) shows some of the structure of the worn-down shells, _viz._ edges of spiral lamina, radial alar prolongations, and traces of willow pattern. Under high powers, too, I can see series of nummulitic disk structures both in the "fibres" and in the "spaces." _Parkeria_ then is a lithomorph of similar nature to an oolitic granule, but the latter is only a minute part of one shell, and the former a mass of many shells.
 
-If I had believed in the fossil nature of Parkeria and of Beatricea I would probably have made the former a synonym of the latter. The supposed central Ammonite or tabulated cone of Parkeria may be compared with the hollow tabulated space in Beatricea; and the concentric wavy pattern of the latter is rather like that of the Parkeria pattern, though less elaborate. It is significant too that A. Hyatt regarded Beatricea as a Cephalopod! Again, Carter describes a _Parkeria nodosa_, and Billings a _Beatricea nodulosa_.
+If I had believed in the fossil nature of _Parkeria_ and of Beatricea I would probably have made the former a synonym of the latter. The supposed central Ammonite or tabulated cone of _Parkeria_ may be compared with the hollow tabulated space in Beatricea; and the concentric wavy pattern of the latter is rather like that of the _Parkeria_ pattern, though less elaborate. It is significant too that A. Hyatt regarded Beatricea as a Cephalopod! Again, Carter describes a _Parkeria nodosa_, and Billings a _Beatricea nodulosa_.
 
 Many circumstances conspired to deceive investigators, but especially the apparent existence of "fibres" and "spaces"; and when specimens were found with empty spaces between fibres, and with spaces filled in with silica, the deception became complete.
 
-The genesis of Parkeria may have been somewhat as follows: a nummulitic limestone permeated by water charged with carbonic acid and super-saturated with carbonate of lime; lowering of solvent power, and deposition of the lime in concentric and radial precipitations over sundry areas; occasional dissolving out of the more soluble spaces between the less soluble fibres, the spaces being left empty or filled in with silica; and segregation of the hard spheres from the softer matrix.
+The genesis of _Parkeria_ may have been somewhat as follows: a nummulitic limestone permeated by water charged with carbonic acid and super-saturated with carbonate of lime; lowering of solvent power, and deposition of the lime in concentric and radial precipitations over sundry areas; occasional dissolving out of the more soluble spaces between the less soluble fibres, the spaces being left empty or filled in with silica; and segregation of the hard spheres from the softer matrix.
 
-In the Geological Survey Memoir, _Cretaceous Rocks_, 1., 1900, Parkeria is recorded as a Hydrozoan, and the Cambridge Greensand specimens as "derived" fossils. Even so, the spherical shape is due primarily rather to the concretionary nature of the objects than to the fact of their having been rolled about.
+In the Geological Survey Memoir, _Cretaceous Rocks_, 1., 1900, _Parkeria_ is recorded as a Hydrozoan, and the Cambridge Greensand specimens as "derived" fossils. Even so, the spherical shape is due primarily rather to the concretionary nature of the objects than to the fact of their having been rolled about.
 
-Green (? glauconitic) grains are common in Parkeria, as also, and to a much greater extent, in the nummulite zone of the Lower Barton Beds.
+Green (? glauconitic) grains are common in _Parkeria_, as also, and to a much greater extent, in the nummulite zone of the Lower Barton Beds.
 
-There are Fulwell concretions very similar to Parkeria, but without the finer traceries (Fig. 32). In both the Permian and Cretaceous lithomorphs the matrix is nummulitic.
+There are Fulwell concretions very similar to _Parkeria_, but without the finer traceries (Fig. 32). In both the Permian and Cretaceous lithomorphs the matrix is nummulitic.
 
 Loftusia 
 
@@ -2188,7 +2188,7 @@ Brady compares Loftusia to a loosely rolled scroll (of paper) drawn together at 
 
 *) G. M. Dawson (A.M.N.H. (5), 2., p. 344, 1878) describes a small species, _L. columbiana_ (8 x 5 mm.), from the Carboniferous limestone of Frazer River, B.C. Whether the supposed fossil is a Foraminiferan or a lithomorph I do not know.
 
-As in the case of Parkeria, these oval bodies are simply concretionary lumps of Foraminiferal, mainly nummulitic, limestone, with a lithomorphic pattern. It required long and patient observation to enable me to distinguish the nearly obliterated nummulitic structure but the latter exists throughout the lumps. The smaller Foraminifera are not particles collected by a gigantic species, but simply smaller species, existing in a Foraminiferal deposit composed chiefly of nummulites.
+As in the case of _Parkeria_, these oval bodies are simply concretionary lumps of Foraminiferal, mainly nummulitic, limestone, with a lithomorphic pattern. It required long and patient observation to enable me to distinguish the nearly obliterated nummulitic structure but the latter exists throughout the lumps. The smaller Foraminifera are not particles collected by a gigantic species, but simply smaller species, existing in a Foraminiferal deposit composed chiefly of nummulites.
 
 Among the Fulwell specimens exhibited in the Natural History Museum there is an oval concretion, but with large rounded ends and very probably without the pattern. Some of the Loftusias also have rounded ends.
 
@@ -2232,7 +2232,7 @@ Sections of Cyclocrinus from the Ordovician of Estland, East Baltic, show these 
 
 Sometimes adjoining circles in contact are incomplete, one pressing into the other. Sections show the nummulitic structure passing continuously from the circles to the embedding matrix.
 
-Cyclocrinus is a concretionary lithomorph and owes its structure to the action of physical causes. A comparison with other lithomorphs such as Receptaculites, Parkeria, Fulwell concretions, _etc._, will, I think, explain the course of "evolution" of this marvellous lithomorph. In some of the Fulwell concretions, as Mr. G. Abbott has shown, there is an initial stage with pillars radiating from an excentric point. Sometimes the densely-packed radial pillars have radial spaces between them, the pillars themselves being as walls to those spaces, so that an appearance of radial tubes arises. Further in the apparent course of evolution of certain mince-pie-shaped concretions, Mr. Abbott found that the pillars _disappeared_ and that they were replaced by concentric laminae. In Cyclocrinus there are densely-packed lance-shaped rods with fine radial spaces between. The ends of the radii surround the ends of the spaces, which are usually hemispherical. Sometimes the radial spaces open out gradually as in "Coelosphaeridium," but in Cyclocrinus the spaces open abruptly, by means of a circular pore, into the floor of a hemispherical cup; or rather it should be said that the radial linear spaces expand suddenly into hemispherical spaces.
+Cyclocrinus is a concretionary lithomorph and owes its structure to the action of physical causes. A comparison with other lithomorphs such as Receptaculites, _Parkeria_, Fulwell concretions, _etc._, will, I think, explain the course of "evolution" of this marvellous lithomorph. In some of the Fulwell concretions, as Mr. G. Abbott has shown, there is an initial stage with pillars radiating from an excentric point. Sometimes the densely-packed radial pillars have radial spaces between them, the pillars themselves being as walls to those spaces, so that an appearance of radial tubes arises. Further in the apparent course of evolution of certain mince-pie-shaped concretions, Mr. Abbott found that the pillars _disappeared_ and that they were replaced by concentric laminae. In Cyclocrinus there are densely-packed lance-shaped rods with fine radial spaces between. The ends of the radii surround the ends of the spaces, which are usually hemispherical. Sometimes the radial spaces open out gradually as in "Coelosphaeridium," but in Cyclocrinus the spaces open abruptly, by means of a circular pore, into the floor of a hemispherical cup; or rather it should be said that the radial linear spaces expand suddenly into hemispherical spaces.
 
 The areas which cover the spaces at the surface become differentiated out as hexagonal lids, on each of which patterns arise.
 
@@ -2282,7 +2282,7 @@ The "wall" is a peripheral zone which has retained some of the radial and concen
 
 In the _Polygonosphaerites_-type of receptaculite the radial element is wanting. In the Ischadites type the wall is very thick and the central "cavity" relatively small. The centre whence the radial pillars radiate in receptaculites and kindred bodies is usually excentric.
 
-Frequently these ancient lithomorphs are stalked. The continuation of the homogeneous stalk structure into the interior point whence radii originate, may be compared with a variety of "phragmacone" in Parkeria (Fig. 35 _i_).
+Frequently these ancient lithomorphs are stalked. The continuation of the homogeneous stalk structure into the interior point whence radii originate, may be compared with a variety of "phragmacone" in _Parkeria_ (Fig. 35 _i_).
 
 G. Abbott finds the surface of the biconvex Permian concretions rough and tuberculated in the first stage. A Permian body exhibited in the Natural History Museum has a facetted surface, but somewhat irregular, it is true.
 
@@ -2354,7 +2354,7 @@ Thanks to the courtesy of Dr. Stolley I have some authentic pieces of limestone 
 
 Mitcheldeania
 
-This form was first described from the Carboniferous marly limestone at Mitcheldean by E. Wethered, who writes (Geol. Mag. 1886, p. 535): "The organism consists of a series of concentrically arranged layers or laminae penetrated by systems of tubuli... The tubuli are separated by the skeleton fibre, which is itself penetrated by a minute canal system." Mr. Wethered refers the genus to Stromatoporoids; and records the opinions of experts who pointed out to him the resemblances to Parkeria and Girvanella.
+This form was first described from the Carboniferous marly limestone at Mitcheldean by E. Wethered, who writes (Geol. Mag. 1886, p. 535): "The organism consists of a series of concentrically arranged layers or laminae penetrated by systems of tubuli... The tubuli are separated by the skeleton fibre, which is itself penetrated by a minute canal system." Mr. Wethered refers the genus to Stromatoporoids; and records the opinions of experts who pointed out to him the resemblances to _Parkeria_ and Girvanella.
 
 I collected specimens of marly limestone from the quarry at Mitcheldean whence Mr. Wethered got his material, and have examined a microscopic slide of _Mitcheldeania nicholsoni_ Wethered, presented by Mr. Wethered himself.
 
@@ -2386,7 +2386,7 @@ Owing to the kindness of Prof. A. W. Gibb of the University of Aberdeen, I had t
 
 Girvanella is beyond any shadow of doubt a pattern in nummulitic limestone. With careful observation it is possible to detect the nummulitic structure beneath and in the pattern and continuing into the surrounding clear part of the limestone. One feature can soon be made out under a power of about 400 diameters, _viz._, a finely punctate appearance due to the disk-structure, each dark point being surrounded by a circle. The successive "disks," furrowed marginal cord, septa, alar prolongations, _etc._, all require great patience for their detection, but they exist.
 
-The sets of parallel curved tubes or bands common in Girvanella are formed by curved, furrowed and banded marginal cord. The rows of little circles (mistaken by some observers for cells of blue-green algae) belong to bases of septa astride of the cord, or to the ends of fan-like septa. Accordingly, although Girvanella is a concretionary structure, the pattern is not quite in the same category as those radio-concentric ones that are independent of nummulitic structure, _e.g._ Parkeria, simple oolite granules (without Girvanella pattern), _etc._
+The sets of parallel curved tubes or bands common in Girvanella are formed by curved, furrowed and banded marginal cord. The rows of little circles (mistaken by some observers for cells of blue-green algae) belong to bases of septa astride of the cord, or to the ends of fan-like septa. Accordingly, although Girvanella is a concretionary structure, the pattern is not quite in the same category as those radio-concentric ones that are independent of nummulitic structure, _e.g._ _Parkeria_, simple oolite granules (without Girvanella pattern), _etc._
 
 Girvanella, then, is a pattern in _chiaroscuro_ — mainly _oscuro_. The nummulitic structure perhaps influences the form of that pattern, and I doubt whether Girvanella could form in any other limestone than a nummulitic one.
 
@@ -3016,7 +3016,7 @@ Plate 5 — Permian concretions and Devonian stromatoporoids.
 
 [Plate 5: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5-FigureD.png) — Permian concretions (Fulwell) and Devonian Stromatoporoids compared. The Stromatoporoid _Idiostroma oculatum_. Devonian of Buchel. About natural size.
 
-Plate 5A — Specimens of Parkeria, Loftusia, Syringosphaeria.
+Plate 5A — Specimens of _Parkeria_, Loftusia, Syringosphaeria.
 
 [Plate 5A: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5A-FigureA.png) — _Loftusia persica_, whole and in section. All natural size.
 
@@ -3024,15 +3024,15 @@ Plate 5A — Specimens of Parkeria, Loftusia, Syringosphaeria.
 
 [Plate 5A: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5A-FigureC.png) — Syringosphaeria, a Karakoram stone. All natural size.
 
-[Plate 5A: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5A-FigureD.png) — Parkeria. All natural size.
+[Plate 5A: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate5A-FigureD.png) — _Parkeria_. All natural size.
 
-Plate 6 — Sections of Parkeria.
+Plate 6 — Sections of _Parkeria_.
 
-[Plate 6: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate6-FigureA.png) — Sections of Parkeria. Unpolished and polished surfaces viewed by reflected light 4x.
+[Plate 6: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate6-FigureA.png) — Sections of _Parkeria_. Unpolished and polished surfaces viewed by reflected light 4x.
 
-[Plate 6: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate6-FigureB.png) — Sections of Parkeria. Unpolished and polished surfaces viewed by reflected light 4x.
+[Plate 6: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate6-FigureB.png) — Sections of _Parkeria_. Unpolished and polished surfaces viewed by reflected light 4x.
 
-[Plate 6: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate6-FigureC.png) — Sections of Parkeria. Section viewed by transmitted light 5x.
+[Plate 6: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate6-FigureC.png) — Sections of _Parkeria_. Section viewed by transmitted light 5x.
 
 Plate 11 — Chalk, flint, _Eozoön_, granite, Barbados earth.
 
@@ -3308,13 +3308,13 @@ If the pictures fail to convince — though C-G are fairly good — it is only n
 
 [Figure 31](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig31.png) — From slide of _Stromatopora concentrica_. Part of nummulite in transverse section, showing willow pattern, the spiral lamina and pillars; 100x.
 
-[Figure 32](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig32.png) — Fulwell concretion resembling Parkeria. ⅔ nat. size.
+[Figure 32](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig32.png) — Fulwell concretion resembling _Parkeria_. ⅔ nat. size.
 
 [Figure 33](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig33.png) — _Loftusia persica_. Half of section, 3x.
 
 [Figure 34](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig34.png) — Portland oolite. From photo of rough surface of piece of rock. 3x.
 
-[Figure 35](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig35.png) — Some remarkable lithomorphs. _a_, Cyclocrinus, 4x; _b_, section of Coelosphaeridium, 2x; _c_, section of Cyclocrinus, 2.5x; _d_, lids of Cyclocrinus 8x; _e_, ditto, another pattern, 12.5x; _f_, Silurian limestone of Estland, showing sections of three specimens in contact, without radials (N.H.M., Bather), nat. size; _g_, _h_, _Ischadites murchisoni_, rough copy after Rauff; _i_, Parkeria, with conical axial body; _j_, Fulwell concretion, section showing central concentric and peripheral radial-tubular structure, ½x, after G. Abbott. Figs. _a_-_e_, after Dr. Stolley.
+[Figure 35](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig35.png) — Some remarkable lithomorphs. _a_, Cyclocrinus, 4x; _b_, section of Coelosphaeridium, 2x; _c_, section of Cyclocrinus, 2.5x; _d_, lids of Cyclocrinus 8x; _e_, ditto, another pattern, 12.5x; _f_, Silurian limestone of Estland, showing sections of three specimens in contact, without radials (N.H.M., Bather), nat. size; _g_, _h_, _Ischadites murchisoni_, rough copy after Rauff; _i_, _Parkeria_, with conical axial body; _j_, Fulwell concretion, section showing central concentric and peripheral radial-tubular structure, ½x, after G. Abbott. Figs. _a_-_e_, after Dr. Stolley.
 
 [Figure 36](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig36.png) — _Receptaculites reticulatus_. Silurian, Niagara group. (P. 6514, N.H.M.) 1⅓x.
 
