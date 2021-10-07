@@ -212,7 +212,7 @@ When the fallacy of Werner's coal-combustion theory of volcanoes was detected,* 
 
 *) Bull. Mus. Comp. Zool. Harvard, 1884, 7. p. 534. J. D. Whitney and M. E. Wadsworth, _The Azoic System_.
 
-Volcanoes and lava streams are heaps and masses of silicated nummulitic limestone, i.e., they are of aqueous and organic origin. All the rest of the igneous rocks are of a similar nature and origin. Seeing that these rocks and the sediments derived from them constitute the bulk of the planetary crust, it follows that the lithosphere is mainly composed of silicated nummulitic rock. It will be shown that the ocean floor is almost certainly formed of nummulitic deposits, even in areas covered with recent plankton dust.
+Volcanoes and lava streams are heaps and masses of silicated nummulitic limestone, _i.e._, they are of aqueous and organic origin. All the rest of the igneous rocks are of a similar nature and origin. Seeing that these rocks and the sediments derived from them constitute the bulk of the planetary crust, it follows that the lithosphere is mainly composed of silicated nummulitic rock. It will be shown that the ocean floor is almost certainly formed of nummulitic deposits, even in areas covered with recent plankton dust.
 
 Eocene nummulitic limestones thousands of feet thick extend across north-west Africa, Europe and Asia, from Morocco and Spain to Japan, forming the middle and upper parts of great mountain-chains. This "nummulitic epoch" is not an isolated event, for nearly the whole planetary crust is made of nummulitic rocks in the form of chalk and other limestones and igneous rocks. Rocks are sometimes classified as fossiliferous and unfossiliferous, but all are fossiliferous. Again, they are classed as igneous, sedimentary and precipitated; but igneous rocks _are_ precipitated, and sedimentary rocks are precipitated rocks ground down. Really, then, there is, broadly speaking, one rock, _viz._, benthoplankton.
 
@@ -363,7 +363,7 @@ The Diatoms and zooxanthellae depend on sunshine. Accordingly, I was led to modi
 
 Summary 
 
-At the present day oceanic life depends on the simple plant vegetation at the surface, and especially on the Diatoms, and there is every reason to believe this relation has held good almost from the beginning of geological time i.e. the beginning of the formation of the earth's crust.
+At the present day oceanic life depends on the simple plant vegetation at the surface, and especially on the Diatoms, and there is every reason to believe this relation has held good almost from the beginning of geological time _i.e._ the beginning of the formation of the earth's crust.
 
 The surface life of the ocean has been an important source of the silica which forms a great part of the lithosphere. The planetary crust is mainly a product* of the evolution of life.
 
@@ -430,9 +430,9 @@ Even if the deposit had only this small depth, it would be assuming a good deal 
 
 As stated above, human ingenuity has only succeeded in penetrating "nearly two feet" into the deposit. What are the grounds, then, for supposing that deposit to be thousands of feet thick?
 
-New facts have recently come to light showing that the vast bulk* of the emerged or land area of the planetary crust is a deposit of nummulites. Certainly one third, and almost certainly the whole, of the oceanic area of the planetary crust is formed of a clay composed of silicated nummulites (admittedly derived in small part from land volcanoes). The difference between the emerged and submerged areas is simply one of position. Essentially and fundamentally they are identical, i.e. they are parts of a probably universal benthoplankton deposit of silicated nummulites.
+New facts have recently come to light showing that the vast bulk* of the emerged or land area of the planetary crust is a deposit of nummulites. Certainly one third, and almost certainly the whole, of the oceanic area of the planetary crust is formed of a clay composed of silicated nummulites (admittedly derived in small part from land volcanoes). The difference between the emerged and submerged areas is simply one of position. Essentially and fundamentally they are identical, _i.e._ they are parts of a probably universal benthoplankton deposit of silicated nummulites.
 
-*) I.e. igneous rocks and their sediments and most of the marine limestones.
+*) _I.e._ igneous rocks and their sediments and most of the marine limestones.
 
 Nature has not only helped us to understand the nature of the submerged ocean floor by pushing up above the water 54,000,000 of square miles of the crust of the globe for comparison, but by means of submarine eruptions she has provided us with materials, otherwise wholly unobtainable, from regions deep below the abyssal floor.
 
@@ -466,7 +466,7 @@ The mean height of the land* is only 375 fathoms, the mean depth of the ocean 20
 
 At the present day five-sevenths of the area of the globe is covered with ocean. The remaining two-sevenths or land area would be submerged by a rise of between one and two thousand fathoms in the ocean bed; and it must be remembered that the land has not been stationary, but has actually been submerged.
 
-Some astronomers believe the earth will in course of time become waterless like the moon. If this be so, as the earth is already very old, this drying up process may by this time have made some progress. C. L. Bloxam (_Chemistry_, ed. 3, p. 39) writes: "In its chemical relations water presents this very remarkable feature, that although it is an indifferent oxide" (i.e. neither acid nor basic) "its combining tendencies extend over a wider range than those of any other compound." Many minerals hold more or less permanently in the solid state water of crystallization and of constitution.
+Some astronomers believe the earth will in course of time become waterless like the moon. If this be so, as the earth is already very old, this drying up process may by this time have made some progress. C. L. Bloxam (_Chemistry_, ed. 3, p. 39) writes: "In its chemical relations water presents this very remarkable feature, that although it is an indifferent oxide" (_i.e._ neither acid nor basic) "its combining tendencies extend over a wider range than those of any other compound." Many minerals hold more or less permanently in the solid state water of crystallization and of constitution.
 
 Again, living substance has extracted a vast quantity of solids from the "universal solvent" to form the planetary crust. Accordingly there was more liquid and less solid at one time than there is now, the solid kernel of the globe having been smaller to the extent of the thickness of the lithosphere, and the ocean mantle deeper.
 
@@ -628,7 +628,7 @@ Dr. H. Rauff* was right in refusing to believe in the Radiolarian nature of the 
 
 *) Quart. Journ. Geol. Soc., vol. 51, p. 631. 1895.
 
-In the case of very ancient formations it seems to me improbable that Radiolaria (or any other siliceous plankton) could have escaped being dissolved. Accordingly I think the Radiolaria described by David and Howchin* from Precambrian rocks of South Australia may be of the same nature as the supposed Radiolaria in the Precambrian phthanites of Brittany, i.e., that they may be nummulitic structures. We find then that eminent microgeologists have seen in some of the older rocks certain appearances which they have mistaken for Radiolaria. Precisely the same appearances will be found in igneous rocks and meteorites. Dissolved silica of plankton organisms and, perhaps, of sponges has diffused itself through the benthos deposits of nummulitic shells replacing the lime. The sections of pillars, marginal cord and chamber-walls of these mineralized shells frequently present a striking resemblance to Spumellarian and Nassellarian Radiolaria and to Diatoms.*
+In the case of very ancient formations it seems to me improbable that Radiolaria (or any other siliceous plankton) could have escaped being dissolved. Accordingly I think the Radiolaria described by David and Howchin* from Precambrian rocks of South Australia may be of the same nature as the supposed Radiolaria in the Precambrian phthanites of Brittany, _i.e._, that they may be nummulitic structures. We find then that eminent microgeologists have seen in some of the older rocks certain appearances which they have mistaken for Radiolaria. Precisely the same appearances will be found in igneous rocks and meteorites. Dissolved silica of plankton organisms and, perhaps, of sponges has diffused itself through the benthos deposits of nummulitic shells replacing the lime. The sections of pillars, marginal cord and chamber-walls of these mineralized shells frequently present a striking resemblance to Spumellarian and Nassellarian Radiolaria and to Diatoms.*
 
 *) Proc. Linn. Soc. N.S.W. 1896, p. 571.
 
@@ -826,7 +826,7 @@ _Eozoön_ has been a twofold source of error. Firstly there was the mistake for 
 
 It was a case of denying not merely the organic nature of _Eozoön_ _qua_ _Eozoön_, but also an organic origin of any sort. As these authors expressly state, their "Azoic System" comprised a series of the earliest rocks which had, according to them, never been anything else than azoic. I have already given reasons for my conviction (_Nummulosphere_ 1) that there is no "azoic system" accessible to investigation. Numerous later observations have confirmed this view.
 
-King and Rowney (Q.J.G.S. _l.c._ p. 216) regard _Eozoön_ as having "existed at one time as hornblendic or augitic gneiss, and that it is primarily of sedimentary origin," i.e. an azoic sediment derived from azoic rocks. Johnston-Lavis and Gregory (_l.c._) consider _Eozoön_ to be derived from igneous magmas, _i.e._ to be azoic.
+King and Rowney (Q.J.G.S. _l.c._ p. 216) regard _Eozoön_ as having "existed at one time as hornblendic or augitic gneiss, and that it is primarily of sedimentary origin," _i.e._ an azoic sediment derived from azoic rocks. Johnston-Lavis and Gregory (_l.c._) consider _Eozoön_ to be derived from igneous magmas, _i.e._ to be azoic.
 
 _Eozoön_ is not an organism any more than is a lump of chalk or flint, but at the same time it resembles those objects in being of organic origin. For they are all masses of Foraminiferal shells, not much altered in the chalk, solidly silicified in the flint and silicated in zones in the "_Eozoön_." Seeing that _Eozoön_ is neither a giant Foraminiferan nor an object of purely mineral origin, its story may justly be described as that of a double delusion.* As in so many controversies there were truth and error on both sides. The present theory will effect a reconciliation.
 
@@ -882,7 +882,7 @@ Scattered over the face of the world are mountains of a very peculiar nature. Th
 
 The volcanic mountain, which is an accumulation of ejecta round a pipe leading deep beneath the surface, is not an essential feature. Sometimes the molten rock has welled up through one or many fissures in the ground. In Iceland in 1783 a great flood of lava poured out through a fissure twenty miles long and only a few feet wide in places, and submerged the country for a distance of forty miles from the source.
 
-Desmarest and Hutton showed basalt and granite to be rocks which had once been molten like lava, i.e., they were "igneous" rocks which had been pressed upwards into and, to a greater or less extent, through the earth's crust.
+Desmarest and Hutton showed basalt and granite to be rocks which had once been molten like lava, _i.e._, they were "igneous" rocks which had been pressed upwards into and, to a greater or less extent, through the earth's crust.
 
 The emission of lava through the surface is merely one feature of igneous activity, the latter consisting essentially in the ascent of molten rock into the overlying crust.
 
@@ -1378,7 +1378,7 @@ For aeons a simple universal rhizopodal "bathybius"* has been building a scaffol
 
 *) The meaning of "bathybius" here differs slightly from that of the term as originally employed. It is not a case of a continuous plasmodium of protoplasm, but of a layer of little separate masses.
 
-*) F. Ratzel (_Anthropo-Geographie_, Ed. 3, 1. p. 207) compares the ocean to a mantle seemingly with holes in it (i.e. the land). Nature is always repairing the rents. According to one estimate it would require six million years to sweep away the present land areas.
+*) F. Ratzel (_Anthropo-Geographie_, Ed. 3, 1. p. 207) compares the ocean to a mantle seemingly with holes in it (_i.e._ the land). Nature is always repairing the rents. According to one estimate it would require six million years to sweep away the present land areas.
 
 A mountain range (like all the rest of the earth's crust) with a plutonic core flanked by schists, sedimentaries, intrusives and limestones, is one thing, _viz._ benthoplankton, in various states.
 
@@ -1400,7 +1400,7 @@ The lithosphere with its sodium-content is an oceanic deposit. There is no evide
 
 Recent estimates of duration based on the disintegration of uranium and its products yield enormous periods of time varying from 240 to 11,470 millions of years.* Joly adds "That we have much to learn is indeed probable."
 
-*) Quoted by Joly in _The Birth-time of the World_. Science Progress, July, 1914. Seeing that radioactive substances and their products of disintegration are found together in igneous rocks, i.e. in nummulitic deposits, well might the poet ask —  
+*) Quoted by Joly in _The Birth-time of the World_. Science Progress, July, 1914. Seeing that radioactive substances and their products of disintegration are found together in igneous rocks, _i.e._ in nummulitic deposits, well might the poet ask —  
 "What oldest star the fame can save  
 Of races perishing to pave  
 The planet with a floor of lime?"  
@@ -1455,7 +1455,7 @@ The Direct Evidence
 
 In the preceding chapters, facts concerning organic life at the surface and on the floor of the ocean during present and past times have been brought forward to show that an organic origin of the planetary crust is rather what we should expect to find.
 
-Detailed investigation now confirms this expectation by revealing the fact that the lithosphere is mainly composed of a mineralized deposit of Foraminiferal shells belonging to the genus _Nummulites_, the deposit being either "primary" (i.e., as originally accumulated) or detrital.
+Detailed investigation now confirms this expectation by revealing the fact that the lithosphere is mainly composed of a mineralized deposit of Foraminiferal shells belonging to the genus _Nummulites_, the deposit being either "primary" (_i.e._, as originally accumulated) or detrital.
 
 The more recent primary deposits (Cainozoic to Archaeozoic) — either unaltered, or silicified into flints, gaizes, phthanites, _etc._ — are composed chiefly of calcium carbonate or silica, wholly or partly of organic origin. In the more ancient deposits, commonly known as igneous rocks, the silica has entered into combination with various bases, _viz._, oxides of Al. Ca. Mg. K. Na. Fe. — derived from the ocean partly through the agency of living matter — to form silicates. Chemical activity has been favoured by high temperature, possibly due in greater or less degree to the storing-up of heat derived from radio-active sources.
 
@@ -1547,7 +1547,7 @@ When microscopically examining nummulites or sections of igneous rocks I was con
 
 Presently, however, I found the disks showed a spiral plan and also a radial structure. The spirals, with coils alternately and slightly above and below a median plane appeared to be replicas in miniature of the marginal cord, and the radii to be edges of disks in the position of septa and in a plane vertical to the plane of the "parent" spiral. Seemingly, the disks were to some extent repetitions of the structure of the shell as a whole. See Diagram, p. 147 [Fig. 10A].
 
-The first disks definitely to be located were rather large ones nearly half a millimetre in diameter, at the outer convex surface of outer coils of the marginal cord between any pair of septa. Later I found that the ridged and laminated structure of the whole cord was made up of disks, as also were the septa and alars. Next it became apparent that the little spiral-radial disks were themselves constructed of smaller disks also on a spiral and radial plan, and these latter again of still smaller. Under a magnification of 4000 diameters I could make out disks 1 _μ_ (1/25000 an inch) in diameter, each with a circle of points (about 0.25 _μ_ in size), i.e. visible and definitely arranged organic structures. Probably improved optical apparatus would resolve even these points into "spirodisks," and possibly the structural repetitions may go on even until molecular dimensions are reached. These little calcareous models of proto-plasmic architecture will, I believe, throw light on the structure of the protoplasm that built them, for the granular protoplasm of Foraminifera also appears to me to show a spirodiscoid structure discernible by means of the granules.
+The first disks definitely to be located were rather large ones nearly half a millimetre in diameter, at the outer convex surface of outer coils of the marginal cord between any pair of septa. Later I found that the ridged and laminated structure of the whole cord was made up of disks, as also were the septa and alars. Next it became apparent that the little spiral-radial disks were themselves constructed of smaller disks also on a spiral and radial plan, and these latter again of still smaller. Under a magnification of 4000 diameters I could make out disks 1 _μ_ (1/25000 an inch) in diameter, each with a circle of points (about 0.25 _μ_ in size), _i.e._ visible and definitely arranged organic structures. Probably improved optical apparatus would resolve even these points into "spirodisks," and possibly the structural repetitions may go on even until molecular dimensions are reached. These little calcareous models of proto-plasmic architecture will, I believe, throw light on the structure of the protoplasm that built them, for the granular protoplasm of Foraminifera also appears to me to show a spirodiscoid structure discernible by means of the granules.
 
 The planetary crust is almost wholly built of "spirodisks," the smallest visible unit of structure being about 0.25 _μ_ (1/100000 an inch) in diameter.
 
@@ -1595,7 +1595,7 @@ De la Harpe writes of the difficulty involved by the immense amount of material 
 
 Distribution in Space. — During Mid-Eocene times the Nummulitic ocean and seas extended across the Old World from north-west Africa to Japan. The floor of this ocean is now elevated to form the middle and upper parts of many mountain ranges along the great belt above referred to. These ancient sea-floors form Himalayan peaks 19,000 feet above sea-level.
 
-It is wholly certain that nummulitic deposits were formed in all eras all over the globe, and it is probable that during the early part of the Archaeozoic era they were laid down in a universal ocean wherever the undulating floor was at a suitable depth. For igneous, i.e. nummulitic, rocks are universal.
+It is wholly certain that nummulitic deposits were formed in all eras all over the globe, and it is probable that during the early part of the Archaeozoic era they were laid down in a universal ocean wherever the undulating floor was at a suitable depth. For igneous, _i.e._ nummulitic, rocks are universal.
 
 The area of distribution (in space) must now be extended to outer space; for the meteorites now resting in museums, and possibly, therefore, some of the comets and shooting stars, are nummulitic rocks.
 
@@ -1609,7 +1609,7 @@ Distribution in Time. — Nummulites have hitherto been supposed to be character
 
 There is no longer reason to regard as singular the existence of thick and extensive belts of nummulitic limestones in the Eocene period. For the chalk ocean was similarly nummulitic, and also the ocean during the mesozoic, palaeozoic and archaeozoic eras.*
 
-*) At one place in England it is possible to see nummulites of several eras mingled together, or in close proximity, _viz._, at Selsey. There are Cainozoic (Eocene, Bracklesham;) Mesozoic (Cretaceous silicified nummulites, i.e., flints);? Palaeozoic quartzite and sandstone (ice-borne erratics); and Archaeozoic or pre-Archaeozoic igneous rocks (also ice-borne erratics).
+*) At one place in England it is possible to see nummulites of several eras mingled together, or in close proximity, _viz._, at Selsey. There are Cainozoic (Eocene, Bracklesham;) Mesozoic (Cretaceous silicified nummulites, _i.e._, flints);? Palaeozoic quartzite and sandstone (ice-borne erratics); and Archaeozoic or pre-Archaeozoic igneous rocks (also ice-borne erratics).
 
 It is, however, a remarkable fact that the genus _Nummulites_ is almost extinct.*
 
@@ -1621,15 +1621,15 @@ It is, however, a remarkable fact that the genus _Nummulites_ is almost extinct.
 
 The earth's crust is mainly composed of nummulites. The genus has persisted throughout immeasurable aeons from near the beginning of geological time almost up to the middle of the present era, but is now wholly or almost wholly extinct. What have been the causes of this remarkable phenomenon? The solution of the problem must be sought by enquiry into the conditions presumably favourable and unfavourable to the existence of these organisms. Three important conditions of environment are (1) depth; (2) temperature; and (3) the presence or absence of detritus.
 
-1) Judging from the cretaceous nummulitic deposit (i.e., chalk), the faunas buried therein are not abyssal; some of the organisms belong to rather shallow water, others to fairly deep, but not very deep water. Of the 197 millions of square miles of nummulitic deposits, over 130 millions are now in depths below 1,000 fathoms, and, as might be expected, no living nummulites are to be found. Further, I hope it may be permissible to add, by way of balancing accounts, that the 54 millions of square miles of nummulitic deposits pushed above the ocean as land are no longer a suitable abode for living nummulites! The presence of nummulite skeletons on mountain tops and abyssal ocean floors is a clear proof that the raised and sunk areas must at one time in the course of the secular see-saw have been at levels suitable to the existence of vast masses of nummulites. The absence of the living shells over an area of 13 millions of miles still has to be accounted for.
+1) Judging from the cretaceous nummulitic deposit (_i.e._, chalk), the faunas buried therein are not abyssal; some of the organisms belong to rather shallow water, others to fairly deep, but not very deep water. Of the 197 millions of square miles of nummulitic deposits, over 130 millions are now in depths below 1,000 fathoms, and, as might be expected, no living nummulites are to be found. Further, I hope it may be permissible to add, by way of balancing accounts, that the 54 millions of square miles of nummulitic deposits pushed above the ocean as land are no longer a suitable abode for living nummulites! The presence of nummulite skeletons on mountain tops and abyssal ocean floors is a clear proof that the raised and sunk areas must at one time in the course of the secular see-saw have been at levels suitable to the existence of vast masses of nummulites. The absence of the living shells over an area of 13 millions of miles still has to be accounted for.
 
 2) It would appear that nummulites preferred a temperature not too low. The chalk and Eocene oceans were within the temperate zone. The vast deposits of Triassic nummulites forming the Schlern and Mendola dolomites in South Tyrol were laid down in warm, temperate, or sub-tropical seas where coral reefs grew. Apparently, then, low temperature would kill off nummulites in high latitudes and in considerable depths. The former existence of these organisms within the Arctic circle and close to the South Pole may be accounted for on the reasonable assumption that the temperature in those latitudes has been higher from time to time. The presence of certain fossil plants in the south-polar regions affords evidence of a milder climate. The specimens of igneous rocks dragged back by Captain Scott and his party from the neighbourhood of the South Pole are nummulitic. A piece of diorite from the neighbourhood of Beardmore glacier, not far from the South Pole, shows nummulitic structure plainly under a hand-lens, and the volcanic rocks of Erebus and Terror are made of nummulites.
 
 After eliminating regions too deep, too cold, or emerged, there still remain a few million miles offering moderate depths and equable temperature. Why have the marvellously persistent nummulites failed (or almost failed) to survive even there? In the Eocene ocean and seas the shells apparently flourished best in clear water remote from land. Where the sea was shallow, and turbid owing to land detritus carried down by rivers the shell deposits were thin and the shells usually small as in the British Eocene formations.
 
-There is reason to believe that the final extinction of _Nummulites_ over areas where the genus might otherwise have persisted in abundance may have been due to the ushering in of a _Globigerina_ epoch, i.e. an epoch of calcareous Foraminiferal plankton.
+There is reason to believe that the final extinction of _Nummulites_ over areas where the genus might otherwise have persisted in abundance may have been due to the ushering in of a _Globigerina_ epoch, _i.e._ an epoch of calcareous Foraminiferal plankton.
 
-Zittel's useful charts of distribution-in-time of various families of Foraminifera (_Grundzüge_, ed. 3, 1910, p. 37) reveal a remarkable fact. Globigerina is stated to begin in the Cambrian*; then during the remainder of the Palaeozoic era there is no record. During the Mesozoic era and the early part of the Gainozoic (Eocene and Oligocene) the genus exists but not abundantly. Suddenly, at the beginning of the Miocene and on to the present time Globigerina becomes abundantly prevalent, i.e., at the time when _Nummulites_ becomes almost extinct, _Globigerina_ becomes abundant.
+Zittel's useful charts of distribution-in-time of various families of Foraminifera (_Grundzüge_, ed. 3, 1910, p. 37) reveal a remarkable fact. Globigerina is stated to begin in the Cambrian*; then during the remainder of the Palaeozoic era there is no record. During the Mesozoic era and the early part of the Gainozoic (Eocene and Oligocene) the genus exists but not abundantly. Suddenly, at the beginning of the Miocene and on to the present time Globigerina becomes abundantly prevalent, _i.e._, at the time when _Nummulites_ becomes almost extinct, _Globigerina_ becomes abundant.
 
 *) Although I have not seen the phosphatic nodules of the Cambrian of New Brunswick stated by W. D. and G. F. Matthew (Trans. New York Acad. Sci., 1893, 12. p. 108; and 1895, 14., p. 101, Plate 1. figs, 1-8_b_) to contain _Globigerina_ and _Orbulina_, I am convinced there is here an error of interpretation. In the course of the present work I was at one time continually mistaking nummulitic structures for _Globigerina_ and _Orbulina_. The same mistake has been made in the case of the "spheres" in chalk. Apparently the true Globigerina record begins with the Mesozoic era.
 
@@ -1739,7 +1739,7 @@ A very careful study of some of the large photographs in Dr. Clinch's memoir on 
 
 ###### 1. Igneous Rocks
 
-The igneous rocks have once been semi-molten or molten. Those masses which have reached the surface in a heated condition, i.e., the volcanic or superficial igneous rocks, have cooled quickly, and consequently have formed a glassy ground-mass usually with a varying number of very minute crystals embedded in it. Dykes and sills, occupying an intermediate position, have somewhat larger crystals visible to the naked eye or with the aid of a lens. The deep-seated abyssal or plutonic rocks, owing to very slow cooling, have large crystals.*
+The igneous rocks have once been semi-molten or molten. Those masses which have reached the surface in a heated condition, _i.e._, the volcanic or superficial igneous rocks, have cooled quickly, and consequently have formed a glassy ground-mass usually with a varying number of very minute crystals embedded in it. Dykes and sills, occupying an intermediate position, have somewhat larger crystals visible to the naked eye or with the aid of a lens. The deep-seated abyssal or plutonic rocks, owing to very slow cooling, have large crystals.*
 
 *) Plutonic rocks now at the surface have been uncovered owing to denudation. The macro-crystalline nature is in itself a proof of slower cooling and therefore of a former deep-seated position.
 
@@ -1817,7 +1817,7 @@ With or without a hand-lens I can trace organic structure, sometimes with much d
 
 _Purely Metallic Meteorites_.
 
-There is a continuous series from completely stony to pure iron meteorites, i.e. from stony masses of nummulites to completely ore-enriched masses of these shells. Patches of metal are scattered about in the walls of the shells in the former, and this metal does not fill empty gaps but is nummulitic structure composed of iron and nickel molecules.
+There is a continuous series from completely stony to pure iron meteorites, _i.e._ from stony masses of nummulites to completely ore-enriched masses of these shells. Patches of metal are scattered about in the walls of the shells in the former, and this metal does not fill empty gaps but is nummulitic structure composed of iron and nickel molecules.
 
 The iron may have been reduced by the carbon monoxide often found along with the dioxide. When a siderolite returns to our planet the pure iron again combines with oxygen, and a reddish halo spreads into the surrounding minerals. I can certainly make out disk-structure in the rusty débris of the great Melbourne meteorite, as well as in the rust of an old iron saucepan which I submitted to microscopic examination.
 
@@ -1971,7 +1971,7 @@ The removal of a large number of forms from the organic kingdom to the ranks of 
 
 The term "concretion" has strong claims, but is, I think, hardly satisfactory as a group-name for the numerous and diverse objects now to be classified. The fur deposited round some nucleus in a kettle is a concretion, and so also are the wonderful objects known as _Cyclocrinus_, _Parkeria_ and _Receptaculites_. For these and similar calcareous or originally calcareous bodies with a certain shape and structure due to the operation of purely chemico-physical agencies, the name "lithomorph" ("forms in stone") is suggested.
 
-The characters available for a classification of lithomorphs are shape and structure. The shape may be spherical or massive, the former including spherical and oval shapes, and the latter massive, hemispherical, conical and branched forms. The structure or pattern may be prevailingly concentric, or prevailingly radial, or lastly "stromatic," i.e. with "layer upon layer" rather than with "layer within layer." By taking both shape and structure (or pattern) into account, lithomorphs may be arranged as follows:—
+The characters available for a classification of lithomorphs are shape and structure. The shape may be spherical or massive, the former including spherical and oval shapes, and the latter massive, hemispherical, conical and branched forms. The structure or pattern may be prevailingly concentric, or prevailingly radial, or lastly "stromatic," _i.e._ with "layer upon layer" rather than with "layer within layer." By taking both shape and structure (or pattern) into account, lithomorphs may be arranged as follows:—
 
 Group 1. Concentric. Structure predominantly concentric, or spiral; shape spherical or oval. Examples: _Parkeria_, _etc._, _Loftusia_, oolite* and pisolite, final stage of certain Fulwell concretions.
 
@@ -2422,7 +2422,7 @@ _Summary_. — Limestones are peculiarly liable to concretionary changes due to 
 
 ##### Summary
 
-Vast deposits of nummulites extending across the old world from N.W. Africa to Japan, and thousands of feet thick in places, were formed during the Eocene period, i.e., in relatively recent times geologically speaking. This epoch has been termed "The Nummulitic Epoch," and d'Archiac refers to it as the "nummulitic enigma" owing to the seemingly sudden apparition of these enormous deposits and to their equally sudden disappearance.
+Vast deposits of nummulites extending across the old world from N.W. Africa to Japan, and thousands of feet thick in places, were formed during the Eocene period, _i.e._, in relatively recent times geologically speaking. This epoch has been termed "The Nummulitic Epoch," and d'Archiac refers to it as the "nummulitic enigma" owing to the seemingly sudden apparition of these enormous deposits and to their equally sudden disappearance.
 
 There is, however, no enigma so far as predecessors to the Eocene deposits are concerned, for the Chalk ocean was nummulitic, and also seas and oceans throughout the Mesozoic, Palaeozoic and Archaeozoic Eras, the last provisionally including the igneous rocks. In the text an attempt is made to account for the dying out of nummulites about the middle of the present era.
 
@@ -2498,15 +2498,15 @@ Dr. Rothpletz (1894 and 1899) considered the Schlern massif by no means comparab
 
 *) J. Y. Buchanan, Proc. Roy. Soc., Edinburgh, 13. p. 431, 1885; also Langenbeck, _Koralleninseln und Korallenriffe_, p. 32, 1899. Buchanan regarded the Dacia Bank as a very _thick_ accumulation of organic remains possibly on a volcanic rock, and this also was the view of Dr. Rothpletz; but the evidence seems inconclusive. Perhaps the bank is a volcanic rock (like the emerged Porto Santo Island not very far away) with only a _thin_ layer of coral. The dead coral on the top of the plateau is tinged black with manganese; this deposition would hardly have taken place if the coral grew on the summit of a high pillar of purely calcareous remains.
 
-Amidst all these conflicting opinions, I find that, as in the case of Chalk and many other limestones, an important feature has been overlooked, _viz._, the organic structure of the main mass of the rock. My sections of typical lumps of Schlern and Mendola dolomite show them to be made of nummulite shells, i.e., Schlern dolomite is mainly a nummulitic limestone. It is almost impossible to detect the shells in the solid rock, so greatly has the latter become crystallized; and it is difficult to make out the nummulitic structure in sections. Large and rather thick sections cut from three sides of a cube of rock show the shells in various aspects when held up to the light and examined with hand-lenses magnifying 3 to 10 diameters. With patience it is possible to discriminate spiral laminae, alars, marginal cord, _etc._, of large shells. Under higher powers also (e.g. 300 diameters), I can now see all these structures with singular clearness. I find 2 mm. Oc. 18, — tube drawn out, diaphragms nearly closed — the best combination for the smallest disks. What seem like transparent luminous flakes under lower powers and a fair amount of light, will, in dim light, slowly reveal well-defined disk structures. Each disk is spirally coiled in one plane, with series of smaller spirals situated at intervals round the larger spiral and in planes vertical to that of the latter.
+Amidst all these conflicting opinions, I find that, as in the case of Chalk and many other limestones, an important feature has been overlooked, _viz._, the organic structure of the main mass of the rock. My sections of typical lumps of Schlern and Mendola dolomite show them to be made of nummulite shells, _i.e._, Schlern dolomite is mainly a nummulitic limestone. It is almost impossible to detect the shells in the solid rock, so greatly has the latter become crystallized; and it is difficult to make out the nummulitic structure in sections. Large and rather thick sections cut from three sides of a cube of rock show the shells in various aspects when held up to the light and examined with hand-lenses magnifying 3 to 10 diameters. With patience it is possible to discriminate spiral laminae, alars, marginal cord, _etc._, of large shells. Under higher powers also (e.g. 300 diameters), I can now see all these structures with singular clearness. I find 2 mm. Oc. 18, — tube drawn out, diaphragms nearly closed — the best combination for the smallest disks. What seem like transparent luminous flakes under lower powers and a fair amount of light, will, in dim light, slowly reveal well-defined disk structures. Each disk is spirally coiled in one plane, with series of smaller spirals situated at intervals round the larger spiral and in planes vertical to that of the latter.
 
-Transparent sections of Schlern rock viewed with a lens show a meandrine pattern formed by opaque and clear calcite, recalling some of the "Stromatoporoid" patterns. The Mendola rock-sections, on the other hand, are more like those of Carrara marble, i.e., uniformly granular and clear. The nummulitic structure is to be detected here as in the Schlern material.
+Transparent sections of Schlern rock viewed with a lens show a meandrine pattern formed by opaque and clear calcite, recalling some of the "Stromatoporoid" patterns. The Mendola rock-sections, on the other hand, are more like those of Carrara marble, _i.e._, uniformly granular and clear. The nummulitic structure is to be detected here as in the Schlern material.
 
 The larger fossils are not common in Schlern dolomite, Mollusca, Echinoderms, Corals (rarely) and Calcareous Algae being found.
 
 Mojsisovics (_l.c._ p. 500) writes of "der grossen armuth des ungeschichteten Dolomits an fossilresten," and Rothpletz (1899) of "der eigentlich Schlerndolomit ganz fossilarm" (Zeitsch. Deutsch. Geol. Gesellsch. Verhand. p. 105), but the rock is a mass of fossils* throughout, though for the most part they are only to be recognized with some difficulty.
 
-*) Prof. Skeats examined thirty-eight sections of Schlern dolomite. He found calcareous algae in three, doubtful ditto in five; coral in one, doubtful coral (meandrine pattern) in eleven; mollusc shell in one; echinoderm spine in one; no trace of fossils in seventeen (i.e. 45 per cent.). I think it not improbable that there is nummulitic structure in all, excepting perhaps where algae are massed together. Prof. Skeats was unable to find any trace of organisms in a specimen of Mendola dolomite. (Q. J. G. S., 1905.)
+*) Prof. Skeats examined thirty-eight sections of Schlern dolomite. He found calcareous algae in three, doubtful ditto in five; coral in one, doubtful coral (meandrine pattern) in eleven; mollusc shell in one; echinoderm spine in one; no trace of fossils in seventeen (_i.e._ 45 per cent.). I think it not improbable that there is nummulitic structure in all, excepting perhaps where algae are massed together. Prof. Skeats was unable to find any trace of organisms in a specimen of Mendola dolomite. (Q. J. G. S., 1905.)
 
 The discovery of the mainly nummulitic nature of Schlern dolomite will not finally solve the complicated problems concerning the character of the formation and its stratigraphical relations, but may throw fresh light on the subject.
 
@@ -2712,7 +2712,7 @@ The discovery, if true, would be of high importance not only in itself but in it
 
 As this discovery, strangely enough, has resulted from the observations on igneous rocks, I think it would be well to publish here a brief supplement. A fuller account with photographs will be given later when circumstances permit.
 
-I had found the nummulite shell to be built of "spirodisks," i.e. disk-like spirals with a coiled series of secondary spiral disks in planes vertical to the primary, each secondary again having its series of secondary spirals, and so on to the limits of microscopic vision. Presently I found the spirodiscoid structure outlined in "granules" in the protoplasm of various Foraminifera and in Amoeba. An examination of plant protoplasm revealed similar spirodiscoid outlines.
+I had found the nummulite shell to be built of "spirodisks," _i.e._ disk-like spirals with a coiled series of secondary spiral disks in planes vertical to the primary, each secondary again having its series of secondary spirals, and so on to the limits of microscopic vision. Presently I found the spirodiscoid structure outlined in "granules" in the protoplasm of various Foraminifera and in Amoeba. An examination of plant protoplasm revealed similar spirodiscoid outlines.
 
 Returning to the investigation of animal protoplasm, I found the spirodisks in the nuclei of white and coloured blood-cells of vertebrates, in squamous and columnar epithelium, in the nuclei of cerebro-spinal ganglion cells and of fibrillar tissues, _viz._, tendon, nerve and muscle. Accordingly I have arrived at the conclusion that protoplasm is constructed on a spirodiscoid plan.
 
@@ -2810,7 +2810,7 @@ Another line of research at Middlesex Hospital has been that of the influence of
 
 The finding in normal and morbid epithelial cells of structure not hitherto detected, _viz._, the spirodiscoid arrangement of the so-called Altmann's granules and the discovery of the essential nature of these granules, justify the hope that some further advance may be made. If cancer be due to a parasite — although there is not a particle of evidence to show that it is — it would be less difficult to detect the intruder, if the plan of construction of normal cells were known, than it would be in the absence of such knowledge.
 
-Plant protoplasm, like that of animals, commonly has a granular appearance, and the granules are arranged in the spirodiscoid manner, i.e., a central nucleolus (if visible as such), and nucleus and cytoplasm are central median and peripheral coils of spirodisks.
+Plant protoplasm, like that of animals, commonly has a granular appearance, and the granules are arranged in the spirodiscoid manner, _i.e._, a central nucleolus (if visible as such), and nucleus and cytoplasm are central median and peripheral coils of spirodisks.
 
 I have seen this structure in the seed-pods of nasturtium, in the apical cells of _Nitella_ and _Chara_, in the antheridia of _Chara_, in staminal hairs of _Tradescantia_, in cells of potato, in growing root-tip of bean plant, in ovules of _Lilium_, _etc._
 
@@ -2832,7 +2832,7 @@ To return to the stained nuclear meshwork. Careful observation will generally re
 
 The chromatin granules are spirads, and the object of mitosis is the proper distribution of spirads.
 
-There is a more rare process of division without mitosis, i.e. direct division of nucleus and cell into two. Here we must assume the spirads to be already suitably arranged for distribution into two sets.
+There is a more rare process of division without mitosis, _i.e._ direct division of nucleus and cell into two. Here we must assume the spirads to be already suitably arranged for distribution into two sets.
 
 The phenomenon of sex occurs almost throughout the kingdom of life, but in spite of much study of its manifestations in animals and plants, authorities agree that there is still an inexplicable residuum of mystery. G. C. Parker* writes, "The essence of a sexual cell is that" (unlike a gonidium or a spore) "it cannot give rise by itself to a new organism." It has to be fertilized. "Again, sexual cells differ in sex, but there are as yet no facts to demonstrate any essential structural difference between male and female cells. What is known about them tends to prove their structural similarity rather than their difference." According to E. B. Wilson,* "The conclusion has become in a high degree probable that sex is controlled by factors internal to the germ cells." He asks, "Upon what conditions within the fertilized egg does the sexual differentiation depend? In some way, we may now be reasonably sure, upon the physiological reactions of nucleus and protoplasm." It has occurred to me that possibly the sex difference may be due to the "spirads" of germ cells being enantiomorphs (opposite forms). Polariscopic and microscopic observations on the oogonia and antheridia of _Chara_ yielded negative and inconclusive results. I think, however, the path is worth following. Protein molecules are laevo- and dextro-gyre, and protoplasm in the mass has a gyrate structure. A glance at the figures of male cells of plants and animals shows a marked tendency to helicoid form probably partly in keeping with their motile function. Possibly natural selection would seize on a character such as protoplasmic enantiomorphism to secure the advantages that result from the blending of different strains. It is suggested that an enantio-spirad theory might help to explain the sex quality of the germ cell, and the incompleteness of the single cell.
 
@@ -2868,7 +2868,7 @@ The illustrious Pasteur saw, through the medium of his theory of the molecular a
 
 #### List of Plates, Guide Diagrams, and Figures
  
-[Plate 1: Figure 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure1.png) — Fragment of Diatom ooze, 5x (_Challenger_), Southern Ocean St. 157, 1950 fms. This ooze (in the dried state) is a powdery mass of nummulites crammed with microscopic plankton skeletons, chiefly Diatoms. The faint circular or oval outlines of the nummulites are about 25 mm. (an inch) in diameter in the photo, i.e. about 5 mm. (⅕ inch) nat. size. [Nummulitic structure can be seen better in sections of this ooze hardened in balsam.]
+[Plate 1: Figure 1](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure1.png) — Fragment of Diatom ooze, 5x (_Challenger_), Southern Ocean St. 157, 1950 fms. This ooze (in the dried state) is a powdery mass of nummulites crammed with microscopic plankton skeletons, chiefly Diatoms. The faint circular or oval outlines of the nummulites are about 25 mm. (an inch) in diameter in the photo, _i.e._ about 5 mm. (⅕ inch) nat. size. [Nummulitic structure can be seen better in sections of this ooze hardened in balsam.]
 
 [Plate 1: Figure 2](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate1-Figure2.png) — Fragment of Red Clay, _Challenger_ St. 165, 2600 fms., 5x and 8x, showing faint traces of nummulites. See Plate 21, Fig. C, D.
 
@@ -2928,7 +2928,7 @@ _Note_. Plates 2C, 2D, 2E and 11 were done and printed off at an early period of
 
 [Plate 2D: Guide](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2D-Guide.png)
 
-[Plate 2E: Figure 17](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2E-Figure17.png) — "Wold Cottage" meteorite. The lighter circular area about an inch in diameter against upper part of right edge of photo shows beautifully the spiro-discoid structure, i.e. coils of miniature "marginal cord" with radial "septa" and "alars" in plane vertical to "parent" spiral. 260x.
+[Plate 2E: Figure 17](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2E-Figure17.png) — "Wold Cottage" meteorite. The lighter circular area about an inch in diameter against upper part of right edge of photo shows beautifully the spiro-discoid structure, _i.e._ coils of miniature "marginal cord" with radial "septa" and "alars" in plane vertical to "parent" spiral. 260x.
 
 [Plate 2E: Figure 18](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2E-Figure18.png) — Barbotan meteorite. Fragment of much-blasted nummulite. Orientation better found by making left border the lower. About centre is curved rim with circular lines of ridges and with bands across. Around left half are three or four septa and alars passing across a second cord near left upper corner. 65x.
 
@@ -3014,7 +3014,7 @@ The photos were originally taken to show light and dark areas with continuity of
 
 [Plate 13: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate13-FigureB.png) — Section of Melbourn Rock (Middle Chalk) to show circular and oval "spheres," 65x. These "bodies" are simply clarified areas in nummulitic rock. The areas are usually discoidal, and not spheres either whole or in section. Nummulitic structure exists in the clear spaces, and can often be traced from light to dark areas. (See also Plate 23 Fig. H.)
 
-[Plate 13: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate13-FigureC.png) — Weathered surface of a lump of _Eozoön canadense_, i.e. of a mass of very ancient nummulites. Natural size. The external form and inner structure of the nummulites in various aspects are visible to unaided eye, or under lens 3x. They are best seen in lower half of picture, where one or two might almost serve for descriptions of species.
+[Plate 13: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate13-FigureC.png) — Weathered surface of a lump of _Eozoön canadense_, _i.e._ of a mass of very ancient nummulites. Natural size. The external form and inner structure of the nummulites in various aspects are visible to unaided eye, or under lens 3x. They are best seen in lower half of picture, where one or two might almost serve for descriptions of species.
 
 [Plate 13: Guide](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate13-Guide.png)
 
@@ -3090,7 +3090,7 @@ Careful study will show the ridged band of a "marginal cord" like a spirally wou
 
 [Plate 21: Figure C](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate21-FigureC.png) — Section of Red Clay (_Challenger_, St. 165, 2600 fms.). Showing portion of a nummulite, 10x. Best viewed by making left border the lower. Curved series of circular disks seen across the field. Patient study with lens affords a wonderful revelation.
 
-[Plate 21: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate21-FigureD.png) — The same 260x. Shows coiled disk-structure, i.e. miniature marginal cord and septa.
+[Plate 21: Figure D](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate21-FigureD.png) — The same 260x. Shows coiled disk-structure, _i.e._ miniature marginal cord and septa.
 
 [Plate 21: Guide](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate21-Guide.png)
 
@@ -3124,7 +3124,7 @@ _Note_. — This plate is one of the most interesting of the set. The sections w
 
 [Plate 23: Figure G](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureG.png) — Two "canals" in _Eozoön_, showing granular serpentine to contain nummulitic structure continuous with similar fainter structure in the calcite. 450x.
 
-[Plate 23: Figure H](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureH.png) — Melbourn Rock, showing "spheres" 450x. The edge of lowest sphere shows banded cord. Very careful study with lens 3x will reveal other coils and "septa," i.e. this "sphere" is a spirodisk.
+[Plate 23: Figure H](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-FigureH.png) — Melbourn Rock, showing "spheres" 450x. The edge of lowest sphere shows banded cord. Very careful study with lens 3x will reveal other coils and "septa," _i.e._ this "sphere" is a spirodisk.
 
 [Plate 23: Guide](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate23-Guide.png)
 
