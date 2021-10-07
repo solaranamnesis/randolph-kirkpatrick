@@ -12,6 +12,8 @@ London: Printed by William Clowes and Sons, Limited, Duke Street, Stamford Stree
 
 ##### [Introduction](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#introduction-1)
 
+#### Part 1 — The Genesis of Rocks
+
 ##### [Chapter 1](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#chapter-1-1)
 
 ###### [└─ The Ocean](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#the-ocean)
@@ -74,6 +76,8 @@ London: Printed by William Clowes and Sons, Limited, Duke Street, Stamford Stree
 
 ###### [└─ Miscellanea](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#miscellanea)
 
+#### Part 2 — The Direct Evidence
+
 ##### [Chapter 8](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#chapter-8-1)
 
 ###### [└─ Foraminifera](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#foraminifera)
@@ -94,9 +98,13 @@ London: Printed by William Clowes and Sons, Limited, Duke Street, Stamford Stree
 
 ###### [└─ 2. Meteorites](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#2-meteorites)
 
+#### Part 3
+
 ##### [Chapter 10](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#chapter-10-1)
 
 ###### [└─ On Problems Relating to the Origin of Life](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#on-problems-relating-to-the-origin-of-life)
+
+#### Part 4 — Lithomorphs
 
 ##### [Chapter 11](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-3-full-text-english.md#chapter-11-1)
 
