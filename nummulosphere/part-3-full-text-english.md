@@ -2388,9 +2388,9 @@ Girvanella is beyond any shadow of doubt a pattern in nummulitic limestone. With
 
 The sets of parallel curved tubes or bands common in Girvanella are formed by curved, furrowed and banded marginal cord. The rows of little circles (mistaken by some observers for cells of blue-green algae) belong to bases of septa astride of the cord, or to the ends of fan-like septa. Accordingly, although Girvanella is a concretionary structure, the pattern is not quite in the same category as those radio-concentric ones that are independent of nummulitic structure, _e.g._ Parkeria, simple oolite granules (without Girvanella pattern), _etc._
 
-Girvanella, then, is a pattern in _chiaroscuro_ — mainly _oscuro_. The nummulitic structure gives rise to that pattern, and I doubt whether Girvanella could form in any other limestone than a nummulitic one.
+Girvanella, then, is a pattern in _chiaroscuro_ — mainly _oscuro_. The nummulitic structure perhaps influences the form of that pattern, and I doubt whether Girvanella could form in any other limestone than a nummulitic one.
 
-_Spaerocodium_ Rothpletz is very probably a lithomorph akin to Girvanella. The "schlauchförmige zellen" and supposed "Sporangia" must, I believe, be interpreted in a sense otherwise than that implied by these designations. In Dr. Rothpletz' photo of _S. gotlandicum_ (Plate 4. Fig. 1, Kalkalg Gottlands) I am fairly certain I can detect the underlying nummulitic structure.
+_Sphaerocodium_ Rothpletz is very probably a lithomorph akin to Girvanella. The "schlauchförmige zellen" and supposed "Sporangia" must, I believe, be interpreted in a sense otherwise than that implied by these designations. In Dr. Rothpletz' photo of _S. gotlandicum_ (Plate 4. Fig. 1, Kalkalg Gottlands) I am fairly certain I can detect the underlying nummulitic structure.
 
 In oolite grains there may be successive zones of ordinary oolitic pattern and of Girvanella structure. Wethered figures a pisolite grain with Girvanella surrounding a Crinoid joint.
 
