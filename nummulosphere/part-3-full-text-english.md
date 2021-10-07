@@ -2924,7 +2924,7 @@ Plate 2A — Nummulitic structure in _Eozoön_.
 
 Plate 2B — Tertiary nummulites.
 
-[Plate 2B: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2B-FigureA.png) — _Nummulites gizehensis_, microspheric form, perpendicular section through central median (splitting) plane 4x. [The megalospheric phase of _N. gizehensis_ is _N. curvispira_, shown in Fig. 28, a-e.] All from Great Pyramid of Gizeh [Giza].
+[Plate 2B: Figure A](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2B-FigureA.png) — _Nummulites gizehensis_, microspheric form, perpendicular section through central median (splitting) plane 4x. [The megalospheric phase of _N. gizehensis_ is _N. curvispira_, shown in Fig. 15, a-e.] All from Great Pyramid of Gizeh [Giza].
 
 [Plate 2B: Figure B](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate2B-FigureB.png) — Transverse section of a shell, willow pattern 6x.
 
