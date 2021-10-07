@@ -388,7 +388,7 @@ Nature has not only helped us to understand the nature of the submerged ocean fl
 
 The bulk of the land area, a great part and probably the whole of the ocean floor, and materials from deep below that floor are nummulitic.
 
-Murray and Renard write ("Deep-Sea Deposits," p. 189): "With some doubtful exceptions, it has been impossible to recognise, in the rocks of the continents, formations identical with these pelagic deposits." Leaving aside the recent plankton elements of ocean deposits and the clay derived from subaerial eruptions, the whole of the rest of the clay and Red Clay seems to me to be the decomposed part of igneous rocks identical biologically and petrologically with igneous rocks on land.
+Murray and Renard write (_Deep-Sea Deposits_, p. 189): "With some doubtful exceptions, it has been impossible to recognise, in the rocks of the continents, formations identical with these pelagic deposits." Leaving aside the recent plankton elements of ocean deposits and the clay derived from subaerial eruptions, the whole of the rest of the clay and Red Clay seems to me to be the decomposed part of igneous rocks identical biologically and petrologically with igneous rocks on land.
 
 The plateau of Clee Hill or a Cornish moor are fundamentally identical with the abyssal ocean floor. In all three cases there is a surface layer of decomposed nummulitic rock.
 
@@ -412,11 +412,11 @@ The discovery of the real nature of igneous rocks strongly supports the theory o
 
 The mean height of the land* is only 375 fathoms, the mean depth of the ocean 2080 fathoms. If the solid land were levelled beneath the ocean, the surface of the earth would be covered by an ocean with a uniform depth of two miles.
 
-*) "On the Height of the Land and the Depth of the Ocean." Sir John Murray, Scottish Geogr. Mag., p. 1, January, 1888.
+*) _On the Height of the Land and the Depth of the Ocean_. Sir John Murray, Scottish Geogr. Mag., p. 1, January, 1888.
 
 At the present day five-sevenths of the area of the globe is covered with ocean. The remaining two-sevenths or land area would be submerged by a rise of between one and two thousand fathoms in the ocean bed; and it must be remembered that the land has not been stationary, but has actually been submerged.
 
-Some astronomers believe the earth will in course of time become waterless like the moon. If this be so, as the earth is already very old, this drying up process may by this time have made some progress. C. L. Bloxam ("Chemistry," ed. 3, p. 39) writes: "In its chemical relations water presents this very remarkable feature, that although it is an indifferent oxide" (i.e. neither acid nor basic) "its combining tendencies extend over a wider range than those of any other compound." Many minerals hold more or less permanently in the solid state water of crystallization and of constitution.
+Some astronomers believe the earth will in course of time become waterless like the moon. If this be so, as the earth is already very old, this drying up process may by this time have made some progress. C. L. Bloxam (_Chemistry_, ed. 3, p. 39) writes: "In its chemical relations water presents this very remarkable feature, that although it is an indifferent oxide" (i.e. neither acid nor basic) "its combining tendencies extend over a wider range than those of any other compound." Many minerals hold more or less permanently in the solid state water of crystallization and of constitution.
 
 Again, living substance has extracted a vast quantity of solids from the "universal solvent" to form the planetary crust. Accordingly there was more liquid and less solid at one time than there is now, the solid kernel of the globe having been smaller to the extent of the thickness of the lithosphere, and the ocean mantle deeper.
 
@@ -428,7 +428,7 @@ The solid planetary surface with its organic crust has been heaving up and down 
 
 An abundant siliceous micro-fauna and -flora live at the surface of the ocean, and probably have done so for aeons. The skeletons sink, in time dissolve, and permeate benthos deposits. The ocean floor is formed chiefly of ancient mineralized deposits of nummulites, the surface layer being clayey. Near land these deposits are covered with water- or air-borne land materials (themselves nummulitic); and in the open ocean, in depths less than 2700 fms., with plankton dust chiefly calcareous; in greater depths the nummulite deposits are exposed as grown _in situ_ or as erupted _in situ_. The land is also composed of mineralized nummulites. Apparently the abyssal ocean-floor has sunk, for almost certainly nummulites did not live in depths over 1000 fms. Probably there was once an universal ocean.
 
-_Postscript_. — My first preparations of Red Clay, _Globigerina_ Ooze, Diatom Ooze and sulphury trachyte from the crater of Tenerife consisted chiefly of crushed particles. Later, excellent sections were made showing nummulitic structure. The nummulites of the Diatom Ooze from the Southern Ocean (St. 157, 1950 fms.) come probably from ice-borne erratics and pumice. Yet nummulitic deposits formed _in situ_ are probably universal, even where covered with plankton dust. For the nummulitic masses (igneous rocks) of the Antarctic continent have emerged in an oceanic area now carpeted with Diatoms. The nummulitic mass of Tenerife has emerged in an area now covered with _Globigerina_ ooze (see "_Challenger_ Deep-Sea Deposits," Charts 5, 6). The volcanic glass, dredged from 2025 fms. South Pacific (St. 293, _Challenger_), occurs in _Globigerina_ ooze, and was very probably erupted locally. The bulk of the land area of the globe and the Red Clay (105 million square miles) bear in themselves the evidence concerning their nummulitic origin.
+_Postscript_. — My first preparations of Red Clay, _Globigerina_ Ooze, Diatom Ooze and sulphury trachyte from the crater of Tenerife consisted chiefly of crushed particles. Later, excellent sections were made showing nummulitic structure. The nummulites of the Diatom Ooze from the Southern Ocean (St. 157, 1950 fms.) come probably from ice-borne erratics and pumice. Yet nummulitic deposits formed _in situ_ are probably universal, even where covered with plankton dust. For the nummulitic masses (igneous rocks) of the Antarctic continent have emerged in an oceanic area now carpeted with Diatoms. The nummulitic mass of Tenerife has emerged in an area now covered with _Globigerina_ ooze (see _Challenger Deep-Sea Deposits_, Charts 5, 6). The volcanic glass, dredged from 2025 fms. South Pacific (St. 293, _Challenger_), occurs in _Globigerina_ ooze, and was very probably erupted locally. The bulk of the land area of the globe and the Red Clay (105 million square miles) bear in themselves the evidence concerning their nummulitic origin.
 
 _Note_. — Referring to the quotation from Bloxam on p. 41. In the contest between liquid and solid, notwithstanding the great solvent powers of water, yet the balance apparently leans towards solidification. Not only have the rocks of the earth's crust been abstracted from solution, but the minerals composing them are not rarely hydrated, as in the case of the serpentines for example.
 
@@ -436,7 +436,7 @@ _Note_. — Referring to the quotation from Bloxam on p. 41. In the contest betw
 
 ##### Chalk and Flint, and other Limestones
 
-A great chapter of the history of the world is written in the chalk. Few passages in the history of man can be supported by such an overwhelming mass of direct and indirect evidence as that which testifies to the truth of the fragment of the history of the globe which I hope to enable you to read.... Let me add, that few chapters of human history have a more profound significance for ourselves. I weigh my words well when I assert, that the man who should know the true history of the bit of chalk which every carpenter carries about in his breeches pocket, though ignorant of all other history, is likely, if he will think his knowledge out to its ultimate results, to have a truer, and therefore a better, conception of this wonderful universe, and of man's relation to it, than the most learned student who is deep-read in the records of humanity and ignorant of those of Nature. — "On a Piece of Chalk." Huxley.
+A great chapter of the history of the world is written in the chalk. Few passages in the history of man can be supported by such an overwhelming mass of direct and indirect evidence as that which testifies to the truth of the fragment of the history of the globe which I hope to enable you to read.... Let me add, that few chapters of human history have a more profound significance for ourselves. I weigh my words well when I assert, that the man who should know the true history of the bit of chalk which every carpenter carries about in his breeches pocket, though ignorant of all other history, is likely, if he will think his knowledge out to its ultimate results, to have a truer, and therefore a better, conception of this wonderful universe, and of man's relation to it, than the most learned student who is deep-read in the records of humanity and ignorant of those of Nature. — _On a Piece of Chalk_. Huxley.
 
 Huxley's eloquent testimony concerning the value of a knowledge of chalk would, perhaps, have been even more emphatic had he known that the history of this rock was essentially an epitome of the history of the earth's crust as a whole: and, further, that "a piece of chalk" was fundamentally identical in its nature and origin with granite lava and meteorites, probably with many shooting stars, and possibly with some comets. For chalk is an old sea-bottom composed of skeletons of benthos and plankton organisms, the planetary crust is a still more ancient benthoplankton sea-bottom, and meteorites are now found to be lumps of ancient benthoplankton rock.
 
@@ -454,7 +454,7 @@ In 1837 Lonsdale showed that Foraminifera, small but visible to the naked eye, w
 
 In 1838 Ehrenberg* discovered the important part taken in the formation of chalk by still smaller Foraminifera scarcely visible to unaided vision.
 
-*) "Über die Bildung der Kreidefelsen und des Kreidemergels durch unsichtbare Organismen." Akad. Wiss. Berlin, 1838, p. 39.
+*) _Über die Bildung der Kreidefelsen und des Kreidemergels durch unsichtbare Organismen_. Akad. Wiss. Berlin, 1838, p. 39.
 
 In addition, then, to the larger fossils, Chalk contains very minute ones, and these latter — Foraminifera (chiefly), Radiolaria, Diatoms, Coccospheres, etc., make up the main mass or "matrix" of the rock.
 
@@ -478,7 +478,7 @@ There remains still another method of investigation, and a highly important one.
 
 Ehrenberg found the smallest Foraminifera of the chalk to be embedded in a matrix of still finer particles, which in the memoir already cited he describes as little granular disks.* The latter, which often appear as beaded rings,* may break down into their constituent granules. Ehrenberg concluded that as chalk had been subject to the influence of water and as the finest particles surround the small Foraminifera and are not sifted, therefore these granules must be derived from broken-down shells. He considered the particles to be concretionary bodies of an inorganic nature and to have been precipitated from the dissolved calcite of the Foraminiferal _débris_. Therefore he regarded them as "crystalloids" or "morpholiths." He found some chalks (as that of Rügen) to be half made up of this supposed inorganic material. He gives numerous figures of chalk powder macerated in water showing Foraminifera, and also morpholiths in the form of granular disks, rings and finest particles.
 
-*) These objects are figured for the first time in Poggendorf's "Annalen," vol. 39, p. 101, Plate 1. 1836.
+*) These objects are figured for the first time in Poggendorf's _Annalen_, vol. 39, p. 101, Plate 1. 1836.
 
 *) The ringed appearance is a purely optical effect due to the centre of the disk remaining invisible, especially in dark-field illumination. (See Plate 22; Fig. E, F.)
 
@@ -496,7 +496,7 @@ Murray and Blackmail judiciously describe some of the bodies in chalk resembling
 
 Lohmann* thinks the crystalloids or morpholiths (Ehrenberg's Plate 30 B) may be coccoliths, but concludes that Ehrenberg's descriptions make it difficult to arrive at a definite opinion.
 
-*) "Protistenkunde," 1. p. 95, 1902.
+*) _Protistenkunde_, 1. p. 95, 1902.
 
 Careful microscopic examination, under very high powers, of macerated chalk powder shows the granular disks to be peculiar structures — hitherto undescribed — which go to make up the entire shell of nummulites (Chap. 8). The two disks to the left in Fig. 4A are spiral bodies with the coils nearly in one plane and with radial loops or coils ("septa") in a plane at right angles to the plane of the main coil. The disks, in fact, are to a considerable degree repetitions of the complete nummulite shell. The large disks in Fig. 5 are masses of smaller disks (Plate 23. Fig. F). The beaded "rings" are not really hollow rings but solid disk bodies, a fact which becomes evident on careful focussing (Plate 23. Fig. E, E').
 
@@ -514,7 +514,7 @@ Probably a long interval separates the Cretaceous from the Eocene nummulites. Ve
 
 The methods recommended for the study of the Foraminifera of chalk are not suitable for preserving the nummulites: more damage is done in an instant of time than has been wrought by Nature in the course of millions of years. It might have been supposed that small thin-walled delicate Foraminifera would have been less resistant than large thick-walled nummulites, but this is not the case. We are advised to grate the rock into a fine powder or to macerate lumps into a paste. I cannot imagine proceedings more fatal to the integrity of nummulite shells than to grind them to powder or convert them into mud. It should be stated that Mr. Heron-Allen's methods* of maceration are excellent for the smaller Foraminifera.
 
-*) "Prolegomena," 1894, p. 12.
+*) _Prolegomena_, 1894, p. 12.
 
 I have not succeeded in isolating and cutting into sections the individual nummulite shells, though I visited the Sorbonne chiefly to examine Schlumberger's beautiful sections of Foraminifera and, if possible, to learn something of his technique.*
 
@@ -532,7 +532,7 @@ The study not only of Ehrenberg's morpholiths but also of certain other mysterio
 
 Thin sections of the hard bands of nodular Melbourn Rock and Chalk Rock are very rich in peculiar bodies which Jukes-Browne* refers to as "spheres." Many theories have been held to account for them. Prof. Blake thought they looked like the hollow spheres of _Orbulina universa_. Messrs. Parker and Jones suggested they were the "separate cells of _Globigerina_ and _Dentalina_, the former predominating." M. Cayeux, who has noted their extreme abundance in the chalk, refers to them as monolocular Foraminifera of the genus _Fissurina_ (_Lagena_) or _Orbulina_. In the zone of _Inoceramus labiatus_ near Rouen, he estimates the spheres to form 95 to 98 per cent. of all the Rhizopodal fauna.
 
-*) Geological Survey, "Upper Cretaceous Rocks," vol. 2, p. 501.
+*) Geological Survey, _Upper Cretaceous Rocks_, vol. 2, p. 501.
 
 F. Chapman believed some of them to be Radiolaria. In others he saw a strong resemblance to the globate dermal spicules of certain sponges; "but the real nature of the majority of these calcareous spheres still remains an enigma." These mysterious bodies vary considerably in size, shape, and structure, being discoidal or oval, 0.08 mm. in diameter, with opaque centre and clear periphery, or clear throughout. Quite early in the present research I found these objects to be made up of nummulitic disk structures not only filling in the body but extending right across the "wall" into the surrounding matrix. I have now advanced much further, for I can see the exact position of the "spheres" in the anatomy of the nummulite shell. They occur most commonly serially along the convexity of the marginal cord and the edges of septa, also at the point where double-walled septa bifurcate within the concavity of the cord, also in the pillar-ends in the spiral lamina. Obliquely tilted disks give the _Fissurina_-aspect. Spheres, then, are clarified areas of nummulitic structure rendered glassy by becoming more calcitic or silicic owing to greater facility of diffusion of water or silica at those points. From overflow the areas may extend as in "_Saccammina carteri_" in Carboniferous deposits of nummulites. In wholly silicified deposits (Ordovician and Precambrian phthanites) the clear areas resemble Radiolaria, etc. Spheres abound in hard bands of chalk (Melbourn Rock and Chalk Rock), probably owing to increased formation of calcite or to a greater degree of dissemination of silica in disturbed or emerged zones.
 
@@ -552,19 +552,19 @@ A peculiar spherular structure exists in the rock known as malmstone or gaize, w
 
 My sections of this remarkable rock are from material which I collected from a pit near Devizes, and from the formation (referred to by Barrois) situated by the railway siding.
 
-The siliceous spherules or "corps globuleux " in malmstone have been taken for Radiolaria, parts of siliceous sponges, silicified oolites, etc.
+The siliceous spherules or "corps globuleux" in malmstone have been taken for Radiolaria, parts of siliceous sponges, silicified oolites, etc.
 
 Some spherules resembling botryoidal structure;* and varying from 20 to 33 _μ_, were seen, under a power of 3000 diameters and low illumination, to be nummulitic spirodisks. The spherules usually show a well-defined equatorial band — the outermost coil of the disk, within which there will be lesser coils. The disks can frequently be seen to be arranged in series.
 
 Cayeux,* in his description of a siliceous gaize of Launois, has noted therein a reticulated and radiated structure. Under a high power "ce ciment présente un aspect spongieux très particulier. Le ciment n'est ici qu'un véritable squelette de silice." The appearance of spongy structure is due to the glassy layers of spiral lamina, and of radiating alars and septa of vitrified nummulites.
 
-*) L. Cayeux. "Contrib. à l'étude micrographique des terrains sédimentaires." Mém. Soc. Géol. Nord, vol. 4. 2, p. 21, 1897.
+*) L. Cayeux. _Contrib. à l'étude micrographique des terrains sédimentaires_. Mém. Soc. Géol. Nord, vol. 4. 2, p. 21, 1897.
 
 The colloidal silica apparently is derived partly from organisms, and partly, according to Cayeux, from decomposition of clay.
 
 A band of flint in chalk is a layer of silicified nummulites, the silex being derived from skeletons situated in and above the once-calcareous layer.
 
-Lapparent ("Géologie" 1. p. 332, 1906) writes:— "l'origine de cette silice doit être incontestablement cherchée dans l'alteration de dépôts siliceux origin-airement superposés aux roches en question."
+Lapparent (_Géologie_ 1. p. 332, 1906) writes:— "l'origine de cette silice doit être incontestablement cherchée dans l'alteration de dépôts siliceux origin-airement superposés aux roches en question."
 
 In connection with this subject of "spheres" and siliceous "spherules," I shall refer here — rather than under "flint and chert" — to an interesting discovery concerning certain supposed Radiolaria.
 
@@ -582,7 +582,7 @@ In the case of very ancient formations it seems to me improbable that Radiolaria
 
 *) Proc. Linn. Soc. N.S.W. 1896, p. 571.
 
-*) The picture on the cover of "Nummulosphere," Part 2, representing the genesis of igneous rocks, depicts plankton skeletons sinking through the water on to the heaps of nummulite shells constituting the ocean floor. The supposed plankton skeletons seen by me in igneous rocks are really parts of nummulites. Notwithstanding this error, the picture symbolizes events which have almost certainly happened. There is no doubt whatever about the nummulitic nature of igneous rocks, and in my opinion no reasonable doubt as to the source of much of the silica. It is a strange phenomenon this creation of the bulk of the earth's crust out of oceanic deposits of skeletons of benthos organisms mineralized by material derived partly from the siliceous skeletons of plankton organisms.
+*) The picture on the cover of _Nummulosphere_, Part 2, representing the genesis of igneous rocks, depicts plankton skeletons sinking through the water on to the heaps of nummulite shells constituting the ocean floor. The supposed plankton skeletons seen by me in igneous rocks are really parts of nummulites. Notwithstanding this error, the picture symbolizes events which have almost certainly happened. There is no doubt whatever about the nummulitic nature of igneous rocks, and in my opinion no reasonable doubt as to the source of much of the silica. It is a strange phenomenon this creation of the bulk of the earth's crust out of oceanic deposits of skeletons of benthos organisms mineralized by material derived partly from the siliceous skeletons of plankton organisms.
 
 Concerning the question of the relationship between Chalk and _Globigerina_ ooze, Cayeux* clearly demonstrates that they are very distinct, especially with regard to the conditions of depth and the characters of the Invertebrate faunas. The common presence of _Globigerina_ has sometimes led to the profound dissimilarities between the two deposits being overlooked ; and even in the Foraminiferal faunas there are essential differences. For Chalk is a nummulitic limestone, and at the present day the genus _Nummulites_ is practically extinct. The nummulites met with in _Globigerina_ ooze are silicated shells derived from subaerial or submarine eruptions.
 
@@ -600,7 +600,7 @@ Some geologists have denied the organic origin of the silica, believing it to be
 
 Dr. Hinde,* in a paper on the organic origin of chert, criticises the opinion of Professor Hull, who considered chert to be a pseudomorphic formerly-calcareous rock silicified by silica of inorganic origin. My own extremely careful observations on flint, chert, and Ordovician and Precambrian phthanites convince me that they are all silicified calcareous rocks, for in every case I can detect the original nummulites. On the other hand, direct and indirect evidence are strongly in favour of the theory of organic origin of the silica; in chalk-flint and Portland chert remains of siliceous skeletons still persist. (The supposed Radiolaria described by Hinde and Cayeux from the earlier rocks are appearances presented by the transparent nummulitic structure.) The present theory reconciles the opposing views of Dr. Hinde and Professor Hull. For flint is not a mass of dissolved siliceous skeletons. It is, as Professor Hull surmised, a mass of silicified calcareous skeletons, amidst which, it is true, there are embedded a certain average proportion of siliceous remains perhaps no greater than in any other part of the whole deposit. The calcareous skeletons are mostly nummulites, though these have not yet been generally recognized. The silica of the flint comes from the whole mass of calcareo-siliceous deposit lying between two zones of flint and including the lower zone.
 
-*) G. J. Hinde, "On the Organic Origin of the Chert of the Carboniferous Limestone Series of Ireland." Geol. Mag. (3) 4. p. 435 (1887).
+*) G. J. Hinde, _On the Organic Origin of the Chert of the Carboniferous Limestone Series of Ireland_. Geol. Mag. (3) 4. p. 435 (1887).
 
 The successive layers of flints represent in a certain degree the material derived from successive ill-defined zones of organisms rather than from sharply defined beds. Sometimes flint is deposited along oblique fissures in the rock.
 
@@ -620,7 +620,7 @@ Calcareous formations are being built up at the present day; and right down thro
 
 Where no fossils or only a very few are visible, even under the microscope, it becomes a difficult question to account for the presence of the carbonate of lime.
 
-The following extract from H. B. Brady's "Memoir on the Carboniferous and Permian Foraminifera," 1876, brings into relief some aspects of the problem referred to. He writes (p. 5):
+The following extract from H. B. Brady's _Memoir on the Carboniferous and Permian Foraminifera_, 1876, brings into relief some aspects of the problem referred to. He writes (p. 5):
 
 "Take them as a whole, the Carboniferous Limestone beds of Great Britain cannot be regarded as a Microzoic formation in quite the sense in which the term is rightly applied to many Cretaceous rocks : indeed, as a rule, they owe their origin, so far as their organic constituents are concerned, much more to animals of higher organization and larger individual dimensions, such as Crinoids and Corals than to Microzoa. So far from owing its origin, like the true Chalk, chiefly to Foraminifera; or, indeed to go further, so far from being a deposit formed directly and exclusively by the agency of animals secreting carbonate of lime, _there are considerable areas of Carboniferous Limestone in which the sea appears to have deposited its excess of mineral constituents in accordance with chemical and physical laws, without the intervention to any great extent of animal life_."
 
@@ -634,11 +634,11 @@ Again, travertines, tufas, stalactites, amygdaloids, cementation of sea-floors, 
 
 G. Linck* states: "Oolite consists originally of a modification of carbonate of lime (Aragonite) in the formation of which organisms are not directly concerned. It is not a metabolism product of organisms."
 
-*) "Ueber Bildung der Oolithe und Rogensteine." Jenaische Zeitsch. vol. 45, p. 276. 1909.
+*) _Ueber Bildung der Oolithe und Rogensteine_. Jenaische Zeitsch. vol. 45, p. 276. 1909.
 
 According to Van Hise,* "It is well known that it is difficult or impossible to discriminate limestones of organic or chemical origin." I would point out that the microscopic examination for nummulitic structure will be found to furnish an invaluable aid to diagnosis, though the test may be at times a little difficult to apply, as, for example, in the supposed non-fossiliferous matrix of Tyrol dolomites.
 
-*) "Treatise on Metamorphism," p. 907.
+*) _Treatise on Metamorphism_, p. 907.
 
 As a result of the examination of numerous marine limestones of all ages, I find that, just as in Chalk, a point of fundamental importance has been overlooked. Jurassic, Triassic, Permian, Carboniferous, Devonian, Silurian, Ordovician, Cambrian and Pre-Cambrian limestones are mainly nummulitic rocks. The "matrix," whether homogeneous cannon-ball-like, pisolitic, oolitic, soft or hard, earthy or marmorized, dolomitized, silicified, silicated, or ore-enriched, will in most cases be found to consist of a mass of nummulite shells. The shells, though not easy to detect, can usually be made out with a hand lens, and the structure, especially the dotted or granulated disk-like structures, can be seen in sections under the microscope. Accordingly the carbonate of lime in all these rocks is mainly derived from organisms.
 
@@ -672,7 +672,7 @@ Forming the base of the Precambrian in Canada is a confused assemblage of highly
 
 *) Called after the Laurentide mountains north of the river St. Lawrence.
 
-*) J. Stansfield, "Internat. Geol. Congress, Canada, 1913." Guide Book No. 3, p. 82. Bibliogr. Index, p. 115.
+*) J. Stansfield, _Internat. Geol. Congress, Canada, 1913_. Guide Book No. 3, p. 82. Bibliogr. Index, p. 115.
 
 The Laurentian and Grenville rocks belong to the most ancient era, "the Archaean." They constitute the "fundamental or basal complex."
 
@@ -694,9 +694,9 @@ In 1866 Professors King and Rowney* pointed out that all the structures brought 
 
 In 1878 Professor Möbius of Kiel, a high authority on Foraminifera, published a well-illustrated memoir* on Eozoon, which latter he regarded as an object of purely mineral origin.
 
-*) "Palaeontographica" 25. p. 175.
+*) _Palaeontographica_ 25. p. 175.
 
-In 1894 Professors H. J. Johnston-Lavis and J. W. Gregory* described certain bombs ejected from Monte Somma (Vesuvius), which have a zoned arrangement of calcite and silicates practically identical with that of "Eozoon canadense," excepting that the silicates are not hydrated into serpentines and there is no "nummuline" layer of chrysotile (fibrous serpentine). The authors considered the material of the bombs to be of Cretaceous or Jurassic age.
+In 1894 Professors H. J. Johnston-Lavis and J. W. Gregory* described certain bombs ejected from Monte Somma (Vesuvius), which have a zoned arrangement of calcite and silicates practically identical with that of "_Eozoon canadense_," excepting that the silicates are not hydrated into serpentines and there is no "nummuline" layer of chrysotile (fibrous serpentine). The authors considered the material of the bombs to be of Cretaceous or Jurassic age.
 
 *) Sci. Trans. Roy. Dublin Soc. (2) 5. p. 259. 1893.
 
@@ -708,17 +708,17 @@ Once when examining one of Carpenter's sections under the microscope I saw embed
 
 *) Described, but very incorrectly, in A.M.N.H. Sept. and Oct. 1912.
 
-*) Photographed better in "Nummulosphere" 1. 1913. The photo on Plate 11 is too dark.
+*) Photographed better in _Nummulosphere_ 1. 1913. The photo on Plate 11 is too dark.
 
-*) "Nummulosphere" 2. 1913.
+*) _Nummulosphere_ 2. 1913.
 
-Since "Nummulosphere" 2 was published I have made numerous observations on varied and abundant material, viz., Carpenter's collection, including "Eozoon" from Scotland, Ireland, and Bavaria (sent by Gümbel); a magnificent set of specimens sent to me by Mr. L. Lambe from Canada; material from Finland sent to me by Prof. J. J. Sederholm and Dr. O. Trüstedt; a typical Monte Somma bomb (Hamilton Coll. N. H. M.); also archaean limestone from the Sikhim Himalayas, very kindly obtained for me by Mr. John C. White.
+Since _Nummulosphere_ 2 was published I have made numerous observations on varied and abundant material, viz., Carpenter's collection, including "Eozoon" from Scotland, Ireland, and Bavaria (sent by Gümbel); a magnificent set of specimens sent to me by Mr. L. Lambe from Canada; material from Finland sent to me by Prof. J. J. Sederholm and Dr. O. Trüstedt; a typical Monte Somma bomb (Hamilton Coll. N. H. M.); also archaean limestone from the Sikhim Himalayas, very kindly obtained for me by Mr. John C. White.
 
 I have now found that the small disks visible with a hand lens, and which had been taken by me for small nummulites, are portions of nummulite shells. Further, the supposed Radiolaria and Diatoms are found to be appearances due to transparent series and groups of nummulitic disk structures viewed under high powers and in various aspects; and, lastly, the supposed microscopic shells of which I had published photographs were also merely portions of nummulitic structure.
 
 Professors King and Rowney* asked believers in the organic theory to reply without question-begging irrelevancy or reticence to eleven points, foraminiferal, mineralogical, chemical and geological.
 
-*) "An Old Chapter in the Geological Record," 1881.
+*) _An Old Chapter in the Geological Record_, 1881.
 
 The organic theory has now taken on an almost entirely new aspect, and I think it will be amply sufficient to reply here to the first two points, which are the most important.
 
@@ -738,7 +738,7 @@ Point No. 2. "The supposed 'canal-systems' have no constant correlativeness."
 
 Answer. King and Rowney are wholly right. The "canals" are due to mineralization, and are not canals at all, for they have never been hollow. Plate 23 Fig. G, shows two of these "canals." They are filled with nummulitic structure in continuity with similar but barely visible structures in the adjacent calcite. Solid serpentine "casts" of the canals etched out by acid are solid masses of nummulitic structure and not structureless infillings.
 
-Dr. Hahn ("Die Urzelle") was opposed to the nummulite theory. He writes: "The assertion that Eozoon is a Foraminiferan comes to grief with the proof that it is formed of plants." Dr. Hahn thought the existence of fibre-like and also of cup-shaped canals fatal to the Foraminiferal theory. He made many genera of algae out of the "canal-systems." (I myself at one time imagined I had found algae in Eozoon.) Dr. Hahn figures a worm with a tripartite operculum, "das erste Tier" — the ancestor of Trilobites — "which browsed on this succulent vegetation" (Whitney and Wadsworth). Some figures of the worm apparently show transverse sections of spiral lamina or cord, the operculum perhaps being a pillar-end or septum. Notwithstanding his mistakes, Dr. Hahn was nearer the truth than were some of his critics.
+Dr. Hahn (_Die Urzelle_) was opposed to the nummulite theory. He writes: "The assertion that Eozoon is a Foraminiferan comes to grief with the proof that it is formed of plants." Dr. Hahn thought the existence of fibre-like and also of cup-shaped canals fatal to the Foraminiferal theory. He made many genera of algae out of the "canal-systems." (I myself at one time imagined I had found algae in Eozoon.) Dr. Hahn figures a worm with a tripartite operculum, "das erste Tier" — the ancestor of Trilobites — "which browsed on this succulent vegetation" (Whitney and Wadsworth). Some figures of the worm apparently show transverse sections of spiral lamina or cord, the operculum perhaps being a pillar-end or septum. Notwithstanding his mistakes, Dr. Hahn was nearer the truth than were some of his critics.
 
 On the weathered lumps of Eozoon I can trace with the naked eye and lens obscure outlines of large nummulites about an inch in diameter and in various aspects. Many hours of patient observation were required at first to make out the details, but I can now make out with certainty numerous details of shell structure (Plate 13. Fig. C). Sections 3x show the shells fairly well.
 
@@ -766,7 +766,7 @@ If the lumps and bands of pyroxene had originated from the granite, one would ex
 
 Prof. T. G. Bonney,* who saw Eozoon _in situ_ in the limestone at Côte St. Pierre, Quebec, figures masses of pyroxene or serpentine or of both minerals surrounded by bands of Eozoon. The conditions in the Laurentian and Hopunwaara limestones are closely similar. Prof. Sederholm, who very kindly sent me specimens of Hopunwaara limestone and of other Finland rocks, thereby supplementing a set of Eozoon, sahlit, etc., previously sent by Dr. Trüstedt, writes in a letter to me:— "The limestone is Ladogian," _i.e._ it is to be correlated with the Archaean. 
 
-*) "The Story of our Earth." 1893, p. 388, Fig. 131; also Geol. Assoc. 1895, p. 292.
+*) _The Story of our Earth_. 1893, p. 388, Fig. 131; also Geol. Assoc. 1895, p. 292.
 
 All the evidence goes to show that the lumps and bands of pyroxene and their surrounding zones of serpentine belong to the limestone itself, just as the lumps or bands of flint in a chalk quarry belong to the chalk. In the archaean limestone, owing to the heat from neighbouring igneous magmas, the silica has combined with the magnesium, calcium, aluminium, iron, etc., to form serpentine, loganite, etc., the silicates being precipitated in bands. Both the flint and the Eozoon are mineralized lumps or masses of nummulite shells, the silica probably being derived from organisms.
 
@@ -774,7 +774,7 @@ The experiments of R. Liesegang ("Geologische Diffusionen") on precipitation, sh
 
 Eozoon has been a twofold source of error. Firstly there was the mistake for which Dawson and Carpenter were chiefly responsible, that certain banded lumps of serpentine limestone were gigantic reef-like Foraminifera. After doing great service in destroying this illusion, the mineralogists and petrologists went too far and fell into error themselves. Whitney and Wadsworth* write of "the extraordinary delusion which has prevailed among palaeontologists with reference to the organic nature of Eozoon."
 
-It was a case of denying not merely the organic nature of Eozoon _qua_ Eozoon, but also an organic origin of any sort. As these authors expressly state, their "Azoic System" comprised a series of the earliest rocks which had, according to them, never been anything else than azoic. I have already given reasons for my conviction ("Nummulosphere" 1) that there is no "azoic system" accessible to investigation. Numerous later observations have confirmed this view.
+It was a case of denying not merely the organic nature of Eozoon _qua_ Eozoon, but also an organic origin of any sort. As these authors expressly state, their "Azoic System" comprised a series of the earliest rocks which had, according to them, never been anything else than azoic. I have already given reasons for my conviction (_Nummulosphere_ 1) that there is no "azoic system" accessible to investigation. Numerous later observations have confirmed this view.
 
 King and Rowney (Q.J.G.S. _l.c._ p. 216) regard Eozoon as having "existed at one time as hornblendic or augitic gneiss, and that it is primarily of sedimentary origin," i.e. an azoic sediment derived from azoic rocks. Johnston-Lavis and Gregory (_l.c._) consider Eozoon to be derived from igneous magmas, _i.e._ to be azoic.
 
@@ -786,7 +786,7 @@ There is a vague and indefinite era in the history of the planet when geology fi
 
 All theories of planetary origin postulate a nebula of some kind. The Laplacean and meteoritic theories assume that a hot gaseous nebula or one of clashing meteorites condensed into a molten globe on which a crust formed on cooling. The planetesimal theory postulates a nebula of solid and liquid particles all rotating in one direction round a solid central nucleus, the latter growing by accretion. In the first case the ocean would form rather by precipitation, in the second by exudation.*
 
-*)  Chamberlin and Salisbury. "Geology, Advanced Course,' 2. 1906.
+*)  Chamberlin and Salisbury. _Geology, Advanced Course_, 2. 1906.
 
 The part of the earth's crust that might be expected to furnish evidence concerning planetary origin would naturally be in the oldest zone, _i.e._ the archaean or "basal complex."
 
