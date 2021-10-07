@@ -1156,7 +1156,7 @@ Tschermak believed that meteorites have had a volcanic source on some celestial 
 
 Sir Robert Ball wrote,* "With reference to the origin of meteorites it is difficult to speak with any degree of confidence. _Every theory of meteorites is in itself improbable_, so it seems the only course open to us is to choose that view of their origin which seems least improbable." Accordingly Ball chose the volcanic theory, and then set about to discover the most probable volcanic source. Firstly he eliminated space beyond the solar system, on account of the extreme improbability of bodies from such distances hitting such a microscopic globule as our planet. For various other reasons the sun and larger planets were excluded. The moon might have been a source, but there are no active volcanoes visible, and meteorites which would quickly traverse a distance equal to the space between us and the moon, arrive at the present time.
 
-*) 'The Story of the Heavens,' p. 359, and 'Nature,' 1879, 19. p. 493.
+*) _The Story of the Heavens_, p. 359, and _Nature_, 1879, 19. p. 493.
 
 By a process of elimination the earth was selected as the possible source. Ball points out that the probability of ejecta from the earth being again recaptured is considerable, because, assuming meteorites travel on a closed orbit round the sun, they must necessarily cross the track of the earth's orbit, and may do so at a moment when the earth is at the same point as the meteorite.
 
@@ -1174,7 +1174,7 @@ The evidence is now overwhelmingly in favour of a theory of terrestrial origin. 
 
 Dr. Otto Hahn* believed in the organic origin of meteorites, but he fails to produce any evidence in support of his theory. He mistook the chondrules of aerolites for Sponges, Corals, and Crinoids. These bodies are peculiar formations of a mineral nature, but at the same time they owe their characters in some measure to the structure of the underlying organic basis.
 
-*) 'Die Meteorite (Chondrite) und ihre Organismen.' 1880.
+*) _Die Meteorite (Chondrite) und ihre Organismen_. 1880.
 
 Further, he considered the Widmänstatten figures of siderites to be "for the most part plant-cells and not crystals." (Appendix, Note G.)
 
@@ -1190,11 +1190,11 @@ Meteorites contain minerals not only not known to exist on this earth, but which
 
 On the other hand, the fact that aerolites are _mainly_ composed of pyroxene compounds, with a certain percentage of felspar and iron, is one rather in favour of an earthly origin. Prof. Judd* gives a diagram illustrating the relations between terrestrial rocks and meteorites (which last he designates extra-terrestrial). The aerolites, siderolites, and siderites closely compare respectively with enclosures in basalt, the basalt of Ovifak, Greenland, and the iron masses of Ovifak.
 
-*) 'Volcanoes,' p. 322.
+*) _Volcanoes_, p. 322.
 
 "The Asiderites" (aerolites without iron) "are quite identical in composition with the ultra-basic lavas of our globe" (Judd). Ultra-basic "nodules" of nearly the same composition as meteorites are found in basalt, and in the centre of volcanic bombs.
 
-Dr. G. T. Prior in a paper 'On the remarkable similarity in chemical and mineral composition of chondritic meteoric stones'* has pointed out "the practical identity in chemical composition of different meteoric stones." They contain 74 per cent. of silicate of magnesia and iron (Olivine and Bronzite), 10 per cent. of silicate of alumina, with sodium, calcium and a trace of potassium (soda-lime felspar), 15 per cent. iron alloys and protosulphide (nickeli-ferous iron and troilite) and 1 per cent. Chromite. Here are all the eight familiar elements of igneous rocks, of benthoplankton organisms and sea-water, viz., O. Si. Fe. Al. Mg. Ca. Na. K. Lockyer ('The Meteoritic Hypothesis,' p. 25) marks in italics the statement that magnesium is present in all siderites. It is also common in the sea, in limestone deposits formed in the sea, and in igneous rocks.
+Dr. G. T. Prior in a paper _On the remarkable similarity in chemical and mineral composition of chondritic meteoric stones_* has pointed out "the practical identity in chemical composition of different meteoric stones." They contain 74 per cent. of silicate of magnesia and iron (Olivine and Bronzite), 10 per cent. of silicate of alumina, with sodium, calcium and a trace of potassium (soda-lime felspar), 15 per cent. iron alloys and protosulphide (nickeli-ferous iron and troilite) and 1 per cent. Chromite. Here are all the eight familiar elements of igneous rocks, of benthoplankton organisms and sea-water, viz., O. Si. Fe. Al. Mg. Ca. Na. K. Lockyer (_The Meteoritic Hypothesis_, p. 25) marks in italics the statement that magnesium is present in all siderites. It is also common in the sea, in limestone deposits formed in the sea, and in igneous rocks.
 
 *) See analyses of Baroti and Wittekranz meteorites. G. T. Prior, Min. Mag., 17., pp. 27, 31. 1913.
 
@@ -1210,17 +1210,17 @@ The differences in the densities of meteorites have led to the supposition that 
 
 Walterhausen (1853) regarded the earth as a body composed of concentric shells, lighter acid rocks being at the surface, heavier basic rocks deeper and metallic zones still deeper. Suess,* again, assumes the existence of three zones or envelopes as determining the structure of the earth,viz., the deepest or barysphere of nickel and iron, the middle Silica-Magnesium zone and the surface Silica-Aluminium zone.
 
-*) 'The Face of the Earth,' 4. p. 544. 1909.
+*) _The Face of the Earth_, 4. p. 544. 1909.
 
 Dr. Leigh Fermor,* in a paper on the origin of meteorites, is led to assume the existence of a garnetiferous zone between a central metallic and a plutonic zone. Consequently he makes use of the term "infra-plutonic" for the garnet zone.
 
-*) 'Preliminary Note on the Origin of Meteorites.' Journal and Proceedings of the Asiatic Society of Bengal, 8, 1912, p. 315. I would point out that we have not yet arrived even at a plutonic zone, let alone an infra-plutonic. I find traces of oceanic organic life in garnetiferous schists from Sikhim and Tyrol. The birthplace of siderites is in Neptune's territory. This criticism is merely one of nomenclature.
+*) _Preliminary Note on the Origin of Meteorites_. Journal and Proceedings of the Asiatic Society of Bengal, 8, 1912, p. 315. I would point out that we have not yet arrived even at a plutonic zone, let alone an infra-plutonic. I find traces of oceanic organic life in garnetiferous schists from Sikhim and Tyrol. The birthplace of siderites is in Neptune's territory. This criticism is merely one of nomenclature.
 
 Whether the lithosphere is sorted into zones or not, it is only one common organic deposit. Certainly the siderites are not "iron dug from _central_ gloom." It is by no means certain they originate from a specially deep zone. Probably all the iron in the known crust of the earth has one common primal origin — the sea.
 
 The deeper layers of the mineralized oceanic organic deposit have been heated, and have risen up in the form of dykes, bosses, and sills penetrating the overlying crust and even breaking through the surface. Upheaved portions of this same deposit have been ground down and leached, the soluble iron salts becoming deposited along certain planes of fissures and faults (veins). There is no evidence to show that the basal part of the nummulosphere (or lithosphere) is richer in metal than the higher levels. In the case of veins, at any rate, some practical mining engineers are wholly opposed to the ancient theory of persistence of ore deposit in depth.*
 
-*) 'Persistence of Ore in Depth.' T. A. Rickard. A paper discussed at a meeting of the Institution of Mining and Metallurgy, Nov. 1914. I have to thank Mr. G. Henriksen for this interesting reference.
+*) _Persistence of Ore in Depth_. T. A. Rickard. A paper discussed at a meeting of the Institution of Mining and Metallurgy, Nov. 1914. I have to thank Mr. G. Henriksen for this interesting reference.
 
 According to the Hon. R. J. Strutt, the earth's interior can hardly consist mainly of iron, for the mean density of the earth is only 5.5, while that of iron is 7.7 (P.R.S. [A] 77, p. 484. 1906).
 
@@ -1238,7 +1238,7 @@ Even the great showers of shooting-stars may be related to the meteorites captur
 
 Sir Norman Lockyer considers the difference between an ordinary meteorite and a shooting-star to be merely one of size.* A shooting-star weighing only one grain and moving thirty miles a second, would possess an energy of 55,675 foot-pounds. No wonder it makes a splash in the aerial ocean into which it plunges!
 
-*) 'The Meteoritic Hypothesis,' 1890.
+*) _The Meteoritic Hypothesis_, 1890.
 
 If we could imagine some terrific volcanic eruption, capable of overcoming diminished aerial resistance and gravitational pull, it would not perhaps be difficult to account for the 33-year showers of shooting stars. A violent preliminary discharge would cleave the heated rarefied column of air like a battering-ram, and a closely following rush of matter would take place in a partial vacuum. The Alaskan volcano Katmai covered the country in a thick bed of dust over thousands of square miles. If a column of such material got shot out into space it would become drawn out into a great band of dust, each particle of which would become a shooting-star when, with its acquired orbital velocity, it re-entered our atmosphere.
 
@@ -1278,7 +1278,7 @@ The crust of the earth is mainly built of minute disks, the smallest visible bei
 
 _Note on gneisses and crystalline schists_. — "The question of the origin and meaning of the banded, foliated, and allied structures exhibited by crystalline rocks over large tracts of the earth's surface, is one of the oldest problems of geology, and still awaits a solution."* — A. Harker.
 
-*) 'The Problem of the Gneissic Rocks.' Trans. Hull Geol. Soc., 1906, vol. 6, p. 24.
+*) _The Problem of the Gneissic Rocks_. Trans. Hull Geol. Soc., 1906, vol. 6, p. 24.
 
 Distributed over vast areas of the earth's surface there are formations possessing characters both of sedimentary and of igneous rocks: for on the one hand they are crystalline and apparently devoid of fossils, and on the other stratified and banded in a manner suggestive of sedimentation. At one time these rocks, of which the gneisses and schists are the most typical examples, were regarded as ancient sediments laid down in water, and "metamorphosed" into a crystalline condition by the action of heat.
 
@@ -1286,11 +1286,11 @@ There are many instances of sedimentary rocks becoming crystalline in the neighb
 
 In 1884 J. Lehmann* published a great work illustrated by an atlas of photographs, showing that a stratified structure was often brought about in igneous rocks as a result of pressure. Now metamorphic rocks are especially found in mountainous regions, where there has necessarily been great dislocation and pressure. Hence he concluded that metamorphic rocks might in many cases be igneous rocks modified by mechanical means.
 
-*) 'Untersuchungen über die Entstehung der altcrystallinischen Schiefergesteine,' 1884.
+*) _Untersuchungen über die Entstehung der altcrystallinischen Schiefergesteine_, 1884.
 
 At the present day the tendency is to judge each case on its own merits.
 
-Sir A. Geikie wrote, in his critical appreciation of Lehmann's work, "The question is attacked on all sides" ('Nature,' June 5, 1884, p. 121). There is, however, one side whence no attack has yet been delivered. I find as a matter of observation that the metamorphic rocks are replete with organic structure.* They are not only masses of crystalline minerals, but also masses of mineralized nummulites. Just as the arrangement and condition of the minerals afford evidence concerning events in the history of the rock, so likewise does the condition of the nummulitic material.
+Sir A. Geikie wrote, in his critical appreciation of Lehmann's work, "The question is attacked on all sides" (_Nature_, June 5, 1884, p. 121). There is, however, one side whence no attack has yet been delivered. I find as a matter of observation that the metamorphic rocks are replete with organic structure.* They are not only masses of crystalline minerals, but also masses of mineralized nummulites. Just as the arrangement and condition of the minerals afford evidence concerning events in the history of the rock, so likewise does the condition of the nummulitic material.
 
 *) Nummulite structure is visible in many of Lehmann's photographs, viz. 2. 3; 3. 4; 6. 3, 4; 7. 4; 9. 1; 16. 6; 21. 6; 23. 3; etc.
 
@@ -1308,7 +1308,7 @@ Glauconitic Deposits — Glauconite is a granular greenish mineral now forming d
 
 The green grains are either shapeless or in the form of casts of calcareous — mainly Foraminiferal — shells. The mineral is composed "of hydrous silicate of potash and of ferric oxide, containing variable quantities of alumina, ferrous oxide, magnesia and often lime."* Glauconite occurs in geological formations down to the Cambrian.
 
-*) Murray and Renard: '_Challenger_ Deep-Sea Deposits,' 1891, pp. 378-391.
+*) Murray and Renard: _Challenger Deep-Sea Deposits_, 1891, pp. 378-391.
 
 The most approved explanation is that the sediments of igneous rocks, especially those with potash felspar, permeate the shells as fine mud, and that the latter becomes decomposed by acid resulting from the action of organic matter.
 
@@ -1316,7 +1316,7 @@ A new feature of interest about this mineral is the discovery of persisting numm
 
 A. Vialay* takes a glauconitic deposit as the starting point of his evolutionary rock series, viz. ultra-basic, basic and acid. However logical the theory may be from the chemical point of view, yet actually the course of events has probably been different. For glauconite is the offspring, and not the progenitor, of igneous rocks. The learned author rightly postulates an aqueous origin for the latter. He believes their metamorphosis to have taken place _à froid_.
 
-*) A. Vialay. 'Essai sur la Genèse et l'Évolution des Roches,' 1912, p. 94.
+*) A. Vialay. _Essai sur la Genèse et l'Évolution des Roches_, 1912, p. 94.
 
 An esteemed correspondent writes to me:— "I cannot agree with you when you speak of 'the organic origin of igneous rocks.' I think it should be the sedimentary origin of igneous rocks. If the so-called igneous rocks are largely composed of organic remains, surely they are far from exclusively made of that material." A band of chalk-flint will be found to be a mass of silicified once-calcareous fossils, these being chiefly nummulites. When that flint is ground down into sand it will still be possible to see the remains of nummulites. I find the same structure in the grains of all the sandstones I have examined. Similarly granite will be found to be a mineralized deposit of nummulite shells. The granite — sand, mud and clay also show the almost indestructible nummulitic structure. The original granite may itself be a sediment or it may be in the condition of a primary deposit. Whether the rock is primary or ground down, if I find traces of organic structure in nearly every particle — even though that structure be mineralized by silica magnesium or iron, or by alumina, which is not known to be secreted by organisms, yet I should feel justified in speaking of the organic nature and origin of the rock.
 
@@ -1328,7 +1328,7 @@ For aeons a simple universal rhizopodal "bathybius"* has been building a scaffol
 
 *) The meaning of "bathybius" here differs slightly from that of the term as originally employed. It is not a case of a continuous plasmodium of protoplasm, but of a layer of little separate masses.
 
-*) F. Ratzel ('Anthropo-Geographie,' Ed. 3, 1. p. 207) compares the ocean to a mantle seemingly with holes in it (i.e. the land). Nature is always repairing the rents. According to one estimate it would require six million years to sweep away the present land areas.
+*) F. Ratzel (_Anthropo-Geographie_, Ed. 3, 1. p. 207) compares the ocean to a mantle seemingly with holes in it (i.e. the land). Nature is always repairing the rents. According to one estimate it would require six million years to sweep away the present land areas.
 
 A mountain range (like all the rest of the earth's crust) with a plutonic core flanked by schists, sedimentaries, intrusives and limestones, is one thing, viz. benthoplankton, in various states.
 
@@ -1350,7 +1350,7 @@ The lithosphere with its sodium-content is an oceanic deposit. There is no evide
 
 Recent estimates of duration based on the disintegration of uranium and its products yield enormous periods of time varying from 240 to 11,470 millions of years.* Joly adds "That we have much to learn is indeed probable."
 
-*) Quoted by Joly in 'The Birth-time of the World.' Science Progress, July, 1914. Seeing that radioactive substances and their products of disintegration are found together in igneous rocks, i.e. in nummulitic deposits, well might the poet ask —  
+*) Quoted by Joly in _The Birth-time of the World_. Science Progress, July, 1914. Seeing that radioactive substances and their products of disintegration are found together in igneous rocks, i.e. in nummulitic deposits, well might the poet ask —  
 "What oldest star the fame can save  
 Of races perishing to pave  
 The planet with a floor of lime?"  
@@ -1377,7 +1377,7 @@ I have seen very distinct traces of nummulitic structure in diamonds (Fig. 10). 
 
 *) Described by D. P. McDonald in Trans. Geol. Soc. South Africa, 16. 1913, p. 156.
 
-In specimens of graphite mixed with Wollastonite rock (silicate of calcium) I am firmly persuaded, after prolonged and close observation, that I can see casts of nummulites with a hand lens. The Wollastonite rock itself is nummulitic. Carbon dissolved in molten magmas may separate out as graphite or as diamond. In Moissan's experiments diamonds resulted from the solidification of metal carbides ('Ore Deposits,' Beyschlag, Vogt, and Krusch, 1, 1914, p. 129).
+In specimens of graphite mixed with Wollastonite rock (silicate of calcium) I am firmly persuaded, after prolonged and close observation, that I can see casts of nummulites with a hand lens. The Wollastonite rock itself is nummulitic. Carbon dissolved in molten magmas may separate out as graphite or as diamond. In Moissan's experiments diamonds resulted from the solidification of metal carbides (_Ore Deposits_, Beyschlag, Vogt, and Krusch, 1, 1914, p. 129).
 
 _Infra-Nummulosphere_.
 
@@ -1459,7 +1459,7 @@ In 1848 Joly and Leymerie wrote an important historical and scientific memoir on
 
 Nummulites are shaped like biconvex lenses or disks, and vary in diameter from 1 to 107 mm. (1/25 to about 4½ inches).* The surface may show radiating sinuous lines or a reticulate pattern, and may be smooth or visibly granular. To the naked eye there is no perceptible orifice.
 
-*) D'Archiac describes gigantic specimens of _N. complanata_ from Crete, 107 x 3 mm. ('Mon.' p. 88).
+*) D'Archiac describes gigantic specimens of _N. complanata_ from Crete, 107 x 3 mm. (_Mon_. p. 88).
 
 The shells have the singular and convenient characteristic of splitting into two equal plano-convex half-disks when heated and suddenly thrown into cold water. Each flat inner face of the split shell reveals one half of a spiral cavity with few or many turns, divided up into numerous chambers by septa or partitions also in halves (Plate 2. B). Fitting the halves together again will help the observer to realize the shape of the whole spiral cavity and septa.
 
@@ -1483,7 +1483,7 @@ The Marginal Cord is the ribbon-like edge of the spiral lamina. The surface of t
 
 Very little appears to be known concerning the finer structure of nummulites, and it is a strange paradox that some new light should be thrown on this subject as a result of the study of silicated nummulites of igneous rocks and meteorites rather than of calcareous shells of Eocene limestones.* For it was only after finding certain structures in silicated shells that I was led to seek for and to find similar structures in the Tertiary nummulites.
 
-*)
+*) The reasons for this may be partly chemical, partly optical. Carbonic acid and pure water would act more powerfully on calcareous than on silicated shells, and the nummulitic deposits constituting igneous rocks may often have become mineralized.
 
 My observations on the finer microscopic structure are incomplete, but are published in the belief that they will afford some help in interpreting the photographs of sections of igneous rocks and meteorites.
 
@@ -1521,11 +1521,11 @@ Reproduction. — Students of nummulites were greatly mystified at one time at f
 
 Sometimes shells form buds, which separate from the parent at a certain stage.*
 
-*) Heron-Allen. Phil. Trans., 1915, vol. 206, p. 245. In 'Nummulosphere' 1, I stated, under the influence of the Eozoon delusion, that with a little poetic licence the planet might be compared to a gigantic budding reef-like Rhizopod encrusting a foreign body. Really it is a case of a mass of separate Rhizopods.
+*) Heron-Allen. Phil. Trans., 1915, vol. 206, p. 245. In _Nummulosphere_ 1, I stated, under the influence of the Eozoon delusion, that with a little poetic licence the planet might be compared to a gigantic budding reef-like Rhizopod encrusting a foreign body. Really it is a case of a mass of separate Rhizopods.
 
 Food Supply. — Whence did the nummulites get their food? The investigations ot Gwyn Jeffreys, Wyville Thomson and Carpenter point to the conclusion that deep-sea benthos organisms live mostly on decayed organic matter sunk down from above. A research of Möbius* showed that in some areas a good deal of decayed shallow-water vegetation drifted down to deeper zones. At the present day the Antarctic mud is so rich in diatomaceous protoplasm that fishes feed on it, _and the Foraminifera are crammed with Diatoms_. The abundance of silica in igneous rocks is in itself suggestive of a plankton food supply for the nummulites.
 
-*) Möbius. 'Whence comes the nourishment of the animals of the deep seas?' A.M.N.H., 1871, (4) 8. p. 193 (Transl.). Many references to literature.
+*) Möbius. _Whence comes the nourishment of the animals of the deep seas?_ A.M.N.H., 1871, (4) 8. p. 193 (Transl.). Many references to literature.
 
 Classification. — The classification of nummulites is a matter of great difficulty. Carpenter was inclined to the view that in the genus _Nummulites_ there was really only one species, with numerous varieties. D'Archiac and de la Harpe both refer to the difficulty of arriving at specific characters. Owing to the great abundance of the material it is often possible to find gradations between very distinct forms.
 
@@ -1539,7 +1539,7 @@ The characters available are radial or reticulate markings, granular or non-gran
 
 Hantken, who investigated the Tertiary nummulitic formations of Hungary, was the first to demonstrate that different horizons were characterised by different species of nummulites. His diagrams* show the strata with their distinct nummulitic faunas. Probably similar zones exist in all the limestones and igneous rocks, and we may possibly be able to locate the zones whence meteorites were derived.
 
-*) 'The stratigraphical importance of nummulites in the early Tertiary strata of the mountains of S.W. Hungary.' Proc. Roy. Hungarian Acad. Sci., Buda-Pesth, 5., 1875, No. 6. Also de la Harpe. Mem. Soc. Pal. Suisse, 1880, 7. p. 68.
+*) _The stratigraphical importance of nummulites in the early Tertiary strata of the mountains of S.W. Hungary_. Proc. Roy. Hungarian Acad. Sci., Buda-Pesth, 5., 1875, No. 6. Also de la Harpe. Mem. Soc. Pal. Suisse, 1880, 7. p. 68.
 
 De la Harpe writes of the difficulty involved by the immense amount of material which, however, included only Tertiary nummulites. What would he have thought of the addition of the nummulite faunas of most of the Mesozoic, Palaeozoic and Archaeozic formations and the igneous rocks! A gigantic task awaits future nummulitologists.
 
@@ -1555,7 +1555,7 @@ Further, what is now the abyssal floor of the ocean must once have been in relat
 
 Distribution in Time. — Nummulites have hitherto been supposed to be characteristic of the early part of the Tertiary era. There are a very few doubtful records of the occurrence of the genus (_sensu stricto_) in Carboniferous, Jurassic, Cretaceous and recent times.* D'Archiac calls the Eocene "the nummulitic epoch." Carpenter writes, "There is no fact in Palaeontology more striking than the sudden and enormous development of the nummulitic type in the early part of the Tertiary period and its almost equally sudden diminution bordering on extinction."
 
-*) See list by de la Harpe. Mem. Soc. Pal. Suisse, ed. 3, p. 37, 7., 1880-1, p. 68, footnote; also Zittel, 'Grundzüge,' ed. 3, p. 37.
+*) See list by de la Harpe. Mem. Soc. Pal. Suisse, ed. 3, p. 37, 7., 1880-1, p. 68, footnote; also Zittel, _Grundzüge_, ed. 3, p. 37.
 
 There is no longer reason to regard as singular the existence of thick and extensive belts of nummulitic limestones in the Eocene period. For the chalk ocean was similarly nummulitic, and also the ocean during the mesozoic, palaeozoic and archaeozoic eras.*
 
@@ -1579,7 +1579,7 @@ After eliminating regions too deep, too cold, or emerged, there still remain a f
 
 There is reason to believe that the final extinction of _Nummulites_ over areas where the genus might otherwise have persisted in abundance may have been due to the ushering in of a _Globigerina_ epoch, i.e. an epoch of calcareous Foraminiferal plankton.
 
-Zittel's useful charts of distribution-in-time of various families of Foraminifera ('Grundzüge,' ed. 3, 1910, p. 37) reveal a remarkable fact. Globigerina is stated to begin in the Cambrian*; then during the remainder of the Palaeozoic era there is no record. During the Mesozoic era and the early part of the Gainozoic (Eocene and Oligocene) the genus exists but not abundantly. Suddenly, at the beginning of the Miocene and on to the present time Globigerina becomes abundantly prevalent, i.e., at the time when _Nummulites_ becomes almost extinct, _Globigerina_ becomes abundant.
+Zittel's useful charts of distribution-in-time of various families of Foraminifera (_Grundzüge_, ed. 3, 1910, p. 37) reveal a remarkable fact. Globigerina is stated to begin in the Cambrian*; then during the remainder of the Palaeozoic era there is no record. During the Mesozoic era and the early part of the Gainozoic (Eocene and Oligocene) the genus exists but not abundantly. Suddenly, at the beginning of the Miocene and on to the present time Globigerina becomes abundantly prevalent, i.e., at the time when _Nummulites_ becomes almost extinct, _Globigerina_ becomes abundant.
 
 *) Although I have not seen the phosphatic nodules of the Cambrian of New Brunswick stated by W. D. and G. F. Matthew (Trans. New York Acad. Sci., 1893, 12. p. 108; and 1895, 14., p. 101, Plate 1. figs, 1-8_b_) to contain _Globigerina_ and _Orbulina_, I am convinced there is here an error of interpretation. In the course of the present work I was at one time continually mistaking nummulitic structures for _Globigerina_ and _Orbulina_. The same mistake has been made in the case of the "spheres" in chalk. Apparently the true Globigerina record begins with the Mesozoic era.
 
@@ -1591,7 +1591,7 @@ Phylogenetic Note. — It seems singular that nummulites, regarded as the highes
 
 It may be assumed that nummulites and other many-chambered Foraminifera are descended from one-chambered ancestors, and the latter from forms without shell. In the life cycle of nummulites, the protoplasm of the microspheric shell breaks up into amoebulae, bodies which probably exhibit the ancestral characters not only of Foraminifera but of the whole of the Protozoa.
 
-Prof. Minchin in his great work,* 'An Introduction to the Study of the Protozoa' (p. 465) writes, "We may, then, regard as the most ancestral type in the Protozoa a minute amoebula-form, in structure a true cell, with nucleus and cytoplasm distinct, which moved by means of pseudopodia." Before the great planetary nummulitic deposits were formed, probably there existed a period during which the ocean floor was more or less covered with the shell-less amoebula-ancestors of nummulites.
+Prof. Minchin in his great work,* _An Introduction to the Study of the Protozoa_ (p. 465) writes, "We may, then, regard as the most ancestral type in the Protozoa a minute amoebula-form, in structure a true cell, with nucleus and cytoplasm distinct, which moved by means of pseudopodia." Before the great planetary nummulitic deposits were formed, probably there existed a period during which the ocean floor was more or less covered with the shell-less amoebula-ancestors of nummulites.
 
 Huxley's "Bathybius theory," although based on an error, is now seen to be not far from the truth. He mistook gelatinous networks with calcareous particles found in bottles of preserved abyssal Atlantic ooze for specimens of a primitive form of living matter spread over the ocean floor. The jelly was found to be a precipitate of sulphate of lime in alcohol, the calcareous particles being coccoliths. It is now apparent that the whole ocean floor actually has been covered with rhizopodal lime-secreting protoplasm in the form of little separate masses.
 
@@ -1713,7 +1713,7 @@ The conclusion will force itself irresistibly upon the trained observer that the
 
 The mineral characters of Snake River basalt resemble to some extent those of the Renazzo meteorite figured and described by Tschermak.* His figure (Plate 15. Fig. 4, 160x) shows linear crystals, granules and glassy and black patches just as in the basalt. He calls the augite crystals spreuformige (chaff-like), a term admirably descriptive of the augite crystals of the basalt. The figure shows well a portion of parallel-banded marginal cord with a transverse row of beads.
 
-*) G. Tschermak, 'Die mikroskopische Beschaffenheit der Meteoriten,' 1885.
+*) G. Tschermak, _Die mikroskopische Beschaffenheit der Meteoriten_, 1885.
 
 In both basalt and meteorite the linear crystals are augite, the granules olivine, and the dark patches magnetite.
 
@@ -1809,15 +1809,15 @@ Having found the earth's crust to be a deposit of nummulites mineralized by sili
 
 Many now hold the belief that organic evolution follows on uninterruptedly from what Sir Norman Lockyer terms inorganic evolution. As heavenly bodies from the hottest suns to planets diminish in temperature their materials are able to form ever more complex alliances. "As matter is allowed capacity for assuming complex forms those complex forms appear" in accordance with what Professor B. Moore terms "The Law of Complexity."*
 
-*) 'The Origin and Nature of Life,' 1912. 
+*) _The Origin and Nature of Life_, 1912. 
 
 Very different pictures are drawn of the condition of the earth's surface when life first became possible. Professor Minchin, for instance, conjures up a vision of a hot crust formed over molten magma, the latter continually breaking through, with condensing vapours exploding into steam, and general conditions favouring a great synthesis of chemical compounds. "It is conceivable," he cautiously remarks, "that this period of chaos, of storm and stress on a gigantic scale, might have been the womb of life."*
 
-*) 'Speculations with regard to the Simplest Forms of Life and their Origin on the Earth.' Journ. Quekett Micr. Club, vol. 11., 1912.
+*) _Speculations with regard to the Simplest Forms of Life and their Origin on the Earth_. Journ. Quekett Micr. Club, vol. 11., 1912.
 
 Carl Snyder, on the other hand, is forced to the conclusion that the early conditions "were probably not immeasurably different from such as obtain now."* He doubts whether life could have begun in the sea, chiefly on chemical grounds. Apparently a sufficient concentration of carbon dioxide and nitrogen compounds would be more likely to take place on volcanic land areas than in sea or air.
 
-*) 'The Physical Conditions at the Beginning of Life,' 'Science Progress,' vol. 3., April, 1909.
+*) _The Physical Conditions at the Beginning of Life_, _Science Progress_, vol. 3., April, 1909.
 
 For me, a piece of igneous rock conjures up a picture of the sun shining on the waters of a universal ocean. For igneous rocks are silicated nummulitic deposits, the silica of which was in all reasonable probability derived partly from plankton vegetation; and there is no reason to suppose that the still more remote, possibly askeletal, ancestors of the rock-forming organisms existed under conditions differing from those that prevailed later when the skeletons were accumulating. It is doubtful whether volcanic phenomena will throw any light on problems concerning the synthesis of protoplasm, but it is certain that the slaggy and crystalline masses of marine fossils constituting existing volcanic and other igneous rocks do tell us unmistakably of the conditions under which those materials accumulated.
 
@@ -1831,7 +1831,7 @@ Carbon, oxygen, hydrogen and nitrogen (C.O.H.N.) constitute the pillars of the t
 
 The problem of the building up by green plants of carbohydrates out of inorganic materials seems to be fairly solved. The theory of von Baeyer that formaldehyde was an intermediate product between water-and-carbonic-acid and the starches and sugars is now definitely proved. F. L. Usher and J. H. Priestley* have shown that in presence of sunlight and chlorophyll there is a "photolysis" of CO₂ resulting in the formation of formaldehyde (CH₂O) and hydrogen peroxide (H₂O₂). An enzyme splits up the latter into water and oxygen, and the formaldehyde becomes condensed into a carbohydrate in presence of living protoplasm. These processes take place so rapidly that the formaldehyde has only recently been detected in the living plant. Dr. S. B. Schryver,* by means of a new method — the use of phenylhydrazine — can detect formaldehyde in the proportion of one part in a million.
 
-*) 'Photochemical Formation of Formaldehyde in Green Plants.' Proc. Roy. Soc. [B] 82, 1910, p. 226.
+*) _Photochemical Formation of Formaldehyde in Green Plants_. Proc. Roy. Soc. [B] 82, 1910, p. 226.
 
 Both formaldehyde and hydrogen peroxide are very poisonous to plant life, but the transformation takes place so rapidly that in healthy plants no harm arises. Usher and Priestley state that starch can be detected in previously starchless filaments of _Spirogyra after three minutes exposure to light_. CO₂ can be photolysed independently of chlorophyll. Usher and Priestley have obtained Formic acid from CO₂.H₂O, by using Uranium sulphate as an optical sensitizer. Again W. Lob has obtained formaldehyde by exposing a mixture of water vapour and carbon dioxide to the action of the silent electric discharge. (Zeitsch. Elektrochem. 1905-6.)
 
@@ -1849,13 +1849,13 @@ Very little seems to be known concerning the mode of assimilation of the nitroge
 
 At the present day the warm ocean surface flooded with sunshine is at times like a living jelly. There is now a good deal of evidence in favour of the view that life was born in the sun-lit seawater* rich in magnesium chloride, carbonic acid and simple nitrogen compounds. Presumably the nascent light-sundered atoms and radicals would rapidly build up not only C.O.H. but Mg. C.O.H.N.* compounds, and a plankton heliobius would arise, and perhaps from the latter a benthos bathybius in the form of amoebulae. The latter would form calcareous shells, as do the young of _Polystomella_ at the present day; and the shells would become mixed up with silica skeletons as now happens.
 
-*) Plain water is now believed to be a highly complicated material formed of hydrone polyhydrones and hydronols, and is no longer represented by the simple formula H₂O, but by a bewildering series of symbols filling half an octavo page. (A dream of fair Hydrone. H.E.Armstrong 'Science Progress' 3., 1909.)
+*) Plain water is now believed to be a highly complicated material formed of hydrone polyhydrones and hydronols, and is no longer represented by the simple formula H₂O, but by a bewildering series of symbols filling half an octavo page. (A dream of fair Hydrone. H.E.Armstrong _Science Progress_ 3., 1909.)
 
-*) Willstäter contrasts the constructive or synthesizing "life with magnesium" with the destructive (abbauende) "life with iron." Liebig's 'Annalen,' 350, p. 65, 1906. Also Schryver 'The Chemistry of Chlorophyll,' 'Science Progress' 3 (2) 1909, p. 425.
+*) Willstäter contrasts the constructive or synthesizing "life with magnesium" with the destructive (abbauende) "life with iron." Liebig's _Annalen_, 350, p. 65, 1906. Also Schryver _The Chemistry of Chlorophyll_, _Science Progress_ 3 (2) 1909, p. 425.
 
 In 1853 and later Pasteur was led by his researches on the behaviour of crystals and solutions of the tartaric acids and their salts towards polarized light, to formulate his theory of the molecular asymmetry of natural organic products.* He pointed out that this behaviour could be explained by assuming that the atoms of the chemical molecules of optically active substances (e.g. dextro- and laevo-tartaric acids) were arranged in a right or left spiral sense, and that therefore they rotated the plane of polarization; and that in optically inactive bodies such as racemic and meso-tartaric acids there were respectively inter- and intra-molecular blendings of right and left spiralities, and accordingly the plane of polarization was not rotated.
 
-*) Pasteur. 'Recherches sur la Dyssymétrie moléculaire des produits organiques naturels.' Paris, 1861. Rather rare, but the Alembic Club published a translation in 1897. See also a commentary on Pasteur's research in Prof. F. R. Japp's "Stereochemistry and Vitalism." Brit. Assoc. Report, 1898, p. 813.
+*) Pasteur. _Recherches sur la Dyssymétrie moléculaire des produits organiques naturels_. Paris, 1861. Rather rare, but the Alembic Club published a translation in 1897. See also a commentary on Pasteur's research in Prof. F. R. Japp's "Stereochemistry and Vitalism." Brit. Assoc. Report, 1898, p. 813.
 
 In 1858 Kekulé founded his "Structur-theorie" concerning the mode of linking of atoms, and showed it was possible to explain the constitution of organic compounds by assuming that Carbon had four units of affinity. In 1874 Le Bel and Van t'Hoff independently established the science of Stereo-chemistry which is concerned with the arrangement of atoms in space. The four directed attractive powers of Carbon were assumed to radiate from the centre in more than one plane. If these powers acted along lines making equal angles with each other, the four attracted atoms or groups would be at the solid angles of a tetrahedron, the latter being regular or irregular according to whether the atoms or groups were equally or unequally attracted. If the four attracted atoms or groups are all different, the carbon atom is termed "asymmetric," and any compound C R₁ R₂ R₃ R₄ could exist in two "enantiomorphs" (opposite forms). A continuous curve passing through the four attracted groups will form a screw-like spiral. The enantiomorphs are similar in all respects excepting that their crystals are, as with the right and left hand, non-superposable mirror-images of each other, and that their solutions are optically active in an opposite sense.
 
@@ -1867,11 +1867,11 @@ Concerning the cause of molecular asymmetry in natural organic products, Pasteur
 
 In 1850 Jamin* showed that a straight pencil of polarized rays when reflected from water took an elliptical course. Cotton* found that circularly polarized light was affected differently and had a different effect on active and inactive salts of organic compounds (viz. tartaric and racemic cupric ammonium salts). Byk* pointed out that wherever there is water, _i.e._ over the greater area of the planet, there is circularly polarized light, and that this would have the effect of producing a unilateral (einseitig) fauna and flora.
 
-*) 'Comptes Rendus' 36, 1850, p. 696.
+*) _Comptes Rendus_ 36, 1850, p. 696.
 
-*) 'Ann. Chim. Phys.' (7) 8. p. 373, 1896.
+*) _Ann. Chim. Phys._ (7) 8. p. 373, 1896.
 
-*) 'Zeitsch. physikal. Chemie.' 49, p. 641, 1904. Also A. W. Stewart, 'Science Progress' 2. 2, p. 449, 1908.
+*) _Zeitsch. physikal. Chemie._ 49, p. 641, 1904. Also A. W. Stewart, _Science Progress_ 2. 2, p. 449, 1908.
 
 Apparently sunlight falling on a universal ocean would produce a universal unilateral plankton heliobius, whence perhaps the universal unilateral benthos bathybius would arise. Accordingly, assuming the spirality of nummulites to be an expression of molecular spirality, the spirality of the nummulosphere may be due to the effects of circularly-polarized light on living matter. How reasonable to assume that a great planetary phenomenon such as the nummulosphere should be due to all-pervading cosmic influences!
 
@@ -1881,7 +1881,7 @@ Problems concerning the essential nature of existence are generally held to be i
 
 "Having, throughout life, constantly heard the charge of materialism made against those who ascribed the more involved phenomena to agencies like those which produce the simplest phenomena, most persons have acquired repugnance to such modes of interpretation. Such an attitude of mind, however, is significant not so much of reverence for the Unknown Cause, as of irreverence for those familiar forms in which the Unknown Cause is manifested to us. Men who have not risen above that vulgar conception which unites with matter the contemptuous epithets 'gross' and 'brute,' may naturally feel dismay at the proposal to reduce the phenomena of Life, of Mind, and of Society, to a level with those which they think so degraded. The course proposed does not imply a degradation of the so-called higher, but an elevation of the so-called lower."
 
-"May we not without hesitation affirm that a sincere recognition of the truth that our own and all other existence is a mystery absolutely and for ever beyond our comprehension, contains more of true religion than all the dogmatic theology ever written." ('First Principles,' Herbert Spencer.)
+"May we not without hesitation affirm that a sincere recognition of the truth that our own and all other existence is a mystery absolutely and for ever beyond our comprehension, contains more of true religion than all the dogmatic theology ever written." (_First Principles_, Herbert Spencer.)
 
 Concerning matter and spirit the same philosopher writes "The one is no less than the other to be regarded as but a sign of the Unknown Reality which underlies both."
 
@@ -1903,7 +1903,7 @@ Some pseudomorphs mislead no one, or only the ignorant, but even trained observe
 
 Prof. H. Rauff, in a critical review of certain theories regarding the systematic position of the _Receptaculitidae_, writes:* "Every attempt to prove definitely that the Receptaculitidae are Siphoneae (calcareous algae) becomes shattered on the at last exposed rocks. On the other hand we must admit that owing to a number of new elements of comparison a path (perspective) has been opened up, the exploration of which might lead to results not wholly unpromising or fruitless." These words by an eminent palaeontologist well express the feeling almost of despair concerning the solution of certain problems in palaeontology.
 
-*) 'Verhand. Naturver. Preuss. Rheinl. Westph. Sitzungsb.' 1892. Vol. 49, p. 90.
+*) _Verhand. Naturver. Preuss. Rheinl. Westph. Sitzungsb._ 1892. Vol. 49, p. 90.
 
 There exists, however, among the rocks a safe channel through which not merely one long-storm-buffeted ship, but a richly-freighted argosy, can be safely piloted into harbour. The "Nummulitic Channel," for such is its name, has escaped discovery owing to being covered with flotsam and jetsam (osmotic patterns) carried by currents.
 
@@ -1925,7 +1925,7 @@ The characters available for a classification of lithomorphs are shape and struc
 
 Group 1. Concentric. Structure predominantly concentric, or spiral; shape spherical or oval. Examples: _Parkeria_, _etc._, _Loftusia_, oolite* and pisolite, final stage of certain Fulwell concretions.
 
-*) Oolite grains may have "a concentric and radiate, or simply a concentric or radiate structure." Mem. Geol. Survey. 4. 1894. 'Lower Oolitic Rocks of England,' p. 6. All the figures show the completely and the predominantly concentric types. Some Parkeria-patterns, too, might almost be classified as radial.
+*) Oolite grains may have "a concentric and radiate, or simply a concentric or radiate structure." Mem. Geol. Survey. 4. 1894. _Lower Oolitic Rocks of England_, p. 6. All the figures show the completely and the predominantly concentric types. Some Parkeria-patterns, too, might almost be classified as radial.
 
 Group 2. Radial. Structure predominantly radial, shape various.
 
@@ -1945,7 +1945,7 @@ _Remarks_. — Of living things it is said "crescunt et vivunt," and further, th
 
 The laws of rhythmical precipitation and arrangement of suspended particles have been much studied by Liesegang* and Hatschek, and may throw light on concretionary processes.
 
-*) R. Liesegang, 'Geologische Diffusionen,' 1914.
+*) R. Liesegang, _Geologische Diffusionen_, 1914.
 
 One might conceive the idea of a hypothetical lithomorph-shape in the form of a permeable sphere of carbonate of lime suspended in a saturated solution of carbonate of lime in carbonic acid and water. Diminution of solvent power would lead to a precipitation of carbonate of lime, concentrically and radially, or concentrically or radially the patterns varying with the conditions.
 
@@ -1963,7 +1963,7 @@ The first of the two following chapters will be devoted to Stromatoporoids on ac
 
 In some of the very ancient limestones there are curious objects varying in size from a few cubic inches to a cubic foot or more, of hemispherical, conical or massive shape, and with a layered structure. They are usually composed of carbonate of lime, but occasionally of silica.
 
-Goldfuss, in his great folio 'Petrefacta Germaniae' (1826), was the first to describe and figure objects of this kind, which he found chiefly in the Devonian limestone of Gerolstein in the Eifel.
+Goldfuss, in his great folio _Petrefacta Germaniae_ (1826), was the first to describe and figure objects of this kind, which he found chiefly in the Devonian limestone of Gerolstein in the Eifel.
 
 Examples from this neighbourhood often have alternating dense and porous concentric layers. (See Plate 3., copied from the original figure.) Goldfuss placed the specimens in a new genus and species, _Stromatopora* concentrica_, which he ranked among the corals near _Millepora_. This very pardonable mistake was the parent of a long line of errors.
 
@@ -1988,7 +1988,7 @@ Nicholson, 1873-4. Calcareous Sponges.
 Dawson, 1875. Between Foraminifera and Sponges.  
 Sollas, 1877. Hexactinellid Sponges, and, later, partly Siliceous Sponges, partly Hydrozoa.  
 Carter, 1877. Hydrozoa.  
-Nicholson, 1886 (the 'Monograph'). Partly Hydroida, partly Hydrocorallinae.  
+Nicholson, 1886 (the _Monograph_). Partly Hydroida, partly Hydrocorallinae.  
 Zittel, 1903. Hydrozoa.  
 Geikie, 1903. Polyzoa.  
 Steinmann, 1907. Hydrozoa.  
@@ -2018,7 +2018,7 @@ I derived much instruction from the investigation of a fine collection of "concr
 
 The limestone formation is about 200 feet thick and covers an area of two square miles. In many places and on a vast scale the formerly homogeneous mass of limestone has become sculptured into coralloid forms. Mr. Abbott* has traced a definite "evolutionary" series of stages, from forms with pillars to solid masses with concentric bands.
 
-*) 'Discoid Limestones which simulate Organic Characters,' 1914.
+*) _Discoid Limestones which simulate Organic Characters_, 1914.
 
 I was struck with the frequent resemblances between the Permian concretions and the Silurian and Devonian Stromatoporoids (Plate 5.).
 
@@ -2034,7 +2034,7 @@ The fibres have been mistaken for the skeletal network of horny calcareous or si
 
 Concentric coils of spiral lamina crossed by radial alar prolongations, and also layers of spiral lamina are visible, especially in transverse sections of "_Actinostroma clathratum_."
 
-Fig. 31 shows a transverse section of one end of a shell in "_Stromatopora concentrica_"; here the striated and pillared structure of successive walls is seen, and under high powers the characteristic nummulitic disk structure. Strange to relate Nicholson referred to "tubuli" as possible evidence of Foraminiferal nature, but ended in comparing these appearances with the canaliculi of _Millepora_. (See his 'Monograph,' footnote p. 66.)
+Fig. 31 shows a transverse section of one end of a shell in "_Stromatopora concentrica_"; here the striated and pillared structure of successive walls is seen, and under high powers the characteristic nummulitic disk structure. Strange to relate Nicholson referred to "tubuli" as possible evidence of Foraminiferal nature, but ended in comparing these appearances with the canaliculi of _Millepora_. (See his _Monograph_, footnote p. 66.)
 
 I can now see even with a hand-lens a good deal of nummulitic structure on weathered surfaces of specimens, but practice and patience are required here as well as in detecting that structure in sections.
 
@@ -2046,7 +2046,7 @@ According to one view, fossils with these "tubes" were distinct genera of Stroma
 
 The nummulitic nature of the rock probably had much to do with the creation of this pattern. Series of "pillars" often blend to form clear columns in Nummulites (Fig. 23 A). In a section of _Stromatoporella bücheliensis_ I can see alars and marginal cords in the Caunopora-tubes. At one time I mistook these structures for the expression of the segments of Annelids. Nicholson, again, refers to "funnel-shaped tabulae" in the tubes. These structures are, perhaps, series of minute nummulite septa.
 
-The greater resistance of the tubes to weathering sometimes produces extraordinary results. A specimen of _Stromatopora Hüpschii_ (Nicholson's 'Monograph,' Plate 22. Fig. 7) somewhat resembles a mass of _Tubipora musica_, the Organ-pipe Coral.
+The greater resistance of the tubes to weathering sometimes produces extraordinary results. A specimen of _Stromatopora Hüpschii_ (Nicholson's _Monograph_, Plate 22. Fig. 7) somewhat resembles a mass of _Tubipora musica_, the Organ-pipe Coral.
 
 The patterns in the early Palaeozoic limestones result from the operation of chemical and physical causes, apparently the chief of these being the dissolving action of water and carbonic acid acting under certain conditions. These solvents affect all limestones, but not usually with the result of creating Stromatoporoids. Sections of chalk or of Fulwell limestone, for instance, are opaque and homogeneous. Why, then, should sections of portions of the older limestones show a mottled pattern of clear and opaque areas? The answer appears to be that the metamorphosing agencies have been acting on the older rocks for a much longer time, and, further, their action has been supplemented by crustal disturbances, and often by the neighbourhood of volcanic centres. Pressure, which, as Dr. J. Lehmann demonstrated, produces such powerful effects on metamorphic rocks, would also modify the structure of limestones.
 
@@ -2056,7 +2056,7 @@ Sometimes the patterns formed by these experimental rhythmical precipitations cu
 
 If the water and carbonic acid permeating a limestone dissolve out and hold the carbonate of lime in saturated solution, any diminution of the carbonic acid would cause the lime to be precipitated in concentric zones as in oolite, or in radial-concentric patterns as in many Stromatoporoids.
 
-In _Beatricea_ and _Labechia_ the wavy vesicular patterns give the impression of being due to forces acting in a rhythmical and undulatory fashion. In the former "genus" the shape is frequently that of a hollow cylinder, and the wavelets are in concentric series and convex outwards. (See Nicholson's 'Monograph,' Plate 8. Figs. 1-3.)
+In _Beatricea_ and _Labechia_ the wavy vesicular patterns give the impression of being due to forces acting in a rhythmical and undulatory fashion. In the former "genus" the shape is frequently that of a hollow cylinder, and the wavelets are in concentric series and convex outwards. (See Nicholson's _Monograph_, Plate 8. Figs. 1-3.)
 
 The agencies which have led to the formation of Stromatoporoids have acted not on homogeneous limestones but on hardened nummulitic deposits.
 
@@ -2076,7 +2076,7 @@ Postscript. — Perhaps the best and simplest method of detecting the nummulitic
 
 Parkeria and Loftusia
 
-In the Philosophical Transactions for 1869 Carpenter and Brady wrote a joint memoir entitled 'Description of _Parkeria_ and _Loftusia_, two gigantic types of Arenaceous Foraminifera,' illustrated by nine plates, _Parkeria_ being described by Carpenter, and _Loftusia_ by Brady. Since the memoir was published, various other opinions have been held concerning these types, which have been regarded as porcellanous Foraminifera and as Hydrozoa.
+In the Philosophical Transactions for 1869 Carpenter and Brady wrote a joint memoir entitled _Description of Parkeria and Loftusia, two gigantic types of Arenaceous Foraminifera_, illustrated by nine plates, _Parkeria_ being described by Carpenter, and _Loftusia_ by Brady. Since the memoir was published, various other opinions have been held concerning these types, which have been regarded as porcellanous Foraminifera and as Hydrozoa.
 
 The structure and pattern are so remarkable that it is not surprising their real nature has been misunderstood. It scarcely seems credible that the wonderful lace-like patterns seen in the sections could have been fashioned by purely physical agencies, yet such is the fact.
 
@@ -2100,9 +2100,9 @@ Nicholson* adopted Carter's Hydrozoan theory. He figures the zoophyte _Parkeria_
 
 Steinmann* and Zittel* placed _Parkeria_ among the Hydrozoa.
 
-*) 'Paläontologie,' 1907, p. 152.
+*) _Paläontologie_, 1907, p. 152.
 
-*) 'Grundzüge,' 1910, p. 119.
+*) _Grundzüge_, 1910, p. 119.
 
 Numerous and very careful observations of specimens and sections have shown me beyond any doubt that specimens of _Parkeria_ are lithomorphic lumps of nummulitic limestone, with the nummulites almost obliterated, and with the lithomorph pattern in the form of concentric zones and radial spokes. I can actually see with the naked eye the faint circular and oval outlines of nummulites about an inch in diameter on the surface of a large specimen in the Natural History Museum. A lens (10x) shows some of the structure of the worn-down shells, viz. edges of spiral lamina, radial alar prolongations, and traces of willow pattern. Under high powers, too, I can see series of nummulitic disk structures both in the "fibres" and in the "spaces." Parkeria then is a lithomorph of similar nature to an oolitic granule, but the latter is only a minute part of one shell, and the former a mass of many shells.
 
@@ -2112,7 +2112,7 @@ Many circumstances conspired to deceive investigators, but especially the appare
 
 The genesis of Parkeria may have been somewhat as follows: a nummulitic limestone permeated by water charged with carbonic acid and super-saturated with carbonate of lime; lowering of solvent power, and deposition of the lime in concentric and radial precipitations over sundry areas; occasional dissolving out of the more soluble spaces between the less soluble fibres, the spaces being left empty or filled in with silica; and segregation of the hard spheres from the softer matrix.
 
-In the Geological Survey Memoir, 'Cretaceous Rocks,' 1., 1900, Parkeria is recorded as a Hydrozoan, and the Cambridge Greensand specimens as "derived" fossils. Even so, the spherical shape is due primarily rather to the concretionary nature of the objects than to the fact of their having been rolled about.
+In the Geological Survey Memoir, _Cretaceous Rocks_, 1., 1900, Parkeria is recorded as a Hydrozoan, and the Cambridge Greensand specimens as "derived" fossils. Even so, the spherical shape is due primarily rather to the concretionary nature of the objects than to the fact of their having been rolled about.
 
 Green (? glauconitic) grains are common in Parkeria, as also, and to a much greater extent, in the nummulite zone of the Lower Barton Beds.
 
