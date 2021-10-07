@@ -262,7 +262,7 @@ With the kind help of Prof. W. H. Merrett and Mr. H. M. Chappie of the Royal Sch
 
 2) That the supposed organic remains in igneous rocks may be of accidental origin.
 
-The suggestion has been made that the skeletons said to be found by me in igneous rocks may be recent deposits or incrustations; or the rock when in a molten state may have licked up the organic remains.
+The suggestion has been made that the skeletons said to be found by me in igneous rocks may be recent deposits or encrustations; or the rock when in a molten state may have licked up the organic remains.
 
 If a plug of granite one hundred meters long and, say, one centimetre in area, were cut out of the De Lank granite quarry in any direction, and cut into sections 0.1 mm. thick (_i.e._, into one million sections), I am justified in stating that traces of organic remains would certainly be found in every section.
 
@@ -2400,7 +2400,7 @@ Dr. G. Gtirich, having discovered a Stromatoporoid in the Carboniferous limeston
 
 He investigated at the Brussels Museum the magnificent series of large thin plaques of the Belgian rocks.
 
-In the thin sections of the Carboniferous limestones of the Viseen of the province of Namur he observed certain obscurely defined masses with granular, nodular or vesicular structure, which he regarded as incrusting organisms. On account of the stratified and spongy reticular structure of certain typical forms, he called them Spongiostromids, and placed the group in a new order of Protozoa. His memoir* is illustrated with numerous large photographs on 22 double quarto plates.
+In the thin sections of the Carboniferous limestones of the Viseen of the province of Namur he observed certain obscurely defined masses with granular, nodular or vesicular structure, which he regarded as encrusting organisms. On account of the stratified and spongy reticular structure of certain typical forms, he called them Spongiostromids, and placed the group in a new order of Protozoa. His memoir* is illustrated with numerous large photographs on 22 double quarto plates.
 
 In 1913 Dr. Rothpletz* described a Spongiostromid from the Silurian of Gottland, and expresses the belief that these organisms are Hydrozoa.
 
