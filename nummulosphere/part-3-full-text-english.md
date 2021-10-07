@@ -564,7 +564,7 @@ That the above surprising statements are correct will soon become evident to the
 
 *) It is significant that Ehrenbefg found the "morpholiths" in Tertiary nummulitic limestone (Abhand. Akad. Berlin, 1855, p. 86). He would have seen them in powder scraped from the surface of any nummulite!
 
-Chalk, then, viewed as a general formation, is a nummulitic limestone composed of a deposit of nummulite shells, in which all the other ingredients are imbedded.
+Chalk, then, viewed as a general formation, is a nummulitic limestone composed of a deposit of nummulite shells, in which all the other ingredients are embedded.
 
 Perhaps geological history will have few stranger incidents to record than the failure, after eighty years of scientific investigation, to detect the fact that chalk is mainly a deposit of nummulite shells. This failure, that has retarded the discovery of the true nature of flint, _Eozoön_ and the igneous rocks, has not been due to lack of care on the part of very keen observers, but rather to the qualities of nummulites. The shells, formed as they are of successive layers of highly porous walls, are highly capillary and apt easily to become soaked in water and mineral solutions, to become soft and earthy or hard and crystalline, and in any case to lose their individual outlines. In purely nummulitic chalk, the shells may remain _in situ_, but where other fossils abound the mud nummulites may be pressed into cavities, or be riddled by smaller shells.
 
@@ -1965,7 +1965,7 @@ Prof. H. Rauff, in a critical review of certain theories regarding the systemati
 
 There exists, however, among the rocks a safe channel through which not merely one long-storm-buffeted ship, but a richly-freighted argosy, can be safely piloted into harbour. The "Nummulitic Channel," for such is its name, has escaped discovery owing to being covered with flotsam and jetsam (osmotic patterns) carried by currents.
 
-Leaving aside metaphor, and coming to facts, it will be found that the above-named pseudomorphs are lumps of nummulitic limestone. Training of the sense of sight will enable the observer to see the nearly, but not wholly, obliterated shell structure both in the lighter and in the darker parts of the patterns, and also continuity of structure passing right across dark and light pseudomorphic areas into the amorphous matrix of the imbedded specimens.
+Leaving aside metaphor, and coming to facts, it will be found that the above-named pseudomorphs are lumps of nummulitic limestone. Training of the sense of sight will enable the observer to see the nearly, but not wholly, obliterated shell structure both in the lighter and in the darker parts of the patterns, and also continuity of structure passing right across dark and light pseudomorphic areas into the amorphous matrix of the embedded specimens.
 
 We are dealing with concretionary patterns in ancient limestones, and happily these limestones are not homogeneous precipitates of inorganic origin, but masses of broken-down nummulite shells. Had it not been for this last fact, there would have been no clue whatever to the nature of these pseudomorphs, and it is fairly certain that disputes would have been going on for all time.
 
