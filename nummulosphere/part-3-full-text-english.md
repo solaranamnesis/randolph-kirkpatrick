@@ -614,7 +614,7 @@ My sections of this remarkable rock are from material which I collected from a p
 
 The siliceous spherules or "corps globuleux" in malmstone have been taken for Radiolaria, parts of siliceous sponges, silicified oolites, _etc._
 
-Some spherules resembling botryoidal structure;* and varying from 20 to 33 _μ_, were seen, under a power of 3000 diameters and low illumination, to be nummulitic spirodisks. The spherules usually show a well-defined equatorial band — the outermost coil of the disk, within which there will be lesser coils. The disks can frequently be seen to be arranged in series.
+Some spherules resembling botryoidal structure, and varying from 20 to 33 _μ_, were seen, under a power of 3000 diameters and low illumination, to be nummulitic spirodisks. The spherules usually show a well-defined equatorial band — the outermost coil of the disk, within which there will be lesser coils. The disks can frequently be seen to be arranged in series.
 
 Cayeux,* in his description of a siliceous gaize of Launois, has noted therein a reticulated and radiated structure. Under a high power "ce ciment présente un aspect spongieux très particulier. Le ciment n'est ici qu'un véritable squelette de silice." The appearance of spongy structure is due to the glassy layers of spiral lamina, and of radiating alars and septa of vitrified nummulites.
 
