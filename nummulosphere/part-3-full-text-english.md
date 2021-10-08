@@ -1653,7 +1653,7 @@ Phylogenetic Note. — It seems singular that nummulites, regarded as the highes
 
 It may be assumed that nummulites and other many-chambered Foraminifera are descended from one-chambered ancestors, and the latter from forms without shell. In the life cycle of nummulites, the protoplasm of the microspheric shell breaks up into amoebulae, bodies which probably exhibit the ancestral characters not only of Foraminifera but of the whole of the Protozoa.
 
-Prof. Minchin in his great work,* _An Introduction to the Study of the Protozoa_ (p. 465) writes, "We may, then, regard as the most ancestral type in the Protozoa a minute amoebula-form, in structure a true cell, with nucleus and cytoplasm distinct, which moved by means of pseudopodia." Before the great planetary nummulitic deposits were formed, probably there existed a period during which the ocean floor was more or less covered with the shell-less amoebula-ancestors of nummulites.
+Prof. Minchin in his great work, _An Introduction to the Study of the Protozoa_ (p. 465) writes, "We may, then, regard as the most ancestral type in the Protozoa a minute amoebula-form, in structure a true cell, with nucleus and cytoplasm distinct, which moved by means of pseudopodia." Before the great planetary nummulitic deposits were formed, probably there existed a period during which the ocean floor was more or less covered with the shell-less amoebula-ancestors of nummulites.
 
 Huxley's "Bathybius theory," although based on an error, is now seen to be not far from the truth. He mistook gelatinous networks with calcareous particles found in bottles of preserved abyssal Atlantic ooze for specimens of a primitive form of living matter spread over the ocean floor. The jelly was found to be a precipitate of sulphate of lime in alcohol, the calcareous particles being coccoliths. It is now apparent that the whole ocean floor actually has been covered with rhizopodal lime-secreting protoplasm in the form of little separate masses.
 
@@ -1668,6 +1668,8 @@ The simplest of all are the bacteria — living particles which are not even cel
 The distinction between plants and animals, so obvious in the higher types, is often ill-defined and vague in the lowest, identical groups of the latter being frequently claimed both by botanists and zoologists.
 
 The Protozoa gain their subsistence in four ways, _viz._, the holozoic or purely animal way of capturing and feeding on other organisms; the holophytic or purely plant* way of subsisting on inorganic materials through the agency of chlorophyll in presence of sunlight; the saprophytic (or saprozoic) way of living on the products of metabolism or decomposition of organisms; and the parasitic way.
+
+*) The Protozoan and _animal_ nature of holophytic Protozoa is shown chiefly in the affinities with the holozoic forms, in the general life history, in the absence of cellulose, _etc._
 
 Many of the Protozoa vary their mode of nutrition either in different phases of their life-cycle or even during one and the same phase. _Euglena_ for example, which by reason of its chlorophyll is holophytic in sunlight, loses its green colour and becomes saprophytic in the dark.
 
