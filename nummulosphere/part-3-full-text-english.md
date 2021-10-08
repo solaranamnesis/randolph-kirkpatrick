@@ -846,7 +846,7 @@ There is a vague and indefinite era in the history of the planet when geology fi
 
 All theories of planetary origin postulate a nebula of some kind. The Laplacean and meteoritic theories assume that a hot gaseous nebula or one of clashing meteorites condensed into a molten globe on which a crust formed on cooling. The planetesimal theory postulates a nebula of solid and liquid particles all rotating in one direction round a solid central nucleus, the latter growing by accretion. In the first case the ocean would form rather by precipitation, in the second by exudation.*
 
-*)  Chamberlin and Salisbury. _Geology, Advanced Course_, 2. 1906.
+*) Chamberlin and Salisbury. _Geology, Advanced Course_, 2. 1906.
 
 The part of the earth's crust that might be expected to furnish evidence concerning planetary origin would naturally be in the oldest zone, _i.e._ the archaean or "basal complex."
 
@@ -2304,7 +2304,7 @@ In 1910 Dr. J. Griffith Taylor* published a beautiful memoir illustrated with ni
 
 *) _The Archaeocyathinae of the Cambrian of South Australia_. Mem. Roy. Soc. South Australia, vol. 2., 1910.
 
-*)  One recalls Carpenter's description of tertiary nummulitic limestones composed of "little else than _Nummulites_."
+*) One recalls Carpenter's description of tertiary nummulitic limestones composed of "little else than _Nummulites_."
 
 The interval between the inner and outer surface of the typically stalked cup is divided by vertical radial septa and horizontal tabulae into cubical spaces. Sometimes the inner and outer wall, and the septa and tabulae are all perforated by pores.
 
