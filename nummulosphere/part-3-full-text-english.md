@@ -174,7 +174,7 @@ So far as basalt was concerned, the views of the Neptunists gradually became dis
 
 Werner ignored the existence of great subterranean forces. The mountains were simply huge heaps of matter deposited _in situ_ from the ocean.
 
-James Hutton (1726-1797), whom Geikie calls the "Father of Modern Geology," arrived at conclusions wholly different from the Wernerian. The folding, crumpling and uplifting of strata, which in some cases must necessarily* at one time have been horizontal, filled his mind with the idea of great upheaving forces. 
+James Hutton (1726-1797), whom Geikie calls the "Father of Modern Geology," arrived at conclusions wholly different from the Wernerian. The folding, crumpling and uplifting of strata, which in some cases must necessarily* at one time have been horizontal, filled his mind with the idea of great upheaving forces.
 
 *) For how could highly-inclined strata composed of water-worn pebbles have been deposited in nearly vertical sheets?
 
@@ -204,7 +204,7 @@ I now turned my attention to the nummulite shells which I had seen with the aid 
 
 At the same time I discovered a singular mistake on my part. All the objects which I had taken to be skeletons of Radiolaria Diatoms and coccoliths in igneous rocks I found to be portions of nummulite shells. The peculiar nummulitic spiral-disk structures (Chapter 8), as seen in rock-sections under high powers, closely resemble plankton skeletons. After a great expenditure of time and trouble, I had collected into four octavo plates thirty-eight photos of supposed plankton skeletons in igneous rocks. Some of the pictures are very deceptive and "convincing." Space can now only be spared for a few of the smaller ones (Plate 2C). Other observers likewise have been deceived by these nummulitic structures in chalk, _Eozoön_, _etc._*
 
-*) The supposed Precambrian Radiolaria figured by Cayeux (Bull. Soc. Geol. France, 22, plate 11. 1899), are, I believe, nummulitic structures. Ehrenberg (_Mikrogeologie_, plate 30. B) describes parts of nummulites in the chalk of Rugen as crystalloids or morpholiths. Sorby (Ann. Mag. N. H., 1861, 8. p. 193) confuses Ehrenberg's crystalloids with coccoliths. Hahn (_Die Urzelle_) makes several genera of algae and a worm out of the discoid and funnel-like parts of the pillars of the same Foraminiferan. The "spheres" of chalk have been mistaken for Radiolaria, Foraminifera, _etc._ (Mem. Geol. Survey, 1903, _Cretaceous_, 2. p. 501). 
+*) The supposed Precambrian Radiolaria figured by Cayeux (Bull. Soc. Geol. France, 22, plate 11. 1899), are, I believe, nummulitic structures. Ehrenberg (_Mikrogeologie_, plate 30. B) describes parts of nummulites in the chalk of Rugen as crystalloids or morpholiths. Sorby (Ann. Mag. N. H., 1861, 8. p. 193) confuses Ehrenberg's crystalloids with coccoliths. Hahn (_Die Urzelle_) makes several genera of algae and a worm out of the discoid and funnel-like parts of the pillars of the same Foraminiferan. The "spheres" of chalk have been mistaken for Radiolaria, Foraminifera, _etc._ (Mem. Geol. Survey, 1903, _Cretaceous_, 2. p. 501).
 
 In spite of very careful search, I am at present unable to produce indubitable evidence of the existence of a single plankton skeleton in igneous rocks. Why, then, do I entitle this book "Benthoplankton"?* This name is chosen because the circumstantial evidence is strongly in favour of the theory that a portion of the silica of igneous rocks comes from the skeletons of organisms, and especially of plankton organisms. See Chapters 1 and 2 on "The Ocean" and "Chalk." The soluble silica of the skeletons had dissolved, and had silicified and silicated the nummulite shells amongst or above which they had fallen.
 
@@ -212,7 +212,7 @@ In spite of very careful search, I am at present unable to produce indubitable e
 
 Looking back over the history narrated above, it is now easy to detect the fatal flaw in the "Plutonic mail."*
 
-*) Playfair's _Illustrations_, p. 279. Adopting the analogy used by the illustrious Dr. Playfair, it may now be said with truth that the Neptunian scale-armour is absolutely impenetrable to the prongs of Plutonian pitchforks. 
+*) Playfair's _Illustrations_, p. 279. Adopting the analogy used by the illustrious Dr. Playfair, it may now be said with truth that the Neptunian scale-armour is absolutely impenetrable to the prongs of Plutonian pitchforks.
 
 When the fallacy of Werner's coal-combustion theory of volcanoes was detected,* lava came to be regarded as an "igneous" rock of deep origin and not as a heated superficial aqueous rock. One variety of the "igneous" theory — for there are several — is clearly stated by Whitney and Wadsworth in their memoir on the igneous rocks: "The original crust of the earth must have been azoic, if we adopt the views held by the large majority of geologists that our globe has cooled down from a former condition of igneous fluidity. The volcanic and eruptive rocks must necessarily be azoic _because they have come from the heated interior of the globe, reaching the surface in a melted condition_. We do not, however, designate the eruptive and volcanic rocks as "Azoic"; the fact that they are necessarily in this condition is assumed as something self-evident."* The Neptunian theory of the aqueous origin of basalt though correct was obviously a pure guess. Neptunists, for instance, defended with incredible obstinacy the view that basalt had been deposited from water in the place where it was found (Appendix, Note A). Plutonists, on the other hand, were right concerning the ascent of basalt as a molten magma; but their denial of the aqueous origin of the rock has, for over a hundred years, falsified scientific speculation concerning the real nature of the planetary crust (Appendix, Note P).
 
@@ -331,7 +331,7 @@ For one of the sources of the silica that forms such a large proportion of the e
 
 Prof. W. K. Brooks in his memoir on _The Genus Salpa_, when referring to the food of that pelagic Tunicate, describes the mid-ocean surface as "a living broth." This apt comparison may serve to convey some idea of the abounding life existing in and near the ocean surface. The living creatures are very small and mostly of microscopic size. Prof. Brooks gives some striking examples of the almost incredible abundance of marine life: "Salpae are often found swarming at the surface of the ocean in numbers beyond description." "The smaller species are often so abundant that for hundreds of miles any bucketful of water dipped up at random will be found to contain hundreds of them. _The food of Salpa consists of Radiolarians, Diatoms_, and other micro-organisms which float in the water. The supply of this food is unlimited." 
 
-G. Chierchia (_Viag. Vettor Pisani_, p. 31) writes of the Atlantic: "The zone of equatorial calms is beyond measure rich in life. Sometimes the water looks as if it is coagulated, and this condition is apparent also to the touch." Concerning Copepods, G. S. Brady writes (_Challenger Narrative_ 1. 2. p. 843): "The sea from the Equator to the Poles supports such vast numbers of them, that it is often coloured by wide bands for many miles." They may be compared with the herbivora on land, for their food consists of Diatoms. Further, Brady says the Copepods are an important item of food for whales in Arctic seas. Accordingly these minute "sea locusts" form a link between the smallest plants and the largest animals. 
+G. Chierchia (_Viag. Vettor Pisani_, p. 31) writes of the Atlantic: "The zone of equatorial calms is beyond measure rich in life. Sometimes the water looks as if it is coagulated, and this condition is apparent also to the touch." Concerning Copepods, G. S. Brady writes (_Challenger Narrative_ 1. 2. p. 843): "The sea from the Equator to the Poles supports such vast numbers of them, that it is often coloured by wide bands for many miles." They may be compared with the herbivora on land, for their food consists of Diatoms. Further, Brady says the Copepods are an important item of food for whales in Arctic seas. Accordingly these minute "sea locusts" form a link between the smallest plants and the largest animals.
 
 Haeckel (_Challenger Radiolaria_) states: "Radiolaria occur in all seas of the world." "The development of Radiolaria in large masses is very remarkable, and in many parts of the ocean is so great that they play an important part in the economy of marine life." 
 
@@ -339,7 +339,7 @@ In a classical passage, Sir Joseph Hooker (_Flora Antarctica_ 1. 2. p. 505) writ
 
 To add a final quotation, Murray and Renard (_Deep-Sea Deposits, Challenger_ p. 281) write: "These siliceous Algae are met with everywhere in the surface and sub-surface waters of the ocean. At times they occur near the surface in enormous numbers, in great floating banks many miles in extent and several fathoms in depth." "It is ... impossible to drag a very fine tow-net through the sea-water anywhere without capturing ... these minute organisms." 
 
-Beyond the littoral zone the ocean appeared to be tenanted solely by animals which lived by preying on each other. On land the animal-world subsists in the long run on plant-life. Hooker found that this law holds in the ocean, but the individual plants are mostly invisible. The ocean is covered with floating prairies amid which browse the Protozoa, Copepods, Salpas, _etc._, these in turn forming the food of marine carnivores. Since plant-life other than Bacteria and Fungi depends on sunlight, the ocean vegetation cannot live below the limit reached by the sun's rays and must necessarily be a floating flora. 
+Beyond the littoral zone the ocean appeared to be tenanted solely by animals which lived by preying on each other. On land the animal-world subsists in the long run on plant-life. Hooker found that this law holds in the ocean, but the individual plants are mostly invisible. The ocean is covered with floating prairies amid which browse the Protozoa, Copepods, Salpas, _etc._, these in turn forming the food of marine carnivores. Since plant-life other than Bacteria and Fungi depends on sunlight, the ocean vegetation cannot live below the limit reached by the sun's rays and must necessarily be a floating flora.
 
 Prof. V. H. Blackman (_Science of the Sea_, p. 116) classes the oceanic phyto-plankton into six groups of which only one secretes silica, _viz._ the Diatoms. These microscopic algae are found all over the ocean, but more abundantly in waters of relatively low salinity (Castracane, _Challenger Diatomaceae_). Though the group is universal, yet many genera and species are restricted to certain areas. Castracane regards temperature as the chief barrier which prevents a cosmopolitan distribution of species.
 
@@ -357,9 +357,9 @@ These minute siliceous algae have probably existed from near the time when the o
 
 The proportion of soluble silica in sea-water is extremely small according to Murray and Irvine* one part in 200,000 to 500,000. These authors concluded that Diatoms obtained their silica from suspended clay. E. J. Allen's experiments on Diatom-culture,* apparently showing the necessity for the presence of certain vitamins in the seawater, reveal the complicated nature of the problem of metabolism in Diatoms.
 
-*) _On Silica in Seas_. Proc. Roy. Soc. Edinburgh, 18, p. 236, 1891. 
+*) _On Silica in Seas_. Proc. Roy. Soc. Edinburgh, 18, p. 236, 1891.
 
-*) Journ. Mar. Biol. Assoc. Plymouth, 10. p. 417, 1914. 
+*) Journ. Mar. Biol. Assoc. Plymouth, 10. p. 417, 1914.
 
 There are certain other algae that indirectly aid in the extraction of silica from the sea, _viz._ the zooxanthellae or "yellow cells" found in many Radiolaria. The symbiosis between the algae and their Radiolarian ally has been shown by experiment to be so effective, that the combination can be self-sufficing, the Radiolarian being able to live without capturing food.
 
@@ -385,7 +385,7 @@ The merit of this great achievement belongs especially to the _Challenger_ Exped
 
 Sir John Murray* estimates the area of the surface of the globe at 197 millions of square miles, of which dry land occupies 54 millions and the ocean 143 millions. The ocean floor is covered with muds, "oozes" and clay. Murray classes these deposits under two groups, _viz._ the Terrigenous, fringing the great land areas, and the Pelagic remote from land. The terrigenous deposits (littoral muds sands and gravels, coral sand and mud, volcanic sand and mud, greensand, and green red and blue muds) covering an area of 28.6 millions of square miles are more or less composed of materials derived from land.
 
-*) Scottish Geogr. Mag., 4. p. 1, 1888, and 6. p. 265, 1890. 
+*) Scottish Geogr. Mag., 4. p. 1, 1888, and 6. p. 265, 1890.
 
 The pelagic deposits, formed either of Red Clay or of skeletons of plankton organisms,* cover an area of 114.6 millions of square miles, and are distributed as follows:—
 
@@ -818,11 +818,11 @@ Johnston-Lavis and Gregory regard the pyroxene lumps that often form the nucleus
 
 There are two questions involved here, _viz._ the origin of the pyroxene and of the zonal structure associated with that material. Nothing could at first sight seem more reasonable than the views of these writers. There are always igneous masses or intrusions in the neighbourhood of _Eozoön_, and the zones of _Eozoön_, as viewed, actually do diminish in width from center to periphery. Notwithstanding, the derivation of _Eozoön_ from igneous material is very improbable; and, further, possibly the zones did not originate quite in the manner suggested by Johnston-Lavis and Gregory.
 
-O. Trüstedt,* in a report on the ore-deposits of Pitkaranta, Finland, gives a picture (from a photo) of the limestone quarry of Hopunwaara. Fig. 8 below is a diagrammatic plan of the same, showing bands of "sahlit-skarn" (pyroxene), serpentine and _Eozoön_ as they appear in the limestone. The limestone is separated from the granite by layers of mica-schist and iron-ore. 
+O. Trüstedt,* in a report on the ore-deposits of Pitkaranta, Finland, gives a picture (from a photo) of the limestone quarry of Hopunwaara. Fig. 8 below is a diagrammatic plan of the same, showing bands of "sahlit-skarn" (pyroxene), serpentine and _Eozoön_ as they appear in the limestone. The limestone is separated from the granite by layers of mica-schist and iron-ore.
 
 *) Bull. Comm. Geol. Finlande. No. 19, p. 214. 1907.
 
-If the lumps and bands of pyroxene had originated from the granite, one would expect the first ten meters of the limestone in the neighbourhood of the granite to be crowded with the pyroxene, but there is scarcely a trace, and none at all in the first five meters. 
+If the lumps and bands of pyroxene had originated from the granite, one would expect the first ten meters of the limestone in the neighbourhood of the granite to be crowded with the pyroxene, but there is scarcely a trace, and none at all in the first five meters.
 
 Prof. T. G. Bonney,* who saw _Eozoön_ _in situ_ in the limestone at Côte St. Pierre, Quebec, figures masses of pyroxene or serpentine or of both minerals surrounded by bands of _Eozoön_. The conditions in the Laurentian and Hopunwaara limestones are closely similar. Prof. Sederholm, who very kindly sent me specimens of Hopunwaara limestone and of other Finland rocks, thereby supplementing a set of _Eozoön_, sahlit, _etc._, previously sent by Dr. Trüstedt, writes in a letter to me:— "The limestone is Ladogian," _i.e._ it is to be correlated with the Archaean.
 
@@ -830,7 +830,7 @@ Prof. T. G. Bonney,* who saw _Eozoön_ _in situ_ in the limestone at Côte St. P
 
 All the evidence goes to show that the lumps and bands of pyroxene and their surrounding zones of serpentine belong to the limestone itself, just as the lumps or bands of flint in a chalk quarry belong to the chalk. In the archaean limestone, owing to the heat from neighbouring igneous magmas, the silica has combined with the magnesium, calcium, aluminium, iron, _etc._, to form serpentine, loganite, _etc._, the silicates being precipitated in bands. Both the flint and the _Eozoön_ are mineralized lumps or masses of nummulite shells, the silica probably being derived from organisms.
 
-The experiments of R. Liesegang ("Geologische Diffusionen") on precipitation, show the order of deposition of the "rhythmical precipitations" to be from periphery to center. If, as is probable, the same law holds for _Eozoön_ the fine outer bands of ferromagnesian silicates would be thrown down first. 
+The experiments of R. Liesegang ("Geologische Diffusionen") on precipitation, show the order of deposition of the "rhythmical precipitations" to be from periphery to center. If, as is probable, the same law holds for _Eozoön_ the fine outer bands of ferromagnesian silicates would be thrown down first.
 
 _Eozoön_ has been a twofold source of error. Firstly there was the mistake for which Dawson and Carpenter were chiefly responsible, that certain banded lumps of serpentine limestone were gigantic reef-like Foraminifera. After doing great service in destroying this illusion, the mineralogists and petrologists went too far and fell into error themselves. Whitney and Wadsworth* write of "the extraordinary delusion which has prevailed among palaeontologists with reference to the organic nature of _Eozoön_."
 
@@ -1184,7 +1184,7 @@ The theories of origin of meteorites may roughly be grouped under three headings
 (2) Fragments of a disrupted heavenly body.  
 (3) Ejecta from volcanoes existing (_a_) on cosmical bodies outside the solar system; (_b_) on bodies within the solar system (excluding the earth); and (_c_) on the earth.
 
-(1) _Accretion theories_. 
+(1) _Accretion theories_.
 
 Dr. H. C. Sorby* believed that particles of matter at the solar surface were collected together by gravitation, fused into masses, and ejected during violent disturbances. Meteorites, then, according to this theory were portions of the sun.
 
@@ -1196,7 +1196,7 @@ Arrhenius* believes that the sun and stars by means of radiation-pressure are co
 
 "By the action of radiation pressure small globules (spherical drops of matter) condensed in the solar atmosphere are pushed away from the sun and wander through space with velocities perhaps nearly equal to that of light. It is not improbable that the strange messengers from other worlds, the so-called meteorites, are composed of such spherules which had been driven into space. The meteorites are distinguished by an entirely peculiar structure and composition, from all the rocks and minerals known on earth, from the so-called plutonic, which have been formed by the congelation of the liquid interior of the earth, as well as from the neptunic which have been formed upon the bottom of the sea." "These little drops which are ejected and propelled by the sun will collect chiefly in the external portions of the nebulae which owe their luminescence to the electrically charged dust. In the intense cold of the nebulae the drops will condense part of these gases, in particular the hydro-carbons and carbon monoxide, upon their surface. When such masses collide with one another they will be cemented by these materials. In this way small drops of spherules will grow into meteorites, which will continue their migration through space."
 
-(2) _The "Cosmic catastrophe" theory_. 
+(2) _The "Cosmic catastrophe" theory_.
 
 According to P. Lowell* the solar system may have begun in a catastrophic approach of two dead and dark suns, not necessarily crashing into one another, but coming sufficiently close to set up tidal stresses resulting in each sun being torn into fragments.
 
@@ -1212,7 +1212,7 @@ Suess* is led to regard the meteorites as planetary fragments, possibly parts of
 
 *) _The Face of the Earth_ 4. p. 543. 1909.
 
-(3) _Volcanic theories_. 
+(3) _Volcanic theories_.
 
 Tschermak believed that meteorites have had a volcanic source on some celestial body or bodies.
 
@@ -1344,7 +1344,7 @@ _Note on gneisses and crystalline schists_. — "The question of the origin and 
 
 Distributed over vast areas of the earth's surface there are formations possessing characters both of sedimentary and of igneous rocks: for on the one hand they are crystalline and apparently devoid of fossils, and on the other stratified and banded in a manner suggestive of sedimentation. At one time these rocks, of which the gneisses and schists are the most typical examples, were regarded as ancient sediments laid down in water, and "metamorphosed" into a crystalline condition by the action of heat.
 
-There are many instances of sedimentary rocks becoming crystalline in the neighbourhood of intrusive igneous rocks (contact metamorphism), and it was assumed that ancient sediments extending over vast areas might similarly have become modified by subterranean heat (regional metamorphism). 
+There are many instances of sedimentary rocks becoming crystalline in the neighbourhood of intrusive igneous rocks (contact metamorphism), and it was assumed that ancient sediments extending over vast areas might similarly have become modified by subterranean heat (regional metamorphism).
 
 In 1884 J. Lehmann* published a great work illustrated by an atlas of photographs, showing that a stratified structure was often brought about in igneous rocks as a result of pressure. Now metamorphic rocks are especially found in mountainous regions, where there has necessarily been great dislocation and pressure. Hence he concluded that metamorphic rocks might in many cases be igneous rocks modified by mechanical means.
 
@@ -1451,7 +1451,7 @@ Although the accumulated pile of sedimentary strata at maximum would be many mil
 
 If all difficulties, such as those arising from temperature or from a possible up-welling of lava, could be overcome what might we expect to find? From the nature of its formation particle by particle on the sea-floor, the known crust of the earth is a heterogeneous mixture. Possibly the sub-crustal region would be more homogeneous. The term "crust" is here limited to the oceanic deposits, whatever is lower being a "zone." Prof. Milne (Recent advances in Seismology. P.R.S. [A] 77, p. 369, 1906) estimates that there is an outer zone of rock thirty miles thick resembling that of the surface. The nummulosphere crust would constitute only a fraction of this zone, for the dissolving powers of the ocean are not unlimited — an old anti-Wernerian argument.
 
-_The Nummulosphere in Arts and Crafts_. 
+_The Nummulosphere in Arts and Crafts_.
 
 Apart from recent organic substances, most of the materials used in the arts have a nummulitic origin, and it is surprising to what an extent the nummulitic structure persists.
 
@@ -1871,7 +1871,7 @@ Having found the earth's crust to be a deposit of nummulites mineralized by sili
 
 Many now hold the belief that organic evolution follows on uninterruptedly from what Sir Norman Lockyer terms inorganic evolution. As heavenly bodies from the hottest suns to planets diminish in temperature their materials are able to form ever more complex alliances. "As matter is allowed capacity for assuming complex forms those complex forms appear" in accordance with what Professor B. Moore terms "The Law of Complexity."*
 
-*) _The Origin and Nature of Life_, 1912. 
+*) _The Origin and Nature of Life_, 1912.
 
 Very different pictures are drawn of the condition of the earth's surface when life first became possible. Professor Minchin, for instance, conjures up a vision of a hot crust formed over molten magma, the latter continually breaking through, with condensing vapours exploding into steam, and general conditions favouring a great synthesis of chemical compounds. "It is conceivable," he cautiously remarks, "that this period of chaos, of storm and stress on a gigantic scale, might have been the womb of life."*
 
@@ -2592,7 +2592,7 @@ C. Montagna _Nouvelle théorie du Métamorphisme des Roches_, 1869, figures Lepi
 
 A. Sismonda (Comptes Rendus, 1865, tome 60, p. 492), describes an imprint of Equisetum in gneiss.
 
-Note H. _On deposition of Magnesium Carbonate from Seawater_ (p. 102). 
+Note H. _On deposition of Magnesium Carbonate from Seawater_ (p. 102).
 
 Sir John Murray informed me in a letter that an analysis of a large Tridacna shell from Tongatabu showed I per cent, of magnesia in the inner layer of the shell, and no less than 10 to 12 per cent, in the outer parts near the umbo. "The Tridacna was alive when collected, and twelve sailors had dinner out of it."
 
@@ -2627,17 +2627,17 @@ Note L. _Diatomaceous Ooze_ (p. 30).
 
 The Diatomaceous ooze from St. 157, 1950 fathoms, in the Southern Ocean (_Challenger_ Station 157), is a fine white floury deposit which crumbles at a touch. This ooze is rich in nummulite probably derived from ice-borne erratics or floating pumice. Not only have the nummulites become glassy and powdery, but parts of the anatomy, such as disks of the pillars, have acquired a superficial resemblance to _Coscinodiscus_) many species of which are present in the deposit. The nummulitic structures will be found in regular series, and high powers will show the spirodiscoid structure.
 
-Note M. _Barbados Earth_ (p. 66). 
+Note M. _Barbados Earth_ (p. 66).
 
 Barbados earth, a pliocene formation, is usually regarded as a rock composed almost exclusively of Radiolaria. I find it, however, to be a silicified earthy deposit of nummulites very rich in undissolved Radiolaria. Because Radiolarian oozes are usually found at great depths it is assumed that the Barbados deposit may perhaps have been formed at a depth of 3000 fathoms. The nummulites appear to have lived contemporaneously with the Radiolaria sunk from the surface, for the two elements are mixed together in the samples I have seen, so that it is not a case of Radiolaria sinking into a more ancient nummulitic mud. As it is highly improbable that nummulites lived below 1000 fathoms, probably the Barbados earth was not formed at the abyssal depth usually assigned to it. (See _Geology of Barbados_, Part 2. Oceanic Deposits. Jukes-Browne and Harrison. Q.J.G.S. p. 170, 1892.)
 
-Note N. _Chalk with Flint and without Flint_ (p. 44). 
+Note N. _Chalk with Flint and without Flint_ (p. 44).
 
 The presence or absence of layers of flint seemingly depends on two factors, _viz._ the abundance or paucity of benthos and plankton siliceous organisms and the degree of permeability of the rock. A marly chalk in shallow water would probably be poor in siliceous benthoplankton and would be relatively impermeable, so that disseminated silica would not all gravitate to form a layer. The upper chalk which indicates deep-water conditions might have a rich benthos sponge fauna and an oceanic plankton one, and the pure nummulitic deposit would be very permeable. W. K. Brooks pointed out the singular poverty of the coral-reef areas in plankton, and the great richness of the oceanic areas not far away.
 
 In Portland, Dorset, the Jurassic rocks from the point of view of chert beds are in the reverse order to the chalk.
 
-Note P. _Origin and Metamorphism of Rocks_ (p. 13). 
+Note P. _Origin and Metamorphism of Rocks_ (p. 13).
 
 It may be well to mention that theories of aqueous and igneous _origin_ of rocks are distinct from aqueous, igneous and aquo-igneous theories of _metamorphism_ of rocks. Igneous rocks have an aqueous origin, and seemingly their metamorphism is partly due to aquo-igneous agencies.
 
@@ -3240,7 +3240,7 @@ Plate 24 — Spirodiscoid structure in cells of bean and in ganglion cells of hu
 
 [Plate 24: Guide](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate24-Guide.png)
 
-_Note_. — The above figures are best viewed under a strong light, and with a lens magnifying only 2 diameters (about 6-inch focus). 
+_Note_. — The above figures are best viewed under a strong light, and with a lens magnifying only 2 diameters (about 6-inch focus).
 
 If the pictures fail to convince — though C-G are fairly good — it is only necessary to examine, under oil immersion, any vegetable or animal cells or tissues to learn that the physical basis of life has a spirodiscoid structure.
 
@@ -3326,7 +3326,7 @@ If the pictures fail to convince — though C-G are fairly good — it is only n
 
 [Figure 38](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig38.png) — _Receptaculites neptuni_ 4x. Near Gerolstein. Author's collection.
 
-[Figure 39](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig39.png) — _R. neptuni_ 3.5x. Author's collection. See photo from this, Plate 2 E 22, and Fig. 40. 
+[Figure 39](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig39.png) — _R. neptuni_ 3.5x. Author's collection. See photo from this, Plate 2 E 22, and Fig. 40.
 
 [Figure 40](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig40.png) — _Receptaculites neptuni_. Transverse section of nummulite 250x; from section shown in Fig. 39.
 
