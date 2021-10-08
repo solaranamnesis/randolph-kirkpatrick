@@ -834,6 +834,8 @@ The experiments of R. Liesegang ("Geologische Diffusionen") on precipitation, sh
 
 _Eozoön_ has been a twofold source of error. Firstly there was the mistake for which Dawson and Carpenter were chiefly responsible, that certain banded lumps of serpentine limestone were gigantic reef-like Foraminifera. After doing great service in destroying this illusion, the mineralogists and petrologists went too far and fell into error themselves. Whitney and Wadsworth* write of "the extraordinary delusion which has prevailed among palaeontologists with reference to the organic nature of _Eozoön_."
 
+*) Bull. Mus. Comp. Zool. 7. p. 534. 1884.
+
 It was a case of denying not merely the organic nature of _Eozoön_ _qua_ _Eozoön_, but also an organic origin of any sort. As these authors expressly state, their "Azoic System" comprised a series of the earliest rocks which had, according to them, never been anything else than azoic. I have already given reasons for my conviction (_Nummulosphere_ 1) that there is no "azoic system" accessible to investigation. Numerous later observations have confirmed this view.
 
 King and Rowney (Q.J.G.S. _l.c._ p. 216) regard _Eozoön_ as having "existed at one time as hornblendic or augitic gneiss, and that it is primarily of sedimentary origin," _i.e._ an azoic sediment derived from azoic rocks. Johnston-Lavis and Gregory (_l.c._) consider _Eozoön_ to be derived from igneous magmas, _i.e._ to be azoic.
