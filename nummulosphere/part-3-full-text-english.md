@@ -2418,7 +2418,7 @@ He investigated at the Brussels Museum the magnificent series of large thin plaq
 
 In the thin sections of the Carboniferous limestones of the Viseen of the province of Namur he observed certain obscurely defined masses with granular, nodular or vesicular structure, which he regarded as encrusting organisms. On account of the stratified and spongy reticular structure of certain typical forms, he called them Spongiostromids, and placed the group in a new order of Protozoa. His memoir* is illustrated with numerous large photographs on 22 double quarto plates.
 
-*) _Mem. Musee Roy. Hist. Nat. Belgique_, 1906.
+*) _Mém. Musée Roy. Hist. Nat. Belgique_, 1906.
 
 In 1913 Dr. Rothpletz* described a Spongiostromid from the Silurian of Gottland, and expresses the belief that these organisms are Hydrozoa.
 
