@@ -2142,7 +2142,7 @@ Summary. — In the earlier Palaeozoic limestones or in their _débris_ are foun
 
 Postscript. — Perhaps the best and simplest method of detecting the nummulitic nature of Stromatoporoids and other lithomorphs would be to examine photographs (and negatives) made from large thin sections natural size or magnified only two or three diameters.
 
-##### Chapter 11
+##### Chapter 12
 
 ###### Certain other Lithomorphs
 
