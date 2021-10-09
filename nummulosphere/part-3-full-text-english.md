@@ -2041,9 +2041,13 @@ Goldfuss, in his great folio _Petrefacta Germaniae_ (1826), was the first to des
 
 Examples from this neighbourhood often have alternating dense and porous concentric layers. (See Plate 3, copied from the original figure.) Goldfuss placed the specimens in a new genus and species, _Stromatopora* concentrica_, which he ranked among the corals near _Millepora_. This very pardonable mistake was the parent of a long line of errors.
 
+*) _I.e._ bodies with (dense and) porous layers.
+
 Gradually as the Palaeozoic limestones of the Ordovician, Silurian and Devonian periods became better known, numerous other "fossils," akin to _Stromatopora_, were discovered. Succeeding writers devoted memoirs and monographs to the description of these objects, and many and diverse were the views as to their nature.
 
 Below is an incomplete list, compiled as far as 1886 from Nicholson's monograph, giving the names of writers with their opinion concerning the systematic position of Stromatoporoids:*
+
+*) This name, first used by Nicholson and Murie, means "like or akin to _Stromatopora_."
 
 Goldfuss, 1826. Hydrocorallinae.  
 Steininger, 1834. Sponges.  
