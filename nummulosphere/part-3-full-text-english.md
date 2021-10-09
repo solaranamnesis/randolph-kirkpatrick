@@ -2272,7 +2272,7 @@ Each "element" typically has six parts, _viz._ (1) an outer diamond-shaped facet
 
 _Receptaculites_ have been regarded as fossilized fir-cones; corals; Crinoids; Foraminifera; calcareous algae (Siphoneae verticillatae) related to the Dactyloporidae, or to such Dasycladaceae as _Bornetella_; primitive types of Sponges; gemmules of Freshwater Sponges; peculiar Hexactinellid Sponges; Tunicata.
 
-Prof. RaufT himself concludes as follows (_l.c._ p. 717): "For the moment we must be content with an 'Ignoramus,' and can only say that the _Receptaculitidae form a peculiar family which after their death failed to leave behind any similarly organized representatives either in the ancient or modern world."
+Prof. Rauff himself concludes as follows (_l.c._ p. 717): "For the moment we must be content with an 'Ignoramus,' and can only say that the _Receptaculitidae form a peculiar family which after their death failed to leave behind any similarly organized representatives either in the ancient or modern world."
 
 The results of my own research can be summed up in a few words.
 
