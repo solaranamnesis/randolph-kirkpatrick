@@ -1907,7 +1907,7 @@ The problem of the building up by green plants of carbohydrates out of inorganic
 
 Both formaldehyde and hydrogen peroxide are very poisonous to plant life, but the transformation takes place so rapidly that in healthy plants no harm arises. Usher and Priestley state that starch can be detected in previously starchless filaments of _Spirogyra after three minutes exposure to light_. CO₂ can be photolysed independently of chlorophyll. Usher and Priestley have obtained Formic acid from CO₂.H₂O, by using Uranium sulphate as an optical sensitizer. Again W. Lob has obtained formaldehyde by exposing a mixture of water vapour and carbon dioxide to the action of the silent electric discharge. (Zeitsch. Elektrochem. 1905-6.)
 
-Willstater has shown magnesium to be the essential metallic constituent of chlorophyll; and Fenton, by using a solution of carbon dioxide in water containing bars of magnesium, has observed the splitting up of CO₂ and the production of formaldehyde.*
+Willstäter has shown magnesium to be the essential metallic constituent of chlorophyll; and Fenton, by using a solution of carbon dioxide in water containing bars of magnesium, has observed the splitting up of CO₂ and the production of formaldehyde.*
 
 *) Journ. Chem. Soc. Trans., 1907, p. 691.
 
