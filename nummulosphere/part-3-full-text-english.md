@@ -2874,7 +2874,7 @@ The phenomenon of sex occurs almost throughout the kingdom of life, but in spite
 
 Almost throughout the organic world there exists a parallel series of two kinds of "germ" cells, commonly but not always exhibiting visibly-contrasting features especially as regards size and mobility. The two kinds of cells may form part of one organism or of two organisms specifically identical.
 
-When Penicillium is put into a solution of racemic ammonium tartrate the organism selects the dextro-tartrate and leaves the laevo-tartrate. According to one theory the reaction depends on the organism and dextro-salt being molecularly adapted to each other as templet and material to be moulded, hand and glove, or lock and key.
+When _Penicillium_ is put into a solution of racemic ammonium tartrate the organism selects the dextro-tartrate and leaves the laevo-tartrate. According to one theory the reaction depends on the organism and dextro-salt being molecularly adapted to each other as templet and material to be moulded, hand and glove, or lock and key.
 
 Similarly it is suggested that possibly the attraction-characters of the two kinds of germ cells may depend on the existence in them of dominant laevo-gyre or dextro-gyre physiological units (spirads).
 
