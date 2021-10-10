@@ -1334,7 +1334,7 @@ The silicated deposits of nummulites — _i.e._ the igneous rocks — have been 
 
 The conclusive proof that the sedimentary rocks are mainly derived from mineralized deposits of nummulites is established simply by examining particles of sand, mud or clay under a microscope. Portions of the shell-structure almost imperishably preserved will generally be seen (Fig. 9).
 
-Dust from a London street, mud trom the Thames, flint sand from Brighton, granite sand or clay from Cornwall, earth from the fields, volcanic sands from any part of the world, all show disk-structure of nummulite shells.* Similarly with slates, and with shales and sandstones from all horizons. A sandstone, without any apparent organic remains, is nevertheless fossiliferous throughout, only the fossils are in very small fragments. The known fossils in sedimentary rocks are buried in the débris of fossils of an earlier period or era.
+Dust from a London street, mud trom the Thames, flint sand from Brighton, granite sand or clay from Cornwall, earth from the fields, volcanic sands from any part of the world, all show disk-structure of nummulite shells.* Similarly with slates, and with shales and sandstones from all horizons. A sandstone, without any apparent organic remains, is nevertheless fossiliferous throughout, only the fossils are in very small fragments. The known fossils in sedimentary rocks are buried in the _débris_ of fossils of an earlier period or era.
 
 *) I have heard of unbelievers who would as soon expect to find nummulites in their carpet, in horse-manure, or in coal-cinders as in igneous rocks. I fear none of these materials will be found to have escaped nummulitic admixture. Dirty boots, gritty fodder and poor coal would furnish plenty of nummulitic structure in each of the materials enumerated.
 
@@ -1376,7 +1376,7 @@ The green grains are either shapeless or in the form of casts of calcareous — 
 
 The most approved explanation is that the sediments of igneous rocks, especially those with potash feldspar, permeate the shells as fine mud, and that the latter becomes decomposed by acid resulting from the action of organic matter.
 
-A new feature of interest about this mineral is the discovery of persisting nummulitic structure. In some beautiful casts of decalcified _Rotalia_ and _Globigerina_ from the glauconitic core of Norwich potstones, I can clearly see the dotted disks. Thus we have Cretaceous (or other) Foraminifera filled with Foraminiferal débris of the ages when the igneous rocks were formed.
+A new feature of interest about this mineral is the discovery of persisting nummulitic structure. In some beautiful casts of decalcified _Rotalia_ and _Globigerina_ from the glauconitic core of Norwich potstones, I can clearly see the dotted disks. Thus we have Cretaceous (or other) Foraminifera filled with Foraminiferal _débris_ of the ages when the igneous rocks were formed.
 
 A. Vialay* takes a glauconitic deposit as the starting point of his evolutionary rock series, _viz._ ultra-basic, basic and acid. However logical the theory may be from the chemical point of view, yet actually the course of events has probably been different. For glauconite is the offspring, and not the progenitor, of igneous rocks. The learned author rightly postulates an aqueous origin for the latter. He believes their metamorphosis to have taken place _à froid_.
 
@@ -1841,7 +1841,7 @@ _Purely Metallic Meteorites_.
 
 There is a continuous series from completely stony to pure iron meteorites, _i.e._ from stony masses of nummulites to completely ore-enriched masses of these shells. Patches of metal are scattered about in the walls of the shells in the former, and this metal does not fill empty gaps but is nummulitic structure composed of iron and nickel molecules.
 
-The iron may have been reduced by the carbon monoxide often found along with the dioxide. When a siderolite returns to our planet the pure iron again combines with oxygen, and a reddish halo spreads into the surrounding minerals. I can certainly make out disk-structure in the rusty débris of the great Melbourne meteorite, as well as in the rust of an old iron saucepan which I submitted to microscopic examination.
+The iron may have been reduced by the carbon monoxide often found along with the dioxide. When a siderolite returns to our planet the pure iron again combines with oxygen, and a reddish halo spreads into the surrounding minerals. I can certainly make out disk-structure in the rusty _débris_ of the great Melbourne meteorite, as well as in the rust of an old iron saucepan which I submitted to microscopic examination.
 
 It is possible also to make out the disks on the surface of patches of pure nickel-iron in sections of meteorites viewed by reflected light under high powers. The dots are seen arranged in circular groups, each dot having a shining point in the center of a circular area. Lastly, I am certain I can trace nummulites even with a hand-lens. (Plate 22)
 
@@ -3060,7 +3060,7 @@ Plate 6 — Sections of _Parkeria_.
 
 Plate 11 — Chalk, flint, _Eozoön_, granite, Barbados earth.
 
-[Plate 11: Figure 39](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure39.png) — Surface of a piece of chalk from Haling, 5x. There are portions of several nummulites visible in photo. The whole surface shows nothing but nummulitic structure, and every particle is in orderly arrangement, _i.e._ there is no débris. A marginal cord with septa curves round lower left corner within radius of 18 mm. Above middle of lower border are embracing gothic arches and a septum of shell in trans. section. (Lens 3x necessary for seeing details.)
+[Plate 11: Figure 39](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure39.png) — Surface of a piece of chalk from Haling, 5x. There are portions of several nummulites visible in photo. The whole surface shows nothing but nummulitic structure, and every particle is in orderly arrangement, _i.e._ there is no _débris_. A marginal cord with septa curves round lower left corner within radius of 18 mm. Above middle of lower border are embracing gothic arches and a septum of shell in trans. section. (Lens 3x necessary for seeing details.)
 
 [Plate 11: Figure 40](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Plate11-Figure40.png) — Surface of flint, 8x. As in Fig. 39, but silicified. Nummulitic structure faintly visible over whole field. A marginal cord with septa curves upward obliquely in projection from left of center of lower edge of photo to right of center of upper edge.
 
