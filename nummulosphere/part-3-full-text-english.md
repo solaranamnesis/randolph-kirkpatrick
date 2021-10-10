@@ -1913,7 +1913,7 @@ Willstäter has shown magnesium to be the essential metallic constituent of chlo
 
 *) Journ. Chem. Soc. Trans., 1907, p. 691.
 
-Proteins are split up by digestion into simpler bodies the peptones, and the latter can be split (by hydrolysis) into the still simpler "amino-acids."* Most of the proteins contain twenty or more different amino-acids, all with complicated formulae. Emil Fischer has separated out many of these bodies, and, further, by synthesizing them has produced numerous substances which he terms "polypeptides" from their resemblance to the natural peptones. In spite of their complexity the amino-acids, the peptones and the proteins are all endless variations on one theme, _viz._ NH.—CH.—CO.OH (_i.e._ on C.O.H.N.).
+Proteins are split up by digestion into simpler bodies — the peptones, and the latter can be split (by hydrolysis) into the still simpler "amino-acids."* Most of the proteins contain twenty or more different amino-acids, all with complicated formulae. Emil Fischer has separated out many of these bodies, and, further, by synthesizing them has produced numerous substances which he terms "polypeptides" from their resemblance to the natural peptones. In spite of their complexity the amino-acids, the peptones and the proteins are all endless variations on one theme, _viz._ NH.—CH.—CO.OH (_i.e._ on C.O.H.N.).
 
 *) The amines are regarded as derived from ammonia by substitution of hydrocarbons for hydrogen, and the "acids" as derived from hydrocarbons by substitution of the carboxyl group CO.OH for hydrogen.
 
