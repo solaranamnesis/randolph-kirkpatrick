@@ -10,6 +10,7 @@
 \usepackage[figurename=]{caption}
 \usepackage{fancyhdr}
 \usepackage{amssymb}
+\usepackage{array}
 \usepackage{imakeidx}
 \usepackage{qtree}
 \renewcommand{\listfigurename}{List of Plates}
@@ -317,14 +318,24 @@ The merit of this great achievement belongs especially to the \emph{Challenger} 
 Sir John Murray\footnote{Scottish Geogr. Mag., 4. p. 1, 1888, and 6. p. 265, 1890. } estimates the area of the surface of the globe at 197 millions of square miles, of which dry land occupies 54 millions and the ocean 143 millions. The ocean floor is covered with muds, ``oozes'' and clay. Murray classes these deposits under two groups, \emph{viz.} the Terrigenous, fringing the great land areas, and the Pelagic remote from land. The terrigenous deposits (littoral muds sands and gravels, coral sand and mud, volcanic sand and mud, greensand, and green red and blue muds) covering an area of 28.6 millions of square miles are more or less composed of materials derived from land.
 
 The pelagic deposits, formed either of Red Clay or of skeletons of plankton organisms,\footnote{\emph{Nummulites} are abundantly present in \emph{Globigerina} and Diatom-oozes. In Nummulosphere 1 I unnecessarily suggested adding the designation ``palaeonummulitic'' to the names in use. The nummulites in the above oozes are probably derived from subaerial and submarine eruptions. In depths greater than 2700 fms. calcareous plankton dust is dissolved, and the clayey surface of the probably universal nummulitic deposit is left bare.} cover an area of 114.6 millions of square miles, and are distributed as follows:--
-
--- | Mean depth in fathoms | Area in millions sq. miles | Distribution  
-\emph{Globigerina} Ooze | 2000 | 49.5 | Atlantic chiefly, Indian Ocean, and Pacific  
-Diatomaceous Ooze\footnote{See Appendix, Note L.} | 1477 | 10.9 | Southern Ocean chiefly  
-Radiolarian Ooze | 2894 | 2.3 | Indian Ocean and Pacific  
-Pteropod Ooze | 1044 | 0.4 | South Atlantic  
-Red Clay | 2730 | 51.5 | Eastern Pacific chiefly, Atlantic, and Indian Ocean  
-
+\begin{center}
+\begin{tabular}{ |m{9em}|m{4em}|m{4em}|m{12em}| }
+ \hline
+ -- & Mean depth in fathoms & Area in millions sq. miles & Distribution \\
+ \hline
+ \emph{Globigerina} Ooze & 2000 & 49.5 & Atlantic chiefly, Indian Ocean, and Pacific \\
+ \hline
+ Diatomaceous Ooze\footnote{See Appendix, Note L.} & 1477 & 10.9 & Southern Ocean chiefly \\
+ \hline
+ Radiolarian Ooze & 2894 & 2.3 & Indian Ocean and Pacific \\
+ \hline
+ Pteropod Ooze & 1044 & 0.4 & South Atlantic \\
+ \hline
+ Red Clay & 2730 & 51.5 & Eastern Pacific chiefly, Atlantic, and Indian Ocean \\
+ \hline
+\end{tabular}
+\end{center}
+\paragraph{}
 The results of the \emph{Challenger} dredgings so far as concerned the first three deposits in the above list did not come as a surprise, for scientific men were already familiar with \emph{Globigerina}- and Diatomaceous oozes and with fossil ``oceanic'' deposits of Radiolaria; but the ``capital discovery'' -- to use Huxley's expression -- that at a mean depth of 2730 fathoms and over an area of 51.5 millions of square miles there existed a deposit of red clay, was something wholly new and unexpected. At first the clay was thought to be the finest detritus of the land, but this hypothesis was soon found to be untenable.
 
 A remarkable feature about the deposit was the almost entire absence of shells of pelagic Foraminifera, which were abundant in neighbouring areas of less depth, and which flourished at the surface of the ocean above the Red Clay. The absence of the shells was attributed to their being dissolved in the course of their very slow descent in the greatest depths.\footnote{Dittmar considered sea-water to be the chief dissolving agency of calcareous skeletons, the carbonic acid being apparently already held up. Murray believed carbonic acid derived from decomposing organic matter inside the shells to be an additional dissolving agency (\emph{Challenger Narrative}, 1. p. 981). Possibly, too, carbonic acid, however formed, would gravitate slowly to the deepest troughs; but if so, the amount is not sufficient to prevent or to destroy life.}
@@ -840,40 +851,57 @@ Iddings writes: ``Calcium is one of the most abundant and wide-spread elements i
 
 A. Important constituents of sea-water.
 
-Chlorides and sulphates  
-%└─Calcium  
-%└─Magnesium  
-%└─Sodium  
-%└─Potassium  
+\Tree[.{chlorides and sulphates} [.Calcium ]
+          [.Magnesium ]
+          [.Sodium ]
+          [.Potassium ]]
 
-Oxides and silicates  
-%└─Silicon  
-%└─Aluminium  
-%└─Iron  
+\bigskip
+
+\Tree[.{oxides and silicates} [.Silicon ]
+          [.Aluminium ]
+          [.Iron ]]
+
+\bigskip
 
 B. Important constituents of plankton and benthos organisms.
 
-In skeletons  
-%└─Silica  
-%└─Calcium carbonate  
-%└─Magnesium carbonate  
+\Tree[.{in skeletons} [.Silica ]
+          [.{Calcium\\carbonate} ]
+          [.{Magnesium\\carbonate} ]]
 
-Salts in protoplasm  
-%└─Iron  
-%└─Sodium  
-%└─Potassium  
-%└─Magnesium  
+\bigskip
+
+\Tree[.{salts in\\protoplasm} [.Iron ]
+          [.Sodium ]
+          [.Potassium ]
+          [.Magnesium ]]
+
+\bigskip
 
 C. Seven oxides, the chief constituents of igneous rocks (F. W. Clarke).
 
-Silica | 59.87  
-Alumina | 15.02  
-Iron | 5.98  
-Calcium | 4.79  
-Magnesium | 4.06  
-Sodium | 3.39  
-Potassium | 2.93  
-\emph{Sum} | 96.04  
+\begin{center}
+\begin{tabular}{ | m{5em} | m{1cm} | } 
+  \hline
+  Silica & 59.87 \\ 
+  \hline
+  Alumina & 15.02 \\ 
+  \hline
+  Iron & 5.98 \\ 
+  \hline
+  Calcium & 4.79 \\ 
+  \hline
+  Magnesium & 4.06 \\ 
+  \hline
+  Sodium & 3.39 \\ 
+  \hline
+  Potassium & 2.93 \\ 
+  \hline
+  \emph{Sum} & 96.04 \\ 
+  \hline
+\end{tabular}
+\end{center}
 
 \emph{Remarks on the above tables}. -- A. -- Composition of sea-water. Silica occurs either uncombined or in combination with alumina, the silicate of alumina being finely suspended.
 
@@ -1751,10 +1779,10 @@ The removal of a large number of forms from the organic kingdom to the ranks of 
 The term ``concretion'' has strong claims, but is, I think, hardly satisfactory as a group-name for the numerous and diverse objects now to be classified. The fur deposited round some nucleus in a kettle is a concretion, and so also are the wonderful objects known as \emph{Cyclocrinus}, \emph{Parkeria} and \emph{Receptaculites}. For these and similar calcareous or originally calcareous bodies with a certain shape and structure due to the operation of purely chemico-physical agencies, the name ``lithomorph'' (``forms in stone'') is suggested.
 
 The characters available for a classification of lithomorphs are shape and structure. The shape may be spherical or massive, the former including spherical and oval shapes, and the latter massive, hemispherical, conical and branched forms. The structure or pattern may be prevailingly concentric, or prevailingly radial, or lastly ``stromatic,'' \emph{i.e.} with ``layer upon layer'' rather than with ``layer within layer.'' By taking both shape and structure (or pattern) into account, lithomorphs may be arranged as follows:--
+\begin{description}
+    \item Group 1. Concentric. Structure predominantly concentric, or spiral; shape spherical or oval. Examples: \emph{Parkeria}, \emph{etc.}, \emph{Loftusia}, oolite\footnote{Oolite grains may have ``a concentric and radiate, or simply a concentric or radiate structure.'' Mem. Geol. Survey. 4. 1894. \emph{Lower Oolitic Rocks of England}, p. 6. All the figures show the completely and the predominantly concentric types. Some \emph{Parkeria}-patterns, too, might almost be classified as radial.} and pisolite, final stage of certain Fulwell concretions.
 
-Group 1. Concentric. Structure predominantly concentric, or spiral; shape spherical or oval. Examples: \emph{Parkeria}, \emph{etc.}, \emph{Loftusia}, oolite\footnote{Oolite grains may have ``a concentric and radiate, or simply a concentric or radiate structure.'' Mem. Geol. Survey. 4. 1894. \emph{Lower Oolitic Rocks of England}, p. 6. All the figures show the completely and the predominantly concentric types. Some \emph{Parkeria}-patterns, too, might almost be classified as radial.} and pisolite, final stage of certain Fulwell concretions.
-
-Group 2. Radial. Structure predominantly radial, shape various.
+    \item Group 2. Radial. Structure predominantly radial, shape various.
 
 Sub-group \emph{a}. Shape spherical, oval or cup-shaped; structure ``tubular''\footnote{The ``tubes'' are not hollow and never have been. There is only a tubular appearance or pattern.} or columnar, often with facetted surface: \emph{Cyclocrinus} \emph{etc.}, Receptaculitidae, Archaeocyathidae, Syringosphaeridae.
 
@@ -1762,8 +1790,9 @@ Sub-group \emph{b}. Shape nodular or doubtful; structure tufted-``tubular'' or f
 
 Sub-group \emph{c}. Shape doubtful, structure vermiform-``tubular'': \emph{Girvanella}.
 
-Group 3. Stromatic. Shape often massive; with reticular pattern; usually with obscurely marked radial and tangential elements: Stromatoporoids, Spongiostromids, \emph{Eozoön}, many Fulwell concretions.
-
+    \item Group 3. Stromatic. Shape often massive; with reticular pattern; usually with obscurely marked radial and tangential elements: Stromatoporoids, Spongiostromids, \emph{Eozoön}, many Fulwell concretions.
+\end{description}
+\paragraph{}
 \emph{Remarks}. -- Of living things it is said ``crescunt et vivunt,'' and further, they reproduce themselves. Consequently there is a relationship between parent and offspring: ``lapides crescunt'' only, but for all that, some concretions are known to undergo a remarkable series of changes,\footnote{Mr. G. Abbott's mince-pie-shaped concretions in Fulwell quarry appear to begin as excentrically radiate masses of pillars, and to develop into bodies with concentric laminae. Further, there might be different stages in different parts of the same concretion, certainly a trying object to fit into any scheme of classification!} and, further, these bodies are formed in accordance with certain laws. Consequently it may be possible to arrive at a natural classification. Some petrologists speak of a ``natural history'' of igneous rocks and attempt to establish a natural system of classification.
 
 The laws of rhythmical precipitation and arrangement of suspended particles have been much studied by Liesegang\footnote{R. Liesegang, \emph{Geologische Diffusionen}, 1914.} and Hatschek, and may throw light on concretionary processes.
@@ -2248,20 +2277,27 @@ A joint-committee of the Canadian and American Geological Surveys adopted the fo
 
 Keweenawan
 
-Unconformity
+\hspace{10mm}Unconformity
 
-Huronian Upper Unconformity
+Huronian Upper
 
-Huronian Middle Unconformity
+\hspace{10mm}Unconformity
 
-Huronian Lower Unconformity
+Huronian Middle
+
+\hspace{10mm}Unconformity
+
+Huronian Lower
+
+\hspace{10mm}Unconformity
 
 Keewatin
 
-Intrusive contact
+\hspace{10mm}Intrusive contact
 
 Laurentian
 
+\paragraph{}
 The Report of the Committee is published in ``The Journal of Geology,'' 1905, 13. p. 89. The Laurentian and Keewatin comprise the Archaean, and the Huronian and Keweenawan the Algonkian.
 
 The Grenville series overlying the Laurentian in Eastern Ontario and Quebec is generally regarded as Archaean, although it is uncertain to what extent it is correlated with the Keewatin. The ``basal complex'' is generally called after the locality in which it is exposed. In the Western Hebrides for instance it is called Lewisian, although it \emph{may} be of the same age as the Laurentian of Canada. ``It is not impossible that they'' (the Laurentian rocks) ``may reach the Western Hebrides, which lie in the latitude of Labrador'' (Suess, \emph{The Face of the Earth}, 4. p. 258). If so it is not surprising to find that the ocean floor abounds in ancient nummulite shells. The Laurentian and Lewisian rocks are nummulitic.
