@@ -62,7 +62,7 @@ Dr. V. E. Pullin, Director of the Research Laboratory at Woolwich, aided me with
 
 ##### Igneous Rocks
 
-I published my first pamphlet on this subject in 1913, rashly coming into the heated arena with a drawn sword — "An account of _so-called_ igneous rocks," and with a picture of Neptune defiantly holding aloft on his trident a lump of igneous rock. Still worse, theateningly he holds in his other hand a meteorite.
+I published my first pamphlet on this subject in 1913, rashly coming into the heated arena with a drawn sword — "An account of _so-called_ igneous rocks," and with a picture of Neptune defiantly holding aloft on his trident a lump of igneous rock. Still worse, threateningly he holds in his other hand a meteorite.
 
 Jove, Neptune and Pluto, the sons of Saturn, settled by lot their respective spheres, but strangely it fell to _my_ lot to discover that Jove and Pluto had meanly defrauded their brother. For the so-called Plutonic rocks are all from Neptune's domain, and even the thunderbolt, the supposed appanage of High Jove, is really the property of Neptune. Hence my determination to restore Neptune to his just and legal rights. The igneous rocks may still be "so-called," but the term plutonic is a highly illogical, misleading piece of nomenclature, and I, for one, refuse to accept and use the same, even if I continue to be _contra mundum_.
 
