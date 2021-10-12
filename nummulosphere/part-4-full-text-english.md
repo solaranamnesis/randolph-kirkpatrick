@@ -144,7 +144,7 @@ The ocean occupies about five-sevenths of the area of the globe; and if all the 
 
 The earth's crust being derived from the ocean, it is extremely probable that a universal ocean once existed, although we can never know whether bulges of sub-crust may not have emerged from the then deeper ocean.
 
-Life must have originated from the ocean surface. Living matter has an affinity for caronates of calcium and magnesium and for silica. The vast ocean prairies of the Diatoms and Radiolaria (with their symbionts) have been extracting silica from the sea for over 1,000 million years. Much surface life sank to the bottom, and sometimes adapted itself to an animal mode of nutrition.
+Life must have originated from the ocean surface. Living matter has an affinity for carbonates of calcium and magnesium and for silica. The vast ocean prairies of the Diatoms and Radiolaria (with their symbionts) have been extracting silica from the sea for over 1,000 million years. Much surface life sank to the bottom, and sometimes adapted itself to an animal mode of nutrition.
 
 I have often seen living and dead Forams full of Diatom frustules — a microcosm of the earth's crust!
 
