@@ -10,25 +10,25 @@ London: Printed by William Clowes and Sons, Limited, 94, Jermyn Street, London, 
 
 #### Table of Contents
 
-##### [Introduction]()
+##### [Introduction](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-4-full-text-english.md#introduction-1)
 
-##### [Chapter 1]()
+##### [Chapter 1](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-4-full-text-english.md#chapter-1-1)
 
-##### [Chapter 2]()
+##### [Chapter 2](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-4-full-text-english.md#chapter-2-1)
 
-##### [Chapter 3]()
+##### [Chapter 3](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-4-full-text-english.md#chapter-3-1)
 
-##### [Chapter 4]()
+##### [Chapter 4](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-4-full-text-english.md#chapter-4-1)
 
-##### [Chapter 5]()
+##### [Chapter 5](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-4-full-text-english.md#chapter-5-1)
 
-##### [Chapter 6]()
+##### [Chapter 6](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-4-full-text-english.md#chapter-6-1)
 
-##### [Chapter 7]()
+##### [Chapter 7](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-4-full-text-english.md#chapter-7-1)
 
-##### [Chapter 8]()
+##### [Chapter 8](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-4-full-text-english.md#chapter-8-1)
 
-##### [Chapter 9]()
+##### [Chapter 9](https://github.com/solaranamnesis/randolph-kirkpatrick/blob/main/nummulosphere/part-4-full-text-english.md#chapter-9-1)
 
 #### Introduction
 
