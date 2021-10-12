@@ -16,6 +16,6 @@ German - PDF
 ### Part 4: The Origin of the Earth's Crust and of Meteorites
 
 [English - Plain Text](part-4-full-text-english.md)  
-English - PDF  
+[English - PDF](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/kirkpatrick_nummulosphere_part4_english_latex.pdf)  
 German - Plain Text  
 German - PDF  
