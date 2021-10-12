@@ -9,7 +9,7 @@ Translations of Randolph Kirkpatrick's work: _The Nummulosphere_, I welcome all 
 ### Part 3: The Ocean Floor or Benthoplankton
 
 [English - Plain Text](part-3-full-text-english.md)  
-English - PDF  
+[English - PDF](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_latex.pdf)  
 German - Plain Text  
 German - PDF  
 
