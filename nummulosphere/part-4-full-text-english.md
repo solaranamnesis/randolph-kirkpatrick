@@ -48,7 +48,7 @@ I think it not amiss to call attention to the financial aspect. Since its beginn
 
 Part 3, in addition to numerous text-figures, has 24 plates of photographs. Almost the only word of sympathy and encouragement from a professional source was from Sir Archibald Geikie. Acknowledging the receipt of Part 3 he writes, "I admire the constancy and devotion with which you maintain your ideas."
 
-A story is told of a man who, for a wager, stood on London Bridge and offered for sale at a penny a piece a tray of golden soverigns. He sold none, and lost his bet.
+A story is told of a man who, for a wager, stood on London Bridge and offered for sale at a penny a piece a tray of golden sovereigns. He sold none, and lost his bet.
 
 The coinage I offer — nummulites* — bears the image and superscription of Neptune — not Pluto — and will be found current in the realm of truth.
 
