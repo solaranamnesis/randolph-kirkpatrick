@@ -242,13 +242,13 @@ The skeletons are not secreted or excreted by protoplasm: they are protoplasm it
 
 The finding of this truth soon led to interesting and important discoveries.
 
-The markings in diatom frustules have puzzled generations of skilled observers, and have not even yet been correctly explained. But a careful examination of a _Coscinodiscus_ — with the spirality theory in mind* — will enable the observer to see that the polygonal facets are simply a mosaic of spirodisks (slightly helicoidal) with thick periphery and very thin centre. Round the edges of the frustule are a series of lovely corkscrew spirals. In _Synedra_ there are two helicoidal spirals in each valve face, the bars being "epispiral." I make out the raphe to be tubular with a spiral funnel at each end. (I believe this tube is for a flagellum; if so, a _Synedra_ or _Navicula_ would be four-flagellate. I watched living diatoms moving about for hours, but failed to detect flagella outside the frustule. A _Coscinodiscus_ might be multi-flagellate with a single radial flagellum between adjoining peripheral helices.)
+The markings in diatom frustules have puzzled generations of skilled observers, and have not even yet been correctly explained. But a careful examination of a _Coscinodiscus_ — with the spirality theory in mind* — will enable the observer to see that the polygonal facets are simply a mosaic of spirodisks (slightly helicoidal) with thick periphery and very thin center. Round the edges of the frustule are a series of lovely corkscrew spirals. In _Synedra_ there are two helicoidal spirals in each valve face, the bars being "epispiral." I make out the raphe to be tubular with a spiral funnel at each end. (I believe this tube is for a flagellum; if so, a _Synedra_ or _Navicula_ would be four-flagellate. I watched living diatoms moving about for hours, but failed to detect flagella outside the frustule. A _Coscinodiscus_ might be multi-flagellate with a single radial flagellum between adjoining peripheral helices.)
 
 *) The illustrious Faraday used to say, "Tell me what I am to see!"
 
-A further interesting discovery was that the supposed pores in perforate glassy Forams are not pores at all, but spirodisks with very transparent centres.
+A further interesting discovery was that the supposed pores in perforate glassy Forams are not pores at all, but spirodisks with very transparent centers.
 
-It is true, as Mr. Earland kindly warned me, that in fossil and glauconitic casts of Forams one gets models of little pipes or cylinders, but this results from the centres being more permeable than the peripheries. Further, even the "meshes" of Radiolaria are really filled in with spirodisks.
+It is true, as Mr. Earland kindly warned me, that in fossil and glauconitic casts of Forams one gets models of little pipes or cylinders, but this results from the centers being more permeable than the peripheries. Further, even the "meshes" of Radiolaria are really filled in with spirodisks.
 
 Mr. Heron-Allen relates that Sir E. R. Lankester told him a story of meeting T. Schwann, the founder of the cell theory at a congress in Belgium. Schwann told him he had devoted the whole of his time for many years to an endeavour to establish the existence of any structure in protoplasm — and that his investigations had been absolutely without result.
 
@@ -262,7 +262,7 @@ The elusive spirality and epispirality only come to view with patient observatio
 
 I find the medullated nerves to be spiral throughout. I believe the nodes of Ranvier are little shock-absorbers or, perhaps, structures to allow of stretching when the vital stimuli traverse the cable.
 
-Voluntary muscle fibre is Nature's supreme achievement in organized spirality. I am certain I can clearly make out the spirals in transverse sections of the fibres; further, the Bowman's rods are simply epispirals in which I can even detect epi-epispirals transverse to the longitudinal bars forming the transverse stripes.*
+Voluntary muscle fiber is Nature's supreme achievement in organized spirality. I am certain I can clearly make out the spirals in transverse sections of the fibers; further, the Bowman's rods are simply epispirals in which I can even detect epi-epispirals transverse to the longitudinal bars forming the transverse stripes.*
 
 *) Recently I have been much interested to hear that an Australian student is bringing out a work on the "spiral-helicoidal" structure of striped muscle.
 
