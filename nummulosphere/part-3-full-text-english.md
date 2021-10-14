@@ -1045,13 +1045,13 @@ B. — Constituents of plankton and benthos organisms. Silica. According to Murr
 
 *) Proc. Roy. Soc. Edinburgh, 18. p. 237, 1890-1.
 
-Magnesium. Analysis of shells of two representatives of Nummulitidae contained 5 per cent, of magnesium carbonate (Brady). (Probably some of the magnesium in limestones is derived from calcareous algae.) (See also Appendix Note H.)
+Magnesium. Analysis of shells of two representatives of Nummulitidae contained 5 per cent. of magnesium carbonate (Brady). (Probably some of the magnesium in limestones is derived from calcareous algae.) (See also Appendix Note H.)
 
 Willstätter* has shown that magnesium is present in chlorophyll, and not iron, as usually believed.
 
 *) R. Willstätter. In Liebig's _Annalen d. Chemie_, vol. 350, p. 65, 1906.
 
-C. — Constituents of igneous rocks. All the constituents enumerated are present in the sea, and all except alumina are found in benthos and plankton organisms. The alumina may have been directly deposited from the sea. [The history of the discovery of the composition of Acantharia skeletons leads me to hazard the suggestion that possibly some of the 15.02 per cent, of alumina in igneous rocks may be due to an extinct race of plankton organisms. Acantharia skeletons were first thought tobe organic (_Acanthin_, Haeckel). Then Shevyakov believed them to be made of a double silicate of aluminium and calcium, and finally Bütschli discovered they were composed of sulphate of strontium. Who would have suspected these wonderful skeletons, which bear impress of the effect of aeons of evolution, to be composed of sulphate of strontium!]
+C. — Constituents of igneous rocks. All the constituents enumerated are present in the sea, and all except alumina are found in benthos and plankton organisms. The alumina may have been directly deposited from the sea. [The history of the discovery of the composition of Acantharia skeletons leads me to hazard the suggestion that possibly some of the 15.02 per cent. of alumina in igneous rocks may be due to an extinct race of plankton organisms. Acantharia skeletons were first thought tobe organic (_Acanthin_, Haeckel). Then Shevyakov believed them to be made of a double silicate of aluminium and calcium, and finally Bütschli discovered they were composed of sulphate of strontium. Who would have suspected these wonderful skeletons, which bear impress of the effect of aeons of evolution, to be composed of sulphate of strontium!]
 
 _Metamorphism_
 
@@ -1292,7 +1292,7 @@ According to the Hon. R. J. Strutt, the earth's interior can hardly consist main
 
 In the chapter on chalk I have ventured to suggest the possibility of a relationship between chalk and some comets.
 
-If astronomers are correct in assuming there is a connection between meteorites, shooting-stars, and comets, then assuredly there is a justification for this apparently audacious suggestion. As a result of innumerable, long-continued and patient observations, I have arrived at the conviction that 100 per cent, of the magnificent collection of meteorites I have examined are bodies of organic origin.
+If astronomers are correct in assuming there is a connection between meteorites, shooting-stars, and comets, then assuredly there is a justification for this apparently audacious suggestion. As a result of innumerable, long-continued and patient observations, I have arrived at the conviction that 100 per cent. of the magnificent collection of meteorites I have examined are bodies of organic origin.
 
 It is not unreasonable to assume that some of the "shooting" or "falling stars" that do not happen to reach our earth may also be of similar origin.*
 
@@ -2614,9 +2614,9 @@ A. Sismonda (Comptes Rendus, 1865, tome 60, p. 492), describes an imprint of Equ
 
 Note H. _On deposition of Magnesium Carbonate from Seawater_ (p. 102).
 
-Sir John Murray informed me in a letter that an analysis of a large Tridacna shell from Tongatabu showed I per cent, of magnesia in the inner layer of the shell, and no less than 10 to 12 per cent, in the outer parts near the umbo. "The Tridacna was alive when collected, and twelve sailors had dinner out of it."
+Sir John Murray informed me in a letter that an analysis of a large Tridacna shell from Tongatabu showed 1 per cent. of magnesia in the inner layer of the shell, and no less than 10 to 12 per cent. in the outer parts near the umbo. "The Tridacna was alive when collected, and twelve sailors had dinner out of it."
 
-It is highly improbable that the animal secreted a shell with 1 per cent, magnesia in one part and 12 per cent, in another. It would seem as if the higher proportion at the umbo was due partly to deposition from the sea, and partly to solution of the calcium carbonate leaving a larger proportion of magnesium carbonate behind.
+It is highly improbable that the animal secreted a shell with 1 per cent. magnesia in one part and 12 per cent. in another. It would seem as if the higher proportion at the umbo was due partly to deposition from the sea, and partly to solution of the calcium carbonate leaving a larger proportion of magnesium carbonate behind.
 
 Note J. _On Archbishop Usher's calculation concerning the Age of the World_ (p. 140).
 
