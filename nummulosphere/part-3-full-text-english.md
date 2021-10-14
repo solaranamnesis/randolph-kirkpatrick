@@ -1093,7 +1093,7 @@ When Lord Kelvin attempted to calculate the age of the earth on the basis of its
 
 Within the last twenty years a source of energy wholly unsuspected, but yet omnipresent, has been brought to light, _viz._, radioactivity.
 
-Prof. Joly writes concerning the new science of radioactivity: "First definitely opened up in 1898 by Mme. and M. Curie, when polonium and radium were discovered, to-day we are in possession of established views in contradiction to the tenets of centuries."* It has been found that uranium is the parent of a series of substances, of which radium is one. The unstable atoms of these elements are undergoing disintegration and discharging energy, part of the latter being manifested as heat. Radioactive substances are universally distributed in the crust of the earth and in the ocean, but in varying amount. They are more abundant in igneous rocks than in sedimentary, in red clay than in _Globigerina_ ooze, in the land than in the ocean.
+Prof. Joly writes concerning the new science of radioactivity: "First definitely opened up in 1898 by Mme. and M. Curie, when polonium and radium were discovered, today we are in possession of established views in contradiction to the tenets of centuries."* It has been found that uranium is the parent of a series of substances, of which radium is one. The unstable atoms of these elements are undergoing disintegration and discharging energy, part of the latter being manifested as heat. Radioactive substances are universally distributed in the crust of the earth and in the ocean, but in varying amount. They are more abundant in igneous rocks than in sedimentary, in red clay than in _Globigerina_ ooze, in the land than in the ocean.
 
 *) Joly. _Radioactivity and Geology_, p. 1. 1909.
 
