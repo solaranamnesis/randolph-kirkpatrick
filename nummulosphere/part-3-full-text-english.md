@@ -1575,7 +1575,7 @@ If the above observations are correct, the fact of a nummulite shell being built
 
 A nummulite has been regarded by some as a kind of colony. E. Van den Broeck considered the successive chambers or segments as units of a colony. He asks how else can we regard the successive _Lagena_-like segments of a _Nodosaria_ (Bull. Soc. Beige Geol., 7, p. 21, 1893). Schlumberger refers to this "ancienne hypothèse" as "inadmissible" (Feuille des Jeunes Naturalists, 1896, p. 86).
 
-An examination both of vitreous and porcellanous shells (_Lagena_, _Truncatulina_, _Polystomella_, _Miliolina_, _Biloculina_, _Orbitolites_, _Alveolina_] shows that these also have a spirodisk structure. So far, photographs have not been sufficiently good for publication. Under very high powers (3,000 to 4,000 diam.) the shell-substance is seen to be very finely granular and the granules to have a spirodiscoid plan.
+An examination both of vitreous and porcellanous shells (_Lagena_, _Truncatulina_, _Polystomella_, _Miliolina_, _Biloculina_, _Orbitolites_, _Alveolina_) shows that these also have a spirodisk structure. So far, photographs have not been sufficiently good for publication. Under very high powers (3,000 to 4,000 diam.) the shell-substance is seen to be very finely granular and the granules to have a spirodiscoid plan.
 
 Lastly, I firmly believe I have found the finely granular protoplasm of three of the above-named shells, of _Gromia_, and of the lobose Protozoan _Amoeba_ likewise to show the same arrangement.
 
