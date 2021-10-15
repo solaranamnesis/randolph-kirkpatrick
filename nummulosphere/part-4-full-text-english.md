@@ -122,7 +122,7 @@ Muds, sandstone, grits, gravels, etc., are, of course, simply the particles grou
 
 A sand deposited in fresh water and containing fresh-water fossils — say a Red Sandstone — will yet show the particles of the marine nummulites. Most sediments — muds, sands, etc. — even though no fossils are visible, are yet fossiliferous throughout. The igneous rocks, the limestone and silica rocks, and the sediments derived from them are one thing — bathoplankton.*
 
-*) A better word than benthoplankton (used in Num. 3), from bathos, the bottom life or benthos; and plankton the surface life.
+*) A better word than benthoplankton (used in _Num. 3_), from bathos, the bottom life or benthos; and plankton the surface life.
 
 #### Chapter 4
 
