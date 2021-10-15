@@ -128,7 +128,7 @@ A sand deposited in fresh water and containing fresh-water fossils — say a Red
 
 ##### Nummulites
 
-In Nummulosphere 3 I gave numerous figures of nummulites. I only intend to record here that extremely careful and prolonged study of the shell of Eocene nummulites has shown me that every particle of the shell is spiral and epi-spiral. In the so-called tubulated walls the rather disk-like spirals are closely packed; but in the usually more transparent pillars the spirals are more helicoidal and more loosely distributed.
+In _Nummulosphere: Part 3_ I gave numerous figures of nummulites. I only intend to record here that extremely careful and prolonged study of the shell of Eocene nummulites has shown me that every particle of the shell is spiral and epi-spiral. In the so-called tubulated walls the rather disk-like spirals are closely packed; but in the usually more transparent pillars the spirals are more helicoidal and more loosely distributed.
 
 I have kept live nummulitids (_Polystomella_) in aquaria for months. They cling to the glass walls in multitudes, many shells surrounded by the enveloping protoplasm. I have never noticed any pseudopods emerging vertically from the living mass but only spread horizontally. Probably this will be found to be true of all glassy "perforate" Forams; the so-called "pores" are hardly for pseudopods.
 
@@ -154,13 +154,13 @@ I have often seen living and dead Forams full of Diatom frustules — a microcos
 
 The two-sevenths land part of the earth's crust is formed of limestones (including silica), igneous rocks, and of the sediments derived from these two.
 
-If the ocean were whisked off we should see, beyond the fringe of littoral sediments, on the floors of the great basins, 50 million sq. miles of organic oozes (mostly Globigerina) and in deeper areas another 50 million sq. miles of Red Clay. I find the Red Clay to be nummulitic igneous rock disintegrated _in situ_, and not detritus carried by currents.
+If the ocean were whisked off we should see, beyond the fringe of littoral sediments, on the floors of the great basins, 50 million sq. miles of organic oozes (mostly _Globigerina_) and in deeper areas another 50 million sq. miles of Red Clay. I find the Red Clay to be nummulitic igneous rock disintegrated _in situ_, and not detritus carried by currents.
 
 ##### Wegener's Theory of Lateral Movement of Continents
 
 Wegener's theory has received several severe blows lately, especially from Prof. J. W. Gregory, the late Dr. H. von Ihering (on Ocean Land-Bridges) and from Dr. Henry S. Washington in his work on the St. Paul Rocks, but I think the proof of the organic origin of igneous rocks will give this splendid edifice of speculation its _coup de grâce_, for the very foundations are removed from under it. For instance, Wegener figures a section along the earth's circumference through South America and Africa (granitic Sial) in true proportions. The continents, 100 kilometers thick, are represented by two thick black lines, the molten ocean of basaltic Sima being 1,000 kilometers thick. Sial and Sima are assumed to be fundamentally different. But it is now obvious that these rocks are primarily and fundamentally the same, that is to say granite and basalt are both oceanic organic sediments — mineralized masses of nummulites.
 
-This primary fundamental fact has to be taken as a starting point. We know nothing of the sub-crust. Again, South America is supposed to have broken off and floated away from Africa, leaving the South Atlantic between. But I find the Red Clays of the greatest depths to be simply rotten nummulitic stuff; and, further, the great mass of Teneriffe* shouldering its way up 24,000 feet through the Globigerina ooze is a mass of nummulites. There must be a fairly thick deposit of these shells below the present floor of the Atlantic.
+This primary fundamental fact has to be taken as a starting point. We know nothing of the sub-crust. Again, South America is supposed to have broken off and floated away from Africa, leaving the South Atlantic between. But I find the Red Clays of the greatest depths to be simply rotten nummulitic stuff; and, further, the great mass of Teneriffe* shouldering its way up 24,000 feet through the _Globigerina_ ooze is a mass of nummulites. There must be a fairly thick deposit of these shells below the present floor of the Atlantic.
 
 *) In 1927 I spent three months on a visit to the Canary Islands, including a fortnight near the trachytic top of the Peak, studying the rocks of the seven named islands.
 
@@ -170,7 +170,7 @@ Seeing that nummulitic deposits cannot arise in very deep water, we now know tha
 
 ##### Palaeontology
 
-I think it well to call attention here to my work (Nummulosphere 3) on Stromatoporoids, Receptaculites, etc., etc. I have carefully gone over it again and find it to be almost wholly correct.* Yet since 1916 good men have been wasting their time writing monographs and papers on these supposed fossils.
+I think it well to call attention here to my work (_Nummulosphere: Part 3_) on Stromatoporoids, Receptaculites, etc., etc. I have carefully gone over it again and find it to be almost wholly correct.* Yet since 1916 good men have been wasting their time writing monographs and papers on these supposed fossils.
 
 *) One correction is required. Years ago I found that Oldhamia is not nummulitic. I had based my first opinion on poor material.
 
@@ -192,9 +192,9 @@ Petrologists who have spent their lives working in laboratories at the chemical 
 
 ##### Meteorites
 
-Coming as they do from outer space these bodies have indeed given rise to orgies of speculation, even among the learned. I have set down a few of these theories in Nummulosphere 3.
+Coming as they do from outer space these bodies have indeed given rise to orgies of speculation, even among the learned. I have set down a few of these theories in _Nummulosphere: Part 3_.
 
-Sir Robert Ball wrote, "Every theory of meteorites is in itself improbable, so it seems the only course open to us is to choose the least improbable." Accordingly he chose the theory of terrestrial volcanic origin. Even in Nummulosphere 1 (1913) I had found that on biological grounds Sir R. Ball's theory was right. Meteorites are simply mineralized and ore-enriched lumps of terrestrial oceanic organic sediments. The fossils are portions of large nummulites. I give a figure of a piece of the Ausson meteorite that fell on Haute Garonne in 1858, the explosion being seen and heard over a large area.
+Sir Robert Ball wrote, "Every theory of meteorites is in itself improbable, so it seems the only course open to us is to choose the least improbable." Accordingly he chose the theory of terrestrial volcanic origin. Even in _Nummulosphere: Part 1_ (1913) I had found that on biological grounds Sir R. Ball's theory was right. Meteorites are simply mineralized and ore-enriched lumps of terrestrial oceanic organic sediments. The fossils are portions of large nummulites. I give a figure of a piece of the Ausson meteorite that fell on Haute Garonne in 1858, the explosion being seen and heard over a large area.
 
 Not only is the nummulitic structure visible very clearly in the X-ray stereo films, but a good deal can be made out on the surface with a lens. About ten out of twelve stony meteorites are "chondritic," i.e., they have little spheroidal chondrules scattered through them.
 
@@ -252,7 +252,7 @@ It is true, as Mr. Earland kindly warned me, that in fossil and glauconitic cast
 
 Mr. Heron-Allen relates that Sir E. R. Lankester told him a story of meeting T. Schwann, the founder of the cell theory at a congress in Belgium. Schwann told him he had devoted the whole of his time for many years to an endeavour to establish the existence of any structure in protoplasm — and that his investigations had been absolutely without result.
 
-In Nummulosphere 3 I have alluded to the various theories concerning the structure of protoplasm, viz. (to mention a few) granular, fibrillar, reticular, spherular, alveolar (foam), spiral (Fayod), also the view that there is no true structure at all (Wilson, Schwann), and I find much truth in all of them, especially in Fayod's theory. There is one theory, however, and I am certain it is the true one, that will reconcile all opposing and varying views; and that is the "epispiral theory."* Protoplasm is built on a spiral plan, the strands of the spirals themselves being spiral _ad infinitum_.
+In _Nummulosphere: Part 3_ I have alluded to the various theories concerning the structure of protoplasm, viz. (to mention a few) granular, fibrillar, reticular, spherular, alveolar (foam), spiral (Fayod), also the view that there is no true structure at all (Wilson, Schwann), and I find much truth in all of them, especially in Fayod's theory. There is one theory, however, and I am certain it is the true one, that will reconcile all opposing and varying views; and that is the "epispiral theory."* Protoplasm is built on a spiral plan, the strands of the spirals themselves being spiral _ad infinitum_.
 
 *) Compare "Cycle and Epicycle, Orb in Orb," Milton Paradise Lost Book 8.
 
