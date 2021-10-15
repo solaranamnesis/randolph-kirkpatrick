@@ -282,7 +282,7 @@ In Part 1 evidence is brought together showing the strong _a priori_ reasons for
 
 A chapter on the ocean is followed by one on a typical benthoplankton rock, _viz._, chalk. Next follows a chapter on a more changed rock of a similar nature, _viz._, _Eozoön_, and, again, one on those still more changed benthoplankton structures commonly known as igneous rocks and meteorites. In Part 2 is given a description of the genus _Nummulites_, followed by an account of the occurrence of nummulites in igneous rocks, meteorites, _etc._ Part 3 refers briefly to certain speculations on the origin of life.
 
-Part 4 contains a description of certain pseudomorphs commonly known as _Stromatoporoids_, _Receptaculitidae_, _Archaeocyathus_, _Girvanella_, _Loftusia_, _etc._
+Part 4 contains a description of certain pseudomorphs commonly known as _Stromatoporoids_, Receptaculitidae, _Archaeocyathus_, _Girvanella_, _Loftusia_, _etc._
 
 I am deeply indebted to my colleagues in the Geological, Mineralogical, and Bibliographical Departments of the Natural History Museum for much kind help. Further, I have been granted many privileges by the Museum authorities, especially in being permitted to study valuable type collections of fossils, meteorites, _etc._
 
@@ -1975,7 +1975,7 @@ The shaping effect of chemical and physical forces acting on limestone is alread
 
 Some pseudomorphs mislead no one, or only the ignorant, but even trained observers have been deceived by others. Among the latter kind are the following:— Stromatoporoids, _Eozoön_, Spongiostromidae, Archaeocyathidae, Receptaculitidae, _Loftusia_, _Parkeria_, _Cyclocrinus_, Syringosphaeridae, _Girvanella_, _Vermiporella_, _Palaeoporella_, _Saccammina carteri_, _Mitcheldeania_, and _Oldhamia_. Probably the list could be considerably extended.
 
-Prof. H. Rauff, in a critical review of certain theories regarding the systematic position of the _Receptaculitidae_, writes:* "Every attempt to prove definitely that the Receptaculitidae are Siphoneae (calcareous algae) becomes shattered on the at last exposed rocks. On the other hand we must admit that owing to a number of new elements of comparison a path (perspective) has been opened up, the exploration of which might lead to results not wholly unpromising or fruitless." These words by an eminent palaeontologist well express the feeling almost of despair concerning the solution of certain problems in palaeontology.
+Prof. H. Rauff, in a critical review of certain theories regarding the systematic position of the Receptaculitidae, writes:* "Every attempt to prove definitely that the Receptaculitidae are Siphoneae (calcareous algae) becomes shattered on the at last exposed rocks. On the other hand we must admit that owing to a number of new elements of comparison a path (perspective) has been opened up, the exploration of which might lead to results not wholly unpromising or fruitless." These words by an eminent palaeontologist well express the feeling almost of despair concerning the solution of certain problems in palaeontology.
 
 *) _Verhand. Naturver. Preuss. Rheinl. Westph. Sitzungsb._ 1892. Vol. 49, p. 90.
 
@@ -2278,7 +2278,7 @@ Each "element" typically has six parts, _viz._ (1) an outer diamond-shaped facet
 
 _Receptaculites_ have been regarded as fossilized fir-cones; corals; Crinoids; Foraminifera; calcareous algae (Siphoneae verticillatae) related to the Dactyloporidae, or to such Dasycladaceae as _Bornetella_; primitive types of Sponges; gemmules of Freshwater Sponges; peculiar Hexactinellid Sponges; Tunicata.
 
-Prof. Rauff himself concludes as follows (_l.c._ p. 717): "For the moment we must be content with an 'Ignoramus,' and can only say that the _Receptaculitidae form a peculiar family which after their death failed to leave behind any similarly organized representatives either in the ancient or modern world."
+Prof. Rauff himself concludes as follows (_l.c._ p. 717): "For the moment we must be content with an 'Ignoramus,' and can only say that the Receptaculitidae form a peculiar family which after their death failed to leave behind any similarly organized representatives either in the ancient or modern world."
 
 The results of my own research can be summed up in a few words.
 
