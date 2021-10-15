@@ -2300,7 +2300,7 @@ Coming to the "Receptaculitidae," in the _Receptaculites_-type of receptaculite 
 
 The "wall" is a peripheral zone which has retained some of the radial and concentric structure as in certain examples of _Cyclocrinus_.
 
-In the _Polygonosphaerites_-type of receptaculite the radial element is wanting. In the Ischadites type the wall is very thick and the central "cavity" relatively small. The center whence the radial pillars radiate in _Receptaculites_ and kindred bodies is usually excentric.
+In the _Polygonosphaerites_-type of receptaculite the radial element is wanting. In the _Ischadites_ type the wall is very thick and the central "cavity" relatively small. The center whence the radial pillars radiate in _Receptaculites_ and kindred bodies is usually excentric.
 
 Frequently these ancient lithomorphs are stalked. The continuation of the homogeneous stalk structure into the interior point whence radii originate, may be compared with a variety of "phragmacone" in _Parkeria_ (Fig. 35 _i_).
 
@@ -3342,7 +3342,7 @@ If the pictures fail to convince — though C-G are fairly good — it is only n
 
 [Figure 36](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig36.png) — _Receptaculites reticulatus_. Silurian, Niagara group. (P. 6514, N.H.M.) 1⅓x.
 
-[Figure 37](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig37.png) — Ischadites, Wenlock limestone. (P. 4232, N.H.M.) 1⅓x
+[Figure 37](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig37.png) — _Ischadites_, Wenlock limestone. (P. 4232, N.H.M.) 1⅓x
 
 [Figure 38](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/Fig38.png) — _Receptaculites neptuni_ 4x. Near Gerolstein. Author's collection.
 
