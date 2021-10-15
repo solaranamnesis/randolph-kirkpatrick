@@ -282,7 +282,7 @@ In Part 1 evidence is brought together showing the strong _a priori_ reasons for
 
 A chapter on the ocean is followed by one on a typical benthoplankton rock, _viz._, chalk. Next follows a chapter on a more changed rock of a similar nature, _viz._, _Eozoön_, and, again, one on those still more changed benthoplankton structures commonly known as igneous rocks and meteorites. In Part 2 is given a description of the genus _Nummulites_, followed by an account of the occurrence of nummulites in igneous rocks, meteorites, _etc._ Part 3 refers briefly to certain speculations on the origin of life.
 
-Part 4 contains a description of certain pseudomorphs commonly known as _Stromatoporoids_, Receptaculitidae, _Archaeocyathus_, _Girvanella_, _Loftusia_, _etc._
+Part 4 contains a description of certain pseudomorphs commonly known as Stromatoporoids, Receptaculitidae, _Archaeocyathus_, _Girvanella_, _Loftusia_, _etc._
 
 I am deeply indebted to my colleagues in the Geological, Mineralogical, and Bibliographical Departments of the Natural History Museum for much kind help. Further, I have been granted many privileges by the Museum authorities, especially in being permitted to study valuable type collections of fossils, meteorites, _etc._
 
