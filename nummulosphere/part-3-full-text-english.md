@@ -1783,7 +1783,7 @@ What we have been studying are strangely metamorphosed silicated nummulites. The
 
 The conclusion will force itself irresistibly upon the trained observer that the world's greatest lava flow is a mass of silicated nummulites.
 
-The mineral characters of Snake River basalt resemble to some extent those of the Renazzo meteorite figured and described by Tschermak.* His figure (Plate 15, Fig. 4, 160x) shows linear crystals, granules and glassy and black patches just as in the basalt. He calls the augite crystals spreuformige (chaff-like), a term admirably descriptive of the augite crystals of the basalt. The figure shows well a portion of parallel-banded marginal cord with a transverse row of beads.
+The mineral characters of Snake River basalt resemble to some extent those of the Renazzo meteorite figured and described by Tschermak.* His figure (Plate 15, Fig. 4, 160x) shows linear crystals, granules and glassy and black patches just as in the basalt. He calls the augite crystals spreuförmige (chaff-like), a term admirably descriptive of the augite crystals of the basalt. The figure shows well a portion of parallel-banded marginal cord with a transverse row of beads.
 
 *) G. Tschermak, _Die mikroskopische Beschaffenheit der Meteoriten_, 1885.
 
