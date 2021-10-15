@@ -2336,7 +2336,7 @@ Syringosphaeridae or Karakoram Stones
 
 In a report on the results of the Second Yarkand Mission (1879), Prof. M. Duncan described certain large oval or spherical stone balls collected from Tertiary limestones in the Karakoram Mountains. The balls are an inch or two in diameter and often have a nodulated surface. On section they reveal a radiating pipe-like pattern.
 
-At first they were regarded as Crinoids, corals, or Foraminifera. Prof. M. Duncan placed them in "a new order of Rhizopoda called the _Syringosphaeridae_." I have examined specimens and sections of those objects and find them to be concretionary lumps of nummulitic limestone. The lithomorphic pattern is radial-"tubular," although there are no _hollow_ tubes. Certain other forms apparently allied Syringosphaeridae are _Ellipsactinia_ Steinmann, _Sphaeractinia_ Steinm., and Heterastridium Reuss., but I have not seen sections under the microscope and am not certain.
+At first they were regarded as Crinoids, corals, or Foraminifera. Prof. M. Duncan placed them in "a new order of Rhizopoda called the _Syringosphaeridae_." I have examined specimens and sections of those objects and find them to be concretionary lumps of nummulitic limestone. The lithomorphic pattern is radial-"tubular," although there are no _hollow_ tubes. Certain other forms apparently allied Syringosphaeridae are _Ellipsactinia_ Steinmann, _Sphaeractinia_ Steinm., and _Heterastridium_ Reuss., but I have not seen sections under the microscope and am not certain.
 
 _Solenopora_
 
@@ -2356,7 +2356,7 @@ My own observations are based on sections of _Solenopora compacta_, Billings, fr
 
 When I came to examine sections of the Ayrshire _Solenopora_ critically and with extreme care, I not only found nummulitic structure throughout, but saw that the supposed cells could not possibly be of the nature of algal cells. For as Dybowski pointed out, the longitudinal outlines are very distinctly wavy. Further, under high powers it will be found that there is no structure in these outlines _qua_ outlines; they are simply dark zones, and nummulitic disk structures may be partly in the dark zone and partly in the adjoining more transparent areas. The supposed ends of the algal cells ("tabulae" on the coral theory) are not infrequently arranged in fine concentric zones, though often the fine lines appear to be broken up into bars, each bar being confined to a separate tube. Accordingly in some places there is a network pattern of longitudinal and transverse lines, the former being by far the more predominant (compare Fig. 28 of _Clathrodictyon_). I am convinced that the Craighead _Solenopora_ is a lithomorph.
 
-As for the many other species, also H. Yabe's* new Japanese genus Metasolenopora, I think it probable, judging from the photographs (_vide_ memoirs by Rothpletz and Yabe), that these forms also are lithomorphs.
+As for the many other species, also H. Yabe's* new Japanese genus _Metasolenopora_, I think it probable, judging from the photographs (_vide_ memoirs by Rothpletz and Yabe), that these forms also are lithomorphs.
 
 *) _Science Reports, Tohuku Imp. Univ._, ser. 2, Bd. 1. 1912.
 
