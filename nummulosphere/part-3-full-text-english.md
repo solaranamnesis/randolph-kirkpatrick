@@ -2364,7 +2364,7 @@ The lithomorph pattern is so strong and the nummulitic structure so faint that m
 
 In some of the sections of Girvan limestone perhaps two genera of "calcareous algae" and also stromatoporoid patterns may be found in a very small area (_e.g._ _Girvanella_, _Solenopora_, and _Beatricea_, or _Labechia_-like vesicular pattern). In such a section there is nothing but a common basis of nummulitic limestone in which is woven a wonderful variety of osmotic patterns.
 
-Palaeoporella, Vermiporella, _etc._
+_Palaeoporella_, _Vermiporella_, _etc._
 
 Dr. E. Stolley* describes certain funnel- or club-shaped calcareous bodies of Silurian age, varying from 2 to 14 mm. in length, found by him in the diluvium of East Holstein. The objects may be hollow, with a pore below and a depression at the upper end, and with a facetted surface. He regards them as calcareous algae related to Bornetella (_Siphoneae verticillatae_).
 
@@ -2400,7 +2400,7 @@ In 1880 Nicholson and Etheridge* discovered in the ancient limestones of Girvan 
 
 Brady believed these bodies were allied to the sandy Foraminiferan _Hyperammina vagans_ which consists of a plexus of coiled tubules. Nicholson partly adopted this view, but thought it well to place the fossils in a new genus and species, _Girvanella problematica_. _Girvanella_ has since been found in many palaeozoic and mesozoic limestones, and Rhumbler places even certain living Foraminifera in the genus. In certain Silurian strata in the Baltic region, thick layers of limestones are mainly composed of masses or "knolls" of _Girvanella_ each perhaps several centimeters in diameter.
 
-Many and varied opinions have been published in the now considerable literature on this subject. _Girvanella_ has been regarded as Foraminiferan, as masses of worm tubes, as a Blue-Green Alga, as a Sponge, Hydrozoan (Stromatoporoid), as a calcareous alga related to the Codiaceae. At the present time, opinion is divided between the calcareous-algal and the Foraminiferal theories.
+Many and varied opinions have been published in the now considerable literature on this subject. _Girvanella_ has been regarded as Foraminiferan, as masses of worm tubes, as a Blue-Green Alga, as a Sponge, Hydrozoan (Stromatoporoid), as a calcareous alga related to the _Codiaceae_. At the present time, opinion is divided between the calcareous-algal and the Foraminiferal theories.
 
 Owing to the kindness of Prof. A. W. Gibb of the University of Aberdeen, I had the good fortune to obtain some of Dr. Nicholson's own Girvan material, from which I was allowed to cut sections. These show abundance of "_Girvanella problematica_."
 
