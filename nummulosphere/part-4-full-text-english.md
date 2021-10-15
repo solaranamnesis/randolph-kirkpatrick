@@ -112,7 +112,7 @@ I have myself collected Eocene nummulites in Algeria; in N.E. Spain, where whole
 
 No wonder students spoke of the Nummulitic Era and the Nummultitic Enigma.
 
-The solution of the enigma is as follows: The Nummulitic Era should be regarded as the dying away of the almost immortal nummulties. The universal prevalence of these fossils in time and space is due to the universality of ocean life, and living matter is built up spirally and epispirally. This planet is an ocean planet and, from its position in the solar system, a life planet; and the earth's crust is mainly formed of mineralized skeletal débris.
+The solution of the enigma is as follows: The Nummulitic Era should be regarded as the dying away of the almost immortal nummulties. The universal prevalence of these fossils in time and space is due to the universality of ocean life, and living matter is built up spirally and epispirally. This planet is an ocean planet and, from its position in the solar system, a life planet; and the earth's crust is mainly formed of mineralized skeletal _débris_.
 
 #### Chapter 3
 
