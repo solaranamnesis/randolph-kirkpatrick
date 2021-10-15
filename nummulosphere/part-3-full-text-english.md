@@ -2060,7 +2060,7 @@ Billings, 1857. _Beatricea_ (a Stromatoporoid), a plant.
 Eichwald, 1860. Horny Sponges.  
 Hyatt, 1865. Some Stromatoporoids regarded as Cephalopoda.  
 Baron von Rosen, 1867. Horny Sponges.  
-Dr. G. Lindström, 1870. Foraminifera, and, in 1873, _Labechia_ allied to Hydractinia.  
+Dr. G. Lindström, 1870. Foraminifera, and, in 1873, _Labechia_ allied to _Hydractinia_.  
 Salter, 1873. Calcareous Sponges.  
 Nicholson, 1873-4. Calcareous Sponges.  
 Dawson, 1875. Between Foraminifera and Sponges.  
@@ -2124,7 +2124,7 @@ According to one view, fossils with these "tubes" were distinct genera of Stroma
 
 The nummulitic nature of the rock probably had much to do with the creation of this pattern. Series of "pillars" often blend to form clear columns in _Nummulites_ (Fig. 23 A). In a section of _Stromatoporella bücheliensis_ I can see alars and marginal cords in the Caunopora-tubes. At one time I mistook these structures for the expression of the segments of Annelids. Nicholson, again, refers to "funnel-shaped tabulae" in the tubes. These structures are, perhaps, series of minute nummulite septa.
 
-The greater resistance of the tubes to weathering sometimes produces extraordinary results. A specimen of _Stromatopora Hüpschii_ (Nicholson's _Monograph_, Plate 22, Fig. 7) somewhat resembles a mass of _Tubipora musica_, the Organ-pipe Coral.
+The greater resistance of the tubes to weathering sometimes produces extraordinary results. A specimen of _Stromatopora hüpschii_ (Nicholson's _Monograph_, Plate 22, Fig. 7) somewhat resembles a mass of _Tubipora musica_, the Organ-pipe Coral.
 
 The patterns in the early Palaeozoic limestones result from the operation of chemical and physical causes, apparently the chief of these being the dissolving action of water and carbonic acid acting under certain conditions. These solvents affect all limestones, but not usually with the result of creating Stromatoporoids. Sections of chalk or of Fulwell limestone, for instance, are opaque and homogeneous. Why, then, should sections of portions of the older limestones show a mottled pattern of clear and opaque areas? The answer appears to be that the metamorphosing agencies have been acting on the older rocks for a much longer time, and, further, their action has been supplemented by crustal disturbances, and often by the neighbourhood of volcanic centers. Pressure, which, as Dr. J. Lehmann demonstrated, produces such powerful effects on metamorphic rocks, would also modify the structure of limestones.
 
@@ -2172,7 +2172,7 @@ Carter, who took up the problem of _Parkeria_ in 1876,* considered the fossil to
 
 *) A.M.N.H., 1876 (4), 18., p. 209.
 
-Nicholson* adopted Carter's Hydrozoan theory. He figures the zoophyte _Parkeria_ growing round the supposed chambered shell of a young Ammonite (Annals _l.c._ Plate 3, Fig. 6), just as Hydractinia invests a Gastropod.
+Nicholson* adopted Carter's Hydrozoan theory. He figures the zoophyte _Parkeria_ growing round the supposed chambered shell of a young Ammonite (Annals _l.c._ Plate 3, Fig. 6), just as _Hydractinia_ invests a Gastropod.
 
 *) A.M.N.H., 1888 (6), 1., p. 3.
 
@@ -2184,7 +2184,7 @@ Steinmann* and Zittel* placed _Parkeria_ among the Hydrozoa.
 
 Numerous and very careful observations of specimens and sections have shown me beyond any doubt that specimens of _Parkeria_ are lithomorphic lumps of nummulitic limestone, with the nummulites almost obliterated, and with the lithomorph pattern in the form of concentric zones and radial spokes. I can actually see with the naked eye the faint circular and oval outlines of nummulites about an inch in diameter on the surface of a large specimen in the Natural History Museum. A lens (10x) shows some of the structure of the worn-down shells, _viz._ edges of spiral lamina, radial alar prolongations, and traces of willow pattern. Under high powers, too, I can see series of nummulitic disk structures both in the "fibers" and in the "spaces." _Parkeria_ then is a lithomorph of similar nature to an oolitic granule, but the latter is only a minute part of one shell, and the former a mass of many shells.
 
-If I had believed in the fossil nature of _Parkeria_ and of Beatricea I would probably have made the former a synonym of the latter. The supposed central Ammonite or tabulated cone of _Parkeria_ may be compared with the hollow tabulated space in Beatricea; and the concentric wavy pattern of the latter is rather like that of the _Parkeria_ pattern, though less elaborate. It is significant too that A. Hyatt regarded Beatricea as a Cephalopod! Again, Carter describes a _Parkeria nodosa_, and Billings a _Beatricea nodulosa_.
+If I had believed in the fossil nature of _Parkeria_ and of _Beatricea_ I would probably have made the former a synonym of the latter. The supposed central Ammonite or tabulated cone of _Parkeria_ may be compared with the hollow tabulated space in _Beatricea_; and the concentric wavy pattern of the latter is rather like that of the _Parkeria_ pattern, though less elaborate. It is significant too that A. Hyatt regarded _Beatricea_ as a Cephalopod! Again, Carter describes a _Parkeria nodosa_, and Billings a _Beatricea nodulosa_.
 
 Many circumstances conspired to deceive investigators, but especially the apparent existence of "fibers" and "spaces"; and when specimens were found with empty spaces between fibers, and with spaces filled in with silica, the deception became complete.
 
@@ -2338,7 +2338,7 @@ In a report on the results of the Second Yarkand Mission (1879), Prof. M. Duncan
 
 At first they were regarded as Crinoids, corals, or Foraminifera. Prof. M. Duncan placed them in "a new order of Rhizopoda called the _Syringosphaeridae_." I have examined specimens and sections of those objects and find them to be concretionary lumps of nummulitic limestone. The lithomorphic pattern is radial-"tubular," although there are no _hollow_ tubes. Certain other forms apparently allied Syringosphaeridae are _Ellipsactinia_ Steinmann, _Sphaeractinia_ Steinm., and Heterastridium Reuss., but I have not seen sections under the microscope and am not certain.
 
-Solenopora
+_Solenopora_
 
 In 1878 Dybowski* established a genus _Solenopora_ for certain small spheroidal fossils about a cubic inch in size occurring in the Silurian of the East Baltic. Sections showed the lumps to be formed of extremely fine apparently parallel-tubular structures. Dybowski believed the tubes contained polyps, and that the fossils were corals. Nicholson* found similar fossils in the Ordovician limestone at Craighead, Ayrshire, and regarded _Solenopora_ as a Hydrozoan. Soon Dybowski's coral theory became discredited, for seemingly 150 polyps would have only a square millimetre of area in which to perform their evolutions. A much more plausible theory was adopted to the effect that the fossil was a calcareous alga related to _Lithothamnion_. In 1894 Dr. A. Brown* wrote a paper on the structure and affinities of _Solenopora_. His plate giving figures of sections of _Lithothamnion_ and _Solenopora_ certainly reveals striking superficial resemblances.
 
@@ -2354,7 +2354,7 @@ Dr. Rothpletz* also has put the genus among the Coralline algae.
 
 My own observations are based on sections of _Solenopora compacta_, Billings, from the Ordovician limestone of Craighead, Ayrshire. At first sight nothing could seem more reasonable than the coralline-alga theory. I have seen a thick bed of corallines of Miocene age in the islet of Cima near Porto Santo, with the algal structure very well preserved; and many species of Tertiary and Cretaceous Lithothamnions are known. The "cells" of _Solenopora_ though extremely large in comparison with those of known coralline algae yet might pass for a large variety of such cells.
 
-When I came to examine sections of the Ayrshire Solenopora critically and with extreme care, I not only found nummulitic structure throughout, but saw that the supposed cells could not possibly be of the nature of algal cells. For as Dybowski pointed out, the longitudinal outlines are very distinctly wavy. Further, under high powers it will be found that there is no structure in these outlines _qua_ outlines; they are simply dark zones, and nummulitic disk structures may be partly in the dark zone and partly in the adjoining more transparent areas. The supposed ends of the algal cells ("tabulae" on the coral theory) are not infrequently arranged in fine concentric zones, though often the fine lines appear to be broken up into bars, each bar being confined to a separate tube. Accordingly in some places there is a network pattern of longitudinal and transverse lines, the former being by far the more predominant (compare Fig. 28 of _Clathrodictyon_). I am convinced that the Craighead _Solenopora_ is a lithomorph.
+When I came to examine sections of the Ayrshire _Solenopora_ critically and with extreme care, I not only found nummulitic structure throughout, but saw that the supposed cells could not possibly be of the nature of algal cells. For as Dybowski pointed out, the longitudinal outlines are very distinctly wavy. Further, under high powers it will be found that there is no structure in these outlines _qua_ outlines; they are simply dark zones, and nummulitic disk structures may be partly in the dark zone and partly in the adjoining more transparent areas. The supposed ends of the algal cells ("tabulae" on the coral theory) are not infrequently arranged in fine concentric zones, though often the fine lines appear to be broken up into bars, each bar being confined to a separate tube. Accordingly in some places there is a network pattern of longitudinal and transverse lines, the former being by far the more predominant (compare Fig. 28 of _Clathrodictyon_). I am convinced that the Craighead _Solenopora_ is a lithomorph.
 
 As for the many other species, also H. Yabe's* new Japanese genus Metasolenopora, I think it probable, judging from the photographs (_vide_ memoirs by Rothpletz and Yabe), that these forms also are lithomorphs.
 
@@ -2362,7 +2362,7 @@ As for the many other species, also H. Yabe's* new Japanese genus Metasolenopora
 
 The lithomorph pattern is so strong and the nummulitic structure so faint that much patience is needed for the detection of the latter. I am fairly certain I can make out nummulitic details both in the lower and upper half of Dr. Rothpletz' photo of _Solenopora gotlandica_ (Plate 1, Fig. 3, _l.c._). Fig. 2 when examined with a lens 10x shows disk-structures and a curious pattern of fine closely-set transverse lines other than the main zonal lines.
 
-In some of the sections of Girvan limestone perhaps two genera of "calcareous algae" and also stromatoporoid patterns may be found in a very small area (_e.g._ _Girvanella_, Solenopora, and Beatricea, or Labechia-like vesicular pattern). In such a section there is nothing but a common basis of nummulitic limestone in which is woven a wonderful variety of osmotic patterns.
+In some of the sections of Girvan limestone perhaps two genera of "calcareous algae" and also stromatoporoid patterns may be found in a very small area (_e.g._ _Girvanella_, _Solenopora_, and _Beatricea_, or _Labechia_-like vesicular pattern). In such a section there is nothing but a common basis of nummulitic limestone in which is woven a wonderful variety of osmotic patterns.
 
 Palaeoporella, Vermiporella, _etc._
 
