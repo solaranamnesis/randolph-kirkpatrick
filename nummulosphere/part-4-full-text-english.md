@@ -84,11 +84,11 @@ When you view of these X-ray films with the direct stereoscope you see a snowsto
 
 After prolonged observation I have concluded that these great circular disks are mineralized skeletons of Foraminifera, indeed, there is no other theory possible.
 
-Further, I am convinced that they belong to the eleventh Family of Forams, viz., the Nummulitidae; and I can see no other place for them than in the genus Nummulites of Lamarck.* I have found not only coils, but even the so-called tubulated structure. The spiral structure, though on a huge scale, is precisely the same in pre-Eocene as in the well-known Eocene nummulites.
+Further, I am convinced that they belong to the eleventh Family of Forams, viz., the Nummulitidae; and I can see no other place for them than in the genus _Nummulites_ of Lamarck.* I have found not only coils, but even the so-called tubulated structure. The spiral structure, though on a huge scale, is precisely the same in pre-Eocene as in the well-known Eocene nummulites.
 
-*) Prof. Cushman rejects "Nummulites" in favour of Brugiére's "Camerina." The word nummulite, however, now belongs to common language, and is in every dictionary.
+*) Prof. Cushman rejects "_Nummulites_" in favour of Brugiére's "Camerina." The word nummulite, however, now belongs to common language, and is in every dictionary.
 
-A very strange fact in Nature is the predominance of Nummulites almost from the beginning of geological time up to the Eocene, and then their disappearance. I have suggested that their extinction has been brought about by the coming into existence in Jurassic times* of a surface Foraminiferal Globigerinid fauna, the corpses of which have rained down and suffocated the nummulites. Possibly even the disappearance of the Ammonites may be in part due to the same cause.
+A very strange fact in Nature is the predominance of _Nummulites_ almost from the beginning of geological time up to the Eocene, and then their disappearance. I have suggested that their extinction has been brought about by the coming into existence in Jurassic times* of a surface Foraminiferal Globigerinid fauna, the corpses of which have rained down and suffocated the nummulites. Possibly even the disappearance of the Ammonites may be in part due to the same cause.
 
 *) I have found definitely that the supposed Cambrian Globigerinas were not Foaminifera at all.
 
@@ -126,7 +126,7 @@ A sand deposited in fresh water and containing fresh-water fossils — say a Red
 
 #### Chapter 4
 
-##### Nummulites
+##### _Nummulites_
 
 In _Nummulosphere: Part 3_ I gave numerous figures of nummulites. I only intend to record here that extremely careful and prolonged study of the shell of Eocene nummulites has shown me that every particle of the shell is spiral and epi-spiral. In the so-called tubulated walls the rather disk-like spirals are closely packed; but in the usually more transparent pillars the spirals are more helicoidal and more loosely distributed.
 
@@ -222,7 +222,7 @@ I have skiagraphs of Arendal granite* whence emanated the pegmatite veins contai
 
 *) "The Age of the Earth" (Benn Series), p. 74.
 
-Further, I can detect, with difficulty, it is true, organic structure in nine of the siderites mentioned by Prof. Paneth* and his collaborators. The ages of some of those bodies are estimated at between two and three thousand million years! These bodies must indeed come from the solar system. It would be absurd, I think, to imagine our earth, relatively the size of a sub-eletron, being hit by numerous bodies from the sidereal system.
+Further, I can detect, with difficulty, it is true, organic structure in nine of the siderites mentioned by Prof. Paneth* and his collaborators. The ages of some of those bodies are estimated at between two and three thousand million years! These bodies must indeed come from the solar system. It would be absurd, I think, to imagine our earth, relatively the size of a sub-electron, being hit by numerous bodies from the sidereal system.
 
 *) _Nature_, March 29th, 1930.
 
@@ -254,7 +254,7 @@ Mr. Heron-Allen relates that Sir E. R. Lankester told him a story of meeting T. 
 
 In _Nummulosphere: Part 3_ I have alluded to the various theories concerning the structure of protoplasm, viz. (to mention a few) granular, fibrillar, reticular, spherular, alveolar (foam), spiral (Fayod), also the view that there is no true structure at all (Wilson, Schwann), and I find much truth in all of them, especially in Fayod's theory. There is one theory, however, and I am certain it is the true one, that will reconcile all opposing and varying views; and that is the "epispiral theory."* Protoplasm is built on a spiral plan, the strands of the spirals themselves being spiral _ad infinitum_.
 
-*) Compare "Cycle and Epicycle, Orb in Orb," Milton Paradise Lost Book 8.
+*) Compare "Cycle and Epicycle, Orb in Orb," Milton _Paradise Lost_ Book 8.
 
 I think this is the most important result of my twenty-two years' work. Not only is the spirality visible in protoplasm of Protozoa, but in the cells of Metazoa and in plants.
 
