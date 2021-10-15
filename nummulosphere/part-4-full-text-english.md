@@ -170,9 +170,9 @@ Seeing that nummulitic deposits cannot arise in very deep water, we now know tha
 
 ##### Palaeontology
 
-I think it well to call attention here to my work (_Nummulosphere: Part 3_) on Stromatoporoids, Receptaculites, etc., etc. I have carefully gone over it again and find it to be almost wholly correct.* Yet since 1916 good men have been wasting their time writing monographs and papers on these supposed fossils.
+I think it well to call attention here to my work (_Nummulosphere: Part 3_) on Stromatoporoids, _Receptaculites_, etc., etc. I have carefully gone over it again and find it to be almost wholly correct.* Yet since 1916 good men have been wasting their time writing monographs and papers on these supposed fossils.
 
-*) One correction is required. Years ago I found that Oldhamia is not nummulitic. I had based my first opinion on poor material.
+*) One correction is required. Years ago I found that _Oldhamia_ is not nummulitic. I had based my first opinion on poor material.
 
 These objects are not biological entities at all, but simply concretionary forms and patterns in limestones; and Stromatoporoids, at any rate, have been sufficiently figured. Beneath the surface pattern of pure and less pure areas of calcite I can see clearly the original nummulitic structure, like a palimpsest obscured by later writing.
 
