@@ -2276,7 +2276,7 @@ _Receptaculites_ and kindred objects are typically spheroidal or pear-shaped bod
 
 Each "element" typically has six parts, _viz._ (1) an outer diamond-shaped facet, beneath which lie (2-5) four tangential arms, and (6) a fifth long radial arm or column projecting inwards and expanding into a foot, which along with other "feet" helps to form the inner surface of the wall of the hollow sphere. Between the radials or columns there are "spaces." One of the four tangential arms is fused to the facet. The radial arm is hollow. There is an under and an upper pole marked by areas of peculiar facets. _Receptaculites_ are found in ancient rocks from Lower Silurian to Carboniferous. Rauff showed that their original composition was calcareous, though some may have become silicified subsequently.
 
-_Receptaculites_ have been regarded as fossilized fir-cones; corals; Crinoids; Foraminifera; calcareous algae (Siphoneae verticillatae) related to the Dactyloporidae, or to such Dasycladaceae as _Bornetella_; primitive types of Sponges; gemmules of Freshwater Sponges; peculiar Hexactinellid Sponges; Tunicata.
+_Receptaculites_ have been regarded as fossilized fir-cones; corals; Crinoids; Foraminifera; calcareous algae (_Siphoneae verticillatae_) related to the Dactyloporidae, or to such Dasycladaceae as _Bornetella_; primitive types of Sponges; gemmules of Freshwater Sponges; peculiar Hexactinellid Sponges; Tunicata.
 
 Prof. Rauff himself concludes as follows (_l.c._ p. 717): "For the moment we must be content with an 'Ignoramus,' and can only say that the Receptaculitidae form a peculiar family which after their death failed to leave behind any similarly organized representatives either in the ancient or modern world."
 
@@ -2366,7 +2366,7 @@ In some of the sections of Girvan limestone perhaps two genera of "calcareous al
 
 Palaeoporella, Vermiporella, _etc._
 
-Dr. E. Stolley* describes certain funnel- or club-shaped calcareous bodies of Silurian age, varying from 2 to 14 mm. in length, found by him in the diluvium of East Holstein. The objects may be hollow, with a pore below and a depression at the upper end, and with a facetted surface. He regards them as calcareous algae related to Bornetella (Siphoneae Verticillatae).
+Dr. E. Stolley* describes certain funnel- or club-shaped calcareous bodies of Silurian age, varying from 2 to 14 mm. in length, found by him in the diluvium of East Holstein. The objects may be hollow, with a pore below and a depression at the upper end, and with a facetted surface. He regards them as calcareous algae related to Bornetella (_Siphoneae verticillatae_).
 
 *) E. Stolley, _Ueber silurische Siphoneen_, Neues Jahrb., 1893, 2., p. 135.
 
