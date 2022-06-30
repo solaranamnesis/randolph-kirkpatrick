@@ -65,6 +65,31 @@ The size and shape of the specimen of Eozoon would depend on the extent and dire
 
 Fig. 1. Diatom in Cornish granite. _a_, central nodule. x2,400.
 
+Fig. 2. Diatom in Swedish granite. x600.
+
+Fig. 3. Diatom in Cornish granite. x1,000.
+
+Fig. 4. Diatom in Swedish granite. x600.
+
+Fig. 4a. Portion of same. x2,400.
+
+Fig. 5. Diatom in _Eozoon canadense_ from Burgess, Canada. x1,000.
+
+Figs. 6-7. Radiolaria from Swedish granite. x600.
+
+Figs. 8-9. Radiolaria from _Eozoon canadense_ from Burgess, Canada. x600.
+
+Fig. 10. Radiolaria from Monte Somma bomb. x600.
+
+Figs. 11-13. Radiolaria from "Wold Cottage" meteorite. x600.
+
+Fig. 14. Coccoliths of _Coccolithophora pelagica_ (Wallich) ?, from Swedish granite. x2,400.
+
+Fig. 15. Another coccolith (?) from same, like some figured by Murray and Blackman (Phil. Trans., 1898. Vol. 190. Ser. B. Pl. 16). x2,400.
+
+Fig. 16. Coccoliths from Swedish granite, one being broken. Side view. x2,400.
+
+Fig. 17. Rhabdospheres from Swedish granite. x2,400.
 
 ![Plate](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part2/Table.webp)
 [Link to Plate](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part2/Table.webp)
