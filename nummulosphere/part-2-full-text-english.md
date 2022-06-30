@@ -60,3 +60,11 @@ A so-called specimen of "Eozoon" is nothing but a piece of altered nummulitic li
 The size and shape of the specimen of Eozoon would depend on the extent and direction of the diffusing silica, just as in the case of a flint in the chalk. For a flint also is generally nothing else than a mass of silicified nummulite shells, these being easily seen on rough weathered surfaces from which apparently transparent colloidal silica has disappeared.
 
 ...
+
+## Explanation of Plate.
+
+Fig. 1. Diatom in Cornish granite. _a_, central nodule. x2,400.
+
+
+![Plate](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part2/Table.webp)
+[Link to Plate](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part2/Table.webp)
