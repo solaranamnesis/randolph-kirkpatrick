@@ -61,6 +61,14 @@ The size and shape of the specimen of Eozoon would depend on the extent and dire
 
 ...
 
+## Appendix
+
+Note 1. I take this opportunity of publishing a list of corrigenda to "The Nummulosphere," Part 1. The book was, as I pointed out, of the nature of pioneer work in a vast new territory. The statements are correct so far as the main issues are concerned.
+
+Page 6, line 11 from bottom.
+
+...
+
 ## Explanation of Plate.
 
 Fig. 1. Diatom in Cornish granite. _a_, central nodule. x2,400.
