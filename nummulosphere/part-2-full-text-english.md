@@ -15,13 +15,7 @@ Ein wechselnd Weben,
 Ein glühend Leben,"  
 Goethe, "Faust."
 
-### London
-
-### Sold by Lamley & Co.
-
-1, Exhibition Road, S.W.
-
-### 1913
+### London. 1913.
 
 ## On the Genesis of Igneous Rocks and of Meteorites.
 
