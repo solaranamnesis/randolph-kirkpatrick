@@ -7,7 +7,7 @@
 "And there was light..."  
 "Let the waters bring forth abundantly  
 the moving creatures that hath life, ..."  
-Genesis, Chapter I.
+Genesis, Chapter 1.
 
 "Geburt und Grab,  
 Ein ewiges Meer,  
@@ -15,4 +15,10 @@ Ein wechselnd Weben,
 Ein glühend Leben,"  
 Goethe, "Faust."
 
+### London
 
+### Sold by Lamley & Co.
+
+1, Exhibition Road, S.W.
+
+### 1913
