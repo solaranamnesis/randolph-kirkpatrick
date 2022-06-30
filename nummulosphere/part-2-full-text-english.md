@@ -41,3 +41,16 @@ It is now possible to give a satisfactory answer to some of these questions.
 
 Recently when examining a section of _Eozoon canadense_ under a high power I found a well-formed Radiolarian skeleton embedded in the olivine. I did not at the moment realize the full significance of this discovery, for I had become thoroughly familiar with the idea that a specimen of Eozoon was a fragment of an ancient sea-bottom, and I knew that L. Cayeux had already described and figured Radiolaria from rocks of Precambrian age in Brittany (Bull. Soc. Geol. France 1894, 3. xxii., p. 197, pl. xi.). A day or two later, I found in the same section the representatives of several genera of Radiolaria. It then occurred to me to examine sections of plutonic rocks. Almost immediately I found a considerable number of Radiolaria in Swedish, Aberdeen and Cornish granites, and a little later specimens of diatoms resembling species of _Synedra_ and _Navicula_.
 
+These objects are best seen under the highest powers (2 millim. apochromatic, Oc. 18. 2400 diameters), and in a dim light. A strong light "drowns" the outlines of the skeletons.
+
+In sections of granite the skeletons of Radiolaria can often be seen melting away, so to speak, into the homogeneous quartz, which is very probably wholly composed of the siliceous skeletons of unicellular organisms that have rained down on to the nummulitic reefs.
+
+Recent researches of petrologists, especially of Hatschek, and of Liesegang (Geologische Diffusionen) have shown how mineral substances diffuse out from some centre into the surrounding rock, the diffusion and chemical change being much aided by heat.
+
+In granite (or the granular rock) the little masses of siliceous skeletons which had been peppered down on to the reefs became centres whence the silex diffused itself around. The silex became silicated to the extent to which bases where available for union with the feeble silicic "acid," the bases usually present being compounds of metals of the alkalies (K, Na.) of the alkaline earths (Ca, Mg.) and of the earths (Aluminium). Thus feldspar, mica, horneblende, _etc._, were formed, the residual silex remaining as quartz. Various compounds of iron are very common, the pure metal only rarely being found, as in the Ovifak specimens and in siderites. The iron in these cases has almost certainly been reduced from iron salts which had infiltrated the silicated nummulitic reefs, for indubitable traces of organic structure still persist both in the Ovifak specimens and in siderites.
+
+Generally all the carbonate of lime disappeared probably partly by solution in carbonic acid and water, though some of the calcium was retained in certain members of the pyroxene group of minerals.
+
+The extent to which vast accumulations of lime can disappear is seen in the oceanic deposit known as Barbados Earth. This formation attains a thickness of 130 feet in some places. It was once a series of nummulitic limestone reefs permeated with skeletons of Radiolaria. The whole of the carbonate of lime has disappeared, even from this non-igneous rock, and the nummulite shells have become silicified.
+
+...
