@@ -37,4 +37,7 @@ There was, perhaps, some justification for scepticism, for it is not always easy
 
 I was told that it was impossible for any trace of organic structure to survive in rocks that had been molten. Again, if the igneous rocks had once been masses of limestone thousands of feet thick, how could they have become silicated, and where had all the lime gone to?
 
+It is now possible to give a satisfactory answer to some of these questions.
+
+Recently when examining a section of _Eozoon canadense_ under a high power I found a well-formed Radiolarian skeleton embedded in the olivine. I did not at the moment realize the full significance of this discovery, for I had become thoroughly familiar with the idea that a specimen of Eozoon was a fragment of an ancient sea-bottom, and I knew that L. Cayeux had already described and figured Radiolaria from rocks of Precambrian age in Brittany (Bull. Soc. Geol. France 1894, 3. xxii., p. 197, pl. xi.). A day or two later, I found in the same section the representatives of several genera of Radiolaria. It then occurred to me to examine sections of plutonic rocks. Almost immediately I found a considerable number of Radiolaria in Swedish, Aberdeen and Cornish granites, and a little later specimens of diatoms resembling species of _Synedra_ and _Navicula_.
 
