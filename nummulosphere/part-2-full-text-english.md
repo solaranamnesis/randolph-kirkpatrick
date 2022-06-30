@@ -9,4 +9,10 @@
 the moving creatures that hath life, ..."  
 Genesis, Chapter I.
 
+"Geburt und Grab,  
+Ein ewiges Meer,  
+Ein wechselnd Weben,  
+Ein glühend Leben,"  
+Goethe, "Faust."
+
 
