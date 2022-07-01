@@ -25,6 +25,10 @@ Goethe, "Faust."
 
 [§ 4. The Ocean Floor.](#-4-the-ocean-floor)
 
+[Appendix.](#appendix)
+
+[Explanation of Plate.](#explanation-of-plate)
+
 ## On the Genesis of Igneous Rocks and of Meteorites.
 
 ### § 1. Plankton.
