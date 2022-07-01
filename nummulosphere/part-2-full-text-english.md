@@ -79,7 +79,19 @@ In Part 3. of "The Nummulosphere" I hope to bring forward biological evidence te
 
 Page 45, lines 6-12 from top. _Re_ a specimen showing granite intruded into gneiss. I refer to the gneiss as "probably sedimentary." I do not think it was, for I find both benthos and plankton in certain gneisses, and it is doubtful whether these elements would remain in evidence to the same extent in sedimentary rocks.
 
-...
+Page 55, lines 4-8 from top. It is unlikely that the Agua do Porto Santo owes its alkalinity to salts that had once formed part of an acid trachyte, for there is an excess of soda in the latter.
+
+Page 55, line 5 from top. For "de" read "do."
+
+Page 64, lines 10 and 21 from top. Typical Jurassic oolitic strata contain, in addition to oolitic grains, nummulitic _débris_ derived from the wearing down of hard chalk-like Stromatoporoid reefs. In the quarries of Portland (Dorset), the "Curf," between the typically oolitic "whit" and "base" beds, and the cherty limestone beds below the "base" appear to be reefs of this kind, which have grown _in situ_, but apparently the typical oolite formations are sedimentary.
+
+Flint and chert are mainly silicified Stromatoporoid structures, a fact which can easily be verified by examining the rough weathered surfaces of many flints. The silica has been derived from Sponges, Radiolaria and Diatoms.
+
+Page 72, footnote, lines 5 to 1 from bottom. The pure crystalline quartz rock referred to contains numerous and indubitable traces of Radiolaria and diatoms. The benthos nummulitic element is difficult to detect. This ultra-acid rock may be compared to a parboiled Barbados Earth in which plankton elements are intermixed with silicified nummulites.
+
+Page 88, line 14 from top. Since the Transvaal diamond rock is an altered marine formation, possibly the carbon of diamonds may have been derived from that which was fixed in the cell-walls of algae. It is, I believe, held by many that much or all of the pure carbon found in nature has probably had an organic origin.
+
+Note 2. The cover design drawn by Mr. Highley represents benthos and plankton, the former being magnified about 10 diameters and the latter from about 500 to 2,000 diameters. The plankton organisms after a brief existence in sunlit waters sink in funereal procession to the depths.
 
 ## Explanation of Plate.
 
