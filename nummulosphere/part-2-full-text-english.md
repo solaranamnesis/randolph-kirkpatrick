@@ -17,13 +17,13 @@ Goethe, "Faust."
 
 ### London. 1913.
 
-[§ 1. Plankton.]()
+[§ 1. Plankton.](#-1-plankton)
 
-[§ 2. Benthos.]()
+[§ 2. Benthos.](#-2-benthos)
 
-[§ 3. Meteorites.]()
+[§ 3. Meteorites.](#-3-meteorites)
 
-[§ 4. The Ocean Floor.]()
+[§ 4. The Ocean Floor.](#-4-the-ocean-floor)
 
 ## On the Genesis of Igneous Rocks and of Meteorites.
 
