@@ -53,7 +53,7 @@ In sections of granite the skeletons of Radiolaria can often be seen melting awa
 
 Recent researches of petrologists, especially of Hatschek, and of Liesegang (Geologische Diffusionen) have shown how mineral substances diffuse out from some centre into the surrounding rock, the diffusion and chemical change being much aided by heat.
 
-In granite (or the granular rock) the little masses of siliceous skeletons which had been peppered down on to the reefs became centres whence the silex diffused itself around. The silex became silicated to the extent to which bases where available for union with the feeble silicic "acid," the bases usually present being compounds of metals of the alkalies (K, Na.) of the alkaline earths (Ca, Mg.) and of the earths (Aluminium). Thus feldspar, mica, horneblende, _etc._, were formed, the residual silex remaining as quartz. Various compounds of iron are very common, the pure metal only rarely being found, as in the Ovifak specimens and in siderites. The iron in these cases has almost certainly been reduced from iron salts which had infiltrated the silicated nummulitic reefs, for indubitable traces of organic structure still persist both in the Ovifak specimens and in siderites.
+In granite (or the granular rock) the little masses of siliceous skeletons which had been peppered down on to the reefs became centres whence the silex diffused itself around. The silex became silicated to the extent to which bases where available for union with the feeble silicic "acid," the bases usually present being compounds of metals of the alkalis (K, Na.) of the alkaline earths (Ca, Mg.) and of the earths (Aluminium). Thus feldspar, mica, hornblende, _etc._, were formed, the residual silex remaining as quartz. Various compounds of iron are very common, the pure metal only rarely being found, as in the Ovifak specimens and in siderites. The iron in these cases has almost certainly been reduced from iron salts which had infiltrated the silicated nummulitic reefs, for indubitable traces of organic structure still persist both in the Ovifak specimens and in siderites.
 
 Generally all the carbonate of lime disappeared probably partly by solution in carbonic acid and water, though some of the calcium was retained in certain members of the pyroxene group of minerals.
 
@@ -83,7 +83,7 @@ Returning to the plankton organisms which with the benthos nummulitic reefs cons
 
 *) "Sic rupes saxei non primaevi, sed temporis filiae." Systema naturae, Ed. VI (2nd impression) 1748. Observations in Regnum Lapideum, p. 219.
 
-*) This term was originally used to described a supposed living jelly covering the ocean floor. The renewed use of the expression in connection with the former apparently universal carpet of small separate or colony-forming nummulites here seems justifiable.
+*) This term was originally used to describe a supposed living jelly covering the ocean floor. The renewed use of the expression in connection with the former apparently universal carpet of small separate or colony-forming nummulites here seems justifiable.
 
 ### § 2. Benthos.
 
@@ -93,13 +93,13 @@ In the preceding paragraph the plankton organisms have been chiefly referred to.
 
 Strictly speaking, the supposed fossils in the above list are not true fossils at all but lumps mainly of nummulitic limestone more or less altered, with plankton organisms intermixed. The nummulites apparently all belong to one species, _Stromatopora concentrica_ Goldfuss. The "fossils" are really variously mineralized pseudomorphs (but not mineral pseudomorphs).
 
-In the typical Devonian _Stromatopora concentrica_ the nummulitic mass has been acted upon by various metamorphosing and dissolving agencies, such as heat, pressure, water, carbonic acid. Thus lumps have become differentiated from the common mass of the reef. The concentric laminae, astrorhizae, vertical and horizontal pillars are simply sculpturings and etchings, infinitely varied owing to the varying conditions. There is the difference between opaque and less opaque or crystalline, and also between hard and soft, so that curiously shaped masses sometimes get etched out bodily from a common ground mass, and branching pseudomorphs may arise (_Stachyodes_, _Amphipora_, _Idiostroma_). It is not surpising that the Stromatoporoids have been, to use Nicholson's expression, "the opprobria of palaeontology." Again, _Receptaculites_ has always been a mystery. The eminent palaeontologist, Prof. H. Rauff,* concludes his monograph on the Receptaculitidae with the statement, "Ihre systematische Stellung bleibt noch ganz zweifelhaft." There must be some very special reason for this. The explanation is that these objects strictly speaking have no systematic position.
+In the typical Devonian _Stromatopora concentrica_ the nummulitic mass has been acted upon by various metamorphosing and dissolving agencies, such as heat, pressure, water, carbonic acid. Thus lumps have become differentiated from the common mass of the reef. The concentric laminae, astrorhizae, vertical and horizontal pillars are simply sculpturings and etchings, infinitely varied owing to the varying conditions. There is the difference between opaque and less opaque or crystalline, and also between hard and soft, so that curiously shaped masses sometimes get etched out bodily from a common ground mass, and branching pseudomorphs may arise (_Stachyodes_, _Amphipora_, _Idiostroma_). It is not surprising that the Stromatoporoids have been, to use Nicholson's expression, "the opprobria of palaeontology." Again, _Receptaculites_ has always been a mystery. The eminent palaeontologist, Prof. H. Rauff,* concludes his monograph on the Receptaculitidae with the statement, "Ihre systematische Stellung bleibt noch ganz zweifelhaft." There must be some very special reason for this. The explanation is that these objects strictly speaking have no systematic position.
 
 *) Untersuchungen über die organisation und systematische Stellung der Receptaculitiden. Abhand. Akad. Wiss. München, 1892, Bd. xvii. cl. ii. p. 647. Taf. I-VII.
 
-A section of _Receptaculites_ may be compared to a study in sepia. It is a case of opaque and less opaque in a uniform ground-work of nearly obliterated nummulite shells.
+A section of _Receptaculites_ may be compared to a study in sepia. It is a case of opaque and less opaque in a uniform groundwork of nearly obliterated nummulite shells.
 
-The segregation of these masses shaped like watch-cases, cups, pears, _etc._, is due, again, to effects of mineralization, to differentiation of hard and less hard, just as in the case of flint or marcasite nodule in chalk. A careful search will reveal the plankton organisms scattered about indifferently in the "walls" or "spaces" of any section of _Receptaculites_. Similarly in _Cyclocrinus_. It is unlikely that this supposed Siphonaceous alga indulged in carnivorous habits in early times.
+The segregation of these masses shaped like watchcases, cups, pears, _etc._, is due, again, to effects of mineralization, to differentiation of hard and less hard, just as in the case of flint or marcasite nodule in chalk. A careful search will reveal the plankton organisms scattered about indifferently in the "walls" or "spaces" of any section of _Receptaculites_. Similarly in _Cyclocrinus_. It is unlikely that this supposed Siphonaceous alga indulged in carnivorous habits in early times.
 
 Very wonderful are the radial, concentric and lace-like sculpturings and etchings in _Parkeria_ and many of the eighty species of Cambrian Archaeocyathidae.
 
@@ -179,7 +179,7 @@ Fig. 10. Radiolaria from Monte Somma bomb. x600.
 
 Figs. 11-13. Radiolaria from "Wold Cottage" meteorite. x600.
 
-Fig. 14. Coccoliths of _Coccolithophora pelagica_ (Wallich) ?, from Swedish granite. x2,400.
+Fig. 14. Coccoliths of _Coccolithophora pelagica_ (Wallich)?, from Swedish granite. x2,400.
 
 Fig. 15. Another coccolith (?) from same, like some figured by Murray and Blackman (Phil. Trans., 1898. Vol. 190. Ser. B. Pl. 16). x2,400.
 
