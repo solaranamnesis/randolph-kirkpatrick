@@ -75,7 +75,29 @@ A section of _Receptaculites_ may be compared to a study in sepia. It is a case 
 
 The segregation of these masses shaped like watch-cases, cups, pears, _etc._, is due, again, to effects of mineralization, to differentiation of hard and less hard, just as in the case of flint or marcasite nodule in chalk. A careful search will reveal the plankton organisms scattered about indifferently in the "walls" or "spaces" of any section of _Receptaculites_. Similarly in _Cyclocrinus_. It is unlikely that this supposed Siphonaceous alga indulged in carnivorous habits in early times.
 
-...
+Very wonderful are the radial, concentric and lace-like sculpturings and etchings in _Parkeria_ and many of the eighty species of Cambrian Archaeocyathidae.
+
+Prof. L. Rhumbler (Die Foraminifera. Plankton Expedition 2., 1913) places in the genus _Girvanella_ (modernised _Agirvanella_) two recent species of Ammodiscidae, one of them an encrusting form encircling a Globigerina shell. There is, however, no affinity between these recent coiled Ammodiscid species and the peculiarly mineralized masses of nummulites to which the name _Girvanella_ has been given.
+
+"Stromatoporoids" proper were supposed to be almost confined to Ordovician, Silurian and Devonian strata. The biological foundation of them, however, abounds from plutonic rocks to upper chalk. Eozoon "specimens" are simply dolomitized, serpentinized lumps of pre-Cambrian limestone. Similarly, volcanic and plutonic rocks are masses of plankton and benthos skeletons. The abundance of Devonian "Stromatoporoids" is due to prevalence of volcanic disturbances in those times, but the mineralization has not caused silication of the nummulites by diffusion from the siliceous plankton elements.
+
+In spite of much careful investigation, I have not been able to discover definitely whether the small nummulite shells are separate individuals, as in the case of all other Foraminifera, including the vast deposits of Cainozoic nummulites, or whether they are colony-forming organisms like corals. There are some reasons for regarding them as colonies of shells in vital union with each other. If so, the surface layer of shells may have been immersed in a common mass of protoplasm or even joined shell to shell. The characters of some specimens of _Stromatopora concentrica_ which I collected at Gerolstein, and also certain peculiar appearances of budding of shells seem to lend support to the "colony" theory. I hope to give the reasons for and against this theory in my next paper.
+
+### § 3. Meteorites.
+
+The authorities of the Natural History Museum granted me the great privilege of permission to examine several examples of the unique collection of meteorites. After a careful investigation - from my point of view - of several specimens and of numerous slides, I have found that these bodies are masses of metamorphosed skeletons of plankton and benthos organisms similar to those found in igneous rocks, Eozoon, Stromatoporoids, chalk, _etc._, _etc._ Even the purely metallic siderites are merely ore-enriched fragments comparable, say, to the marcasite nodules in chalk, the outlines of the nummulites being visible more or less distinctly both in nodules and in siderites. If these masses of metal could be made transparent, probably Radiolaria and diatoms also would be detected.
+
+Biological evidence is now so overwhelmingly in favour of the theory of the origin of meteorites from terrestrial volcanoes, that mathematicians who have asserted the impossibility of such origin will find it necessary to revise their calculations. The fact that there occur in meteorites minerals not found elsewhere on the planet, is not surprising. For Nature has performed an unusual experiment. In a few moments masses of minerals have been transferred from the fierce heat of the interior of a superlatively active volcano to a vacuum with a temperature of 200° C. below zero. New molecular arrangements would be likely to arise under such conditions. Organisms resembling the terrestrial Eozoic fauna and flora may, it is true, have been evolved on other heavenly bodies, but as Sir Robert Ball points out, it is more probable that meteorites crossing our orbit came from the earth rather than from elsewhere. If, as some astronomers state, there is a connection between meteorites, shooting stars and comets, then it follows that the two latter may in some instances be composed of lumps, lapilli and fine dust from terrestrial volcanoes. If so, what a singular apotheosis of the relics of organic beings!
+
+The secular cooling of the planet in its medium of space 200° C. below zero, has caused contraction and crumpling of the planetary crust. The molar energy of contraction partly becomes molecular, leading to heating of the rocks. An age-long accumulation of heat unable to escape as fast as it was formed, would lead in time to partial melting of the rocks. The relief of pressure in the weak spots in the folding gives rise to eruptions which have sometimes had sufficient force to project fragments of the nummulosphere into space.
+
+### § 4. The Ocean Floor.
+
+I have already stated that the real floor of the ocean is formed of the oozy surface of a silicated palaeonummulitic limestone, more or less crowded with modern plankton organisms, the added ingredients varying in nature according to conditions of surface-temperature and depth of the ocean.
+
+A renewed examination of the abyssal oozes collected by the "Porcupine," "Alert," and "Challenger" has served only to strengthen my conviction on this point.
+
+The abyssal ocean floor and the land surfaces are apparently complementary elevations and troughs which have risen and sunk above and below a more or less uniform mean level. Darwin's theory of coral reefs apparently led to the conclusion that there had been a great subsidence over vast areas of the ocean; the nature of the true ocean floor shows that the whole area has sunk.
 
 ## Appendix
 
