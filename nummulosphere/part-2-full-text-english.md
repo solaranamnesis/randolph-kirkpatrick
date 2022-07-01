@@ -63,9 +63,15 @@ If the igneous rocks are changed nummulitic reefs peppered with siliceous plankt
 
 It is no more difficult to explain the existence of magnesium in igneous rocks, Eozoon, _etc._, than in dolomitic limestones. In reply to my enquiry, Sir John Murray kindly informed me that the percentage of magnesium in the older parts of huge living Tridacna-shells was greater than in the younger parts. Here, at any rate, the dolomitization must have been due to the magnesium salts in the sea. The aluminium in igneous rocks is not so easily accounted for. Either it must have diffused out from a really azoic zone composed of salts of the metals, or, like magnesium, it must have come from the sea. There seems to be no other reasonable alternative. In my opinion the sea was the source. Some salts of aluminium, the sulphate for example, are so soluble that it is difficult to get crystals of them. When the ocean became precipitated on to the scarcely cooled crust of the planet, it must have taken up vast quantities of various salts. The present scarcity or total lack of aluminium* in sea water may simply be due to the fact of the salts of the metal having been used up to form the feldspars, mica, _etc._, now found in the metamorphosed paleonummulitic or igneous rocks.
 
+*) The aluminium in clays, shales and certain minerals (_e.g._, Bauxite) has probably been derived either directly or remotely from decomposed igneous rocks.
+
 Fundamentally there is but little difference between chalk and granite. Both are formed of layer upon layer of nummulitic reefs, including an admixture of plankton* organisms, _viz._, Radiolaria, coccoliths, rhabdoliths, and diatoms. In the upper chalk the silex, which is usually in bands, is derived mainly from sponge spicules (see papers by Sollas, Hinde and Zittel). The flint is usually in well-marked layers because the sponges grew on the fairly level surfaces of reefs. In the case of granite the silex is derived mainly from skeletons of unicellular organisms which rained down continually. Chalk has not been subject to igneous action, consequently the silex has diffused out unchanged, only exceptionally becoming a silicate, as in the slender glauconite core found in potstones or paramoudras. In granite, on the other hand, heat caused the silex to become a silicate and, perhaps, hastened the solution and removal of the lime.
 
+*) Plankton - organisms living at the surface; benthos - organisms living at the bottom of the sea.
+
 In some very interesting examples of "Eozoon" and "salit-skarn" from Finland, very kindly sent to me by Professor Otto Trüstedt* I can see zones rich in Radiolaria alternating with calcareous zones not so rich. In comparison with Canadian examples, the Finnish specimens are only half-baked.
+
+*) Prof. Trüstedt tells me that the fragments of Eozoon formed part of the block figured by Liesegang in Geologische Diffusionen, p. 135, Fig. 19. See also Otto Trüstedt. Bull. comm. Geol. Finlande. Die Erzlagerstätten von Pitkäranta, pp. 235, 246-249.
 
 A so-called specimen of "Eozoon" is nothing but a piece of altered nummulitic limestone reef permeated with skeletons of Radiolaria and Diatoms. In some examples the silica united with magnesium salts and iron to form olivine. In others the silicated bands are formed of loganite (hydrous silicate of iron, magnesia and alumina). It is interesting to find silicate of alumina forming in a non-igneous rock, thereby affording evidence that the feldspar, mica, _etc._, of igneous rocks had not taken up all the aluminium.
 
@@ -75,13 +81,21 @@ Petrologists are continually seeking for a natural classification of igneous roc
 
 Returning to the plankton organisms which with the benthos nummulitic reefs constituted an important part of the plutonic fauna and flora, it should be mentioned that probably the plutonic Radiolaria like those of the present day, contained symbiotic chlorophyll-containing zooxanthellae. Linnaeus* wrote of the primeval rocks being "the daughters of time." I would venture to revise that genealogy and call them the daughters of the sun. For the ruler of our system, acting from a centre over ninety millions of miles away, was primarily the creator and architect of the igneous rocks, the masons being the tiny specks of protoplasm which yielded up their bodies as food for the nummulitic "Bathybius"* and their skeletons for the building up of the planetary crust.
 
+*) "Sic rupes saxei non primaevi, sed temporis filiae." Systema naturae, Ed. VI (2nd impression) 1748. Observations in Regnum Lapideum, p. 219.
+
+*) This term was originally used to described a supposed living jelly covering the ocean floor. The renewed use of the expression in connection with the former apparently universal carpet of small separate or colony-forming nummulites here seems justifiable.
+
 ### § 2. Benthos.
 
 In the preceding paragraph the plankton organisms have been chiefly referred to. A few brief remarks will now be made on the benthos element, about which I hope to write more fully in Part 3 of "The Nummulosphere." I have found that the igneous rocks, meteorites, many limestones, _Eozoon_, the whole of the Archaeocyathidae, Receptaculitidae, Spongiostromids, _Girvanella_, _Mitcheldeania_, _Solenopora_, many supposed Palaeozoic calcareous algae (_Cyclocrinus_, _Palaeoporella_,* _Vermiporella_, _etc._), the whole of the Stromatoporoids, _Loftusia_, _Parkeria_, and _Syringosphaera_ are fundamentally identical. _Plus ça change, plus c'est la même chose_.
 
+*) I am much indebted to Prof. E. Stolley for sending me pieces of Palaeoporella- and Vermiporella-Kalkstein from Schleswig-Holstein.
+
 Strictly speaking, the supposed fossils in the above list are not true fossils at all but lumps mainly of nummulitic limestone more or less altered, with plankton organisms intermixed. The nummulites apparently all belong to one species, _Stromatopora concentrica_ Goldfuss. The "fossils" are really variously mineralized pseudomorphs (but not mineral pseudomorphs).
 
 In the typical Devonian _Stromatopora concentrica_ the nummulitic mass has been acted upon by various metamorphosing and dissolving agencies, such as heat, pressure, water, carbonic acid. Thus lumps have become differentiated from the common mass of the reef. The concentric laminae, astrorhizae, vertical and horizontal pillars are simply sculpturings and etchings, infinitely varied owing to the varying conditions. There is the difference between opaque and less opaque or crystalline, and also between hard and soft, so that curiously shaped masses sometimes get etched out bodily from a common ground mass, and branching pseudomorphs may arise (_Stachyodes_, _Amphipora_, _Idiostroma_). It is not surpising that the Stromatoporoids have been, to use Nicholson's expression, "the opprobria of palaeontology." Again, _Receptaculites_ has always been a mystery. The eminent palaeontologist, Prof. H. Rauff,* concludes his monograph on the Receptaculitidae with the statement, "Ihre systematische Stellung bleibt noch ganz zweifelhaft." There must be some very special reason for this. The explanation is that these objects strictly speaking have no systematic position.
+
+*) Untersuchungen über die organisation und systematische Stellung der Receptaculitiden. Abhand. Akad. Wiss. München, 1892, Bd. xvii. cl. ii. p. 647. Taf. I-VII.
 
 A section of _Receptaculites_ may be compared to a study in sepia. It is a case of opaque and less opaque in a uniform ground-work of nearly obliterated nummulite shells.
 
@@ -175,3 +189,5 @@ Fig. 17. Rhabdospheres from Swedish granite. x2,400.
 
 ![Plate](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part2/Table.webp)
 [Link to Plate](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part2/Table.webp)
+
+Perey Higley, del. et lith.
