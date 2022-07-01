@@ -7,7 +7,7 @@ Translations of Randolph Kirkpatrick's work: _The Nummulosphere_, I welcome all 
 ### Part 2: The Genesis of the Igneous Rocks and of Meteorites (Plankton and Benthos)
 
 [English - Plain Text](part-2-full-text-english.md)  
-English - PDF  
+[English - PDF](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part2/kirkpatrick_nummulosphere_part2_english.pdf)  
 German - Plain Text  
 German - PDF  
 
