@@ -191,3 +191,5 @@ Fig. 17. Rhabdospheres from Swedish granite. x2,400.
 [Link to Plate](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part2/Table.webp)
 
 Perey Higley, del. et lith.
+
+C. Hodges & Son. imp.
