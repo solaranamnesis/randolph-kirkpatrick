@@ -59,6 +59,22 @@ A so-called specimen of "Eozoon" is nothing but a piece of altered nummulitic li
 
 The size and shape of the specimen of Eozoon would depend on the extent and direction of the diffusing silica, just as in the case of a flint in the chalk. For a flint also is generally nothing else than a mass of silicified nummulite shells, these being easily seen on rough weathered surfaces from which apparently transparent colloidal silica has disappeared.
 
+Petrologists are continually seeking for a natural classification of igneous rocks. I think that one of the factors to be taken into account will be the relative proportion of benthos nummulites and plankton siliceous organisms. The varying degrees of acidity and basicity would, I believe, depend partly on the varying proportion of the skeletal remains of the Eozoic fauna and flora.
+
+Returning to the plankton organisms which with the benthos nummulitic reefs constituted an important part of the plutonic fauna and flora, it should be mentioned that probably the plutonic Radiolaria like those of the present day, contained symbiotic chlorophyll-containing zooxanthellae. Linnaeus* wrote of the primeval rocks being "the daughters of time." I would venture to revise that genealogy and call them the daughters of the sun. For the ruler of our system, acting from a centre over ninety millions of miles away, was primarily the creator and architect of the igneous rocks, the masons being the tiny specks of protoplasm which yielded up their bodies as food for the nummulitic "Bathybius"* and their skeletons for the building up of the planetary crust.
+
+### § 2. Benthos.
+
+In the preceding paragraph the plankton organisms have been chiefly referred to. A few brief remarks will now be made on the benthos element, about which I hope to write more fully in Part 3 of "The Nummulosphere." I have found that the igneous rocks, meteorites, many limestones, _Eozoon_, the whole of the Archaeocyathidae, Receptaculitidae, Spongiostromids, _Girvanella_, _Mitcheldeania_, _Solenopora_, many supposed Palaeozoic calcareous algae (_Cyclocrinus_, _Palaeoporella_,* _Vermiporella_, _etc._), the whole of the Stromatoporoids, _Loftusia_, _Parkeria_, and _Syringosphaera_ are fundamentally identical. _Plus ça change, plus c'est la même chose_.
+
+Strictly speaking, the supposed fossils in the above list are not true fossils at all but lumps mainly of nummulitic limestone more or less altered, with plankton organisms intermixed. The nummulites apparently all belong to one species, _Stromatopora concentrica_ Goldfuss. The "fossils" are really variously mineralized pseudomorphs (but not mineral pseudomorphs).
+
+In the typical Devonian _Stromatopora concentrica_ the nummulitic mass has been acted upon by various metamorphosing and dissolving agencies, such as heat, pressure, water, carbonic acid. Thus lumps have become differentiated from the common mass of the reef. The concentric laminae, astrorhizae, vertical and horizontal pillars are simply sculpturings and etchings, infinitely varied owing to the varying conditions. There is the difference between opaque and less opaque or crystalline, and also between hard and soft, so that curiously shaped masses sometimes get etched out bodily from a common ground mass, and branching pseudomorphs may arise (_Stachyodes_, _Amphipora_, _Idiostroma_). It is not surpising that the Stromatoporoids have been, to use Nicholson's expression, "the opprobria of palaeontology." Again, _Receptaculites_ has always been a mystery. The eminent palaeontologist, Prof. H. Rauff,* concludes his monograph on the Receptaculitidae with the statement, "Ihre systematische Stellung bleibt noch ganz zweifelhaft." There must be some very special reason for this. The explanation is that these objects strictly speaking have no systematic position.
+
+A section of _Receptaculites_ may be compared to a study in sepia. It is a case of opaque and less opaque in a uniform ground-work of nearly obliterated nummulite shells.
+
+The segregation of these masses shaped like watch-cases, cups, pears, _etc._, is due, again, to effects of mineralization, to differentiation of hard and less hard, just as in the case of flint or marcasite nodule in chalk. A careful search will reveal the plankton organisms scattered about indifferently in the "walls" or "spaces" of any section of _Receptaculites_. Similarly in _Cyclocrinus_. It is unlikely that this supposed Siphonaceous alga indulged in carnivorous habits in early times.
+
 ...
 
 ## Appendix
