@@ -65,7 +65,19 @@ The size and shape of the specimen of Eozoon would depend on the extent and dire
 
 Note 1. I take this opportunity of publishing a list of corrigenda to "The Nummulosphere," Part 1. The book was, as I pointed out, of the nature of pioneer work in a vast new territory. The statements are correct so far as the main issues are concerned.
 
-Page 6, line 11 from bottom.
+Page 6, line 11 from bottom. The supposed branching pseudopodial canals in "Eozoon" are purely mineral structures of the nature of infiltration- or diffusion-veinings, coursing over and through nummulite shells. There are no canals in Eozoon and never have been. A specimen of Eozoon is a mass of very small nummulite shells mixed with plankton organisms, and mineralized in a peculiar way.
+
+Page 23, line 5 from bottom. The Tudor specimen of _Eozoon_ had silicated zones as well as calcareous, but the latter were calcareous throughout and devoid of silicated casts of "canals."
+
+Page 29, line 6 from bottom. Pico Baixo is probably no more than 500 feet high. My original estimate of 900 feet was made from a boat a mile out at sea. Recently I have been on the summit of the little pico.
+
+Page 43, line 20 from bottom. The presence of iron compounds in the minute chambers of the nummulite shells of certain limestones and igneous rocks is probably wholly due to infiltration.
+
+Page 43, line 15 from bottom. For a body ejected from a volcano to be able to escape from the earth altogether, it is necessary that that body should have an initial velocity of at least six miles a second. The bombs of Krakatoa are said to have had an initial velocity of only one mile a second. If this is true, it is impossible that meteorites could have been ejected on the occasion of the great eruption.
+
+In Part 3. of "The Nummulosphere" I hope to bring forward biological evidence tending to confirm Sir Robert Ball's theory that meteorites were ejected from _ancient_ terrestrial volcanoes.
+
+Page 45, lines 6-12 from top. _Re_ a specimen showing granite intruded into gneiss. I refer to the gneiss as "probably sedimentary." I do not think it was, for I find both benthos and plankton in certain gneisses, and it is doubtful whether these elements would remain in evidence to the same extent in sedimentary rocks.
 
 ...
 
