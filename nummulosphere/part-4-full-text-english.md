@@ -40,7 +40,7 @@ I have been regarded by certain official and academic orthodox authorities as a 
 
 The humour of the situation may become apparent even to themselves, when such authorities realize — as they will now gladly do — that oceanic biology is at the very root of the problem of the origin of the earth's crust and of meteorites. The stone that the builders have persistently rejected will be seen to be the "headstone of the corner" of planetary architecture.
 
-I would have much preferred waiting a few more years in order to bring out a complete work; but having reached a time of life when the shouldering of great enterprises is apt to prove unduly difficult and irksome, I have decided to divided up the burden and publish from time to time a series of short "fasciculi."*
+I would have much preferred waiting a few more years in order to bring out a complete work; but having reached a time of life when the shouldering of great enterprises is apt to prove unduly difficult and irksome, I have decided to divide up the burden and publish from time to time a series of short "fasciculi."*
 
 *) A term used by Sir A. Geikie in a letter to me.
 
