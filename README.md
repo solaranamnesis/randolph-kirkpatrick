@@ -8,6 +8,11 @@ Translations of Randolph Kirkpatrick's work: _The Nummulosphere_, I welcome all 
 
 ### Part 1: An Account of the Organic Origin of so-called Igneous Rocks and of Abyssal Red Clays
 
+[English - Plain Text](nummulosphere/part-1-full-text-english.md)  
+English - PDF  
+German - Plain Text  
+German - PDF  
+
 ### Part 2: The Genesis of the Igneous Rocks and of Meteorites (Plankton and Benthos)
 
 [English - Plain Text](nummulosphere/part-2-full-text-english.md)  
