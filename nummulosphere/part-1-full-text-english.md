@@ -117,6 +117,8 @@ I regret that I have not been able to marshal all my facts in strictly logical o
 
 "A false theory, it is well known, may render us blind to facts which are opposed to our prepossessions, or may conceal from us their true import when we behold them." - Lyell, 'Principles of Geology,' ed. 12., vol. 2., p. 179.
 
-I do not intend to enter here into details concerning the history of the _Eozoön_ were found by the officers of the Geological Survey of Canada in the Lower Laurentian Limestone rocks about 1850-1858. These specimens had a layered aspect at their weathered edges; and a vertical section revealed alternating white and greenish-yellow bands. The white bands were found to be calcareous (calcite or dolomite) and the green bands siliceous (loganite, olivine, serpentine, _etc._). It seemed unlikely that any traces whatsoever of organic structure could exist in rocks of unimaginable antiquity, vastly older than the Cambrian, and in rocks which had been exposed to terrific metamorphosing agencies.
+I do not intend to enter here into details concerning the history of the _Eozoön_ controversy, and shall merely refer to a few of the more important points.
+
+The original specimens of _Eozoön_ were found by the officers of the Geological Survey of Canada in the Lower Laurentian Limestone rocks about 1850-1858. These specimens had a layered aspect at their weathered edges; and a vertical section revealed alternating white and greenish-yellow bands. The white bands were found to be calcareous (calcite or dolomite) and the green bands siliceous (loganite, olivine, serpentine, _etc._). It seemed unlikely that any traces whatsoever of organic structure could exist in rocks of unimaginable antiquity, vastly older than the Cambrian, and in rocks which had been exposed to terrific metamorphosing agencies.
 
 ...
