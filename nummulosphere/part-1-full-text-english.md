@@ -122,3 +122,49 @@ I do not intend to enter here into details concerning the history of the _Eozoö
 The original specimens of _Eozoön_ were found by the officers of the Geological Survey of Canada in the Lower Laurentian Limestone rocks about 1850-1858. These specimens had a layered aspect at their weathered edges; and a vertical section revealed alternating white and greenish-yellow bands. The white bands were found to be calcareous (calcite or dolomite) and the green bands siliceous (loganite, olivine, serpentine, _etc._). It seemed unlikely that any traces whatsoever of organic structure could exist in rocks of unimaginable antiquity, vastly older than the Cambrian, and in rocks which had been exposed to terrific metamorphosing agencies.
 
 ...
+
+## Explanation of Plates
+
+Photographs (made from untouched negatives) of very young shells found in sections of _Eozoön canadense_. They should be examined in different lights, with and without the aid of a lens.
+
+Figs. 1-4. - A nummulite shell, about 1/10 of a millimetre (1/250 of an inch) in diameter, focussed from above down at four different levels. x270.
+
+A careful study of the actual shell shows at least four spiral coils wound round the funnel-shaped umbilicus. The large primary chamber is a little to the right and above the pore-like upper opening of the umbilicus. Each of the larger dark spots is probably a large pore; double rows of very minute dots in Fig. 2 are smaller pores. The obscure radial lines are fractures in the neighbourhood of septa. The large irregular light patch to the right of the centre shows a broken area. "Willow pattern" obscurely visible along broken edge in Figs. 2, 3. (See Fig. 15.)
+
+Fig. 5. - Lower surface of above shell. In the centre is seen a defined oval area (3 by 2 millimetres) with a faintly shaded spot in the centre of the oval. The oval area is the wide lower orifice of the funnel-shaped umbilicus, and the faint spot is the minute aperture at the upper end of the same.
+
+Fig. 6. - Another shell broken across and showing the "willow-pattern" at upper end of fractured surface. There are visible four alar prolongations on each side of the central line, apical chambers, and dark spaces and septa between the alae (see Fig. 16.).
+
+Figs. 7-10. - Upper aspect of a still younger shell. The Nautilus-like embracing of the last coil but one by thelast coil is fairly well shown at the lower part of the figures, and also (in Fig. 7) the lopping round of the four or five last-formed septa and segments. x270.
+
+Fig. 11. - A young shell on surface of etched out specimen. Seen by reflected light. The central dark area is the (? lower) opening of the umbilicus. x270.
+
+Fig. 12. - Outer weathered surface of _Eozoön_ showing circular outlines of larger adult nummulite shells. x3. Fairly good examples of disks can be seen (with aid of lens) on each side of oblique dark streak near upper left corner. Compare also Fig. 23.
+
+Fig. 13. - Under surface of shell shown in Figs. 7-10. x250.
+
+Fig. 14. - Canals in one of the white bands of _Eozoön_, showing series of rings. x270. Compare Figs. 17-22.
+
+Fig. 15. - A tracing of Fig. 2. _a_, Upper opening of umbilicus; _b_, edge of final alar prolongation; _c_, primary chamber; _d_, segments or chambers of final coil; _e_, larger pseudopodial pores; _f_ double row of minute pseudopodial pores; _g_, segments of last coil but one.
+
+Fig. 16. - Enlarged drawing of upper part of broken edge of shell shown in Fig. 14. _a_, an outer alar prolongation, enclosing _b_, the next in succession; _c_, edges of septa separating the alae, these portions of septa being prolongations from the partitions separating the peripheral part of the whole into segments; _d_, spaces between the alae and in continuity with the chambers at the periphery of the whorl; _e_, chambers at periphery of the successive whorls.
+
+The parts are emphasised, but can be seen in photo, by using a lens.
+
+N.B. The spiral coils and willow pattern seen respectively in horizontal and vertical sections are precisely the same as are found in typical Nummulites.
+
+Fig. 17. - Oval rings in canals of _Eozoön canadense_.
+
+Fig. 18. - Ditto from larger canals in another specimen.
+
+Fig. 19. - Rings and half-rings from mural tubuli of the Palaeozoic Stromatoporoid _Actinostroma clathratum_, Nicholson.
+
+Fig. 20. - The same from _Stromatopora concentrica_, Goldfuss.
+
+Fig. 21. - The same from a recent specimen of _Sporadotrema cylindricum_ (Carter) from the China Sea. 
+
+Figs. 17-21 are copied by kind permission of Messrs. Taylor and Francis from a paper by the author in _Annals Mag. Nat. Hist., Sept. 1912. Reduced from a magnification of 1,300 diameters.
+
+Fig. 22. - Canals in supplementary skeleton of _Eozoön canadense_, being part of photograph show in Fig. 14.
+
+Fig. 23. - Weathered surface of _Eozoön_, showing rows of disks _en face_, from an area about three-quarters of an inch (18 millimetres) square a little above and to the right of centre of lower line of figure shown in Fig. 12. The disk outlines have been somewhat emphasised to enable them to be traced in the photograph. Enlarged about 3 times from photo, _i.e._ about 10 times from nature.
