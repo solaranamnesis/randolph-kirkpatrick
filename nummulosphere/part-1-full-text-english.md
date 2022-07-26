@@ -167,4 +167,4 @@ Figs. 17-21 are copied by kind permission of Messrs. Taylor and Francis from a p
 
 Fig. 22. - Canals in supplementary skeleton of _Eozoön canadense_, being part of photograph show in Fig. 14.
 
-Fig. 23. - Weathered surface of _Eozoön_, showing rows of disks _en face_, from an area about three-quarters of an inch (18 millimetres) square a little above and to the right of centre of lower line of figure shown in Fig. 12. The disk outlines have been somewhat emphasised to enable them to be traced in the photograph. Enlarged about 3 times from photo, _i.e._ about 10 times from nature.
+[Fig. 23.](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-23.webp) - Weathered surface of _Eozoön_, showing rows of disks _en face_, from an area about three-quarters of an inch (18 millimetres) square a little above and to the right of centre of lower line of figure shown in Fig. 12. The disk outlines have been somewhat emphasised to enable them to be traced in the photograph. Enlarged about 3 times from photo, _i.e._ about 10 times from nature.
