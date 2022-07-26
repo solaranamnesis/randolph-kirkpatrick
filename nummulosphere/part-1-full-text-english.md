@@ -75,4 +75,48 @@ The above remarks are not written in an aggressive spirit. I believe 'The Azoic 
 
 *) According to my observations there is no "Azoic" System. I hope that in place of "breathing out threatenings and slaughter" against heretical "Eozoists," believers in the Azoic doctrine will now become apostles of the organic theory. The term "Eozoic" is to be preferred to "Archaean," introduced by Dana.
 
+Since the personal factor has to be taken into consideration I would mention that for many years I have been in charge of one of the most important collections of Foraminifera in existence. Further, I have observed igneous phenomena of the volcanic kind in action in various parts of the world, _viz._, Italy, Sicily, Lipari Islands, Java and Teneriffe, and know something of their effects. I once spent nearly three days and a night on the summit of Stromboli, and there learned how various were the phenomena comprised under the term "igneous action."
+
+It has taken over eighty years to settle the problem of the nature of Stromatoporoids. Almost by accident, I discovered the clue to the labyrinth, by noting the systems of Foraminiferal chambers coiled each round its respective umbilicus, and found that these myterious fossils were colonial Foraminifera built up of nummulitic shells. I little realised at the time the developments that would follow, and that the clue to the nature of _Eozoön_ and of the igneous rocks had been found. Again, it has taken fifty years to settle the _Eozoön_ problem, simply because an important link in the chain of evidence, _viz._, that of the coiled Foraminiferal shell, was missing. There is no need, then, to suspect that the theory here expounded is like Jonah's gourd. It will be found that the Stromatoporoid theory is based on very solid foundations.
+
+If the statements here put forward concerning the origin of igneous rocks are doubted, I can only repeat what Desmarest used to say to importunate Neptunians, "Go and see."* If again it should be thought that the nummulitic disk is a phantom, I ask how does it come about that I am able by its means to solve, as I believe, important problems in palaeontology. For the disks have furnished the clue to the mystery* of the Dolomitic and Oolitic Limestones. It was a specimen of _Eozoön canadense_ that led me on to the solution of the problem of the Jurassic Oolites.
+
+*) Quoted in Lyell's 'Principles of Geology,' ed. 12., vol. 1. p. 72.
+
+*) The word "mystery" is used, because many of the limestones formed during the successive eras have been regarded hiterto simply as limestones.
+
+As as result of many thousands of observations I have found that the plutonic rocks are metamorphosed nummulitic limestones silicated,* reduced to a more or less molten condition, and crystallized, and that volcanic rocks have had an identical origin with the plutonic. Certain Ordovician, Liassic, Permian and Jurassic limestones are also nummulitic, the Dolomitic being dolomitised, and Oolitic scarcely altered chemically.
+
+*) A term used in a general sense to include change into silicates of various kinds, _viz._ of alumina, magnesium, with soda, potash, silica, iron, _etc._ "Silicified" implies conversion into silica.
+
+Several writers have described traces of organic structure in igneous rocks, but they have failed to convince anyone as to the soundness of their observations, but the fact of the nummulitic nature of these rocks will soon, I believe, be generally admitted, and fortunately it is possible for anyone to look into the matter himself, the only equipment necessary being patient observation and a good lens magnifying 10 diameters.
+
+The disks may be seen separate, or overlapping obliquely in rows, or as rouleaux in vertical section. They may be closely pressed together and flattened out like rolled oats. Each disk will show _en face_ the central umbilicus, a concentric and radial pattern, and frequently rows of pores. On vertical section the very minute regular network pattern, apparently formed by the edges of alar prolongations and septa, will be visible on each side of the umbilicus. I have observed all these structures in many igneous, Jurassic oolitic and Permian dolomitic rocks. Sometimes I have found it necessary to examine a fragment of rock with the closest scrutiny for hours before convincing myself that I have seen all the above-mentioned details. In the end I have come across structures that cannot possibly have arisen from a mere chance agglomeration of particles, but which must be the expression of original organic structure. The disks are usually best seen in a good side light from above. A bright light shining directly on the piece of rock that is being examined is apt to bring into relief the particles or grains which make up the Foraminiferal medals rather than the medals themselves. Impressionist pictures, when too closely viewed in a glare of light, show unduly the blobs of paint rather than the picture. A close scrutiny of the rocks is desirable, however, in all lights, direct and oblique, bright and less bright.
+
+As regards methods, I carefully examine pieces of rock, firstly with the naked eye, then with an aplanatic lens magnifying 10 diameters, then with a Zeiss binocular magnifying 20 to 70 diameters, and lastly in thick and thin sections with high powers.
+
+The lens is the most ready and satisfactory. For generally one is dealing with altered, ruined, and blasted structures, which are easier seen as objects of three dimensions than in thin sections.
+
+My views on igneous and certain other rocks have been received with a good deal of scepticism, and this is not surprising. For here, almost at our doors is a new continent, the existence of which has never been suspected. I first sighted the new land in September 1912 (when I found that the Palaeozoic Stromatoporoids were colonial Foraminifera and in that _Eozoön_ was a Stromatoporoid). What at first appeared to be an island turns out to be a continent. It is not to be wondered at that I, who say so, am looked upon as a Munchausen, or as a person subject to delusions or entoptic troubles. For my part, I do not think it will be necessary to return to the theory that the Jurassic Oolites are made of grains of coral detritus derived from phantom coral reefs, or that certain Ordovician, Carboniferous and Permian (Dolomitic) limestones and igneous and gneissic rocks are of an indefinite nature.
+
+I hope in course of time to issue a second part to this pamphlet, giving photographs, drawings and diagrams of nummulitic disks found in various rocks.
+
+***
+
+The design on the cover represents Neptune on the globe of waters. On one of the prongs of his trident is a piece of volcanic rock in the shape of a nummulitic disk, and in his hand is a meteorite. These emblems signify that Neptune's domain is enlarged not only at the expense of nether Jove, but also at that of high Jove whose supposed emblem of sovereignty - the thunderbolt - really belongs to the Sea God. The glow of volcanic fires results from the hammering (compression due to planetary shrinkage) of Neptune's material on the anvil of Vulcan. That it is Neptune's material that is being worked upon, is rendered clear by the image and superscription on the little medals or nummuli coined in the Sea God's mint, and easily to be deciphered by those skilled in this branch of numismatics. Neptune's bolt is poised ready to be hurled at rash and ignorant mortals of the type of the _a priori_ would-be refuter, daring to dispute the validity of his title-deeds.
+
+The design which has been drawn by Mr. Highley, has been partly copied from prints in the British Museum.
+
+***
+
+In the course of this investigation I have received a great deal of information and many gifts of specimens from owners of quarries and of _depôts_ of stone, pumice and mica, who have shown me much kindness, which I very gratefully acknowledge. I wish especially to express my gratitude to Senhor A. C. Noronha, who gave me the fragments of volcanic rock that started me on the present enquiry.
+
+I regret that I have not been able to marshal all my facts in strictly logical order, this failure being due to the continual cropping up of new discoveries after I had revised the first and second proofs of my pamphlet. Some allowance will, I trust, be made on account of the difficulties attending what may fairly be termed pioneer work in an almost unexplored territory.
+
+## 1. On _Eozoön Canadense_ Dawson.
+
+"A false theory, it is well known, may render us blind to facts which are opposed to our prepossessions, or may conceal from us their true import when we behold them." - Lyell, 'Principles of Geology,' ed. 12., vol. 2., p. 179.
+
+I do not intend to enter here into details concerning the history of the _Eozoön_ were found by the officers of the Geological Survey of Canada in the Lower Laurentian Limestone rocks about 1850-1858. These specimens had a layered aspect at their weathered edges; and a vertical section revealed alternating white and greenish-yellow bands. The white bands were found to be calcareous (calcite or dolomite) and the green bands siliceous (loganite, olivine, serpentine, _etc._). It seemed unlikely that any traces whatsoever of organic structure could exist in rocks of unimaginable antiquity, vastly older than the Cambrian, and in rocks which had been exposed to terrific metamorphosing agencies.
+
 ...
