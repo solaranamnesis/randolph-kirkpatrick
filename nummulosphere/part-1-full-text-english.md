@@ -127,27 +127,27 @@ The original specimens of _Eozoön_ were found by the officers of the Geological
 
 Photographs (made from untouched negatives) of very young shells found in sections of _Eozoön canadense_. They should be examined in different lights, with and without the aid of a lens.
 
-Figs. 1-4. - A nummulite shell, about 1/10 of a millimetre (1/250 of an inch) in diameter, focussed from above down at four different levels. x270.
+[Fig. 1,](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-1.webp) [Fig. 2,](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-2.webp) [Fig. 3,](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-3.webp) [Fig. 4.](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-4.webp) - A nummulite shell, about 1/10 of a millimetre (1/250 of an inch) in diameter, focussed from above down at four different levels. x270.
 
 A careful study of the actual shell shows at least four spiral coils wound round the funnel-shaped umbilicus. The large primary chamber is a little to the right and above the pore-like upper opening of the umbilicus. Each of the larger dark spots is probably a large pore; double rows of very minute dots in Fig. 2 are smaller pores. The obscure radial lines are fractures in the neighbourhood of septa. The large irregular light patch to the right of the centre shows a broken area. "Willow pattern" obscurely visible along broken edge in Figs. 2, 3. (See Fig. 15.)
 
-Fig. 5. - Lower surface of above shell. In the centre is seen a defined oval area (3 by 2 millimetres) with a faintly shaded spot in the centre of the oval. The oval area is the wide lower orifice of the funnel-shaped umbilicus, and the faint spot is the minute aperture at the upper end of the same.
+[Fig. 5.](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-5.webp) - Lower surface of above shell. In the centre is seen a defined oval area (3 by 2 millimetres) with a faintly shaded spot in the centre of the oval. The oval area is the wide lower orifice of the funnel-shaped umbilicus, and the faint spot is the minute aperture at the upper end of the same.
 
-Fig. 6. - Another shell broken across and showing the "willow-pattern" at upper end of fractured surface. There are visible four alar prolongations on each side of the central line, apical chambers, and dark spaces and septa between the alae (see Fig. 16.).
+[Fig. 6.](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-6.webp) - Another shell broken across and showing the "willow-pattern" at upper end of fractured surface. There are visible four alar prolongations on each side of the central line, apical chambers, and dark spaces and septa between the alae (see Fig. 16.).
 
-Figs. 7-10. - Upper aspect of a still younger shell. The Nautilus-like embracing of the last coil but one by thelast coil is fairly well shown at the lower part of the figures, and also (in Fig. 7) the lopping round of the four or five last-formed septa and segments. x270.
+[Fig. 7,](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-7.webp) [Fig. 8,](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-8.webp) [Fig. 9](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-9.webp) [Fig. 10.](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-10.webp) - Upper aspect of a still younger shell. The Nautilus-like embracing of the last coil but one by thelast coil is fairly well shown at the lower part of the figures, and also (in Fig. 7) the lopping round of the four or five last-formed septa and segments. x270.
 
-Fig. 11. - A young shell on surface of etched out specimen. Seen by reflected light. The central dark area is the (? lower) opening of the umbilicus. x270.
+[Fig. 11.](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-11.webp) - A young shell on surface of etched out specimen. Seen by reflected light. The central dark area is the (? lower) opening of the umbilicus. x270.
 
-Fig. 12. - Outer weathered surface of _Eozoön_ showing circular outlines of larger adult nummulite shells. x3. Fairly good examples of disks can be seen (with aid of lens) on each side of oblique dark streak near upper left corner. Compare also Fig. 23.
+[Fig. 12.](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-12.webp) - Outer weathered surface of _Eozoön_ showing circular outlines of larger adult nummulite shells. x3. Fairly good examples of disks can be seen (with aid of lens) on each side of oblique dark streak near upper left corner. Compare also Fig. 23.
 
-Fig. 13. - Under surface of shell shown in Figs. 7-10. x250.
+[Fig. 13.](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-13.webp) - Under surface of shell shown in Figs. 7-10. x250.
 
-Fig. 14. - Canals in one of the white bands of _Eozoön_, showing series of rings. x270. Compare Figs. 17-22.
+[Fig. 14.](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-14.webp) - Canals in one of the white bands of _Eozoön_, showing series of rings. x270. Compare Figs. 17-22.
 
-Fig. 15. - A tracing of Fig. 2. _a_, Upper opening of umbilicus; _b_, edge of final alar prolongation; _c_, primary chamber; _d_, segments or chambers of final coil; _e_, larger pseudopodial pores; _f_ double row of minute pseudopodial pores; _g_, segments of last coil but one.
+[Fig. 15.](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-15.webp) - A tracing of Fig. 2. _a_, Upper opening of umbilicus; _b_, edge of final alar prolongation; _c_, primary chamber; _d_, segments or chambers of final coil; _e_, larger pseudopodial pores; _f_ double row of minute pseudopodial pores; _g_, segments of last coil but one.
 
-Fig. 16. - Enlarged drawing of upper part of broken edge of shell shown in Fig. 14. _a_, an outer alar prolongation, enclosing _b_, the next in succession; _c_, edges of septa separating the alae, these portions of septa being prolongations from the partitions separating the peripheral part of the whole into segments; _d_, spaces between the alae and in continuity with the chambers at the periphery of the whorl; _e_, chambers at periphery of the successive whorls.
+[Fig. 16.](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-16.webp) - Enlarged drawing of upper part of broken edge of shell shown in Fig. 14. _a_, an outer alar prolongation, enclosing _b_, the next in succession; _c_, edges of septa separating the alae, these portions of septa being prolongations from the partitions separating the peripheral part of the whole into segments; _d_, spaces between the alae and in continuity with the chambers at the periphery of the whorl; _e_, chambers at periphery of the successive whorls.
 
 The parts are emphasised, but can be seen in photo, by using a lens.
 
