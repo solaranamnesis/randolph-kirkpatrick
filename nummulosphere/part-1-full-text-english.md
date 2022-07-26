@@ -153,18 +153,18 @@ The parts are emphasised, but can be seen in photo, by using a lens.
 
 N.B. The spiral coils and willow pattern seen respectively in horizontal and vertical sections are precisely the same as are found in typical Nummulites.
 
-Fig. 17. - Oval rings in canals of _Eozoön canadense_.
+[Fig. 17.](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-17-21.webp) - Oval rings in canals of _Eozoön canadense_.
 
-Fig. 18. - Ditto from larger canals in another specimen.
+[Fig. 18.](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-17-21.webp) - Ditto from larger canals in another specimen.
 
-Fig. 19. - Rings and half-rings from mural tubuli of the Palaeozoic Stromatoporoid _Actinostroma clathratum_, Nicholson.
+[Fig. 19.](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-17-21.webp) - Rings and half-rings from mural tubuli of the Palaeozoic Stromatoporoid _Actinostroma clathratum_, Nicholson.
 
-Fig. 20. - The same from _Stromatopora concentrica_, Goldfuss.
+[Fig. 20.](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-17-21.webp) - The same from _Stromatopora concentrica_, Goldfuss.
 
-Fig. 21. - The same from a recent specimen of _Sporadotrema cylindricum_ (Carter) from the China Sea. 
+[Fig. 21.](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-17-21.webp) - The same from a recent specimen of _Sporadotrema cylindricum_ (Carter) from the China Sea. 
 
 Figs. 17-21 are copied by kind permission of Messrs. Taylor and Francis from a paper by the author in _Annals Mag. Nat. Hist., Sept. 1912. Reduced from a magnification of 1,300 diameters.
 
-Fig. 22. - Canals in supplementary skeleton of _Eozoön canadense_, being part of photograph show in Fig. 14.
+[Fig. 22.](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-22.webp) - Canals in supplementary skeleton of _Eozoön canadense_, being part of photograph show in Fig. 14.
 
 [Fig. 23.](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/Fig-23.webp) - Weathered surface of _Eozoön_, showing rows of disks _en face_, from an area about three-quarters of an inch (18 millimetres) square a little above and to the right of centre of lower line of figure shown in Fig. 12. The disk outlines have been somewhat emphasised to enable them to be traced in the photograph. Enlarged about 3 times from photo, _i.e._ about 10 times from nature.
