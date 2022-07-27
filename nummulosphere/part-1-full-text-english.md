@@ -17,7 +17,7 @@ Linnaeus.
 
 ### Introduction
 
-### 1. On _Eozoön Canadense_
+### [1. On _Eozoön Canadense](#1-on-eozoön-canadense-dawson)_
 
 ### 2. Porto Santo and Madeira
 
