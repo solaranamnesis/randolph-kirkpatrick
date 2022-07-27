@@ -15,7 +15,7 @@ Linnaeus.
 
 ## Contents
 
-### Introduction
+### [Introduction](#introduction-1)
 
 ### [1. On _Eozoön Canadense](#1-on-eozoön-canadense-dawson)_
 
