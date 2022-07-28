@@ -19,9 +19,9 @@ Linnaeus.
 
 ### [1. On _Eozoön Canadense_](#1-on-eozoön-canadense-dawson)
 
-### 2. Porto Santo and Madeira
+### [2. Porto Santo and Madeira](#2-porto-santo-and-madeira-1)
 
-### 3. The World-wide Distribution of Nummulitic Rocks
+### [3. The World-wide Distribution of Nummulitic Rocks](#3-on-the-world-wide-distribution-of-nummulitic-rocks)
 
 ### 4. Geological and Geognostical Considerations
 
