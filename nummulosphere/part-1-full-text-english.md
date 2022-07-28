@@ -175,6 +175,91 @@ In 1878 Nicholson and Etheridge found certain curious labyrinthine masses of ver
 
 I now find this structure abundantly in the dolomitised silicated masses of nummulitic limestone known as _Eozoön_. The supposed branching canals in the supposed secondary skeleton of _Eozoön_ are simply "Grivanella" structures. They exist also in the green silicated parts of specimens. Gradations can be traced from circular nummulite shells with radiating "tubes," through closely pressed fan-shaped masses, to widely branched spread-out canal systems. It is simply a matter of breaking down of shells, of masses of tubes, and of joining up into hollow canal systems like the heading-off of river systems. Naturally the silication has been effected more readily in those parts of the dolomite bands where hollow channels have formed as the result of the peculiar mode of disintegration that takes place in the nummulite shells. The peculiar "rings" seen in the canals are there because they have been present in the original shells. I do not think they are purely the product of mineralization becuase similar structures exist in recent Foraminifera. The rings and half-rings visible in decalcified preparations of spirit specimens of _Polytrema_ appear to be horny thickenings in the neighbourhood of the rims of pseudopodial pores. If this be so, a series might form along vertical rows of pores in nummulites, in which there are numerous successive layers of shell-wall especially at the central parts of the shell. The existence of these bodies in _Eozoön_ and the later Stromatoporoids may be due to mineralization of the rings, or again, the rings may have been calcareous skeletal thickenings of pore-rims. Whatever be their nature and origin, it was the finding of them in _Eozoön_ that first led me to doubt, possibly on a wrong premiss, the theory of mineral origin of that structure.
 
+I cannot find a single point of zoological difference between _Eozoön canadense_ Dawson and _Stromatopora concentrica_ Goldfuss. In both there are layers of nummulite shells of the same structure and size. As this is not a systematic treatise, I shall continue to call the Canadian Dawn Animal by its well-known name.
+
+Although the highest type of Foraminiferal organisation is reached in the family _Nummulitidae_, owing to the development of a secondary skeleton in the walls and between the septa of the shell, yet the Stromatoporoid type of nummulite is a simple one, for the thin-walled shell consists merely of a continuous and embracing spiral coil divided up into similar segments. Further, while growth in the horizontal plane produces the coil, growth in the vertical leads to the formation of a bud which simply repeats the horizontal and vertical modes of growth.
+
+The individuality of certain types of Stromatoporoids is well-marked in the branching forms, and in _Beatricea_ and _Receptaculites_. The shape of massive forms such as _Stromatopora concentrica_ and _Eozoön_ is not so well-defined. Similary in corals, specimens vary greatly in the degree of definiteness of their shape. The Jurassic Oolites and Chalk are probably mainly masses of Stromatoporoids, yet it is not possible to define the shapes of specimens, nor even of reefs.
+
+***
+
+On p. 93 (summary) I state that _Eozoön_ differs from Palaeozoic forms in possessing a secondary skeleton. This statement is erroneous and should be deleted.
+
+***
+
+I am certain that the long and, at times, bitter controversy on the nature of _Eozoön_ is finally settled, and it is now possible to see that both sides were right and both wrong. The believers in the organic theory were right although they failed to bring forward satisfactory proofs,* but the upholders of the mineral theory were fully justified in rejecting the theory of organic origin until those proofs were forthcoming.
+
+*) It must not be forgotten, however, that Dawson, Logan and Carpenter pointed out the external resemblance between _Eozoön_ and the Palaeozoic Stromatoporoids, about the organic nature of which there was no dispute.
+
+_Miscellaneous addenda._ - The timely discovery of the real nature of the white bands in _Eozoön_ necessitated the rewriting of the chapter. To fill a vacant space a few notes are added.
+
+_Note 1._ I have now found that mica is wholly composed of tremendously compressed masses of nummulites. In fairly thick laminae it is often possible to see abundantly the circular groups of scales, pores, umbilicus, _etc._, and occasionally at the edges of laminae the willow pattern and the minute reticulation formed by alae and septa. Mica is probably a remnant product, silica and other silicates having disappeared.
+
+_Note 2._ In Prof. C. Gagel's memoir on the petrology of Madeira (Zeitsch. deutsch. geolog. Gesellch. Bd. 64, Hft. 3, 1912, p. 434, Fig. 19) a micro-photograph (x50) of a section of trachydolerite is shown. The section is that of a resorbed amphibole which has become changed into magnetite dust and rhonite crystals. With the aid of a lens I can see in the lower dark part of the figure the circular outlines of masses of very small nummulite disks looming through the cross-hatch, the disks being 3-6 mm. in diameter in the figure. A petrological friend showed me a crystal of hornblende breaking down. Each magnetite crystal at the periphery of the hornblende crystal formed the centre of a flake, apparently of felspar. The clear yellow central part of the large crystal also was faintly aerolated, with a dark spot in each aerola. The aerolar pattern apparently is that which has been cut out by the septa and successive coil-rims of a much altered nummulite shell. Compare also the (?) haematite intra-cameral particles in limestone shells. Apparently ferric and ferrous granules have become ferroso-ferric magnetite-dust.
+
+_Note 3._ A specimen of Zechstein (dolomite) from Nieder-Rodenbach (in my own possession) is apparently not the original dolomite, but a dolomitic sedimentary shale.
+
+_Note 4._ Concerning R. Mallet's theory that the melting of igneous rocks is due to compression, I beg to submit a very humble personal observation. I asked a blacksmith to hammer a bar of iron on an anvil. In a few seconds the hammered end was too hot for me to touch, and in less than a minute, for the blacksmith himself to handle. The arm of the mightiest mortal blacksmith is feeble beside that of the tireless Vulcan. It seems a curious paradox that the cooling of the earth should lead to the melting of the rocks!
+
+_Note 5._ Sands and muds which I gathered at Sandwich and Cuckmere have now dried and hardened, and the nummulitic structure, difficult to detect in the moist state, is now easily to be seen.
+
+## 2. Porto Santo and Madeira.
+
+"Neptune, besides the sway  
+Of every salt flood, sand each ebbing stream,  
+Took in by lot 'twixt high and nether Jove  
+Imperial rule of all the sea-girt isles,  
+That like to rich and various gems inlay  
+The unadornéd bosom of the deep;" Comus.
+
+In September 1912 I journeyed to Porto Santo via Madeira, in order to complete my investigation of that strange organism, the Sponge-alga _Merlia normani_.
+
+Going from Madeira to Porto Santo - and I have now made the journey four times - seems to me like making a trip from the earth to the moon. The little island, which lies about 20 miles N.E. of Madeira, is about six miles long and one to four miles broad. There are numerous little mountains or picos, of which the highest is about 1500 feet. They form two groups with a low saddle, partly occupied by a great lava flow, between.
+
+On the S.E. shore of the island, one of the Picos (P. Baixo) forms a magnificent triangular escarpment about 900 feet high. The summit is formed by a sharply defined triangular mass of greyish-white columnar trachyte; below this are dull red and purple bands of scoriae, and still lower a great basal mass of black columnar basalt coming down to the blue water and overlying at one place a Miocene coral reef, the ensemble producing an indescribably beautiful effect in the strangely transparent air. With the exception of certain tertiary coral reefs and some post-pleistocene blown sands the whole island is volcanic. The lines of dike-like crests of the mountains, if continued, would converge towards a point situated out at sea to the north of the island, where the crater of a huge volcano must have been. The dikes and lava streams show that Porto Santo Island is the base of the southern slope of the volcano, all the rest having disappeared possibly by submergence, for, judging from the soundings, the island was probably very much larger in former times than it is now.
+
+One day my amiable and accomplished friend Senhor A. C. Noronha, who had accompanied me to the island, showed me some fragments of banded trachyte, basalt and granitoid rocks which he had collected at spots about 1000 feet up the Pico do Facho.
+
+I examined them carefully under my binocular microscope and found to my amazement traces of nummulitic disks in all of them. Next day I visited the place whence the fragments had come.
+
+They had been detached from the rocks laid bare in torrent beds. When I saw the huge boulders of banded trachyte, I thought I had made a mistake about the disks, but on returning to the village, I again found sure evidence of their existence.
+
+After all I need not have been so doubtful about my first observations, for I remembered the account which Dr. G. Lindström gave of the huge masses and balls several feet in diameter of _Stromatopora discoidea_ which he had found in Gothland and which he considered to be corals, but which we now know to be colonial Formainifera closely allied to _Eozoön_.
+
+Senhor Noronha showed me the spot where he had found the highly crystalline granitoid rock, _viz._, at the place of junction between a dike and the older basalt. I spent several days collecting rocks, and found that almost the whole island from the shore to the crests of the mountains was made of metamorphosed nummulitic limestone, and that the houses, the boundary walls of the fields, the boulders on the sea-shore, and to some extent the soil and the shore sands* were likewise composed of this material. A coarsely granular clay used for roofing small cottages also contained the disks, so that _Eozoön_ had at last arrived at the fate that might have befallen the dust of Imperial Caesar. Very interesting, too, were the kaolinised basaltic boulders, looking like chalk full of black pebbles, and in the final stage like pure chalk.
+
+*) The shore sands of Porto Santo are mainly calcareous, but also there are present grains of what I believe to be greenish olivine. The waves sift the darker siliceous and lighter calcareous particles and make a curious banded structure which sometimes hardens. A boulder of this finely-banded material might be mistaken at first for a piece of banded volcanic rock. Of course, a glance with the lens reveals the real structure.
+
+On my return to Madeira, I found that here also the volcanic rocks were made of changed nummulitic limestones.*
+
+*) Accordingly, when Neptune took in by lot imperial rule of the volcanic isles, Chance sided with Justice, for volcanos and lavas are, in the main, altered Foraminiferal sea-floors, to which, surely, nether Jove has no claim.
+
+At a spot about 2800 feet up the Pico do Infante, and near the house of my hospitable friend the Rev. A. D. Paterson, I saw a bed of huge balls of volcanic rock, varying in diameter from one to several feet. They were so badly weathered that it was possible to peel off large flakes. The balls are composed of basalt, and have been regarded as "bombs," which had been hurled up into the air and had fallen back into hot lava, thereby becoming recoated. This theory is probably incorrect, because the stones are on the mountain side, and not in a crater. Onion stones are not uncommon wherever volcanic rocks exist. The Madeira examples are in volcanic soil, _i.e._ in disintegrated volcanic rock.
+
+R. Mallet (_Trans. Roy. Irish Acad._ 1837 [1839] p. 75) describes a trap rock in Galway, which fractures irregularly when struck with a hammer, but which reveals a _hidden nodular structure_ when blasted with gunpowder. He compares the blasting to the sculptor's chisel which (in the Greek fable) revealed the statue hidden in the marble. He notes the significant fact that certain visible crystals never went beyond the bounding surface of one nodule into another. Apparently a laminar structure must have existed in the rock before the crystals separated out. Probably the lamination in onion-stones is due to the effects of cooling.
+
+In the case of the Madeira onion-stones percolating water and root fibrils appear to have worked along the zones of least resistance which had formed as a result of shrinkage in the cooling rock.
+
+## 3. On the World-wide Distribution of Nummulitic Rocks.
+
+On my return to London I made a petrological tour of the world in the Mineral Gallery of the Natural History Museum. I found that the volcanic rocks of the volcanic islands of the Atlantic, from Iceland to St. Helena, of the Arctic (Spitsbergen), Mediterranean (Etna, _etc._), Antarctic (Ross Island, Erebus and Terror), Indian Ocean (Kerguelen and Christmas Island) and Pacific (Fiji) were composed of metamorphosed nummulitic limestones. I next proceeded to examine plutonic rocks and many of the metamorphic ones (gneisses, some schists), and found that these were of the same nature. In a piece of garnetiferous schist which I gathered in the bed of a river in the Sikhim Himalayas, the nummulitic shells have become modelled in grains of garnet. In other parts of the fragment there are ordinary crystals of garnet, and mica. The specimen formed part of a huge boulder which my kind host, Mr. John C. White, the Resident, had caused to be blown up with dynamite.
+
+I have examined the fragment of grey basalt dredged up by the _Challenger_ from 1950 fathoms from Lat. 53° 55' S. and Long. 108° 33' E., also two pieces of rock obtained by the telegraph engineers of ss. _Cambria_ from 2,200 to 2,530 fathoms in Lat. 51° 35' N. and Long. 15° 43' W. and Lat. 51° 34' N. and Long. 16° 30' W. and find them all to be changed limestones in which the shells are clearly visible. These blocks might have been dropped from icebergs, and possibly do not belong to the localities in which they were found. At the same time they may do so, more especially the two last specimens. Lastly, I firmly believe I have found the shells in many of the stony meteorites or aerolites, and even in siderolites.
+
+The disks are, perhaps, better seen in basalts than in the highly crystalline granites, and better in homogeneous than in vesicular lavas, in which last it is almost impossible to find them. I have not been able to detect them in certain volcanic bombs in which the lava has been reduced almost to a homogeneous paste.
+
+The difference between the _Eozoön_* of the Lower Laurentian Limestones, and the _Eozoön_ of a granite or gneiss is due to the fact that the former was modified to a less extent and in a different manner by metamorphosing agencies than the two latter.
+
+*) Probably the Eozoic limestones are all composed of the _colonial_ nummulite of Stromatoporoid _Eozoön_.
+
+***
+
+I would advise those who may wish to look into the matter for themselves to examine igneous rocks carefully and thoroughly with a good lens magnifying ten diameters. At first there will be a generalised impression, and nothing but a confused mass of minerals will be seen, but the disk structure will gradually reveal itself. Usually the central umbilicus and the circular area of the disk will first be seen, and then traces of radial and concentric lines, and possibly radial series of pores. Gradually skill in detecting these structures will come, and with it, the possibility of orientating* the pieces of metamorphosed nummulitic rock, especially when a row of disks _en face_ or in rouleau is discovered. Of course it may not unreasonably be pointed out how easy it is to choose a centre and imagine a circle round it, _etc._, and that if the existence of a thing is strongly asserted, it will tend to become visible owning to the influence of suggestion. When the observer has seen the disks in many kinds of igneous rocks and gneisses, he will, I believe, refuse to accept the hypothesis that he is the victim of delusions.
+
+*) A rock formed even of separate disks would tend to show a layered structure, but I believe the igneous rocks to be Stromatoporoids or _colonial_ nummulites, and therefore I use the term "orientating." If these rocks are colonial Foraminifera, the stromatic arrangement must be entirely destroyed in very liquid lavas - such, for example, as that referred to by J. D. Forbes (Occasional Papers, p. 93), which flowed down Vesuvius at a rate of a mile in 1'3 minutes, but yet the disks persist.
+
+I have examined many kinds of non-Foraminiferal rocks, coarse sandstones, slags, grits, pseudomorphs, concretions, _etc._, in order to note whether the disk-structure presents itself, and occasionally I have met with appearances suggestive of that structure. In the case of igneous rocks and Stromatoporoid Limestones, however, it is not merely a question of disks, but of _Foraminiferal_ disks often more or less definitely orientated, and individually presenting a good deal of structure whether seen _en face_ or in vertical or oblique section.
+
 ...
 
 ## Explanation of Plates
