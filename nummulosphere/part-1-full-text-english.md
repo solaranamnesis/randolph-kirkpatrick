@@ -21,7 +21,7 @@ Linnaeus.
 
 ### [2. Porto Santo and Madeira](#2-porto-santo-and-madeira-1)
 
-### [3. The World-wide Distribution of Nummulitic Rocks](#3-on-the-world-wide-distribution-of-nummulitic-rocks)
+### [3. On the World-wide Distribution of Nummulitic Rocks](#3-on-the-world-wide-distribution-of-nummulitic-rocks-1)
 
 ### 4. Geological and Geognostical Considerations
 
