@@ -290,6 +290,40 @@ It is extremely probable that _Eozoön_ lived in shallow water, because an organ
 
 The gradual shrinkage of the earth's crust would give rise to a great elevation of temperature, sufficient to fuse to a greater or less extent the silicated nummulitic rocks.
 
+When I discovered that the igneous rocks which form a great part of the known crust of the earth were composed of altered nummulitic limestones, it became evident that igneous action could only be accounted for on the theory of shrinkage of the earth's crust, and that theories of chemical action or of interior heat and fluidity were out of the question.
+
+After I had formulated on biological grounds a theory of shrinkage, it was a relief to find that Lord Kelvin and Robert Mallet had already concluded that "vulcanicity" could be wholly explained on the hypothesis that the earth is a cooling body with a contracting crust. (See Appendix, Note 6.)
+
+Lord Kelvin writes ('On the Secular Cooling of the Earth,' Trans. Roy. Soc. Edinburgh, 1862, 23. p. 160), "The less hypothetical view, however, that the earth is merely a warm chemically inert body is clearly to be preferred" - _i.e._ to theories of chemical action.
+
+Again, R. Mallet ('Volcanic Energy. An attempt to develop its true Origin and Cosmical Relations.' Phil. Trans. 1873, p. 147, and 1875, p. 205) proves, on the supposition of a shell 800 miles thick, that the annual shrinkage due to secular cooling would amount to about 1'5 billionths of the total diameter, _i.e._ to a little less than 7 inches in 5,000 years. He writes, "Yet insignificant when thus measured as is the amount of annual contraction of our globe by its secular refrigeration, we see how important and mighty are its effects in preserving through the volcano the cosmical regimen of our world; it is another added to the many instances already known in the range of natural philosophy, in which causes so minute as for long to remain occult to us are yet, though unseen and unnoticed, essential parts of the mighty machine." Another hitherto unnoticed occult cause primarily contributing to the construction of the so-called igneous rocks has been the life force.
+
+After the shrunk crust of the earth had re-adjusted itself for a time, the rocks would cool and crystallize. Where there were weak spots the crust would give way, and there would be an eruption, the force of which would often be increased by inroads of the sea.
+
+At times, the relatively feeble force of gravity would be overcome and blocks of metamorphosed nummulitic limestones would be hurled into space with such violence that they would for a time escape control of terrestrial attraction and take on an orbit of their own, but would be captured later.*
+
+*) During the eruption of Krakatoa a great part of the mountain was blown away, and the explosion was said to have been heard 3,000 miles away. Probably many meteorites would be ejected on such an occasion.
+
+Dr. Otto Hahn,* the learned doctor of Tübingen, doubts whether any conclusion as to the origin of meteorites - "ob ... kinder oder brüder der Erde" - can be drawn from their chemical, morphological or textural characters. If, however, it is true that some aerolites are pieces of changed limestone, then it becomes difficult to imagine any other than a terrestrial origin for such bodies, and they would naturally be regarded as "kinder" or offspring.* Even some of the siderolites and siderites may be of terrestrial origin. For these bodies may have been formed just as iron from ironstone in a blast furnace. Some basalts (changed nummulitic limestones) are known to contain a good deal of iron, and this is only what might be expected, for all protoplasm contains this metal. Further, I often saw on the beach at Porto Santo boulders of trachyte with well-marked rusty, evidently ferruginous, bands. Igneous rocks, too, often possess magnetic properties, as, for example, those of Giant's Causeway and of Compass Hill in Cannay Island, Hebrides.
+
+*) Dr. Otto Hahn imagined he had found in meteorites traces of many organisms representing the fauna and flora of cosmical bodies existing "wissnichtwo." When someone succeeded in creating similar bodies in the laboratory by means of infernal boilings, Dr. Hahn's theory was supposed to have been effectually refuted.
+
+*) Laplace's theory of the lunar origin of meteorites, which is admitted to be valid on mathematical grounds, is improbable on biological ones, for the absence of atmosphere and water, and the great oscillations of temperature at the present time render improbable the theory of the existence of organic life even in the simplest forms. We do not know enough about past conditions to be able to speculate profitably concerning them.
+
+One of the difficulties in the way of the theory of terrestrial origin of meteorites lies in the presence in them of certain substances (phosphorus, nickel-iron, sulphides) which could not exist in an environment which included air and water.*
+
+*) 'An introduction to the Study of Meteorites.' British Museum (Natural History), Ed. 10. 1908, p. 33.
+
+In the hottest part of a volcano there would be a process of dissociation taking place, so that compounds would be resolved into elements, some of which would again enter into combination when a lower temperature permitted it.
+
+If products of dissociation were present in the interior of masses which were being hurled into space with terrific force and velocity, then before air or water could effect a change, the masses would be out of range and go on for ever unchanged until they collided with other bodies or entered an atmosphere. Sir Robert Ball inclines to the belief that the meteorites were projected from the earth in past ages, and the discovery of the nummulitic nature of these bodies confirms that belief. If these views are correct, the date of ejection must, of course, have been later than the period of metamorphosis of the fragment of changed limestone which constituted the particular aerolite.
+
+***
+
+If the plutonic rocks and such metamorphic rocks as the gneisses are all of them metamorphosed limestones, then it becomes difficult to draw any line of distinction between the two classes. Indeed, this difficulty seems to have been an old standing one in geology. I have seen for instance, a specimen from Argyllshire showing granite intruded into gneiss. The nummulitic disks are present in both portions, and can be seen easily in the gneiss, but only with difficulty in the granite. The granite was simply a part of a lower zone of much metamorphosed nummulitic limestone intruded into an upper zone of probably sedimentary changed nummulitic detritus (gneiss).
+
+***
+
 ...
 
 ## Explanation of Plates
