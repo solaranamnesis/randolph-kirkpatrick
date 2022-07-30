@@ -23,7 +23,7 @@ Linnaeus.
 
 ### [3. On the World-wide Distribution of Nummulitic Rocks](#3-on-the-world-wide-distribution-of-nummulitic-rocks-1)
 
-### 4. Geological and Geognostical Considerations
+### [4. Geological and Geognostical Considerations](#4-geological-and-geognostical-considerations-1)
 
 ### 5. Petrological Considerations
 
