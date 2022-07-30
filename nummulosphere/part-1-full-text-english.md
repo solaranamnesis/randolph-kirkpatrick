@@ -324,6 +324,72 @@ If the plutonic rocks and such metamorphic rocks as the gneisses are all of them
 
 ***
 
+Although plutonic and volcanic rocks are arranged chronologically according to their position with regard to the various strata to which they are juxtaposed, here they are consigned provisionally to the one Era - the Eozoic - because not only is the fauna identical, but the calcareous remains of that fauna have become "silicated." In 'The Student's Lyell,' Ed. J. W. Judd, 1911, p. 521, it is written, "There is no reason for doubting, however, that, if we could penetrate many thousands of feet beneath the roots of such volcanoes as Vulcano and Vesuvius, we should find the rhyolites of the one graduating through quartz-felsites into granite, and the basalts of the other passing by easy transitions through dolerites into gabbro."
+
+***
+
+The metamorphosis of calcareous skeletons whereby they become silicated, silicified, or dolomitised is common throughout the ages. _Eozoön_ which must now be definitely accepted as a Foraminiferan, furnishes an excellent example both of change into various silicates and into dolomite. A common form of silicon compound in _Eozoön_ is the magnesium silicate with iron, known as olivine, this when hydrated becomes serpentine. The grains of the Cretaceous Greensands are very frequently casts of Foraminiferal shells in glauconite or hydrated silicate of iron alumina and potash.
+
+The felspar and mica of granite are double silicates of alumina and potash. In the case of granite, the Foraminiferan is a massive colonial form, but the Greensand Foraminifera are minute separate shells, and, further, they have not been subjected to heat and pressure. Again, the originally pure carbonate of lime skeletons of the dolomites have become changed into calcium and magnesium carbonate.
+
+The prevailing conditions at various periods have been very different. Sir R. Murchison ('Siluria,' Ed. 4., 1867, p. 489) writes: "I could here cite the works of many eminent writers for numerous evidences of the grander intensity of causation in former epochs...."
+
+When the oceans were formed, the pounding down of the heated waters on to the perhaps scarcely formed crust must have led to their being super-saturated with certain minerals.
+
+In the excellent handbook, 'The Science of the Sea' (prepared by the Challenger Society, and edited by G. H. Fowler), Dittmar's analysis of sea water is given. It is stated that there are only 0'432 part by weight of calcium in 1,000 parts y weight of sea water, yet marine organisms with calcareous skeletons have to extract all the necessary lime out of that sea water. Silicon is not even mentioned, probably owning to it being present in such infinitesimal quantities. It must be there, otherwise how could Diatoms which have formed oozes covering an area of ten million square miles, also Radiolaria, and Sponges, make their skeletons?
+
+The above-mentioned facts point to the probability that one of the sources of the minerals present in metamorphosed limestones is the sea.*
+
+*) Recently I have found several important formations to be composed of sandy or sanded nummulites, the detritus of limestone rocks. The shells are modelled in fine particles of sand from which all, or nearly all, calcareous matter has gone. Sand of this nature may have been one of the sources of the silicon of the compounds of double silicates with silica found in igneous rocks.
+
+***
+
+Light is thrown on the problem of the composition of the earth's crust by the marvellous results of stellar spectroscopy. Sir Norman Lockyer ('Inorganic Evolution,' p. 169) shows that calcium, silicium and magnesium exist in the hottest stars. He points out that the gaseous elements and the non-gaseous elements first formed, together with sodium and the above-named three elements, would tend to be the chief chemical substances on and over the surface of the planet. With regard to organic evolution he writes: "The most easily thinkable organic evolution under these circumstances would be that of organisms built up of these chemical forms, chiefly because they would represent the more mobile or the more plastic materials;" I once heard Sir Norman Lockyer remark that elements like calcium, silicium and magnesium "had lost their chance." I understood him to mean that they had early become stereotyped into elements of relatively low atomic weight unable to undergo further "inorganic evolution" into more highly evolved "elements" with more complicated spectra. However, the time came when the relative lightness of certain compounds of the first two elements enabled them to become suitable scaffolding material for protoplasm.
+
+***
+
+Certain observations of Darwin on the shape of air-cells in banded trachytes are of interest from the point of view of the theory of nummulitic structure of those rocks. He writes ('Geological Observations,' p. 78): "That some cause does produce parallel zones of less tension in volcanic rocks during their consolidation we must admit in the case of the small flattened crenulated air-cells in laminated rocks of Acension." Darwin attributed the existence of zones of low tension to the stretching resulting from the movement of a slowly moving semi-solid mass. He compared the flow of the molten trachyte to that of a glacier, but Forbes' viscous theory of glaciers is no longer accepted. Darwin refers to a banded trachyte described by Scrope (Geol. Trans., 1827 (2), 2. p. 195, Pl. 24, fig. 2) which has burst upwards through an overlying mass of rock. Here I would point out with deference that it does not seem obvious why under such circumstances zones of low tension should arise from stretching. Harker ('A History of the Igneous Rocks') states that generally cooling magmas contract, and that in crystallization the net result is contraction. The banding of trachytes appears to me to result from cooling of an acid magma giving rise to vacuum planes in which small crystals form. The streaking of air-cells and the arrangement of felspar crystals lengthways would result from the flow movement. According to Darwin's theory the low-tension zones arise from stretching in the direction of flow, and the gases distributed through the mass become arranged in those zones. According to the theory of shrinkage due to cooling the magma in place of cooling like a homogeneous mass of iron contracts in visible zones, and thereby gives rise to vacuum-laminae. A "flow" of banded trachyte might be compared to a segment of a huge onion stone. In a large mass of this rock over four feet square, which I brought back from Porto Santo Island, I can often see four or five very fine bands passing through one nummulite shell. Lines of least resistance are present also in basic lavas, but are not visible (see p. 32).
+
+When a piece of banded trachyte is broken with a hammer, it fractures along the plane of the dark bands and reveals a layer of nummulite shells. The flattened crenulated air-cells probably owe their peculiar character to the fact of their being included within hollow flattened coiled nummulite shells or _débris_ of the same. The shells can be made out in the white felspar bands wherever crystallization has not gone too far, as well as in the dark zones. I find to my surprise that it is possible to make out some structural details of the shells in thin sections of rock. Very thick sections, however, would probably show the Foraminiferal structure better.
+
+***
+
+The discovery of the true nature of the igneous rocks will throw light on the formation of land elevations and ocean depressions.
+
+It seems improbable that volcanic islands are mere sporadic heaps of metamorphoased limestone. It is, I think, more likely that this rock is distributed over vast areas of the ocean floors under surface layers of the various oozes (see Chapter 11.).
+
+***
+
+It seems not unreasonable to assume that the shifting of huge masses of rock from the interior to form great heaps on the surface must give rise to unstable conditions of the crust.
+
+Changed nummulitic limestones support the rest of the crust of the globe, and when large quantities of it are ejected, great hollows will be formed. It is not surprising that earthquakes are common at Messina and Catania, and in Calabria. Mighty Etna, covering a base of 100 square miles and rising 12,000 feet, must have left huge subterranean gaps. Even over mines made by human hands, houses and streets fall in, as at Droitwich for example.
+
+One day when the earth's crust has become more stable, it will perhaps be possible to travel in these huge altered-limestone caverns "measureless to man."*
+
+*) The intrepid voyagers in Jules Verne's romance, 'A Journey to the Centre of the Earth,' started down a jokul in Iceland. After a wonderful journey, but before reaching their destination, they were hurled up on a raft borne on a column of hot water through the crater of Stromboli, much to the disgust and disappointment of the old German professor who had planned the trip.
+
+## 5. Petrological Considerations.
+
+The fact of having discovered a new and fundamentally important feature in the construction of igneous rocks, will, I trust, justify me in submitting a few remarks on the Stromatoporoid theory from the petrological point of view.
+
+I believe that in time to come, no student of petrology will omit to inform himself as to the structure of nummulites. It is not a matter of the first importance from the point of view of the present theory, whether a rock is acid, intermediate, basic or ultrabasic, or whether it is abyssal, hypabyssal or superficial. In the numerous igneous rocks of all varieties that I have examined I have found them to be disguised (? colonial) Foraminifera. Petrologists will, I am certain, appreciate the value of this discovery, for it will often aid them in understanding the construction of the masses of minerals with which they have to deal. The crystals of the silicon compounds, of which igneous rocks are mainly composed, are "allotriomorphic," _i.e._, their form is moulded by their surroundings. Obviously it will be important to understand the real nature of these surroundings. Firstly, there is the general "stromatic" arrangement of the mass as a whole, and secondly, the individual disks have each a central umbilicus (through which, apparently, a common bud-bearing stolon passed), a coiled series of segments, and - a by no means unimportant feature - rows of pores. I often see a relatively large formless plug, or a crystal in the umbilicus, and little crystals in the segments of the coiled Foraminiferal disks of igneous rocks, and a banded structure may be apparent not only in the gneisses but also in granites. Probably the retention of considerable traces of Stromatoporoid structure in Plutonic rocks is due to the fact that owing to compression in a confined space there is but little tendency to displacement of individual portions of the whole mass. In volcanic rocks such as viscous lavas the Foraminiferal structure is not effaced, because the temperature has not been sufficient to reduce the semi-solid mass to a liquid state.
+
+***
+
+When a petrologist, with the kindest intentions, shows me a section of a dolerite in which the mineral olivine is breaking down into serpentine, and apparently giving rise to structure regarded by believers in the organic theory as Foraminiferal, and asserts that the existence of such phenomena is fatal to that theory, I can only fall back on my common-sense. These petrological facts are very interesting in their place, but of no value whatever as evidence against the nummulitic theory. For I see clearly and abundantly the Formainiferal structure in many different kinds of igneous rocks. The nummulitic theory will be found to be thoroughly satisfactory, and the more so, the more it is looked into, and I believe it has only to be examined by competent men of science to be accepted by them. I have been told that I am making too much fuss about these insignificant Stromatoporoids about which no one knows or cares anything at all. Well, I believe that the discovery of the true nature of these organisms will prove to be of value in more than one science. The foundations of the world are built of nummulites which are probably Stromatoporoids.
+
+***
+
+Recently a petrologist concluded that a piece of rock we were both looking at was a sandstone. I at once denied that statement. The specimen was sectionised and found to be a finely-grained basalt. I had seen the disks and knew the rock was a piece of metamorphosed nummulitic limestone. I feel justified in relating this, to show what a useful and ready diagnostic instrument will presently be available for petrologists.
+
+***
+
+The new theory appears to lead to the conclusion that one of the factors of magmatic differentiation consists in the removal of certain elements from one part of a Stromatoporoid scaffolding or mass of shells to another. Possibly the basalts and trachytes of Porto Santo were approximately similar in character before the outbreak of volcanic activities. The differences now existing may be due to the upper strata of silicated nummulites having been poured out suddenly, while the remaining layers became subject to more prolonged igneous action, thereby losing by fluxion their alkaline constituents. Perhaps the well-known "Agua de Porto Santo" owes its alkaline character to the presence of salts that had once formed part of what is now a highly acid trachyte.
+
+Where trachytes are above basalts in the volcano, the condition might be due to fluxed elements sinking down into the lower strata and being retained there.
+
+***
+
 ...
 
 ## Explanation of Plates
