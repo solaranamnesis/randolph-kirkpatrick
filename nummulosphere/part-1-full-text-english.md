@@ -25,7 +25,7 @@ Linnaeus.
 
 ### [4. Geological and Geognostical Considerations](#4-geological-and-geognostical-considerations-1)
 
-### 5. Petrological Considerations
+### [5. Petrological Considerations](#5-petrological-considerations-1)
 
 ### 6. Biological Considerations
 
