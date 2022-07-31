@@ -27,7 +27,7 @@ Linnaeus.
 
 ### [5. Petrological Considerations](#5-petrological-considerations-1)
 
-### 6. Biological Considerations
+### [6. Biological Considerations](#6-biological-considerations-1)
 
 ### 7. Dolomitic Limestones
 
