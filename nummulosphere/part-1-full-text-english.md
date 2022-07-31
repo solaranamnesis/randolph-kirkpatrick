@@ -29,7 +29,7 @@ Linnaeus.
 
 ### [6. Biological Considerations](#6-biological-considerations-1)
 
-### 7. Dolomitic Limestones
+### [7. On Dolomitic Limestones](#7-on-dolomitic-limestones-1)
 
 ### 8. Oolitic Limestones
 
