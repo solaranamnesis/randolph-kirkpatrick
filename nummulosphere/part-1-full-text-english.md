@@ -402,6 +402,8 @@ Wherever there are igneous rocks (plutonic and volcanic) and certain metamorphic
 
 During the Eozoic Era, the plant might - if a little poetic licence can be allowed, and not much is asked for - almost be regarded as a gigantic Rhizopod encrusting a foreign body. A varied fauna and flora, mainly pelagic, must have existed contemporaneously, just as in the case of a great reef at the present day. These pelagic organisms probably led to a precarious existence evading the hungry pseudopods of the Dawn Animal. Possibly the lowest Metazoa (Zoophytes, Corals, Medusae, _etc._) owe the possession of those curious organs of offence and defence - the thread-cells - to a process of natural selection which led to the survival of the organisms which could best escape the deadly zone of pseudopods of the all-pervading _Eozoön_.*
 
+*) The word "Eozoön" is not used here in a strictly systematic sense. It is not at present possible, for instance, to state definitely whether or not the Stromatoporoids of the gabbro, gneiss and limestone of the Lower Laurentian region belong to one and the same genus and species, _viz._ to _Eozoön canadense_ Dawson, but it seems to me probable that they are identical.
+
 The Parazoa (Sponges) retained to a greater or less extent the microphagic way of feeding. They began a free life, but soon settled down and failed to travel far along the path of evolution. The Metazoa, on the other hand, developed a gastric cavity whereby the cells co-operated and poured out secretions which digested the food. The highly fed and free swimming Metazoa developed organs which responded to light, sound, _etc._
 
 Although _Eozoön_ represented the dominant type during the Eozoic Era, yet, from the point of view of the higher life, Destiny had done with the Dawn Animal. A stationary organism enclosed in a shell and provided only with mere prolongations of sarcode (pseudopods) was not endowed with organs which could help it to rise in the scale of being. The first essential for such an ascent was the development of a motile apparatus enabling the organism to move about as a whole, and accordingly the pseudopods were replaced by flagella. From the higher Protozoa were evolved two great groups, the Parazoa and Metazoa.
@@ -413,6 +415,8 @@ The neighbourhood of volcanic and coral islands appears to furnish interesting a
 Several of the recent Pharetron sponges, and some species of Lingula are found in the vicinity of these islands.
 
 That strange anachronism, the sponge-alga, _Merlia normani_, which is identical in structure with some of the Silurian Monticuliporoids,* is found off Porto Santo Island, and has probably existed there since Palaeozoic times. It could hardly have migrated from elsewhere, for Siliceous sponge larvae only exist in the free swimming state for a few hours. It seems probable that this remarkable organism will be found off all the volcanic islands in the temperate zones of the Atlantic.
+
+*) Recently Dr. E. R. Cumings (_Proc. Palaeont. Soc._ Indiana, 1911) has produced evidence that seems to show that certain of the Monticuliporoids are Polyzoa. I have evidence apparently proving that some of these fossils are sponges. There may be here a strange instance of homoeomorphy.
 
 ## 7. On Dolomitic Limestones.
 
@@ -441,6 +445,52 @@ Dr. Rothpletz ('American Geologist,' 10., 1892, p. 280, transl.) showed that ool
 I noticed on the outer surface of certain specimens of _Eozoön canadense_ that the Foraminiferal disks had a somewhat "oolitic" appearance, and this led me to examine carefully the Jurassic oolitic limestones. I found that they were composed of nummulitic disks, and that they were probably Stromatoporoids.
 
 At first, when a fine grained oolitic rock is viewed with a lens, only a confused generalised impression of uniformly granular structure will be obtained, but gradually the disks, with the central umbilicus and concentric arrangement of grains will be made out. The finer-grained oolites show the disk structure the most clearly and especially on weathered surfaces. It is usually possible to find fairly good disks with a coiled arrangement of grains, and here and there the outer wall of the original shell. The smaller oolitic grains when broken, often show - not a concentric structure - but edges of parallel series of bars.
+
+Oolitic structure, in the case of the mid-Jurassic Oolites, has, I believe, arisen in the following manner. These limestones contain over 90 per cent. of carbonate of lime. When they have been raised above the sea, the rain water charged with carbonic acid has percolated through, dissolved out and redeposited some of the lime in the chambers and around the partitions of the hollow shells. The soft delicate Foraminiferal disks have become more or less crushed together by the superincumbent weight. The softness and uniformity make this stone a good "freestone" cutting easily in all directions.
+
+Pisolitic limestones with large spherical or oval pebbles at first sight resemble conglomerates formed of gravel carried down by a rapid current, but, like the fine-grained oolites, they have been formed _in situ_. The pisolitic structure is due to the same causes as the finer oolitic, but the process of solution and re-deposition has gone on to a greater extent. Possibly the pisolitic condition results from the position of the limestone in a situation where an abundant supply of water would drain through the mass. A pisolitic pebble is made of calcite and is formed of concentric layers usually with a harder crystalline nucleus. These pebbles might be compared to the stalactites and stalagmites in a limestone cavern. They have apparently the same structure and mode of formation.
+
+The escarpments formed by oolitic limestones, in my opinion, resemble Foraminiferal chalk cliffs. The main difference between those commonly so designated and the oolites is that the Cretaceous ones have not become oolitic, for I now find that chalk is essentially a nummulitic rock. (See Appendix.)
+
+In addition to examining numerous samples of Oolitic rocks in museums and stoneyards, I travelled to an oolite district, _viz._ Cheltenham, to visit the freestone quarries. At Leckhampton Hill the Cotswolds form a bold escarpment overlooking the plain on which Cheltenham stands. I was fortunate in meeting two quarrymen, who gave me a great deal of valuable information. In a piece of freestone almost homogeneous to the inexperienced eye they could always detect "the plane of bedding." The stone-cutting saw went easier along that plane than in other directions - in spite of the name of the stone, _viz._ "freestone." The men told me of a quarry where the stone was so soft that it could be cut with a knife, and so close grained that unless the quarrymen marked it he would be unable afterwards to know the direction of bedding. But a little later on, the weather would bring out the lines of bedding, and if a house were built and the stones fitted without regard to these lines - at first invisible - an ugly effect would be produced.
+
+Some freestones are as absorbent as sponges, and hence the houses and cottages built of this material are often very damp. It is not surprising that the primitive Stromatoporoids were saturated with silicates and the dolomites with magnesium salts.
+
+A very free freestone, soft and easily cut in any direction, was the kind I was looking for, because it would be less modified from the original state. The quarry above referred to was a "mine-quarry" in the Inferior Oolite at Whittington, about six miles east of Leckhampton. The disks in samples from the Whittington Quarry are fairly clear not only _en face_, but even in vertical section. A word of caution is necessary, _viz._ not to mistake for disks the fragments of Crinoids present in some portions of the strata of Oolitic limestones.
+
+Later on I visited Portland, and also the Oolite district round Bath, and examined numerous examples of freestones in quarries, stoneyards, and especially in old buildings. The weathered surfaces of old abbeys and churches often show the nummulitic disks very well, because the gentle action of dissolving agencies carries away the granules which mask the true structure, and leaves the outline of the shells. I found the Foraminiferal structure well shown in some large sooty flakes given me by the masons repairing Henry 7th's Chapel. The yellow under surface of the flakes still showed the oolitic structure masking the form of the disks.
+
+***
+
+Several observers, notably Nicholson and Etheridge, and Wethered, have described strange dubious organisms which they have found in Ordovician, Carboniferous and Jurassic limestones. These organisms, which have been relegated to the genera _Girvanella_,* and _Mitcheldeania_, have certain characteristics in common, in that they are composed of layers of concentric flattened disks with fine radiating tubules. These genera are possibly founded on the varying appearances presented by nummulitic disks. I would suggest that the vermiculate structure often seen in _Girvanella_, may in some cases be due to the formation of casts of the coiled chambers of the coils within coils of the nummulite shells. A vertical or oblique section of a pile of such shells would show a layrinthine vermiculate structure. Sometimes, however, a crinoid stem or some other object appears to form a nucleus to a mass of coils (Wethered, "On the Microscopic Structure of Jurassic Pisolite," _Geol. Mag._ 1889, 6. p. 196, Pl. 6. fig. 11). Whatever be the precise explanation of the various structures found in sections of Jurassic Oolites, no one, I believe, could study a weathered surface of freestone on some ancient abbey without being soon convinced as to the nummulitic nature of that stone. Nature's "preparations" made in a very leisurely way, are in this case the best we could have.
+
+*) I am much indebted to Dr. J. S. Flett of the Scottish Geological Survey for his kindness in sending me a piece of Girvan limestone. I wished to examine a specimen of Nicholson and Etheridge's _Girvanella problematica_. I found the limestone to be nummulitic and probably Stromatoporoid.
+
+***
+
+The Blue Lias limestones of Lyme Regis are partly Foraminiferal, and contain nummulitic disks. The latter are probably Stromatoporoid. These limestones contain many fossils, especially Ammonites, which of course became covered up when they died. Owing to their softness the disks are compressed to flat flakes, and from super-incumbent pressure they fill in the outer chambers of the Ammonites. The existence of great pressure may be judged from the fact that even fairly large Ammonites often form merely thin films, which can only with great difficulty be separated out from the matrix in which they are imbedded.
+
+***
+
+Also I have found the shells in the grey mud coating some Ammonites I picked up at Chapman's Pool and Kimmeridge Beach.
+
+The Upper Greensand Reigate Firestone is a calcareous nummulitic rock infiltrated with sand. The disks are clearly to be seen on the weathered surfaces of old stones from Henry 7th's chapel.
+
+When the Kimmeridge mud and firestone were put into acid they effervesced furiously, leaving deposits respectively of fine mud and fine sand.
+
+***
+
+In a specimen (A 1663) in the Natural History Museum, labelled Arenicolites, Basal Quartzite, from Assynt, Sutherland, I find traces of the Foraminiferal disks. I believe we have here a silicified Cambrian or Lower Silurian Stromatoporoid. A larger specimen in the Jermyn Street Museum, from Assynt, and labelled "piped quartzite," shows fairly well that the pipes or Arenicolites are etched out columns of nummulites. (The "Basal Quartz" is evidently the formation C depicted in the first coloured plate in Murchison's 'Siluria,' third and fourth editions.)
+
+***
+
+About the beginning of the Cainozoic Era there was a great development of the undoubtedly _individual_ type of nummulites. Over immense areas extending from Morocco and Spain to the frontiers of China nummulitic formations thousands of feet thick and entering bodily into the formation of the middle and upper parts of great mountain systems (Atlas, Pyrenees, Alps, Carpathians, Himalayas) were laid down evidently over rising areas. Portions of Eocene Sea-bottoms are found at the summits of Himalayan peaks. The nummulite shells belong to many species, and vary in size from a pin's head to a Marie biscuit.
+
+It is not unlikely that the Stromatoporoid type persisted beyond the Mesozoic Era. Indeed, a colleague has informed me that he has seen what appears to be a recent Stromatoporoid. I think it probable that there are Stromatoporoids living now in warm waters in the neighbourhood of coral islands. These colonial Formainifera would probably resemble corals or coralline algae.
+
+_Postscript._ - Mr. E. B. Wethered has most kindly shown me his valuable collection of slides and beautiful photographs of _Girvanella_. I am now absolutely convinced that the explanation given on p. 67 is the true one. I can clearly see sections of shells _en face_ with two or three concentric "tubes" with _radial septa_. Vertical sections show linear rows of hollow blocks or spaces, the inner walls of coils-within-coils having been dissolved; also series or pores are visible occasionally. In an interesting paper on _Girvanella_, to which Mr. Wethered referred me, F. Chapman (Australian Assoc. Adv. Sci., Adelaide, 1907, 11. p. 384) assigns the genus to the blue-green algae, and states that "it is here shown to have no claim to be regarded as one of the formainifera." _Girvanella_ has been looked upon as a Foraminiferan, Sponge, "Stromatoporoid" (Hydrozoa), calcareous alga, worm-tubes, _etc._ Its characters, however, are based on the altered condition of the shells of a colonial nummulite or Stromatoporoid (in the new sense).
+
+## 9. On Pennant Grits.
 
 ...
 
