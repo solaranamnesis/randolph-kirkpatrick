@@ -390,6 +390,50 @@ Where trachytes are above basalts in the volcano, the condition might be due to 
 
 ***
 
+A petrologist tells me that the proofs of the mineral origin of _Eozoön_ are now much more convincing than formerly, but so are the proofs of organic origin. One is reminded of the competition between armour and projectiles or safe-makers and burglars. The nummulitic disk, however, is doubtless going to settle the question at last.
+
+## 6. Biological Considerations.
+
+Stromatoporoids and nummulites in general are probably for the most part shallow-water organisms (see p. 40).
+
+Sir John Murray estimates that if the land were cast into the sea and all reduced to a uniform level, an ocean 1450 fathoms deep would cover the globe. It does not follow from this that the floor of the ocean could not be formed of rocks composed of benthos organisms that had lived in relatively shallow water. As I mentioned above, it seems improbable that volcanic islands represent mere _sporadic_ heaps of metamorphosed nummulites. It is, I think, more likely that they are local upheavals of a widely spread formation underlying the oozes which carpet the ocean floor. The depressions resulting from the assumed sinking of the shallow water formation would be complementary to the land elevations caused by the upheaval of that formation.
+
+Wherever there are igneous rocks (plutonic and volcanic) and certain metamorphic rocks, there are nummulitic formations, _i.e._ portions of ancient sea-floors.
+
+During the Eozoic Era, the plant might - if a little poetic licence can be allowed, and not much is asked for - almost be regarded as a gigantic Rhizopod encrusting a foreign body. A varied fauna and flora, mainly pelagic, must have existed contemporaneously, just as in the case of a great reef at the present day. These pelagic organisms probably led to a precarious existence evading the hungry pseudopods of the Dawn Animal. Possibly the lowest Metazoa (Zoophytes, Corals, Medusae, _etc._) owe the possession of those curious organs of offence and defence - the thread-cells - to a process of natural selection which led to the survival of the organisms which could best escape the deadly zone of pseudopods of the all-pervading _Eozoön_.*
+
+The Parazoa (Sponges) retained to a greater or less extent the microphagic way of feeding. They began a free life, but soon settled down and failed to travel far along the path of evolution. The Metazoa, on the other hand, developed a gastric cavity whereby the cells co-operated and poured out secretions which digested the food. The highly fed and free swimming Metazoa developed organs which responded to light, sound, _etc._
+
+Although _Eozoön_ represented the dominant type during the Eozoic Era, yet, from the point of view of the higher life, Destiny had done with the Dawn Animal. A stationary organism enclosed in a shell and provided only with mere prolongations of sarcode (pseudopods) was not endowed with organs which could help it to rise in the scale of being. The first essential for such an ascent was the development of a motile apparatus enabling the organism to move about as a whole, and accordingly the pseudopods were replaced by flagella. From the higher Protozoa were evolved two great groups, the Parazoa and Metazoa.
+
+***
+
+The neighbourhood of volcanic and coral islands appears to furnish interesting archaic types of fauna.
+
+Several of the recent Pharetron sponges, and some species of Lingula are found in the vicinity of these islands.
+
+That strange anachronism, the sponge-alga, _Merlia normani_, which is identical in structure with some of the Silurian Monticuliporoids,* is found off Porto Santo Island, and has probably existed there since Palaeozoic times. It could hardly have migrated from elsewhere, for Siliceous sponge larvae only exist in the free swimming state for a few hours. It seems probable that this remarkable organism will be found off all the volcanic islands in the temperate zones of the Atlantic.
+
+## 7. On Dolomitic Limestones.
+
+It may at first sight be difficult to understand what connection can exist between _Eozoön_ and dolotmites, but I have found there is a close relationship, and that _Eozoön canadense_ has given the clue to the real nature and origin of the Permian dolomitic limestones.
+
+Tyrol is the fairyland of the Alps, and a glorious country to spend a vacation in. From the summits of its cimas and campaniles one looks down sheer precipices thousands of feet deep, and on every side are pinnacles of most weird and fantastic shape.
+
+The mountains are made of pure magnesian limestone, and very frequently no fossils are to be seen in them. I believe the most accepted theory is that the rocks are coral reefs, but that all, or nearly all, traces of coral structure have disappeared during the process of dolomitisation, _i.e._, the conversion of the original pure calcium carbonate into carbonate of lime and magnesia.
+
+I have made the strange discovery that the Austrian Dolomites and the Permian dolomitic limestones of England are purely Foraminiferal, and made up of nummulites which may be colonial. I have seen the nummulitic disks in numerous examples of these rocks. Further, a layered arrangement is frequently discernible.
+
+The substance of the rock has become so fused and amalgamated probably partly by solution before dolomitisation, and by pressure, that it is not always easy, especially in the highly crystalline rocks, to see the disks with their central umbilicus and radial and concentric pattern, but they are there, and can frequently be made out without much difficulty by means of a lens.
+
+In the case of some dolomitic rocks, other fossils than the nummulites are present. The Foraminifera did not have the sea all to themselves, other organisms died, and sank down to the Formainiferal reefs and became covered up. I have seen the disk structure best in a specimen of pure dolomite from Ledrotal, Tyrol, one of several examples procured for me from abroad.
+
+This discovery of the origin of the dolomitic limestones is an especially fortunate one at the present moment. For perhaps suspicion will arise that there may be, after all, some truth in the statement that granites, basalts and lavas are likewise composed of nummulite disks. Then again, the fact that dolomites form cliffs thousands of feet thick may enable us to realise that the primitive nummulites or Stromatoporoids might - and did - form nearly all round the globe, beds of very porous limestone of immense thickness, which became transformed into silicates. These, owing to their position became compressed on account of the shrinkage of the planet, heated, molten or semi-molten, and finally cooled and crystallized. In spite of all this the original "layering" and also the form of the disks can often be clearly detected; of that I am quite certain.
+
+## 8. On Oolitic Limestones.
+
+The Jurassic Oolitic Limestones have a structure resembling petrified fish-roe (oon lithos stone egg). The usually spheroidal grains vary considerably in size in different oolites.
+
 ...
 
 ## Explanation of Plates
