@@ -33,7 +33,7 @@ Linnaeus.
 
 ### [8. On Oolitic Limestones](#8-on-oolitic-limestones-1)
 
-### 9. Pennant Grits
+### [9. On Pennant Grits](#9-on-pennant-grits-1)
 
 ### 10. Slates
 
