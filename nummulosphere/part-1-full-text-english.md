@@ -434,6 +434,14 @@ This discovery of the origin of the dolomitic limestones is an especially fortun
 
 The Jurassic Oolitic Limestones have a structure resembling petrified fish-roe (oon lithos stone egg). The usually spheroidal grains vary considerably in size in different oolites.
 
+The peculiar structure of these rocks, which form very extensive beds in the West of England, has been attributed to the wearing down of coral reefs. The fine grains are supposed to have sunk gradually in the sea. When they reached certain zones of water containing excess of carbonic acid resulting from the decay of organic matter, it is assumed that the carbonic acid slightly attacked the sediment, forming the soluble bicarbonate, which was again precipitated as calcium carbonate among the interspaces of the slowly settling mud. This course of events is found to take place in the neighbourhood of coral reefs at the present day. It is pointed out that oolitic grains form in certain mineral springs and also that some coral sands in the West Indies are oolitic. Evidently oolitic structure can arise in many ways.
+
+Dr. Rothpletz ('American Geologist,' 10., 1892, p. 280, transl.) showed that oolitic granules are present in Salt Lake, and that they are there formed by a lime-secreting alga - _Gloeocapsa_. Further he found oolitic granules on the shores of the Red Sea, and a little way inland, an oolitic limestone cliff supposed to have been formed by blown (oolitic) sands. The loose oolitic granules often had a nucleus of sand grains. All this may be wholly correct, but if I were in the neighbourhood, I would think it worth while to see if the cliff were not in reality a Foraminiferal one from which the oolitic granules on the shores had originated. The nucleus of sand grains in each granule might have resulted from solution of the calcium carbonate of the pure granule and redeposition round the sand particles.
+
+I noticed on the outer surface of certain specimens of _Eozoön canadense_ that the Foraminiferal disks had a somewhat "oolitic" appearance, and this led me to examine carefully the Jurassic oolitic limestones. I found that they were composed of nummulitic disks, and that they were probably Stromatoporoids.
+
+At first, when a fine grained oolitic rock is viewed with a lens, only a confused generalised impression of uniformly granular structure will be obtained, but gradually the disks, with the central umbilicus and concentric arrangement of grains will be made out. The finer-grained oolites show the disk structure the most clearly and especially on weathered surfaces. It is usually possible to find fairly good disks with a coiled arrangement of grains, and here and there the outer wall of the original shell. The smaller oolitic grains when broken, often show - not a concentric structure - but edges of parallel series of bars.
+
 ...
 
 ## Explanation of Plates
