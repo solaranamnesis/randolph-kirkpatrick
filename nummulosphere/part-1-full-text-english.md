@@ -31,7 +31,7 @@ Linnaeus.
 
 ### [7. On Dolomitic Limestones](#7-on-dolomitic-limestones-1)
 
-### 8. Oolitic Limestones
+### [8. On Oolitic Limestones](#8-on-oolitic-limestones-1)
 
 ### 9. Pennant Grits
 
