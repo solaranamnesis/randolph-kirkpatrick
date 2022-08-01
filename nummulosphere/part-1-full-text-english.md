@@ -492,6 +492,64 @@ _Postscript._ - Mr. E. B. Wethered has most kindly shown me his valuable collect
 
 ## 9. On Pennant Grits.
 
+Recently, when looking over a stone-yard at the foot of Leckhampton Hill, I saw among the great heaps of freestone several slabs of grey rock which I took to be igneous. The Foraminiferal disks were very distinct both _en face_ and in vertical section. In fact these siliceous medals were in some respects better preserved than the calcareous oolitic ones which had been formed immeasurable aeons later. On my return to London, I wrote to the manager of the stone-yard for information about these slabs, and was told they were blue Pennant, _i.e._ mid-Carboniferous grits. I had seen clearly the nummulitic structure, however, and I began to think that if sedimentary grits could exhibit a structure resembling that of Foraminiferal disks, then possibly my whole theory might be wrong, and for a moment, I even thought, not without a feeling of relief at the prospect of a return to more peaceful and less polemical pursuits, of consigning my manuscripts to the waste-paper basket.
+
+I was unaware then of a fact which I found later to be of common occurrence, _viz._ that the detritus derived from igneous and certain limestone rocks is composed to a great extent of nummulitic shells and not merely of shapeless particles of sand and mud.
+
+In the memoir of the Geological Survey on the Geology of the South Wales Coal Field, Part 8, the country round Swansea, 1907, p. 58, the following account is given of the lithological characters of the Pennant.
+
+"E. 3579. West Quarry, Cockett."
+
+"A grey micaceous sandstone. Under the microscope it consists of rather well-rounded grains of quartz, with a small amount of felspar which includes orthoclase, microline and acid plagioclase. Colourless mica is common in worn frayed-out tablets. Small fragments of dark shale, mostly sharp-edged and angular are frequent. There are a few scales of biotite and a little chlorite. The cementing material, which is rather abundant, looks like fine _débris_. It consists of small siliceous grains and fine scaly matter, partly original argillaceous sediment, partly the product of the decomposition of felspathic _débris_. Carbonates are practically absent. There are black spots of iron-oxide and opaque finely divided carbonaceous (?) matter."
+
+This is undoubtedly an excellent description of Pennant, but no mention is made of the nummulite shells.
+
+Mr. A. Dale, the chairman of the Stone Concessions Co., very kindly sent me a piece of one of the slabs of Pennant I had seen at Leckhampton. On re-examining it, I again became convinced that it was mainly composed of silicated nummulitic _débris_. I spent the next week-end at Swansea in order to investigate the Pennant series where it is best developed, the seams attaining a total thickness of 970 yards. In this thickness are included several seams of coal each with its underclift of clay, and also layers of conglomerate, notably the one discovered in the Tawe Valley by Sir. W. Logan. After examining a quarry in Swansea itself, I visited Inismidu about twelve miles from the town. Here I found plenty of material showing well the nummulitic structure, and furnishing evidence of metamorphic action. On some slabs there are traces of graphite, and on many pieces layers of quartz* wholly continuous with the bluish-grey portion of the rock.
+
+*) Several of my Inismidu specimens show well the transition between the opaque grey rock and the bands of quartz. In some instances, part of a Foraminiferal disk is opaque, and part crystalline. In a specimen, given to me by Mr. H. P. Wiggins, of pure vitreous crystalline quartz rock from the Himalayas, it is possible to trace the disk structure, through with difficulty. Probably many quartz rocks will be found to be composed of metamorphosed nummulites.
+
+In some of my specimens from the Ffinone quarry there are traces, not only of layers of bituminous matter, but also of fine flakes showing organic structure. The bituminous material, which probably resulted from condensation of products of volatilisation of vegetable matter, is present in fine films, or it may form little blocks in the chambers of the Foraminiferal shells. Some pieces of rock show numerous small crystals of quartz.
+
+Pennant grits are composed mainly of nummulitic detritus derived from igneous rocks. The micaceous character of the grit is, I suppose, in itself a proof that the original mother-rock was probably igneous. The bands of quartz and the films and particles of bituminous material evidently must have resulted from metamorphic action taking place in the sedimentary deposit. The Pennant is only one of innumerable examples of the endless mutation of things, for the igneous rock whence the secondarily-metamorphosed grit was derived was once a pure nummulitic limestone.
+
+I have detected nummulitic structure in the Millstone grits (_e.g._ Farewell Rock), though only with great difficulty, apparently owing to the high degree of metamorphic change whereby the silica has become re-crystallized.
+
+## 10. On Slates
+
+After I had completed, as I supposed, my preliminary investigation on the occurrence of Stromatoporoids and nummulitic rocks throughout the Geological Eras, I became aware of the apparent existence of a great gap in the sequence of these organisms. They were extremely prevalent during the Eozoic Era, and again during the Ordovician, Silurian and later periods of the Palaeozoic Era, but I had only scanty evidence of their existence during the great Cambrian Period, in which they might have been expected to be very abundant.
+
+I have now had the good fortune to find that the gap above alluded to is filled in by the slates, which are undoubtedly composed of the compressed silicated shells of nummulites, these being almost certainly colonial nummulites or Stromatoporoids.
+
+Recently, when examining a piece of slate with a x10 lens, I saw the much flattened barely perceptile disks all over the surface, and the willow patterns at the edges of the slate. Naturally a very close scrutiny is necessary, and every minute detail must be carefully noted. Generally an umbilical area is seen at the centre of each circle, and not infrequently in some rough slates it is possible to make out a concentric or radial arrangment of flakes, and even rows of pores. The fine, curved, closely-set lines at the edges of the slab are the edges of the coils-within-coils of the nummulitic shells. The still finer spaces between these lines are divided up by the edges of the septa, _i.e._ the spaces between the main ribs of the willow-pattern area occupied by scalariform series of fine lines at right angles to those ribs, with the result that an extremely fine square-meshed network pattern is formed.
+
+The search for the disk- and willow-pattern reminds me of the game of picture-puzzles, where one has to detect some hidden design in a maze of lines or in masses of light and dark shading.
+
+The fact must be taken into account that the nummulites out of whose skeletons the slate is formed lived many decades of millions of years ago, and that the original soft, delicate calcareous shells have become silicated, crushed together by enormous pressure and finally rent asunder artificially in various planes by means of cleavage.
+
+When the observer sees at a broken edge of a slate the rows of very minute square meshes, he will begin to realise that he is looking at something other than a compressed mass of particles of mud. The evidence afforded by the circles or disks might not, perhaps, be so convincing, because it is conceivable that masses of polyhedral or globular particles could become pressed into flakes.
+
+In order to inspect a large and varied assortment of slates, I obtained permission from Messrs. Bingley and Folliot to go over their extensive slate yards, which are crowded with material from the quarries of Great Britain and Ireland, Europe, and the American continent. Here I saw rough varieties showing clearly the Foraminiferal disks both _en face_ and in section. I tried the beautiful experiment of cleaving a long thick slab into thin plates, but found that practice and experience are necessary. Generally, after an excellent start, and when one is beginning to feel proud of oneself, the split tails off to the surface, unless due counter-pressure is exercised with foot and knee.
+
+A charmingly written account of slates and of some of the very interesting problems connected with them is given by Tyndall in his 'Fragments of Science,' and also in 'The Glaciers of the Alps' (Introduction). He relates that one day he was standing at the edge of the Penrhyn slate quarry with a friend who explained the phenomenon of cleavage by comparing the slate rock to deposited sandstones with planes of bedding. Tyndall remarks: "But this was a mistake, and, indeed, here lies the grand difficulty of the problem," and he points out that the planes of cleavage often make a high angle with those of stratification. He asks: "What is the agency that enables us to split Honister Crag or the cliffs of Snowdon into laminae from crown to base?" Professor Sedgwick had ascribed to slaty cleavage a crystalline origin. He supposed that the particles of slate rock were acted on after their deposition by "polar" forces, which so arranged those particles as to produce cleavage planes. Tyndall pointed out, however, that slate was composed of heterogeneous particles, which, though very fine, were of immense size in comparison with molecules.
+
+H. C. Sorby, D. Sharpe, and Tyndall brought forward evidence based on observation of slates and the fossils they contained, and on experiment, to show that pressure alone was sufficient to account for cleavage.
+
+In the case of most of the slates I have examined, the Foraminiferal disks are _en face_ on the surface of the slab and in vertical section at the broken edges of the latter. There would be a natural tendency for the disks, when deposited as sediment, to lie horizontally like saucers thrown into the water.
+
+At the same time, I have seen disks lying very obliquely, or even vertically cleaved, on the surface of the cleavage plane. Occasionally, too, disks _en face_ are seen at the broken edges.
+
+Recently I have seen some beautiful examples of slates showing nummulitic structure, _viz._ in weathered slabs on the roofs of London buildings. The nummulites are well shown in certain rather calcareous slates from Lancashire quarries. Where a slab has been lightly overlaid by its neighbour, the friable products of weathering have not been washed away by the rains. Here one can often see the umbilicus, pores, and compressed layers of bran-like scales formed by the broken down alar prolongations. These slates effervesce considerably in acid.
+
+Tyndall refers to the mottled pale green patches on slates, and considers them to be rolled masses of fine mud containing less iron than the darker portions. I find that these spots resemble the darker parts in being composed of nummulitic shells. At Penrhyn I saw pale "spots" in the shape of rings surrounding a dark grey central area, and a shell may be partly pale and partly dark. The deficiency of iron which Tyndall found may have caused not only the paler colour but also the greater smoothness. For a slight difference in composition might easily bring about a variation in the grain and texture.
+
+Adam Sedgwick, in 'The Synopsis of Classification of British Palaeozoic Rocks,' 1885, Introduction, p. 34, makes an interesting comparison between slate and granite. Of the latter he writes: "It gives no appearance of a slaty structure; yet it cleaves (sometimes through large spaces) in one constant direction, and in nearly parallel planes, much more readily than in any other." I can see very distinctly in medium-grained granites the crystallized shells _en face_, and here and there the willow pattern of shells in vertical section, _i.e._, both granite and slate, are composed of nummulite shells, but I believe the former rock to be a limestone metamorphosed _in situ_ by chemical action (decalcification and "silication") and by heat. The slate, on the other hand, is evidently a sedimentary formation.
+
+I paid a week-end visit to North Wales in order to see the slate quarries at Penrhyn and Llanberis, and to examine planes of bedding and cleavage, and jointings.
+
+I was shown over the Penrhyn quarry by Mr. R. Morris, who gave me much valuable information and many interesting specimens. All of the latter fully confirm my statement that slates are composed of compressed nummulitic shells.
+
+## 11. The Abyssal Red Clays.
+
 ...
 
 ## Explanation of Plates
