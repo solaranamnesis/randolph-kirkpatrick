@@ -35,7 +35,7 @@ Linnaeus.
 
 ### [9. On Pennant Grits](#9-on-pennant-grits-1)
 
-### [10. On Slates](#10-on-slates)
+### [10. On Slates](#10-on-slates-1)
 
 ### [11. The Abyssal Red Clays](#11-the-abyssal-red-clays-1)
 
