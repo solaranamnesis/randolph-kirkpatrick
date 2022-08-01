@@ -35,9 +35,9 @@ Linnaeus.
 
 ### [9. On Pennant Grits](#9-on-pennant-grits-1)
 
-### 10. Slates
+### [10. Slates](#10-slates-1)
 
-### 11. Abyssal Red Clays
+### [11. The Abyssal Red Clays](#11-the-abyssal-red-clays-1)
 
 ### 12. The Dawn Animal in Daily Life
 
