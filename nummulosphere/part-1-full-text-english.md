@@ -572,6 +572,167 @@ The Red Clay from Station 165 A, June 19, 1874, 2600 fathoms (about 200 miles E.
 
 Not to crowd in too many details, I would mention that I have examined deep-sea oozes of all kinds, _viz._ Globigerina, Radiolarian, Diatom, Blue Mud (Terrigenous), Red Clays from the areas where they occur in the Atlantic, Indian Ocean, and Pacific, and have found them to be composed of a fundamental matrix of palaeo-nummulitic mud crowded with the remains of various organisms.
 
+In the case of volcanic sands there is a singular contiguity of fragments of ancient sea-bottoms which have been ejected from upheaved areas, with remains of nummulitic sea-bottoms which have been depressed so as to form troughs. The Pteropod oozes again, do not reveal any traces of their immersion in nummulitic mud, probably because the latter got washed away. Sir John Murray ('Science of the Sea,' p. 214) writes concerning certain samples such as manganese nodules, _etc._, coming up in the trawl, "it is, however, almost certain that these various objects were embedded in clay, which passed through the meshes of the net."
+
+Foraminifera actually living on the ocean floor do not sink, precisely because they are living, the shells being immersed in outspread contractile protoplasm.
+
+Several of the Diatom oozes were merely powdery, but fortunately sometimes lumps were present, and these showed the nummulitic structure. The Radiolarian oozes reveal the nummulitic structure better even than Red Clay, and this is curious, seeing that the latter is the purest form of the ancient changed-limestone and moreover, the common matrix of all the oozes. Apparently the long spines of the shells act as the axial rods of a kind of _béton armé_.
+
+The floor of the ocean is composed of an altered nummulitic limestone. The consistency is that of a soft clay or mud, but the nummulitic shells still retain in a varying degree their shape and structure.
+
+When foreign bodies arrive at the surface of the ooze they gradually sink in and become more and more crowded in the nummulitic matrix, thereby imparting special characters to it. In accordance with a logical terminology for the oozes, they would be named Globigerina palaeo-nummulitic, Radiolarian palaeo-nummulitic, _etc._ Sir John Murray estimates that of pelagic deposits the nearly pure palaeo-nummulitic ooze, the Red Clay covers 51'5 millions of square miles, in the Atlantic, Indian Ocean, and Pacific (mainly). Globigerina ooze occupies 49'52 millions of square miles, Radiolarian 2'29 millions, Diatom 10'88 millions, and Pteropod ooze about 0'4 million. Terrigenous deposits (blue, red, green, volcanic and coral muds) cover an area of 28'05 millions of square miles.
+
+We now have direct and certain evidence that the greater part of the 142 millions of square miles of ocean floor is formed by a nummulitic limestone. One of the layers of the globe is made of this material and might be termed "nummulosphere," this being the base of the "biosphere" of Walther.
+
+The abundant evidence of compression in the silicated nummulite shells is mainly and primarily due to their being squeezed during great earth movements. The existence of minute crystals in some of the red clays, and of admixture of volcanic products (_e.g._ pumice and glassy and volcanic products in the Red Clay from St. 165, which is far removed from volcanic areas) seem to indicate the existence of igneous action, which is, I believe, usually simply a symptom of compression.
+
+It is fairly certain that these altered nummulitic limestones never grew in the abysses where they are now found. For one thing, how could such gigantic masses of organisms get their food and their calcium carbonate? Like the reef corals they must have been relatively shallow-water organisms. The sinking down of a shallow-water formation to a depth of 20,000 feet is not more wonderful than the up-raising of a nummulitic sea-floor to form a Himalayan peak.
+
+***
+
+The fact that the disks in nummulitic clays can retain their form is seen in the case of the Fullers' Earth formation of the Inferior Oolite. Also it is not difficult to see the disks in coloured clays used for artists' pigments, these often being the products of disintegrated igneous rocks.
+
+Further, I can detect the disks in a sandy clay which I dug out from a railway cutting (Goldsworthy Hill, Middle Bagshot) near Woking. Accordingly the persistence of nummulitic pattern in the abyssal Red Clay is not a unique phenomenon.
+
+***
+
+It is singular there are so few recent species of the genus _Nummulites_. Brady describes only one in his "Challenger" Report, _viz._ _N. cumingii_, a tropical form living in 10-25 fathoms. He writes, "The genus _Nummulites_ exemplifies the highest type of structure attained by perforate calcareous Foraminifera." The nummulites, whether individual or colonial, of igneous and of many other rocks have the typical characters of the genus _Nummulites_. It is strange that the highest type should have existed from the earliest period.
+
+***
+
+The discovery of strong evidence tending to prove that the abyssal ocean floors have gradually sunk to their present position may throw light on problems of distribution of marine organisms. Life did not originate in the great depths. Fixed organisms came to be there either by migration from lesser depths, or by being carried down passively owing to sinking of the floor on which they lived.
+
+## 12. The Dawn Animal in Daily Life.
+
+"Nothing of him that doth fade  
+But doth suffer a sea-change  
+Into something rich and strange."  
+_Ariel in "The Tempest."_
+
+"Swift as the sparkle of a glancing star,  
+I shoot from heave." - _Comus._
+
+I was recently asked which was the commonest fossil. I had no hesitation in replying, "_Eozoön_," and it is strange that this should be the case, seeing that the very existence of this organism has been denied.
+
+If my discourse is diffuse, it is because the subject thereof is so universally diffused. We use the calcareous or silicated skeletons of nummulitic rocks to build houses, churches and monuments. Again, much of the road metal or Macadam is composed of the same material. Sulphur, which may hvae other sources than the organic one, undoubtedly is associated with _Eozoön_. I have a specimen of disintegrated _Eozoön_, in the form of trachyte, broken off from the interior of the upper crater of Teneriffe, which contains disks of _Eozoön_ and granules of pure sulphur.
+
+Possibly even the carbon of which diamonds are made once formed part of the sarcode of _Eozoön_, for these gems are found in the matrix of igneous rock.* The high temperature caused dissociation of the carbon compounds and melting of the carbon, which crystallized under immense pressure.
+
+*) I have since examined a piece of "Blue Ground" diamond matrix from the Premier Diamond mine near Pretoria. I found the Stromatoporoid structure clearly visible in this serpentine rock, which forms plugs in volcanic craters.  
+Apparently there are no dikes, and if this be the case, it may account for the formation of the carbon crystals. For if dikes could not burst through the unyielding quartz formations surrounding the craters, there would be extra pressure in the craters themselves.
+
+Mr. E. Morgan of Richmond showed me a large piece of felspathic rock full of sapphires from the Burma mines. The whole rock shows the disk structure. Sapphires and rubies are probably remnant products. The lime and silica of the lime-felspar of the matrix have disappeared in places, leaving only sesquioxide of alumina tinged with chromium or iron. Traces of Foraminiferal structure are visible in some of these gems, where the transformation and crystallisation have not been completed. Diamonds may have come from the flesh of the Dawn Animal, and certainly many other gems from its silicated skeleton.
+
+Again mica is a silicate which formed part of a nummulitic and probably Stromatoporoid rock.
+
+Mr. H. P. Wiggins very kindly permitted me to look round his great mica warehouse crammed with specimens from all parts of the world. It was not difficult to trace the Foraminiferal structure in some of the rough masses of this mineral.
+
+***
+
+A curious association of the Dawn Animal with the daily course of life is afforded by the sacred stone fixed outside the south-east corner of the Kaaba at Mecca. All travellers* agree that this stone is volcanic or that it is an aerolite. Several times daily many millions of Mohammedan profiles turn or ought to turn towards Kaaba, of which the stone constitutes the most important part. Very probably, then, a fragment of the Dawn Animal constitutes the omphalos of the Mohammedan world. Mohammed gave out that the stone was given by the angel Gabriel to Abraham (a theory I believe in almost as little as in that of the mineral origin of _Eozoön_).*
+
+*) See R. Burton's 'Pilgrimage to El Medinêh and Mecca,' vol 3., pp. 159, 210, where the views of Ali Bey, Burckhardt, and himself are given.
+
+*) No truly religious Mohammedan need regret that the rightly venerated symbol is in all probability a fragment of changed nummulitic limestone. The great world-poet Jelaleddin writes of the pilgrims to the Kaaba:-
+
+"They hear a voice from out the Temple sound:  
+'Why pray ye thus, O Fools, to clay and stone?'"  
+"The Festival of Spring" (W. Hastie's version).
+
+***
+
+On the occasion of a recent visit to Westminster Abbey I obtained permission to view with a lens the stone of Scone. The light was not very good, but so far as I could see, the stone is not a sandstone as stated in the Guide to the Abbey, but a mass of fine-grained igneous rock possibly of the nature of a basalt. I am fairly certain I could detect not only the disk structure, but also minute yellow and dark red crystals.
+
+***
+
+I have seen what appears to be an interesting example of a sedimentary nummulitic formation, _viz._, in a brick which I brought back from Babylon. The brick, which is stamped with Nebuchadnezzar's signature, is a baked calcareous mud, which effervesces in acid, leaving a muddy or fine sandy residue. The nummulite shells are clearly visible mixed up with mud and, here and there, fragments of reeds. Herodotus writes: "As they dug the moat they made bricks of the earth that was dug out; and when they had moulded a sufficient number they baked them in kilns. Then, making use of hot asphalt for cement, and laying wattled reeds between the thirty bottom courses of bricks, they first built up the sides of the moat, and afterwards the wall itself."
+
+Limestone slabs with bas-reliefs which I picked up at Nineveh are certainly nummulitic and apparently Stromatoporoid, and probably come from limestone mountains of Kurdistan. It seems probable, then, that the Euphrates and Tigris carry the detritus of nummulitic rocks and deposit it as mud. Below Hit and in the neighbourhood of the Median Wall, which extended between the Euphrates and Tigris, _i.e._, about forty miles due north of Babylon, there is an ancient coastline about 200 fee above sea level.
+
+***
+
+Seeing that many meteorites are pieces of silicated nummulitic rock, it is probable that some of those familiar objects known as shooting stars, that can be seen on any clear night, are likewise fragments of this rock, rendered white hot in their rush through the air.
+
+***
+
+Many of the pigments, such as umber, sienna, and the various ochres, are clays mainly composed of silicate of alumina tinged with oxides of iron and manganese. These substances are the disintegrated products of volcanic rocks, and usually it is not difficult to make out the nummulitic structure in the crude material. Indeed, I believe I can see that structure in microscopic preparations made from some "old masters" sold to me be a connoisseur and dealer, and sold reluctantly when he learned that it was my fell purpose to submit the treasures to the mercy of the abhorred shears. Here and there I could see a row of scales each with one or more pores. It would not be surprising if the most diligent apprentice failed to grind paints so small that no particle should be larger than '01 to '02 millimetre (the average size of broken down shell-particules in slates).
+
+However that may be, there is no reason for doubting that the resurrected relics of the Dawn Animal, live again in a sense, on the canvases of the great masters. Architecture, Sculpture (in Verde Antico), Painting and Bijouterie all depend on the same source for a great deal of their material.
+
+***
+
+At Porto Santo Island I often saw layers of Miocene corals and shells overlaid by lava - _i.e._, by poured-out altered Eozoic limestone, surely a very strange example of superposition of an older on a younger formation.* The inscribed slabs of granite covering the remains of Man constitute, however, a much stranger case, for here there is a juxtaposition of the relics of the earliest and latest products of organic evolution, and one is brought in presence of a mystery which science is unable to fathom, the mystery, not of death, but of conscious life and thought.
+
+*) This superposition, though strange in character, is of common occurrence, for it takes place whenever lava flows down a mountain side.
+
+## 13. Summary.
+
+The Stromatoporoids are colonial Foraminifera consisting of layers of coiled disks, and _Eozoön canadense_ is a Stromatoporoid with an extra thick layer of calcite between the layers of disks, and this extra layer is permeated by the pseudopodial canals containing hoops and coils like those of the mural tubuli of Palaeozoic Stromatoporoids and of recent Foraminifera.
+
+At Porto Santo Island I discovered that the volcanic rocks (basalts, trachytes, lavas, granitoid rocks) were composed of Foraminiferal shells.
+
+Later I found that volcanic rocks from all parts of the globe, and also plutonic rocks and gneisses were metamorphosed nummulitic limestones, showing more or less clearly a "stromatic" arrangement and also the Foraminiferal disks. Many meteorites were found to be fragments of nummulitic rock, probably hurled into space during eruptions. Lastly, abyssal Red Clays, slates, and certain Cambrian, Ordovician, Carboniferous, Permian, and Jurassic limestones are composed mainly of nummulites. A granite quarry, a volcano, an oolite quarry, a dolomite peak, or an abyssal ocean floor, all have the same foundation, _viz._, the originally calcareous porous skeletons of nummulitic Foraminifera. In the case of the granite the limestone apparently became dolomitised and silicated by being permeated with aluminium and silicon compounds probably derived mainly from sea water, partly from frustules and skeletons of organisms with siliceous skeletons, and possibly also from hot solutions of silica made from deposits of silica-forming organisms on or below which the Stromatoporoid reefs rested. The silicated limestone became heated and more or less melted owing to shrinkage of the earth's crust, and on cooling crystallized to form the various kinds of igneous rocks. The later-formed limestones underwent less and less modification.
+
+***
+
+Careful examination of the igneous rocks shows them to be disguised Foraminifera. Accordingly, the problem of these rocks, like that of _Eozoön_, is primarily a palaeontological one. The great aphorism of Linnaeus, that the rocks are the daughters of Time, is true. The bones of the elder daughters suffered "a sea-change" (into silicates) and later the cemetery became devastated; but it is often possible to recognise the relics.
+
+***
+
+Hitherto treatises on Stromatoporoids have dealt only with Palaeozoic forms. If the nummulites of igneous rocks and of many later formations are colonial, the next monograph ought to describe the Stromatoporoids of all the eras: _viz._, Eozoic, including igneous and gneissic rocks; and Palaeozoic, Mesozoic (and ? Cainozoic and Recent). Those of the first era are usually silicated, and those of the succeeding eras, silicated, silicified, dolomitised, sanded, or unaltered.
+
+***
+
+A sceptical friend tells me banteringly that I see nummulites everywhere. Certainly I find that their distribution in space and time is almost incredibly extensive, but everyone can verify the fact for himself with not much expenditure of time and trouble. We can now realize that life began on a planetary scale. The lighter elements and their compounds formed a surface layer of material out of which protoplasm was built up, and a portion of the latter developed into a widely-distributed lime-secreting Rhizopod.
+
+***
+
+The Nummulitic Theory of Igneous Rocks will be of importance:- to Biology, as showing that a great part of the floor of the Eozoic ocean was formed by a shell-forming "Bathybius"; to Geology, in proving that the igneous and gneissic rocks, and numerous sandstones and limestones of later eras are composed of skeletons of a colonial nummulite; to Geognosy and Vulcanology by throwing fresh light on the problem of the risings and sinkings of the earth's crust which give rise to land surfaces and oceans; to Petrology and Mineralogy by pointing out a profoundly important element in the construction of igneous rocks, and one which has been an "allotriomorphic" factor influencing the form assumed by cooling minerals; and to the science of meteorites, be revealing that many of these bodies are of organic and probably terrestrial origin.
+
+***
+
+The most important clue to the nature of the igneous rocks was furnished by a little particle 1/10 of a millimetre (1/250 of an inch) in diameter (Pl. 1, Fig. 1-5). Soon this particle was found to be part of an originally world-wide domain - the Nummulitic - which has endured almost from the remotest beginnings of time, so far as Life is concerned, even to the present.
+
+***
+
+Palaeo-nummulitic limestones - which are composed probably of colonial nummulities (Stromatoporoids) form on the globe a universal crust - the nummulosphere.
+
+Owing to shrinkage of the planet from secular cooling, the nummulosphere has been thrown into great folds, the elevations of which constitute the land, the depressions being filled with the ocean.
+
+The soluble carbonate of lime has partially or completely diappeared and has been replaced by often complex silicon compounds. Heat due to compression from earth-movements has melted the silicated rocks, which have crystallized on cooling (igneous rocks). Traces more or less obvious of the silicated nummulites are nearly always to be found. The surface of the nummulosphere constituting the floor of the ocean is in the form of a red clay, which is often crowded with the skeletons of pelagic organisms and with various terrigenous products. Here, again, the nummulite shells are always to be seen.
+
+Many meteorites are fragments of the nummulosphere, probably of this planet, hurled into space during eruptions and recaptured later.
+
+***
+
+The principle of philosophoic doubt is a very important part of the equipment of a student of science, but it is a doubt that implies sympathy with new ideas, rather than hostility. Naturally there is apt to be a little igneous action when new theories suddenly come athwart old-established convictions. In spite of the past history of the _Eozoön_ controversy, I am confident that the Stromatoporoid theory of _Eozoön_ will soon be generally accepted, and when that happens, the acceptance of the theory of the organic origin of igneous rocks will probably follow, for the latter is simply an extension of the former.
+
+_Postscript._ - I deliberately and aggressively use the expression "so-called igneous rocks" in the hope of dislodging effectually a truth-obscuring obsession, _viz._, the belief in the impossibility of the organic origin of these rocks. So far as I have observed, they are all simply ancient nummulitic limestones metamorphosed by solution, chemical change, pressure and heat. I think that a more logical and scientific designation would be "Palaeonummulitic Rocks," these being classified as heretofore in accordance with their position (_viz._, abyssal, hypabyssal and superficial) and their varying degrees of acidity and basicity.
+
+## Appendix.
+
+I record here several new observations too late for insertion in the body of the text.
+
+***
+
+_Note 1._ I find that typical red sandstones of the Old Red Sandstone, Permian, and Triassic Systems are composed of sandy nummulitic, probably Stromatoporoid, shells. The nummulites are quite easily seen _en face_ and in vertical section in a specimen of Old Red from Orkney (O.R.S.1, N.H.M.) and less easily in finer grained and more friable examples of Lower New Red (Birmingham, N.H.M.). All calcareous matter has disappeared.
+
+In some red crystalline examples from Penrith, metamorphic action has converted the sandy nummulitic rock into a quartz grit, in which it is still possible, though not easy, to detect traces of Foraminiferal structure.
+
+***
+
+_Note 2._ - A column of Portlandian sandstone (in the Jermyn Street Museum) from a boring 1200 feet deep in Kent is nummulitic.
+
+***
+
+_Note 3._ - Some fragments of Upper Permian (24 G; N.H.M.) from Russia, with Equisetums are sedimentary nummulitic rocks. The gentleman who showed me the specimens offered me one penny for every marine fossil found in them. Several hundred pounds are due to me.
+
+***
+
+_Note 4._ - Chalk is a nummulitic and probably Stromatoporoid rock. A few minutes' careful scrutiny with a lens will reveal the outlines of the disks, which are best seen in hard chalk. Globigerina ooze is a silicated palaeonummulitic formation, now abyssal, containing recent _Globigerina_, _etc._ Chalk is a Cretaceous calcareous-nummulitic rock, probably formed in relatively shallow water, and containing Cretaceous _Globigerina_, _etc._
+
+***
+
 ...
 
 ## Explanation of Plates
