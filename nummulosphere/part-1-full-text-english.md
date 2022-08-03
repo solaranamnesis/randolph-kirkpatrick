@@ -39,9 +39,9 @@ Linnaeus.
 
 ### [11. The Abyssal Red Clays](#11-the-abyssal-red-clays-1)
 
-### 12. The Dawn Animal in Daily Life
+### [12. The Dawn Animal in Daily Life](#12-the-dawn-animal-in-daily-life-1)
 
-### 13. Summary
+### [13. Summary](#13-summary-1)
 
 ### Appendix
 
