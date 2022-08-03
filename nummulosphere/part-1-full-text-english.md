@@ -43,9 +43,9 @@ Linnaeus.
 
 ### [13. Summary](#13-summary-1)
 
-### Appendix
+### [Appendix](#appendix-1)
 
-### Explanation of Plates
+### [Explanation of Plates](#explanation-of-plates-1)
 
 ## Introduction
 
