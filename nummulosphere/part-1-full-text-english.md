@@ -85,7 +85,7 @@ If the statements here put forward concerning the origin of igneous rocks are do
 
 *) The word "mystery" is used, because many of the limestones formed during the successive eras have been regarded hitherto simply as limestones.
 
-As result of many thousands of observations I have found that the plutonic rocks are metamorphosed nummulitic limestones silicated,* reduced to a more or less molten condition, and crystallized, and that volcanic rocks have had an identical origin with the plutonic. Certain Ordovician, Liassic, Permian and Jurassic limestones are also nummulitic, the Dolomitic being dolomitised, and Oolitic scarcely altered chemically.
+As a result of many thousands of observations I have found that the plutonic rocks are metamorphosed nummulitic limestones silicated,* reduced to a more or less molten condition, and crystallized, and that volcanic rocks have had an identical origin with the plutonic. Certain Ordovician, Liassic, Permian and Jurassic limestones are also nummulitic, the Dolomitic being dolomitised, and Oolitic scarcely altered chemically.
 
 *) A term used in a general sense to include change into silicates of various kinds, _viz._ of alumina, magnesium, with soda, potash, silica, iron, _etc._ "Silicified" implies conversion into silica.
 
