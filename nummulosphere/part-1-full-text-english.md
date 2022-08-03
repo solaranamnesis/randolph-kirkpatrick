@@ -733,7 +733,45 @@ _Note 4._ - Chalk is a nummulitic and probably Stromatoporoid rock. A few minute
 
 ***
 
-...
+_Note 5._ - I have found a Cainozoic sandy-nummulitic formation in the Eocene Middle Bagshot sands, _viz._, in the Bracklesham Beds, Alum Bay (shells not very distinct owing to the powdery nature of the sand); and Mid Bagshot Beds, Bournemouth (shells more distinct).
+
+The extremely delicate circular patterns of the shells can be seen on some parts of the surface, and on other parts, the delicately-lined parallel series of fine bands formed by disks in vertical section. In fact it is possible sometimes to detect the willow-pattern formed by the edges of the coils of the shells meeting at an angle.
+
+The shells have been modelled in fine particles of sand, and careful and patient scrutiny with a x10 lens will gradually reveal all the above-mentioned structures. I sometimes find little patches of finer and whiter sand which show the Foraminiferal structure very well.
+
+These Middle Bagshot nummulitic rocks might almost be called Eocene Red Sandstones, so closely do they resemble the Old and New Red.
+
+Probably none of the statements made in this pamphlet will cause so much surprise among geologists as those concerning the sandy nummulitic character of these sandstones.
+
+Venturing from the safe ground of facts easily to be verifed, to the shifting sands of hypothesis, I would suggest that the Mid Bagshot sands were formed by the wearing down of limestone (? upper chalk) rocks, and that the nummulitic _débris_ became infiltrated and mingled with fine sand, and decalcified.
+
+In order to examine the _débris_ brought down by rivers that had passed over chalk, I visited the Cuckmere River in Sussex and the Stour at Sandwich in Kent. The ooze from mud-banks at the mouth of the former, and the sand from the sandy banks of the Stour both contain sandy models of nummulites. The calcareous matter has nearly or entirely gone. The spaces which were originally the chambers of the shell contain little dark grains of ? oxide of iron, arranged in radial concentric or parallel-linear series. I learned from these specimens how a central knob or pit often seen on the bran-like scales of slates and abyssal red clays apparently was formed, namely, by pressure of an intracameral concretion on the walls of the shells. The pits, again, may be in the areas of pores. Very close and detailed observation is required to detect the nummulitic structure.
+
+These sandy and muddy deposits now being formed, in the rivers Cuckmere and Stour, consisting as they do of sandy models of nummulitic shells (_débris_) of a nummulitic (? Stromatoporoid) limestone known as Chalk, are, I believe, _fundamentally_ the same as those altered deposits known as gneisses and slates. The haematite (?) granules in the shells of the recent deposits apparently become diffused in the case of the variegated (poikilitic) Old and New Red and Bagshot sandstones.
+
+An interesting feature that comes out in this investigation of certain sandstones and grits is that the detritus of nummulitic limestone or altered-limestone (igneous) rocks is often in the form of nummulites and not of shapeless particles.
+
+***
+
+_Note 6._ - _Apropos_ of the theory of compression as a source of heat in volcanic phenomena, F. W. Rudler (Article on Volcanos in Encyc. Brit. Ed. 11. vol. 28. p. 191) writes: "A grave objection, however, is the difficulty of conceiving that the heat, whether due to crushing or compression, could be concentrated locally so as to produce a sufficient elevation of temperature for melting the rocks. According to the calculations of the Rev. O. Fisher the crushing could not, under the most favourable circumstances, evolve heat enough to account for volcanic phenomena." It must be easy for flaws to arise in the case of difficult calculations involving questions of the earth's tonnage. In view of the fact that igneous rocks are altered limestone sea-bottoms, no other theory than that of compression seems possible. When the planet contracted the nummulosphere was in a tight place.
+
+According to the "compression" theory, Stromboli must be regarded as a node situated in an area subject to continual chronic pressure for a prolonged period.
+
+***
+
+_Note 7._ The ferrocyanide test shows that the dark red granules in the chambers of the nummulite shells in some limestones and in certain sands and muds (_Note 5_, p. 99) are composed of sesquioxide of iron.
+
+***
+
+_Note 8._ The genus _Receptaculites_, which has been frequently shifted from group to group, will come to rest at last among the Stromatoporoids or colonial nummulites. The "facets" of the engine-turned watch-case pattern are the uppermost shells of rouleaux or columns of nummulites like those of "piped quartz." The umbilicus, the radial rows of pores, the minute network pattern of alae and septa exposed at broken surfaces, are best seen in the larger slightly overlapping rows of shells at the periphery. The columns radiate out from the centre in spiral linear series, and where the spirals meet from opposite sides the shells appear to be diamond-shaped. The columns are extremely slender at the centre and gradually become thicker towards the periphery. Some facets have a minute bud which would from a new storey. _Receptaculites_ will, I believe, throw light on budding and growth in Stromatoporoids.
+
+***
+
+_Note 9._ Senhor A. C. Noronha tells me that Prof. C. Gagel of Berlin has informed him that the granitoid rock of Porto Santo is Essexite, and that it comes from a deep zone of the same magma that forms the superficial deposits of Porto Santo and Madeira, the Essexite having the abyssal form of crystallization. See also Professor Gagel's 'Studien über den Aufbau und die Gesteine Madeiras.' Zeitsch. deutsch. geolog. Gesellsch. 1912. Band 64, Heft 3.
+
+***
+
+_Note 10._ Corrigendum. P. 93. Summary. Delete lines 3 to 8 from top. _viz._, from "with an extra thick layer" to "recent Foraminifera."
 
 ## Explanation of Plates
 
