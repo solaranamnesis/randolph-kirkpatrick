@@ -614,7 +614,7 @@ Into something rich and strange."
 _Ariel in "The Tempest."_
 
 "Swift as the sparkle of a glancing star,  
-I shoot from heave." - _Comus._
+I shoot from heaven." - _Comus._
 
 I was recently asked which was the commonest fossil. I had no hesitation in replying, "_Eozoön_," and it is strange that this should be the case, seeing that the very existence of this organism has been denied.
 
