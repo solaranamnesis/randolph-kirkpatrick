@@ -280,7 +280,11 @@ I was given a piece of clay called Turkey Green, and this I found to be a kaolin
 
 Many men of science believe that the greater part of the land surface of the globe has been beneath the sea,* but the discovery of the nummulitic origin of igneous rocks tends to prove that at one time or another the whole area has been submarine.
 
+*) Prof. J. W. Gregory (`The Making of the Earth,' p. 114) mentions Scandinavia, Finland, and certain other regions as areas which may have existed always as land. I find, however, that even the most coarsely crystalline igneous rocks from Scandinavia (\emph{e.g.} Swedish Rose Granite) retain undoubted traces of Foraminiferal structure, and therefore resemble those of other countries in being changed and upheaved seafloors.
+
 The general distribution of igneous rocks and gneisses on or below the surface of the land, and the world-wide occurrence of volcanic islands (or heaps of silicated Foraminiferal limestone) over all the oceans, appear to point to the conclusion that there was once a nearly universally distributed crust of nummulitic limestones.*
+
+*) Since this was printed I have found that all the deep-sea oozes have a nummulitic matrix.
 
 If, over great areas of the deep oceans, the floor beneath the oozes if formed of a relatively shallow-water Foraminiferan, there would probably have been a compensating rise over other areas of the general crust of the globe. Slow secular contraction due to slow secular cooling of the globe has been going on for immeasurable ages. It is not unreasonable to assume that the crust, during the early stages after consolidation, was more uniformly level, and that great depressions and elevations below and above a mean level came later. Possibly during the earlier part of the Eozoic Era there may have been a nearly or even wholly universal ocean, relatively shallow over a great part of its area. It is, at any rate, almost certain that the ocean covered a much greater area than at present.
 
