@@ -5,14 +5,14 @@ Translations of Randolph Kirkpatrick's work: _The Nummulosphere_, I welcome all 
 ### Part 1: An Account of the Organic Origin of so-called Igneous Rocks and of Abyssal Red Clays
 
 [English - Plain Text](part-1-full-text-english.md)  
-[English - PDF](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/kirkpatrick_nummulosphere_part1_english.pdf) | [Computer Modern](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/kirkpatrick_nummulosphere_part1_english-compmodern.pdf) | [Coelacanth](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/kirkpatrick_nummulosphere_part1_english-coelacanth.pdf)  
+[English - PDF](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/kirkpatrick_nummulosphere_part1_english.pdf) | [Computer Modern](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/kirkpatrick_nummulosphere_part1_english-compmodern.pdf) | [Coelacanth](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/kirkpatrick_nummulosphere_part1_english-coelacanth.pdf) | [Auriocus](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part1/kirkpatrick_nummulosphere_part1_english-aurical.pdf)  
 German - Plain Text  
 German - PDF  
 
 ### Part 2: The Genesis of the Igneous Rocks and of Meteorites (Plankton and Benthos)
 
 [English - Plain Text](part-2-full-text-english.md)  
-[English - PDF](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part2/kirkpatrick_nummulosphere_part2_english.pdf) | [Computer Modern](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part2/kirkpatrick_nummulosphere_part2_english-compmodern.pdf) | [Coelacanth](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part2/kirkpatrick_nummulosphere_part2_english-coelacanth.pdf)  
+[English - PDF](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part2/kirkpatrick_nummulosphere_part2_english.pdf) | [Computer Modern](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part2/kirkpatrick_nummulosphere_part2_english-compmodern.pdf) | [Coelacanth](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part2/kirkpatrick_nummulosphere_part2_english-coelacanth.pdf) | [Auriocus](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part2/kirkpatrick_nummulosphere_part2_english-aurical.pdf)  
 German - Plain Text  
 German - PDF  
 
