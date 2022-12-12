@@ -19,7 +19,7 @@ German - PDF
 ### Part 3: The Ocean Floor or Benthoplankton
 
 [English - Plain Text](part-3-full-text-english.md)  
-[English - PDF](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_latex.pdf) | [Computer Modern](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english-compmodern.pdf) | [Coelacanth](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english-coelacanth.pdf) | [Alegreya](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_alegreya.pdf) | [Auriocus](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_aurical.pdf)  
+[English - PDF](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_latex.pdf) | [Computer Modern](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english-compmodern.pdf) | [Coelacanth](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english-coelacanth.pdf) | [Atkinson](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_atkinson.pdf) | [Alegreya](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_alegreya.pdf) | [Auriocus](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part3/kirkpatrick_nummulosphere_part3_english_aurical.pdf)  
 German - Plain Text  
 German - PDF  
 
