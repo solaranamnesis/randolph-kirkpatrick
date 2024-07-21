@@ -29,3 +29,8 @@ German - PDF
 [English - PDF](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/kirkpatrick_nummulosphere_part4_english_latex.pdf) | [Computer Modern](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/kirkpatrick_nummulosphere_part4_english-compmodern.pdf) | [Coelacanth](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/kirkpatrick_nummulosphere_part4_english-coelacanth.pdf) | [Auriocus](https://cdn.solaranamnesis.com/RandolphKirkpatrick/Nummulosphere-Part4/kirkpatrick_nummulosphere_part4_english_aurical.pdf)  
 German - Plain Text  
 German - PDF  
+
+
+stromatolite.jpeg --- Martin Kraft, MK-08241 Hamelin Pool Stromatolites, Edited Image by Solar Anamnesis, CC BY-SA 3.0
+
+coralredreef.jpeg --- Zakee Man, Marine Mosaic Coral Creations, Edited Image by Solar Anamnesis, CC BY-SA 4.0
