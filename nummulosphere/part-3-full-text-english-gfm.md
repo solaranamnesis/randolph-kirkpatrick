@@ -2907,7 +2907,8 @@ Have sight of Proteus rising from the sea." "Proteus gerôn halios nêmertês" �
 [^13]: Bull. Mus. Comp. Zool. Harvard, 1884, 7. p. 534. J. D. Whitney and M. E. Wadsworth, _The Azoic System_.
 [^14]: _Fide_ Prof. J. P. Iddings, _Lectures on Vulcanism_, London, 1914.
 [^15]: Smooth tropical seas in moderate depths often seem almost as transparent as air or crystal. In Milton's grand line, "The birth of nature from the unapparent deep," the deep is the void of space.
-[^16]: "Where seas of glass with gay reflections smile Round the green coasts of Java's palmy isle." — _The Botanic Garden_, Erasmus Darwin.
+[^16]: "Where seas of glass with gay reflections smile  
+    Round the green coasts of Java's palmy isle." — _The Botanic Garden_, Erasmus Darwin.
 [^17]: _The Age of the Earth_. _Funafuti: the Study of a Coral-Atoll_. W J. Sollas.
 [^18]: Deby regards some Diatoms as pluricellular.
 [^19]: _On Silica in Seas_. Proc. Roy. Soc. Edinburgh, 18, p. 236, 1891.
@@ -2915,7 +2916,7 @@ Have sight of Proteus rising from the sea." "Proteus gerôn halios nêmertês" �
 [^21]: _The Nummulosphere: Part 2_.
 [^22]: From a philosophical point of view, the earth's crust might be described as a by-product of the evolutionary process, psychic development being the aim.
 [^23]: Scottish Geogr. Mag., 4. p. 1, 1888, and 6. p. 265, 1890.
-[^24]: _Nummulites_ are abundantly present in _Globigerina_ and Diatom-oozes. In Nummulosphere 1 I unnecessarily suggested adding the designation "palaeonummulitic" to the names in use. The nummulites in the above oozes are probably derived from subaerial and submarine eruptions. In depths greater than 2700 fms. calcareous plankton dust is dissolved, and the clayey surface of the probably universal nummulitic deposit is left bare.
+[^24]: _Nummulites_ are abundantly present in _Globigerina_ and Diatom-oozes. In _Nummulosphere: Part 1_ I unnecessarily suggested adding the designation "palaeonummulitic" to the names in use. The nummulites in the above oozes are probably derived from subaerial and submarine eruptions. In depths greater than 2700 fms. calcareous plankton dust is dissolved, and the clayey surface of the probably universal nummulitic deposit is left bare.
 [^25]: See Appendix, Note L.
 [^26]: Dittmar considered seawater to be the chief dissolving agency of calcareous skeletons, the carbonic acid being apparently already held up. Murray believed carbonic acid derived from decomposing organic matter inside the shells to be an additional dissolving agency (_Challenger Narrative_, 1. p. 981). Possibly, too, carbonic acid, however formed, would gravitate slowly to the deepest troughs; but if so, the amount is not sufficient to prevent or to destroy life.
 [^27]: Proceedings Roy. Soc. 23. p. 45, 1874.
@@ -3015,7 +3016,9 @@ Have sight of Proteus rising from the sea." "Proteus gerôn halios nêmertês" �
 [^121]: A. Vialay. _Essai sur la Genèse et l'Évolution des Roches_, 1912, p. 94.
 [^122]: The meaning of "bathybius" here differs slightly from that of the term as originally employed. It is not a case of a continuous plasmodium of protoplasm, but of a layer of little separate masses.
 [^123]: F. Ratzel (_Anthropo-Geographie_, Ed. 3, 1. p. 207) compares the ocean to a mantle seemingly with holes in it (_i.e._ the land). Nature is always repairing the rents. According to one estimate it would require six million years to sweep away the present land areas.
-[^124]: Quoted by Joly in _The Birth-time of the World_. Science Progress, July, 1914. Seeing that radioactive substances and their products of disintegration are found together in igneous rocks, _i.e._ in nummulitic deposits, well might the poet ask — "What oldest star the fame can save Of races perishing to pave The planet with a floor of lime?"
+[^124]: Quoted by Joly in _The Birth-time of the World_. Science Progress, July, 1914. Seeing that radioactive substances and their products of disintegration are found together in igneous rocks, _i.e._ in nummulitic deposits, well might the poet ask — "What oldest star the fame can save  
+    Of races perishing to pave  
+    The planet with a floor of lime?"
 [^125]: Described by D. P. McDonald in Trans. Geol. Soc. South Africa, 16. 1913, p. 156.
 [^126]: _Pseudes_, false or resembling, _poda_ feet.
 [^127]: _Rhiza_, branched, root-like, _poda_ feet.
@@ -3031,7 +3034,7 @@ Have sight of Proteus rising from the sea." "Proteus gerôn halios nêmertês" �
 [^137]: See list by de la Harpe. Mem. Soc. Pal. Suisse, ed. 3, p. 37, 7., 1880-1, p. 68, footnote; also Zittel, _Grundzüge_, ed. 3, p. 37.
 [^138]: At one place in England it is possible to see nummulites of several eras mingled together, or in close proximity, _viz._, at Selsey. There are Cainozoic (Eocene, Bracklesham;) Mesozoic (Cretaceous silicified nummulites, _i.e._, flints);? Palaeozoic quartzite and sandstone (ice-borne erratics); and Archaeozoic or pre-Archaeozoic igneous rocks (also ice-borne erratics).
 [^139]: Excluding doubtful records, there are probably only two recent species, and these small, _viz._, _N. planulata_ (Arctic seas), and _N. cumingii_ (tropical seas). Williamson records recent _N. radiata_ from Portsmouth, but Brady excludes it from his synopsis of British recent species (Journ. Roy. Micr. Soc., 1887, part 2, p. 872).
-[^140]: Although I have not seen the phosphatic nodules of the Cambrian of New Brunswick stated by W. D. and G. F. Matthew (Trans. New York Acad. Sci., 1893, 12. p. 108; and 1895, 14., p. 101, Plate 1. figs, 1-8_b_) to contain _Globigerina_ and _Orbulina_, I am convinced there is here an error of interpretation. In the course of the present work I was at one time continually mistaking nummulitic structures for _Globigerina_ and _Orbulina_. The same mistake has been made in the case of the "spheres" in chalk. Apparently the true Globigerina record begins with the Mesozoic era.
+[^140]: Although I have not seen the phosphatic nodules of the Cambrian of New Brunswick stated by W. D. and G. F. Matthew (Trans. New York Acad. Sci., 1893, 12. p. 108; and 1895, 14., p. 101, Plate 1. figs, 1-8_b_) to contain _Globigerina_ and _Orbulina_, I am convinced there is here an error of interpretation. In the course of the present work I was at one time continually mistaking nummulitic structures for _Globigerina_ and _Orbulina_. The same mistake has been made in the case of the "spheres" in chalk. Apparently the true _Globigerina_ record begins with the Mesozoic era.
 [^141]: Sponges seem able to protect themselves from mud and plankton _débris_ by developing lids and sieves. Again, certain cup-shaped glass sponges appear to have given rise to sitz-bath-shaped forms, and finally, by loss of the cavity and lengthening and narrowing of the back of the "bath" to sword-shaped stems.
 [^142]: The Protozoan and _animal_ nature of holophytic Protozoa is shown chiefly in the affinities with the holozoic forms, in the general life history, in the absence of cellulose, _etc._
 [^143]: See Appendix. Note R.
@@ -3086,7 +3089,7 @@ Have sight of Proteus rising from the sea." "Proteus gerôn halios nêmertês" �
 [^192]: _Kalkalgen Obersilur Gottlands_, p. 7. 1913.
 [^193]: _Science Reports, Tohuku Imp. Univ._, ser. 2, Bd. 1. 1912.
 [^194]: E. Stolley, _Ueber silurische Siphoneen_, Neues Jahrb., 1893, 2., p. 135.
-[^195]: Ch. Barrois, _Note sur l'existence du Genre _Oldhamia_ dans les Pyrénées_. Annal. Soc. Geol. Nord, 15. p. 154. 1888. An account of the various theories concerning this form, and also many references to literature, are given.
+[^195]: Ch. Barrois, _Note sur l'existence du Genre Oldhamia dans les Pyrénées_. Annal. Soc. Geol. Nord, 15. p. 154. 1888. An account of the various theories concerning this form, and also many references to literature, are given.
 [^196]: _Silurian Fossils of Girvan_, 1. 1878-80.
 [^197]: _Mém. Musée Roy. Hist. Nat. Belgique_, 1906.
 [^198]: Swedish Geol. Survey, 1913. _Ueber die Kalkalgen, Spongiostromen... Obersilur Gottlands_, Prof. A. Rothpletz.
@@ -3101,7 +3104,7 @@ Have sight of Proteus rising from the sea." "Proteus gerôn halios nêmertês" �
 [^207]: The poverty of the Marmolata in magnesium may be due to the accumulation of the deposit in rather deep water, the ordinary dolomite rock having accumulated in relatively shallow warm water and in the coralline zone. Dana attributed dolomitization to deposition of magnesium salts from the warm water of lagoons. Dr. A. G. Högbom believes calcareous algae contribute a considerable percentage of magnesium (Neues. Jahrb. Min. 1894, 1. p. 262).
 [^208]: It is very doubtful whether the "pipes" are due to worms. Dr. A. G. Högbom believes the pipes may have arisen from a purely mechanical cause, such as the ascent of bubbles in wet sand in certain conditions of tide and sandy shore. Bull. Geol. Inst. Upsala, 13. p. 45, 1915.
 [^209]: Journal Quekett Microscopical Club, 1914, p. 317.
-[^210]: _The Codiaceae of the _Siboga_ Expedition_, 1911, pp. 5, 6, 102, and Fig. 182.
+[^210]: _The Codiaceae of the Siboga Expedition_, 1911, pp. 5, 6, 102, and Fig. 182.
 [^211]: "No epilogue, I pray you; your play needs no excuse."
 [^212]: Palaeontological ones with a pronounced mineralogical aspect, or _vice versâ_, mineralogical problems into which palaeontological considerations enter.
 [^213]: Presage of a chequered pilgrimage for Proteus.
@@ -3126,4 +3129,4 @@ Have sight of Proteus rising from the sea." "Proteus gerôn halios nêmertês" �
 [^232]: Encyc. Brit. ed. 11. Article, "Reproduction."
 [^233]: "Recent Researches in the Determination and Heredity of Sex." _Science_, vol. 29. p. 53, 1909.
 [^234]: S. B. Schryver, "The General Characters of the Proteins," 1909.
-[^235]: Recently I have found that the photograph from which Fig. 39 was taken shows a nummulite very plainly when magnified only three diameters.
+[^235]: _Note_. Plates 2C, 2D, 2E and 11 were done and printed off at an early period of the work. They include several useless photographs which could not well be eliminated later.
