@@ -2907,15 +2907,16 @@ Have sight of Proteus rising from the sea." "Proteus gerôn halios nêmertês" �
 [^13]: Bull. Mus. Comp. Zool. Harvard, 1884, 7. p. 534. J. D. Whitney and M. E. Wadsworth, _The Azoic System_.
 [^14]: _Fide_ Prof. J. P. Iddings, _Lectures on Vulcanism_, London, 1914.
 [^15]: Smooth tropical seas in moderate depths often seem almost as transparent as air or crystal. In Milton's grand line, "The birth of nature from the unapparent deep," the deep is the void of space.
-[^16]: "Where seas of glass with gay reflections smile
+[^16]: "Where seas of glass with gay reflections smile  
+    Round the green coasts of Java's palmy isle." — _The Botanic Garden_, Erasmus Darwin.
 [^17]: _The Age of the Earth_. _Funafuti: the Study of a Coral-Atoll_. W J. Sollas.
 [^18]: Deby regards some Diatoms as pluricellular.
 [^19]: _On Silica in Seas_. Proc. Roy. Soc. Edinburgh, 18, p. 236, 1891.
 [^20]: Journ. Mar. Biol. Assoc. Plymouth, 10. p. 417, 1914.
-[^21]: _The Nummulosphere_, Part 2.
+[^21]: _The Nummulosphere: Part 2_.
 [^22]: From a philosophical point of view, the earth's crust might be described as a by-product of the evolutionary process, psychic development being the aim.
 [^23]: Scottish Geogr. Mag., 4. p. 1, 1888, and 6. p. 265, 1890.
-[^24]: _Nummulites_ are abundantly present in _Globigerina_ and Diatom-oozes. In Nummulosphere 1 I unnecessarily suggested adding the designation "palaeonummulitic" to the names in use. The nummulites in the above oozes are probably derived from subaerial and submarine eruptions. In depths greater than 2700 fms. calcareous plankton dust is dissolved, and the clayey surface of the probably universal nummulitic deposit is left bare.
+[^24]: _Nummulites_ are abundantly present in _Globigerina_ and Diatom-oozes. In _Nummulosphere: Part 1_ I unnecessarily suggested adding the designation "palaeonummulitic" to the names in use. The nummulites in the above oozes are probably derived from subaerial and submarine eruptions. In depths greater than 2700 fms. calcareous plankton dust is dissolved, and the clayey surface of the probably universal nummulitic deposit is left bare.
 [^25]: See Appendix, Note L.
 [^26]: Dittmar considered seawater to be the chief dissolving agency of calcareous skeletons, the carbonic acid being apparently already held up. Murray believed carbonic acid derived from decomposing organic matter inside the shells to be an additional dissolving agency (_Challenger Narrative_, 1. p. 981). Possibly, too, carbonic acid, however formed, would gravitate slowly to the deepest troughs; but if so, the amount is not sufficient to prevent or to destroy life.
 [^27]: Proceedings Roy. Soc. 23. p. 45, 1874.
@@ -2946,7 +2947,7 @@ Have sight of Proteus rising from the sea." "Proteus gerôn halios nêmertês" �
 [^52]: H. Rauff. Neues Jahrb. Mineralogie 1. p. 117. 1896.
 [^53]: Quart. Journ. Geol. Soc., vol. 51, p. 631. 1895.
 [^54]: Proc. Linn. Soc. N.S.W. 1896, p. 571.
-[^55]: The picture on the cover of _Nummulosphere_, Part 2, representing the genesis of igneous rocks, depicts plankton skeletons sinking through the water on to the heaps of nummulite shells constituting the ocean floor. The supposed plankton skeletons seen by me in igneous rocks are really parts of nummulites. Notwithstanding this error, the picture symbolizes events which have almost certainly happened. There is no doubt whatever about the nummulitic nature of igneous rocks, and in my opinion no reasonable doubt as to the source of much of the silica. It is a strange phenomenon this creation of the bulk of the earth's crust out of oceanic deposits of skeletons of benthos organisms mineralized by material derived partly from the siliceous skeletons of plankton organisms.
+[^55]: The picture on the cover of _Nummulosphere: Part 2_, representing the genesis of igneous rocks, depicts plankton skeletons sinking through the water on to the heaps of nummulite shells constituting the ocean floor. The supposed plankton skeletons seen by me in igneous rocks are really parts of nummulites. Notwithstanding this error, the picture symbolizes events which have almost certainly happened. There is no doubt whatever about the nummulitic nature of igneous rocks, and in my opinion no reasonable doubt as to the source of much of the silica. It is a strange phenomenon this creation of the bulk of the earth's crust out of oceanic deposits of skeletons of benthos organisms mineralized by material derived partly from the siliceous skeletons of plankton organisms.
 [^56]: Mém. Soc. Géol. Nord, 4. p. 521. 1897.
 [^57]: G. J. Hinde, _On the Organic Origin of the Chert of the Carboniferous Limestone Series of Ireland_. Geol. Mag. (3) 4. p. 435 (1887).
 [^58]: Carnegie Institution of Washington, Year Books Nos. 11, 12, 13, 1912-1914.
@@ -2960,8 +2961,8 @@ Have sight of Proteus rising from the sea." "Proteus gerôn halios nêmertês" �
 [^66]: _Palaeontographica_ 25. p. 175.
 [^67]: Sci. Trans. Roy. Dublin Soc. (2) 5. p. 259. 1893.
 [^68]: Described, but very incorrectly, in A.M.N.H. Sept. and Oct. 1912.
-[^69]: Photographed better in _Nummulosphere_ 1. 1913. The photo on Plate 11 is too dark.
-[^70]: _Nummulosphere_ 2. 1913.
+[^69]: Photographed better in _Nummulosphere: Part 1_. 1913. The photo on Plate 11 is too dark.
+[^70]: _Nummulosphere: Part 2_. 1913.
 [^71]: _An Old Chapter in the Geological Record_, 1881.
 [^72]: Sci. Proc. Dublin Soc. 7. p. 124. 1891.
 [^73]: Bull. Comm. Geol. Finlande. No. 19, p. 214. 1907.
@@ -2977,7 +2978,7 @@ Have sight of Proteus rising from the sea." "Proteus gerôn halios nêmertês" �
 [^83]: The term "unconformable" is used in an extended sense. Fossiliferous formations (igneous rocks) have been thrust upwards into unconformable relation with later formed strata.
 [^84]: _Characteristics of volcanoes_. J. D. Dana, 1890, p.24.
 [^85]: King and Rowney _On the Serpentine of the Lizard_. Phil. Mag. (5) 1. 1876, p. 280.
-[^86]: In _Nummulosphere_ 2 I wrote of siliceous skeletons forming centers whence silica was diffused, a residuum remaining as quartz. The supposed skeletons are nummulitic structures.
+[^86]: In _Nummulosphere: Part 2_ I wrote of siliceous skeletons forming centers whence silica was diffused, a residuum remaining as quartz. The supposed skeletons are nummulitic structures.
 [^87]: In this instance Daubenton's name is well bestowed: "Piroxène, c'est-à-dire, hôte ou étranger dans le domaine du feu." Haüy, _Traité de Minéralogie_ 3. p. 180.
 [^88]: _Igneous Rocks_ 1. p. 39. 1909.
 [^89]: Iddings, _The Origin of Igneous Rocks_. Bull. Phil. Soc., Washington, p. 183. 1895.
@@ -2992,46 +2993,48 @@ Have sight of Proteus rising from the sea." "Proteus gerôn halios nêmertês" �
 [^98]: Copied from an _Introduction to the Study of Meteorites_, 10th Edition, 1908. British Museum (Natural History), pp. 19.
 [^99]: Copied from _An Introduction to the Study of Meteorites_, 10th Edition, 1908. British Museum (Natural History), pp. 22.
 [^100]: _Nature_, Oct. 9, 1902, p. 578.
-[^101]: Copied from _An Introduction to the Study of Meteorites_, 10th Edition, 1908. British Museum (Natural History), pp. 19, 22.
-[^102]: _Nature_ 15. p. 497. 1877.
-[^103]: _Worlds in the Making_, 1908. _The Life of the Universe_, 1909.
-[^104]: _The Evolution of Worlds_. _Mars as the Abode of Life_.
-[^105]: _The Face of the Earth_ 4. p. 543. 1909.
-[^106]: _The Story of the Heavens_, p. 359, and _Nature_, 1879, 19. p. 493.
-[^107]: _Die Meteorite (Chondrite) und ihre Organismen_. 1880.
-[^108]: _Volcanoes_, p. 322.
-[^109]: See analyses of Baroti and Wittekranz meteorites. G. T. Prior, Min. Mag., 17., pp. 27, 31. 1913.
-[^110]: _The Face of the Earth_, 4. p. 544. 1909.
-[^111]: _Preliminary Note on the Origin of Meteorites_. Journal and Proceedings of the Asiatic Society of Bengal, 8, 1912, p. 315. I would point out that we have not yet arrived even at a plutonic zone, let alone an infra-plutonic. I find traces of oceanic organic life in garnetiferous schists from Sikhim and Tyrol. The birthplace of siderites is in Neptune's territory. This criticism is merely one of nomenclature.
-[^112]: _Persistence of Ore in Depth_. T. A. Rickard. A paper discussed at a meeting of the Institution of Mining and Metallurgy, Nov. 1914. I have to thank Mr. G. Henriksen for this interesting reference.
-[^113]: Tschermak and Sir Robert Ball regarded the meteorites on the one hand, and the almost imponderable shooting stars and comets on the other, as wholly distinct classes of objects.
-[^114]: _The Meteoritic Hypothesis_, 1890.
-[^115]: I have to thank Mr. James Chumley for kind permission to make a microscopic preparation of one of these objects.
-[^116]: O. C. Farrington (Meteorites, 1915) thinks the abundance of meteorites constitutes an objection to the theory of earthly origin. Meteorites could hardly be plentiful, or the market value would not be so high.
-[^117]: I have heard of unbelievers who would as soon expect to find nummulites in their carpet, in horse-manure, or in coal-cinders as in igneous rocks. I fear none of these materials will be found to have escaped nummulitic admixture. Dirty boots, gritty fodder and poor coal would furnish plenty of nummulitic structure in each of the materials enumerated.
-[^118]: _The Problem of the Gneissic Rocks_. Trans. Hull Geol. Soc., 1906, vol. 6, p. 24.
-[^119]: _Untersuchungen über die Entstehung der altcrystallinischen Schiefergesteine_, 1884.
-[^120]: Nummulite structure is visible in many of Lehmann's photographs, _viz._ 2. 3; 3. 4; 6. 3, 4; 7. 4; 9. 1; 16. 6; 21. 6; 23. 3; _etc._
-[^121]: Murray and Renard: _Challenger Deep-Sea Deposits_, 1891, pp. 378-391.
-[^122]: A. Vialay. _Essai sur la Genèse et l'Évolution des Roches_, 1912, p. 94.
-[^123]: The meaning of "bathybius" here differs slightly from that of the term as originally employed. It is not a case of a continuous plasmodium of protoplasm, but of a layer of little separate masses.
-[^124]: F. Ratzel (_Anthropo-Geographie_, Ed. 3, 1. p. 207) compares the ocean to a mantle seemingly with holes in it (_i.e._ the land). Nature is always repairing the rents. According to one estimate it would require six million years to sweep away the present land areas.
-[^125]: Quoted by Joly in _The Birth-time of the World_. Science Progress, July, 1914. Seeing that radioactive substances and their products of disintegration are found together in igneous rocks, _i.e._ in nummulitic deposits, well might the poet ask —
-[^126]: Described by D. P. McDonald in Trans. Geol. Soc. South Africa, 16. 1913, p. 156.
-[^127]: _Pseudes_, false or resembling, _poda_ feet.
-[^128]: _Rhiza_, branched, root-like, _poda_ feet.
-[^129]: The _Nummulina_ zone at the base of the Barton Beds at Highcliff, Hants, is only 8 inches thick and not easy to locate. At Selsey, again, some of the Bracklesham strata containing nummulites can only be seen at low spring tides.
-[^130]: The hybrid Graeco-Latin word nummulites is derived from _nummus_, money, and _lithos_, stone.
-[^131]: D'Archiac describes gigantic specimens of _N. complanata_ from Crete, 107 x 3 mm. (_Mon_. p. 88).
-[^132]: The reasons for this may be partly chemical, partly optical. Carbonic acid and pure water would act more powerfully on calcareous than on silicated shells, and the nummulitic deposits constituting igneous rocks may often have become mineralized.
-[^133]: Heron-Allen. Phil. Trans., 1915, vol. 206, p. 245. In _Nummulosphere_ 1, I stated, under the influence of the _Eozoön_ delusion, that with a little poetic license the planet might be compared to a gigantic budding reef-like Rhizopod encrusting a foreign body. Really it is a case of a mass of separate Rhizopods.
-[^134]: Möbius. _Whence comes the nourishment of the animals of the deep seas?_ A.M.N.H., 1871, (4) 8. p. 193 (Transl.). Many references to literature.
-[^135]: Zittel adopts three of d'Archiac's divisions — Radiate, Sinuate and Reticulate; de la Harpe merges the first two into one.
-[^136]: _The stratigraphical importance of nummulites in the early Tertiary strata of the mountains of S.W. Hungary_. Proc. Roy. Hungarian Acad. Sci., Buda-Pesth, 5., 1875, No. 6. Also de la Harpe. Mem. Soc. Pal. Suisse, 1880, 7. p. 68.
+[^101]: _Nature_ 15. p. 497. 1877.
+[^102]: _Worlds in the Making_, 1908. _The Life of the Universe_, 1909.
+[^103]: _The Evolution of Worlds_. _Mars as the Abode of Life_.
+[^104]: _The Face of the Earth_ 4. p. 543. 1909.
+[^105]: _The Story of the Heavens_, p. 359, and _Nature_, 1879, 19. p. 493.
+[^106]: _Die Meteorite (Chondrite) und ihre Organismen_. 1880.
+[^107]: _Volcanoes_, p. 322.
+[^108]: See analyses of Baroti and Wittekranz meteorites. G. T. Prior, Min. Mag., 17., pp. 27, 31. 1913.
+[^109]: _The Face of the Earth_, 4. p. 544. 1909.
+[^110]: _Preliminary Note on the Origin of Meteorites_. Journal and Proceedings of the Asiatic Society of Bengal, 8, 1912, p. 315. I would point out that we have not yet arrived even at a plutonic zone, let alone an infra-plutonic. I find traces of oceanic organic life in garnetiferous schists from Sikhim and Tyrol. The birthplace of siderites is in Neptune's territory. This criticism is merely one of nomenclature.
+[^111]: _Persistence of Ore in Depth_. T. A. Rickard. A paper discussed at a meeting of the Institution of Mining and Metallurgy, Nov. 1914. I have to thank Mr. G. Henriksen for this interesting reference.
+[^112]: Tschermak and Sir Robert Ball regarded the meteorites on the one hand, and the almost imponderable shooting stars and comets on the other, as wholly distinct classes of objects.
+[^113]: _The Meteoritic Hypothesis_, 1890.
+[^114]: I have to thank Mr. James Chumley for kind permission to make a microscopic preparation of one of these objects.
+[^115]: O. C. Farrington (Meteorites, 1915) thinks the abundance of meteorites constitutes an objection to the theory of earthly origin. Meteorites could hardly be plentiful, or the market value would not be so high.
+[^116]: I have heard of unbelievers who would as soon expect to find nummulites in their carpet, in horse-manure, or in coal-cinders as in igneous rocks. I fear none of these materials will be found to have escaped nummulitic admixture. Dirty boots, gritty fodder and poor coal would furnish plenty of nummulitic structure in each of the materials enumerated.
+[^117]: _The Problem of the Gneissic Rocks_. Trans. Hull Geol. Soc., 1906, vol. 6, p. 24.
+[^118]: _Untersuchungen über die Entstehung der altcrystallinischen Schiefergesteine_, 1884.
+[^119]: Nummulite structure is visible in many of Lehmann's photographs, _viz._ 2. 3; 3. 4; 6. 3, 4; 7. 4; 9. 1; 16. 6; 21. 6; 23. 3; _etc._
+[^120]: Murray and Renard: _Challenger Deep-Sea Deposits_, 1891, pp. 378-391.
+[^121]: A. Vialay. _Essai sur la Genèse et l'Évolution des Roches_, 1912, p. 94.
+[^122]: The meaning of "bathybius" here differs slightly from that of the term as originally employed. It is not a case of a continuous plasmodium of protoplasm, but of a layer of little separate masses.
+[^123]: F. Ratzel (_Anthropo-Geographie_, Ed. 3, 1. p. 207) compares the ocean to a mantle seemingly with holes in it (_i.e._ the land). Nature is always repairing the rents. According to one estimate it would require six million years to sweep away the present land areas.
+[^124]: Quoted by Joly in _The Birth-time of the World_. Science Progress, July, 1914. Seeing that radioactive substances and their products of disintegration are found together in igneous rocks, _i.e._ in nummulitic deposits, well might the poet ask — "What oldest star the fame can save  
+    Of races perishing to pave  
+    The planet with a floor of lime?"
+[^125]: Described by D. P. McDonald in Trans. Geol. Soc. South Africa, 16. 1913, p. 156.
+[^126]: _Pseudes_, false or resembling, _poda_ feet.
+[^127]: _Rhiza_, branched, root-like, _poda_ feet.
+[^128]: The _Nummulina_ zone at the base of the Barton Beds at Highcliff, Hants, is only 8 inches thick and not easy to locate. At Selsey, again, some of the Bracklesham strata containing nummulites can only be seen at low spring tides.
+[^129]: The hybrid Graeco-Latin word nummulites is derived from _nummus_, money, and _lithos_, stone.
+[^130]: D'Archiac describes gigantic specimens of _N. complanata_ from Crete, 107 x 3 mm. (_Mon_. p. 88).
+[^131]: The reasons for this may be partly chemical, partly optical. Carbonic acid and pure water would act more powerfully on calcareous than on silicated shells, and the nummulitic deposits constituting igneous rocks may often have become mineralized.
+[^132]: Heron-Allen. Phil. Trans., 1915, vol. 206, p. 245. In _Nummulosphere: Part 1_, I stated, under the influence of the _Eozoön_ delusion, that with a little poetic license the planet might be compared to a gigantic budding reef-like Rhizopod encrusting a foreign body. Really it is a case of a mass of separate Rhizopods.
+[^133]: Möbius. _Whence comes the nourishment of the animals of the deep seas?_ A.M.N.H., 1871, (4) 8. p. 193 (Transl.). Many references to literature.
+[^134]: Zittel adopts three of d'Archiac's divisions — Radiate, Sinuate and Reticulate; de la Harpe merges the first two into one.
+[^135]: _The stratigraphical importance of nummulites in the early Tertiary strata of the mountains of S.W. Hungary_. Proc. Roy. Hungarian Acad. Sci., Buda-Pesth, 5., 1875, No. 6. Also de la Harpe. Mem. Soc. Pal. Suisse, 1880, 7. p. 68.
+[^136]: 
 [^137]: See list by de la Harpe. Mem. Soc. Pal. Suisse, ed. 3, p. 37, 7., 1880-1, p. 68, footnote; also Zittel, _Grundzüge_, ed. 3, p. 37.
 [^138]: At one place in England it is possible to see nummulites of several eras mingled together, or in close proximity, _viz._, at Selsey. There are Cainozoic (Eocene, Bracklesham;) Mesozoic (Cretaceous silicified nummulites, _i.e._, flints);? Palaeozoic quartzite and sandstone (ice-borne erratics); and Archaeozoic or pre-Archaeozoic igneous rocks (also ice-borne erratics).
 [^139]: Excluding doubtful records, there are probably only two recent species, and these small, _viz._, _N. planulata_ (Arctic seas), and _N. cumingii_ (tropical seas). Williamson records recent _N. radiata_ from Portsmouth, but Brady excludes it from his synopsis of British recent species (Journ. Roy. Micr. Soc., 1887, part 2, p. 872).
-[^140]: Although I have not seen the phosphatic nodules of the Cambrian of New Brunswick stated by W. D. and G. F. Matthew (Trans. New York Acad. Sci., 1893, 12. p. 108; and 1895, 14., p. 101, Plate 1. figs, 1-8_b_) to contain _Globigerina_ and _Orbulina_, I am convinced there is here an error of interpretation. In the course of the present work I was at one time continually mistaking nummulitic structures for _Globigerina_ and _Orbulina_. The same mistake has been made in the case of the "spheres" in chalk. Apparently the true Globigerina record begins with the Mesozoic era.
+[^140]: Although I have not seen the phosphatic nodules of the Cambrian of New Brunswick stated by W. D. and G. F. Matthew (Trans. New York Acad. Sci., 1893, 12. p. 108; and 1895, 14., p. 101, Plate 1. figs, 1-8_b_) to contain _Globigerina_ and _Orbulina_, I am convinced there is here an error of interpretation. In the course of the present work I was at one time continually mistaking nummulitic structures for _Globigerina_ and _Orbulina_. The same mistake has been made in the case of the "spheres" in chalk. Apparently the true _Globigerina_ record begins with the Mesozoic era.
 [^141]: Sponges seem able to protect themselves from mud and plankton _débris_ by developing lids and sieves. Again, certain cup-shaped glass sponges appear to have given rise to sitz-bath-shaped forms, and finally, by loss of the cavity and lengthening and narrowing of the back of the "bath" to sword-shaped stems.
 [^142]: The Protozoan and _animal_ nature of holophytic Protozoa is shown chiefly in the affinities with the holozoic forms, in the general life history, in the absence of cellulose, _etc._
 [^143]: See Appendix. Note R.
@@ -3086,7 +3089,7 @@ Have sight of Proteus rising from the sea." "Proteus gerôn halios nêmertês" �
 [^192]: _Kalkalgen Obersilur Gottlands_, p. 7. 1913.
 [^193]: _Science Reports, Tohuku Imp. Univ._, ser. 2, Bd. 1. 1912.
 [^194]: E. Stolley, _Ueber silurische Siphoneen_, Neues Jahrb., 1893, 2., p. 135.
-[^195]: Ch. Barrois, _Note sur l'existence du Genre _Oldhamia_ dans les Pyrénées_. Annal. Soc. Geol. Nord, 15. p. 154. 1888. An account of the various theories concerning this form, and also many references to literature, are given.
+[^195]: Ch. Barrois, _Note sur l'existence du Genre Oldhamia dans les Pyrénées_. Annal. Soc. Geol. Nord, 15. p. 154. 1888. An account of the various theories concerning this form, and also many references to literature, are given.
 [^196]: _Silurian Fossils of Girvan_, 1. 1878-80.
 [^197]: _Mém. Musée Roy. Hist. Nat. Belgique_, 1906.
 [^198]: Swedish Geol. Survey, 1913. _Ueber die Kalkalgen, Spongiostromen... Obersilur Gottlands_, Prof. A. Rothpletz.
@@ -3101,7 +3104,7 @@ Have sight of Proteus rising from the sea." "Proteus gerôn halios nêmertês" �
 [^207]: The poverty of the Marmolata in magnesium may be due to the accumulation of the deposit in rather deep water, the ordinary dolomite rock having accumulated in relatively shallow warm water and in the coralline zone. Dana attributed dolomitization to deposition of magnesium salts from the warm water of lagoons. Dr. A. G. Högbom believes calcareous algae contribute a considerable percentage of magnesium (Neues. Jahrb. Min. 1894, 1. p. 262).
 [^208]: It is very doubtful whether the "pipes" are due to worms. Dr. A. G. Högbom believes the pipes may have arisen from a purely mechanical cause, such as the ascent of bubbles in wet sand in certain conditions of tide and sandy shore. Bull. Geol. Inst. Upsala, 13. p. 45, 1915.
 [^209]: Journal Quekett Microscopical Club, 1914, p. 317.
-[^210]: _The Codiaceae of the _Siboga_ Expedition_, 1911, pp. 5, 6, 102, and Fig. 182.
+[^210]: _The Codiaceae of the Siboga Expedition_, 1911, pp. 5, 6, 102, and Fig. 182.
 [^211]: "No epilogue, I pray you; your play needs no excuse."
 [^212]: Palaeontological ones with a pronounced mineralogical aspect, or _vice versâ_, mineralogical problems into which palaeontological considerations enter.
 [^213]: Presage of a chequered pilgrimage for Proteus.
@@ -3126,4 +3129,4 @@ Have sight of Proteus rising from the sea." "Proteus gerôn halios nêmertês" �
 [^232]: Encyc. Brit. ed. 11. Article, "Reproduction."
 [^233]: "Recent Researches in the Determination and Heredity of Sex." _Science_, vol. 29. p. 53, 1909.
 [^234]: S. B. Schryver, "The General Characters of the Proteins," 1909.
-[^235]: Recently I have found that the photograph from which Fig. 39 was taken shows a nummulite very plainly when magnified only three diameters.
+[^235]: _Note_. Plates 2C, 2D, 2E and 11 were done and printed off at an early period of the work. They include several useless photographs which could not well be eliminated later.
